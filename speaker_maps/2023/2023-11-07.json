@@ -1,0 +1,217 @@
+{
+ "meeting": "2023-11-07",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "C",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:10), names movers/seconders and calls every vote, opens/closes the public hearing (00:18:19, 00:24:23); minutes item 2: Mayor Earl Funk chaired. Addressed as 'Mr. Mayor' throughout.",
+   "notes": "Turn-boundary slips handled with splits: 'you.' (00:05:48) ends Warkentin's 'Thank you'; 'Question.' (00:18:19) is Siemens; 'That's right.'/'well.' (00:40:54/00:40:58) are Siemens; 'Mr.' (00:43:03) starts Jake Hiebert's 'Mr. Mayor'. 'have a question?' (00:28:22) is Zwaagstra's."
+  },
+  {
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'give the opening to Councillor Susan Penner' (00:00:10), B gives the opening, 'Thank you, Councillor Penner' (00:02:50); minutes item 3. 'Councilor Penner, you mean?' (00:28:40) answered by B. B 'I will second that.' (00:31:47) = minutes seconder S. Penner (R23-226). 'good point, Councillor Penner' (00:44:40) after B's question. Pitch 182-195 Hz (woman).",
+   "notes": "Pre-meeting chatter 00:00:01. 'now.' at the start of 00:30:15 belongs to the preceding off-mic 'You can see it' (split)."
+  },
+  {
+   "label": "A",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "A 'I will do that.' (00:03:52) then chair 'Councillor Stevens, seconded by Councillor Penner' = minutes R23-223 J. Siemens/S. Penner. Hand-offs 'Councillor Stevens.' (00:10:39, 00:32:56) and 'Councillor Siemens.' (00:36:49) each followed by A; minutes item 14: J. Siemens raised Hespeler/Loewen traffic (A 00:37:14). Chair 'I got a question for you, Councillor Siemens' (00:40:00) answered by A; A 'I'll second it.' (00:36:26) = minutes seconder J. Siemens (R23-228).",
+   "notes": "Short 'No comments.'/'No, sir.' turns (00:03:04, 00:03:24, 00:03:58) may be any councillor. 'Stevens' is a transcription of Siemens."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' (00:04:00, 00:15:41) followed by D's staff reports; 'Thank you, Mr. Warkentin' (00:05:48); 'Yes, Mr. Warkentin.' (00:30:57) followed by D; D: 'for the 30 or so years that I have worked for the city' (00:20:05); minutes 9.1 Troy Warkentin, City Manager, introduced By-law 2232.",
+   "notes": "00:16:44 contains two 'Thank you, Your Worship. Thank you, ...' phrases that are not in the YouTube captions or the original transcript (transcription artifacts), split as Unclear."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hand-off 'Councillor Zwaagstra.' (00:05:48) followed by E 'I'll make the motion for second reading' = minutes mover M. Zwaagstra (R23-224); E moves second reading of the lane closing (00:28:27, 00:31:42) = minutes mover M. Zwaagstra (R23-226); E gives the mover's closing statements (00:11:52, 00:33:48). Pitch consistently 84-100 Hz across these turns.",
+   "notes": "00:28:36 'Or we just do more questions.' measures 152 Hz, not E's voice (override). 00:36:46 banter and 00:42:43 'Yep.' left with E."
+  },
+  {
+   "label": "F",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "00:36:02 'Thank you, Mr. Mayor. No further comment.' follows the chair's 'Looking for a motion to approve third reading. Councillor Hiebert ... Go ahead, Councillor.'; minutes R23-227 mover B. Hiebert (Jake Hiebert is letter H). 00:06:22 is a councillor's turn after the chair named 'Councillor Hiebert' as seconder (minutes R23-224 seconder B. Hiebert). Bill Hiebert is the only council member present (minutes item 2) not otherwise identified. Both miked turns 115-121 Hz.",
+   "notes": "MERGED letter: the quiet off-mic turns 00:29:24, 00:30:14, 00:30:19, 00:30:48 (no clear voice by pitch tool, during the map display) are Manager of Corporate Services Adam Thiessen (overrides). Pitch 118 Hz is lower than the 160 Hz measured for Bill Hiebert in 2026, so only medium."
+  },
+  {
+   "label": "G",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hand-off 'Anything further, council? Councillor Penner?' (00:06:39) followed by G's long speech; male voice 124-129 Hz, so not Susan Penner (B, 182-195 Hz). G's 00:14:59 rebuttal comes after the chair's 'oh, go ahead'; minutes R23-221 mover D. Penner. Existing map's Damian Penner turns (00:06:44, 00:14:59, 00:25:07) are G here.",
+   "notes": "00:29:07 'Correct.' (answer to a question to administration) may be staff; left with G."
+  },
+  {
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Oh, Councillor Hiebert, seconded by Councillor Siemens.' (00:36:30) followed by H 'I will motion to approve' = minutes R23-228 mover J. Hiebert, seconder J. Siemens. Hand-offs 'Councillor Hiebert.' (00:09:27) and 'Go ahead, Councillor Hiebert.' (00:23:35) followed by H; 'Thank you, Councillor Hiebert' (00:24:06).",
+   "notes": "00:43:06 starts with 'Mayor', the 'Mr.' sits at the end of C 00:43:03 (split)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:28:22",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "completes E's sentence 'I was going to make a motion, but you / have a question?'; the original transcript has it as one Zwaagstra turn"
+  },
+  {
+   "time": "00:28:36",
+   "label": "E",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "low",
+   "reason": "152 Hz vs 84-100 Hz for E's other turns; comes between the chair's 'Seconder?' and 'Councilor Penner, you mean?'"
+  },
+  {
+   "time": "00:29:24",
+   "label": "F",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "low",
+   "reason": "off-mic (pitch tool finds no clear voice) during the map discussion; chair then asks 'Mr. Thiessen, maybe you could show us both areas'"
+  },
+  {
+   "time": "00:30:14",
+   "label": "F",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "low",
+   "reason": "off-mic while Thiessen displays the map at the chair's request"
+  },
+  {
+   "time": "00:30:19",
+   "label": "F",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "low",
+   "reason": "off-mic while Thiessen points to the drain on the map; could be the chair"
+  },
+  {
+   "time": "00:30:48",
+   "label": "F",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "high",
+   "reason": "chair later: 'As Adam, as council- Mr. Thiessen has said, it would be absolutely cost prohibitive'; off-mic voice; minutes item 2: Adam Thiessen present; existing map also gave it to Thiessen"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:05:48",
+   "label": "C",
+   "text": "you.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "end of Warkentin's 'Thank' at the end of D 00:04:37"
+  },
+  {
+   "time": "00:16:44",
+   "label": "D",
+   "text": "Thank you, Your Worship. Thank you, Brian.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "not in the YouTube captions or the original transcript; transcription artifact"
+  },
+  {
+   "time": "00:16:44",
+   "label": "D",
+   "text": "Thank you, Your Worship. Thank you, Alderman Demong.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "not in the YouTube captions or the original transcript; transcription artifact"
+  },
+  {
+   "time": "00:18:19",
+   "label": "C",
+   "text": "Question.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "original transcript has 'Question.' on Siemens's letter; A then asks the question"
+  },
+  {
+   "time": "00:30:15",
+   "label": "B",
+   "text": "now.",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "low",
+   "reason": "completes the off-mic 'You can see it' at 00:30:14"
+  },
+  {
+   "time": "00:40:54",
+   "label": "C",
+   "text": "That's right.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Siemens's answer to the chair's question; original transcript has it on Siemens's letter"
+  },
+  {
+   "time": "00:40:58",
+   "label": "C",
+   "text": "well.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "completes A's 'And experiencing as' (00:40:57)"
+  },
+  {
+   "time": "00:43:03",
+   "label": "C",
+   "text": "Mr.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of H's 'Mr. Mayor, if I could just add' (00:43:06)"
+  }
+ ],
+ "summary": "Clean diarization: seven council members on seven letters plus the City Manager. Letter F merges Bill Hiebert (two miked turns, medium) with off-mic Adam Thiessen during the map display. Stray 'Thank you.' insertions inside long speeches (opening, 00:06:44, 00:12:49, 00:14:59, 00:37:14) and two 'Your Worship' phrases at 00:16:44 are not in the captions.",
+ "transcript": "transcripts/2023/2023-11-07.txt"
+}

@@ -1,0 +1,535 @@
+{
+ "meeting": "2026-10-06",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Chairs throughout: 00:00:01 calls the meeting to order and gives the opening to 'Councillor Susan Penner'; adopts agenda and minutes, opens/closes all three public hearings, calls every vote, asks 'Mr. Worke Dean [Warkentin], could you please introduce this file?' (00:04:42);01:40:25 'I will be appointing Abe Bergen...' to the Mayor's Task Force (minutes item 41-42: Mayor Funk appointments). B's opening refers to 'the Mayor and I met with the Minister of Health'.",
+   "notes": "Long turns absorb short interjections from others (e.g. 01:38:08 'Second.'; 01:07:34-style thank-yous). Chair-style fragments also appear on letters H, I, AD and AG."
+  },
+  {
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:00:01 chair hands the opening to 'Councillor Susan Penner' and B gives it (minutes item 3: Councillor S. Penner opened); 00:04:42 chair: 'Thank you, Councillor Pinner'. B says the mayor asked her to chair the seniors task force; 01:40:25 chair 'I will turn to Councillor Susan Penner. Would you like to make the motion?' -> B 01:42:26 'Motion to approve' (minutes R26-205 mover S. Penner); 01:36:08 B moves V-2026-19 and the chair says 'Go ahead, Councilor Pincott' (minutes R26-202 mover S. Penner). Damian Penner is on a different letter (X), who refers to B as 'Councillor Penner'."
+  },
+  {
+   "label": "C",
+   "person": "Gionathan Delvecchio",
+   "role": "delegation",
+   "title": "On behalf of the applicant",
+   "organization": "Redbrook Holdings Ltd. project, 288 Henry Street",
+   "confidence": "high",
+   "evidence": "01:05:27 self-identifies 'John Del Vecchio, 522 Henry Street. Jordan unfortunately wasn't able to make it' (minutes item 27: Gionathan Delvecchio, 522 Henry Street, on behalf of the applicant Jordan Loewen); 01:12:20 chair 'Mr. Del Vecchio ... would you like to answer some of these concerns?' -> C 01:12:43 answers (minutes item 29: moved the building back); 01:13:41/01:13:53 C answers the trees question (minutes 30.1: keep trees in the back, plant new trees in front).",
+   "notes": "Letter C merges several voices: 00:06:00 is the City Manager introducing By-Law 2281; 00:27:17 and 00:45:30 are Resident 5; 00:44:50 is the end of Resident 13's statement. All four are overridden. Delvecchio's presentation is also split onto letter Z."
+  },
+  {
+   "label": "D",
+   "person": "Owen Reimer",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "330 McKenzie Avenue rezoning",
+   "confidence": "high",
+   "evidence": "00:08:00 chair asks if the applicant is present -> D 00:08:17 'my name is Owen Reimer. I live at 41 Cutlass Drive' and presents the 330 McKenzie rezoning ('As a developer...'); minutes item 7: applicant Owen Reimer, 41 Cutlass Drive. 00:10:55 chair 'Mr. Armour [Reimer], just stay' for questions; D answers the neighbour-outreach question (minutes 8.1) and the building-location question (minutes 9.1)."
+  },
+  {
+   "label": "E",
+   "person": "Owen Reimer",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "330 McKenzie Avenue rezoning",
+   "confidence": "low",
+   "evidence": "Only two short turns: 00:10:53 'So thank you. Mr.' right after D's presentation ends, and 00:15:02 'Thank you.' right after the chair tells the applicant to take his seat. Position fits the applicant, but no name cue.",
+   "notes": "00:10:53 'Mr.' is the start of the chair's 'Mr. Armour, just stay' that slipped onto E."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:10:55 chair 'Go ahead, Councillor Smith [Zwaagstra]' -> F asks about outreach to neighbours (minutes item 8: M. Zwaagstra inquired if the applicant had spoken to the neighbours); 01:13:33 F asks about the trees (minutes item 30: M. Zwaagstra asked about the trees); 01:15:03 F moves to approve By-Law 2286 and 01:15:11 chair 'Go ahead, Councillor Smith' (minutes R26-200 mover M. Zwaagstra); 01:25:39 chair 'Go ahead, Councilor Swain' -> F speaks as mover of the variance (minutes R26-201 mover M. Zwaagstra)."
+  },
+  {
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:14:09 G asks whether the building backs onto the church parking lot (minutes item 9: J. Hiebert asked for clarification on the location of the building); 00:47:03 G 'Motion to deny' and gives the mover's speech (minutes R26-199 mover J. Hiebert); 00:49:48 V: 'I will agree with everything that Councillor Jacoby [Jake Hiebert] has indicated'; 01:40:04-01:40:09 chair 'Go ahead, Councillor...' -> G speaks as mover of subdivision 4451-2026-9297 (minutes R26-204 mover J. Hiebert) and X replies 'I concur with Councillor Hubert'. 01:18:14 G: 'At the first reading, I put council on notice that I had concerns' about 288 Henry (consistent with the 2026-10-20 map, where Jake Hiebert objects to 288 Henry again)."
+  },
+  {
+   "label": "H",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "low",
+   "evidence": "Only short turns: 'Thank you.' after each public speaker (00:14:50, 00:38:53, 00:42:40, 00:46:27), after a councillor (00:56:29), 'Okay, thank you.' (01:12:15), 'Okay.' (01:14:13, 01:35:03) and 01:40:24 'Nothing. Call for the question.' The thank-yous and 'Call for the question' are chair behaviour, but there is no name cue.",
+   "notes": "01:40:24 'Nothing.' is probably the mover's reply to 'Anything closing?' merged with the chair's 'Call for the question'."
+  },
+  {
+   "label": "I",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:17:18 self-identifies by name and says she lives in the house directly next door to 330 McKenzie and asks council to deny the rezoning; matches minutes item 10 (first objector, direct neighbour, asks council to deny).",
+   "notes": "01:14:06 'Okay. Anything further?' on letter I is chair language and is overridden to the Mayor."
+  },
+  {
+   "label": "J",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:19:45 self-identifies by name and address (directly south of the site) and objects; matches minutes item 11 (rezoning sets a precedent; respect people who relied on the city plan)."
+  },
+  {
+   "label": "K",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:21:14 self-identifies by name and address and objects (tree canopy, drainage, not close to amenities, waste of a good home); matches minutes item 12."
+  },
+  {
+   "label": "L",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:22:35 self-identifies by name and address (transcribed spelling differs) and objects with three philosophical points about zoning; 00:26:30 asks the applicant whether there is an elevator; matches minutes item 13 (no elevator, no sidewalk, not senior housing).",
+   "notes": "Private resident who shares a surname with the City Manager; not city staff."
+  },
+  {
+   "label": "M",
+   "person": "Resident 15",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "01:28:51 self-identifies by first name and surname (transcribed spelling differs), lives on Kootenay Way next to the site, and asks that the garbage bins be moved; matches minutes item 36. Further turns 01:30:27, 01:31:05, 01:34:56 continue the same concern.",
+   "notes": "00:26:35 'No.' on letter M is the applicant for By-Law 2281 answering the elevator question; overridden."
+  },
+  {
+   "label": "N",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:33:03 self-identifies by name, introduces her husband, gives their address across from the site, says she submitted a letter and agrees with the others; matches minutes item 15 (bought a couple of years ago, urges council to consider overall impact)."
+  },
+  {
+   "label": "O",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:33:46 speaks right after Resident 6, who introduced her husband by name; refers to Resident 5 as his neighbour and to beautiful mature houses and trees, and says a 20-unit complex does not suit the neighbourhood; matches minutes item 16 (next speaker after item 15, same address, same points).",
+   "notes": "Does not state his own name on the recording; name taken from Resident 6's introduction and the minutes."
+  },
+  {
+   "label": "P",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:35:19 self-identifies by name and McKenzie Avenue address; says he was offered $200,000 more two years after buying and did not sell; matches minutes item 17."
+  },
+  {
+   "label": "Q",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:37:33 self-identifies by name and Coral Crescent address; speaks about 'integrity' on election placards; matches minutes item 18."
+  },
+  {
+   "label": "R",
+   "person": "Resident 10",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:39:07 self-identifies by name (transcribed spelling differs) and Walnut Street address; agrees with the objections; matches minutes item 19."
+  },
+  {
+   "label": "S",
+   "person": "Resident 11",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:40:27 self-identifies by name as parent and grandparent of the next-door family; 00:40:40 gives a Kroeker Avenue address when the chair asks; matches minutes item 20."
+  },
+  {
+   "label": "T",
+   "person": "Resident 12",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:41:57 self-identifies by name (transcribed spelling differs) and Coral Crescent address; concerned about cycling and school foot traffic; matches minutes item 21.",
+   "notes": "Private resident who shares a surname with two councillors; not a council member."
+  },
+  {
+   "label": "U",
+   "person": "Resident 13",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "00:43:10 self-identifies by name and Granite Park Boulevard address; speaks in support, on precedent and valuation, main-floor walk-up for seniors, 40 parking stalls; matches minutes item 22 (only speaker in support).",
+   "notes": "Speaks from his real-estate experience but gives a home address and no organization, so treated as a resident. The end of his statement (00:44:50) slipped onto letter C and is overridden."
+  },
+  {
+   "label": "V",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Seconder of both motions on which V speaks: 00:47:04 chair takes 'Councillor Hebert' as seconder of the motion to deny (minutes R26-199 seconder B. Hiebert) and V is the first councillor to speak after the mover; 01:25:39 'Seconded by Councilor Hebert' (minutes R26-201 seconder B. Hiebert) and V speaks right after the mover (F). At 00:49:48 V says 'I will agree with everything that Councillor Jacoby [Jake Hiebert] has indicated', so V is not Jake Hiebert (G).",
+   "notes": "Never named directly by the chair on his own turn; identification rests on the seconder pattern. Jac Siemens (W) is the only other councillor left, so a reviewer should confirm V/W are not swapped."
+  },
+  {
+   "label": "W",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "One long speech at 00:50:31 in the By-Law 2281 debate after the chair's 'Anything further from council?'. By elimination: the other five councillors present are on B, F, G, V and X; Siemens is the only one left (minutes item 2 lists him present). Not named on the recording.",
+   "notes": "00:50:31 begins with 'Go ahead.' which is the chair's handoff slipped onto W."
+  },
+  {
+   "label": "X",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:56:30 chair 'Go ahead, Councillor Pinner' -> X; Susan Penner is B, and X says 'I was the one that put that motion forward' on the earlier McKenzie rezoning; 01:17:19 chair 'Councillor Panner' -> X; 01:40:16 X 'I concur with Councillor Hubert' as seconder of the subdivision (minutes R26-204 seconder D. Penner); 01:44:35 X speaks as seconder of the task-force motion (minutes R26-205 seconder D. Penner) and says 'not much that I can add to what Councillor Penner has already discussed', so X is the other Penner."
+  },
+  {
+   "label": "Y",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair turn 00:59:40 ends 'Mr. Warketing, could you please introduce this file?' -> Y introduces By-Law 2286 / V-2026-16; 01:05:09 chair 'Thank you, Mr. Warkentin'; 01:26:20 'Mr. Workne, could you please introduce this file?' -> Y introduces V-2026-19; 01:38:08 'Mr. Warkentin, could you please introduce this file?' -> Y introduces the subdivision; 01:39:56 'thank you, Mr. Worthing'. Minutes 26.1, 35.1: Troy Warkentin, City Manager introduced the files.",
+   "notes": "His first introduction (00:06:00, By-Law 2281) is on letter C and is overridden."
+  },
+  {
+   "label": "Z",
+   "person": "Gionathan Delvecchio",
+   "role": "delegation",
+   "title": "On behalf of the applicant",
+   "organization": "Redbrook Holdings Ltd. project, 288 Henry Street",
+   "confidence": "medium",
+   "evidence": "01:05:36 continues directly from C's self-identification ('I'm also one of the owners of the recent 6-plex...') and gives the presentation the minutes attribute to Delvecchio (item 27: revitalize the street, 12 units, building at the back, 20 stalls, hospital and SBC); 01:13:49 'probably that spruce tree at the front would need to come down' sits between two C turns of the same answer.",
+   "notes": "Same person split across C and Z. C's 01:05:27 turn ends with 'Mr. Cresswell.' (unclear); the minutes record no second presenter, so Z is taken as Delvecchio, but a reviewer may want to listen at 01:05:30."
+  },
+  {
+   "label": "AA",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "evidence": "Single fragment 01:06:13 'picture's a little sideways, but—' during the By-Law 2286 presentation; could be the presenter (Gionathan Delvecchio) or someone at the table. No name cue."
+  },
+  {
+   "label": "AB",
+   "person": "Resident 14",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "01:07:47 self-identifies by name and Henry Street address; concerns about privacy, sunsets, trees, narrow street, emergency traffic; 01:14:27 returns: 'how you plant a tree in a parking lot'; matches minutes items 28 and 31.",
+   "notes": "01:40:02 'Councillor Hebert. Motion to approve.' on letter AB is the subdivision motion, overridden."
+  },
+  {
+   "label": "AC",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "evidence": "Single turn 01:13:29 'Pardon? A question for the applicant.' just before F (Zwaagstra) asks the applicant about the trees (minutes item 30). Fits Zwaagstra signalling a question, but 'Pardon?' may be someone else."
+  },
+  {
+   "label": "AD",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "evidence": "Two short turns, both chair handoffs: 01:18:14 'Go ahead.' (next turn is G's debate speech) and 01:28:42 'Okay, go ahead.' (to the resident coming to the podium; the chair's next turn tells him to state his name)."
+  },
+  {
+   "label": "AE",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Single turn 01:25:38 'Uh, Councilor Swain. Motion to approve.' on the V-2026-16 variance; the chair then says 'Go ahead, Councilor Swain' and F (Zwaagstra) speaks as mover; minutes R26-201 mover M. Zwaagstra.",
+   "notes": "The turn merges the chair's naming ('Councilor Swain') with the mover's 'Motion to approve'."
+  },
+  {
+   "label": "AF",
+   "person": "Jesse Loewen",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "souLdesign Homes Inc.",
+   "confidence": "high",
+   "evidence": "01:31:06 chair calls the developer up -> AF answers on the garbage bins as the developer ('we want to start that second building'); 01:34:03 gives name 'Jesse Lowen' and 01:34:07 '18 Fairway Close' when the chair asks; minutes item 36.1: Jesse Loewen, 18 Fairway Close, explained the bins cannot be relocated.",
+   "notes": "Minutes give only his name and home address; the company is the applicant of record, inferred from him answering as the developer."
+  },
+  {
+   "label": "AG",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "evidence": "Two turns, both 'Anything closing?' (01:38:06, 01:45:27) immediately after the chair's 'Anything further, council?' and answered by the mover (B: 'Nothing further'); this is the chair's standing phrase."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:06:00",
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "00:04:42 chair 'Mr. Worke Dean, could you please introduce this file?' -> this turn introduces By-Law 2281 and reports 34 + 28 items of correspondence; minutes 6.1-6.2: Troy Warkentin, City Manager introduced By-Law 2281 and the 34 + 28 items."
+  },
+  {
+   "time": "00:26:35",
+   "label": "M",
+   "person": "Owen Reimer",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "330 McKenzie Avenue rezoning",
+   "confidence": "medium",
+   "reason": "'No.' answers Resident 4's question addressed to the applicant ('Can I just ask you a question, Owen? ... Is there an elevator?'); Resident 4 then repeats 'no elevator'. Letter M is otherwise Resident 15 (a later hearing)."
+  },
+  {
+   "time": "00:27:17",
+   "label": "C",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Speaker self-identifies by name and McKenzie Avenue address, directly beside the site, and objects; matches minutes item 14 (nearly 2000 grade five students, raised four children, asks for thoughtful planning)."
+  },
+  {
+   "time": "00:44:50",
+   "label": "C",
+   "person": "Resident 13",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "Continues letter U's statement without a break ('And I guess the final thing, he isn't asking for a 3-story ... that's all I have to say'); minutes item 22 records Resident 13 saying the project was only two stories when it could be three."
+  },
+  {
+   "time": "00:45:30",
+   "label": "C",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Speaker self-identifies by name and address again and responds on precedent (duplexes and fourplexes); minutes item 23: Resident 5 returned to the podium to clarify the precedent."
+  },
+  {
+   "time": "01:14:06",
+   "label": "I",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "'Okay. Anything further?' after the applicant answers the councillor's question is the chair's phrase; letter I is otherwise Resident 1, who spoke only at the first hearing."
+  },
+  {
+   "time": "01:40:02",
+   "label": "AB",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Councillor Hebert. Motion to approve.' is the subdivision motion; minutes R26-204 mover J. Hiebert, and G (Jake Hiebert) then speaks as mover. The turn also contains the chair naming the mover. Letter AB is otherwise Resident 14, a member of the public."
+  },
+  {
+   "time": "00:10:53",
+   "label": "E",
+   "person": "Owen Reimer",
+   "role": "delegation",
+   "title": "Applicant",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer confirmed: the applicant finishing his presentation"
+  }
+ ],
+ "summary": "AssemblyAI speaker identification failed for this meeting, so no AssemblyAI guess or existing map was available; all names come from self-identification, chair handoffs and the minutes. Three public hearings with 15 residents and 3 developer/applicant speakers. Letter C merges four people (City Manager, Resident 5, end of Resident 13, Delvecchio) and is fixed by overrides; Delvecchio is split across C and Z. Bill Hiebert (V) rests on the seconder pattern and Jac Siemens (W) on elimination - worth a listen to confirm they are not swapped. Short chair fragments sit on H, AD, AG; AA, AC, E, H are low.",
+ "turn_splits": [
+  {
+   "time": "00:10:53",
+   "label": "E",
+   "text": "Mr.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "start of the chair's 'Mr. Armour [Reimer], just stay' that continues on A at 00:10:55"
+  },
+  {
+   "time": "00:40:40",
+   "label": "S",
+   "text": "Your address?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair repeating his 00:40:38 question 'Your address is?' after the speaker's 'Sorry?'"
+  },
+  {
+   "time": "00:49:48",
+   "label": "V",
+   "text": "Anything further?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's standing prompt before the next councillor speaks; V then begins 'Thank you, Mr. Mayor'"
+  },
+  {
+   "time": "00:50:31",
+   "label": "W",
+   "text": "Go ahead.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's handoff; W then begins 'Thank you, Mr. Mayor'"
+  },
+  {
+   "time": "01:07:34",
+   "label": "C",
+   "text": "Okay, thank you.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "chair acknowledging the presenter after 'that's all I got. Thank you.'; the chair speaks next at 01:07:41"
+  },
+  {
+   "time": "01:21:43",
+   "label": "F",
+   "text": "Anything in closing?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair offering the mover the closing word ('Is there anything further of council?' continues); F then closes as mover"
+  },
+  {
+   "time": "01:25:38",
+   "label": "AE",
+   "text": "Uh, Councilor Swain.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair naming the mover; 01:25:39 chair continues 'Seconded by... Go ahead, Councilor Swain'"
+  },
+  {
+   "time": "01:28:51",
+   "label": "M",
+   "text": "Pardon?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "chair asking the speaker to repeat his name; the chair later calls him by the misheard first name"
+  },
+  {
+   "time": "01:28:51",
+   "label": "M",
+   "text": "[Resident 15]?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's mishearing of the speaker's first name, which he repeats at 01:34:20 ('so yes, [Resident 15]')"
+  },
+  {
+   "time": "01:34:07",
+   "label": "AF",
+   "text": "And your address?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair asking the developer for his address after taking his name (01:33:55 'I'm not so sure if our city clerk got your name')"
+  },
+  {
+   "time": "01:34:07",
+   "label": "AF",
+   "text": "Okay, thank you.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "chair acknowledging the name and address"
+  },
+  {
+   "time": "01:34:14",
+   "label": "AF",
+   "text": "That's why we need your name and address.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "continues the chair's 01:34:12 'No, 'cause everything's documented.'; the developer replies 'Sure, yeah, no problem'"
+  },
+  {
+   "time": "01:36:44",
+   "label": "F",
+   "text": "Yep, that's part of the motion.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "answer to F's question 'just checking with the mover'; the mover of R26-202 is S. Penner (minutes), letter B"
+  },
+  {
+   "time": "01:38:08",
+   "label": "A",
+   "text": "Second.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "seconder of the accounts resolution; chair repeats 'Second by Councillor Penner' and minutes R26-203 seconder is S. Penner"
+  },
+  {
+   "time": "01:40:02",
+   "label": "AB",
+   "text": "Councillor Hebert.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair naming the mover; the rest of the turn ('Motion to approve.') is the mover, overridden to Jake Hiebert"
+  },
+  {
+   "time": "01:40:04",
+   "label": "A",
+   "text": "Thank you, Mr.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of the mover's speech, which continues on G at 01:40:09 'Mayor. I see this more as an administration matter'"
+  },
+  {
+   "time": "01:40:16",
+   "label": "X",
+   "text": "Okay. Anything further?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's prompt; X then seconds with 'I concur with Councillor Hubert'"
+  },
+  {
+   "time": "01:40:24",
+   "label": "H",
+   "text": "Call for the question.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's phrase before he calls the vote at 01:40:25"
+  }
+ ],
+ "transcript": "transcripts/2026/2026-10-06.txt"
+}

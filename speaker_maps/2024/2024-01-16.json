@@ -1,0 +1,1104 @@
+{
+ "meeting": "2024-01-16",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:00 and gives the opening to Councillor Siemens; runs the agenda and votes; 'I just have to excuse myself for a minute. The deputy will take over' 00:30:51 and 'I have to excuse myself again' 01:35:44 match minutes items 16 and 33; 'Thank you, Deputy' on return 00:44:10.",
+   "notes": "Merged letter: Resident 4's public-hearing turns 00:31:31-00:38:40 (mayor out of the room) and 01:05:14, and Susan Penner's short turns 01:39:49, 01:48:36, 01:48:39 are on A and overridden. From about 01:10 to the end the mayor is mostly on E."
+  },
+  {
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Gives the opening after 'I'd like to give the opening to Councillor Jake [Jac] Siemens' (minutes item 3: J. Siemens opened) and the mayor replies 'Thank you, Councillor Siemens' 00:06:39; 'Councillor Siemens.' -> B 'Motion to approve.' 00:41:38 (R24-007 mover J. Siemens); 'Go ahead, Councillor Strange [Siemens]' 01:30:58 -> B 01:31:02 and the mayor then cites 'I agree with Councillor Siemens' 01:33:27; 'Councillor Siemens.' -> B 01:42:29 (R24-013 mover).",
+   "notes": "Merged letter: the applicant's turns 00:51:12-00:53:30, 01:24:43, 01:25:15, Resident 6's turns 00:58:28-00:58:45 and the City Manager's 01:47:34 are on B and overridden."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Answers every 'Mr. Warkentin, could you please introduce this file?' (00:08:06, 00:28:23, 00:45:34, 01:46:29, 01:50:42); minutes 7.1, 15.1, 22.1 (T. Warkentin introduced).",
+   "notes": "Merged letter: Zwaagstra's turns 00:27:26, 01:25:55 and his chairing 01:38:04-01:38:30, 01:43:49-01:44:57 are on C; Resident 5's statement 00:56:29 and Resident 6's turns 00:59:52, 01:11:01, 01:11:03, 01:20:14 too; all overridden."
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Takes the chair when the mayor leaves (00:31:04 'we're going to continue with the public hearing'; 01:35:55) matching minutes 16 and 33 (Deputy Mayor Zwaagstra assumed the chair); addressed 'Mr. Deputy Mayor' 00:41:44, 00:42:44, 01:39:12; 'I'll turn the meeting back over to the mayor' 00:43; after the mayor names him, 'I'll make the motion to approve.' 01:46:59 (R24-017 mover M. Zwaagstra); 01:26:08 speech moving denial (R24-009 mover M. Zwaagstra), cited by Damian Penner 'after Councillor Zwaagstra has had an opportunity to talk'. Pitch 102 Hz at 00:33:05 and 01:26:08 (his known range ~104).",
+   "notes": "Heavily merged letter: Resident 1 (00:11:31-00:26:28), the applicant (01:20:51-01:25:46), Resident 6 (00:59:29, 01:10:53, 01:15:06, 01:38:09), Damian Penner 01:29:45 and Bill Hiebert 01:44:57 are on D and overridden. 00:44:28/00:44:42 (reading-count correction) left on D, unverified."
+  },
+  {
+   "label": "E",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "From 01:10:41 on E runs the hearing and the meeting as mayor: 'We'll be bringing back Shivdeep later' 01:10:56; 'we were here at 6 o'clock reading these letters' 01:20:19; 'At this time, I'd like to call Shiv back' 01:20:19; calls the votes; 'I agree with Councillor Siemens' 01:33:27; resumes after the deputy hands back ('We are on 9G' 01:46:18), asks 'Mr. Warkentin, could you please introduce this file?' 01:46:18, 01:48:57, 01:49:54.",
+   "notes": "Heavily merged letter: Resident 2 (00:13:39-00:40:03), Damian Penner (00:26:59, 00:27:02, 01:44:18), the applicant (00:50:38-00:53:50), Resident 7 reading a letter (01:00:55-01:03:00), the City Manager 01:45:12 and an unidentified speaker 00:44:31 are on E and overridden."
+  },
+  {
+   "label": "F",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies at the 600 Main Street hearing 00:18:06 and again 00:54:50/00:54:53 and 01:14:19 (minutes 8.2, 23.2, 25.1 list the same resident with the same points: housing on Main Street; school proximity; exhaust fumes).",
+   "notes": "F also carries the deputy chair's 00:31:09, Susan Penner's 01:12:29 and the City Manager's 01:12:53 and 01:42:11 (overridden)."
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Susan Penner. Motion to approve.' -> G 00:22:02 (R24-004 mover S. Penner) and H replies 'I'll agree with Councillor Penner'; G gives the closing 00:22:54; the applicant addresses G as 'Ma'am' 00:52:19; 'Councillor Susan Penner.' -> G 'Motion to approve.' 01:41:35 (R24-012 mover S. Penner); G speaks to the TD resolution 01:50:07 (R24-019 mover S. Penner). Pitch 176-182 Hz (woman)."
+  },
+  {
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Jake Hiebert excused (minutes R24-003), so 'Councillor Hiebert' is Bill Hiebert; seconder named 'Councillor Hiebert' -> H 00:22:33 (R24-004 seconder B. Hiebert) and 00:42:44 (R24-007); 'Councillor Hiebert. Motion to approve.' -> H 01:41:13 (R24-011 mover); 'Councillor Hiebert.' -> H building-permit remarks 01:43:57 (R24-015 mover). Pitch 132-140 Hz."
+  },
+  {
+   "label": "I",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Continues the R24-006 mover's speech 00:27:17 (minutes mover D. Penner); 01:29:46 'after Councillor Zwaagstra has had an opportunity to talk' as seconder of the denial (R24-009 seconder D. Penner); 01:39:12 speaks first after 'Councillor Penner. Motion to deny.' (R24-010 mover D. Penner) and the chair then says 'Councillor Penner makes a very good point'; 01:45:52 seconder of R24-016 (D. Penner). Pitch 126 Hz."
+  },
+  {
+   "label": "J",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Spells the surname when the acting chair asks 'just your name again' 00:38:26; same resident who self-identified at 00:31:31 (minutes 17, 17.2)."
+  },
+  {
+   "label": "K",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "evidence": "After 'Is the applicant here today? Do you wish to speak?' 00:50:05: 'My name is Shivdeep' 00:50:35; minutes 22.3 name the applicant Shivdeep Sandhu (applicant for CU-2023-02 / V-2023-25, presenting his trucking business); mayor 'I'd like to call Shiv back' 01:20:19 and the reply covers truck routes, 4 acres, lights (minutes 28, 30).",
+   "notes": "Speaks for his trucking business (business use applied for), so named as a delegation; his turns are spread over B, D, E and A as well (overridden)."
+  },
+  {
+   "label": "L",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Continues the turn that began 'Hi, my name is ... I live at 114 Creekside Drive' 00:58:28; hog-hauling question 01:10:49 matches minutes 23.9; restates name and address 01:15:09. Pitch 77-78 Hz, a very distinctive low voice."
+  },
+  {
+   "label": "M",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies 01:00:32 (18 Aston Cove) and reads a letter; restates name and address 01:37:53 at the variance hearing (minutes 23.5, 34.2).",
+   "notes": "Parts of the same letter-reading are on E (overridden)."
+  },
+  {
+   "label": "N",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies 01:04:07 (75 Winston Place), 01:18:27, 01:38:13 (minutes 23.6, 27, 34.4)."
+  },
+  {
+   "label": "O",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies 01:09:40 (12 Creekside Place; minutes 23.8); 'I object as well.' 01:38:29 matches minutes 34.5."
+  },
+  {
+   "label": "P",
+   "person": "Resident 10",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies 01:13:21 (80 Creekside Drive; minutes 25)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:11:31",
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Applicant at the 600 Main Street hearing: 'My name is ...' 00:11:31 after the mayor asks the applicant to take the podium; answers the variance question 00:25:38 (minutes 7.3, 8.3, 12.1). Not the Deputy Mayor."
+  },
+  {
+   "time": "00:20:15",
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Applicant at the 600 Main Street hearing: 'My name is ...' 00:11:31 after the mayor asks the applicant to take the podium; answers the variance question 00:25:38 (minutes 7.3, 8.3, 12.1). Not the Deputy Mayor."
+  },
+  {
+   "time": "00:25:38",
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Applicant at the 600 Main Street hearing: 'My name is ...' 00:11:31 after the mayor asks the applicant to take the podium; answers the variance question 00:25:38 (minutes 7.3, 8.3, 12.1). Not the Deputy Mayor."
+  },
+  {
+   "time": "00:26:26",
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Applicant at the 600 Main Street hearing: 'My name is ...' 00:11:31 after the mayor asks the applicant to take the podium; answers the variance question 00:25:38 (minutes 7.3, 8.3, 12.1). Not the Deputy Mayor."
+  },
+  {
+   "time": "00:26:28",
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Applicant at the 600 Main Street hearing: 'My name is ...' 00:11:31 after the mayor asks the applicant to take the podium; answers the variance question 00:25:38 (minutes 7.3, 8.3, 12.1). Not the Deputy Mayor."
+  },
+  {
+   "time": "00:13:39",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:13:39 (445 McKenzie) and 00:38:52 (minutes 8.1, 17.3); the mayor questions him 00:16:41-00:17:43."
+  },
+  {
+   "time": "00:17:07",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:13:39 (445 McKenzie) and 00:38:52 (minutes 8.1, 17.3); the mayor questions him 00:16:41-00:17:43."
+  },
+  {
+   "time": "00:17:31",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:13:39 (445 McKenzie) and 00:38:52 (minutes 8.1, 17.3); the mayor questions him 00:16:41-00:17:43."
+  },
+  {
+   "time": "00:17:37",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:13:39 (445 McKenzie) and 00:38:52 (minutes 8.1, 17.3); the mayor questions him 00:16:41-00:17:43."
+  },
+  {
+   "time": "00:38:52",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:13:39 (445 McKenzie) and 00:38:52 (minutes 8.1, 17.3); the mayor questions him 00:16:41-00:17:43."
+  },
+  {
+   "time": "00:39:28",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:13:39 (445 McKenzie) and 00:38:52 (minutes 8.1, 17.3); the mayor questions him 00:16:41-00:17:43."
+  },
+  {
+   "time": "00:40:03",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'Okay.' answering the acting chair's 'Okay.' while Resident 2 is at the podium."
+  },
+  {
+   "time": "00:26:59",
+   "label": "E",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Mayor 'Councillor Penner?' -> 'Motion to approve.'; minutes R24-006 mover D. Penner; speech continues on I (Damian Penner)."
+  },
+  {
+   "time": "00:27:02",
+   "label": "E",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Mover's speech on the variance, continued on I 00:27:17; minutes R24-006 mover D. Penner; mayor afterwards 'Councilor Penner is right too'."
+  },
+  {
+   "time": "01:44:18",
+   "label": "E",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Acting chair 'Councillor Penner, anything to add?' after 'seconded by Councillor Damian Penner' (R24-015 seconder D. Penner); speech continues on I 01:44:39."
+  },
+  {
+   "time": "01:29:45",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'Mayor.' completes I's 'Well, thank you very much, Mr.' 01:29:44 (Damian Penner)."
+  },
+  {
+   "time": "00:27:26",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Speaks after the mayor asks 'Anything further?' as seconder (named 'Councillor Slacer' 00:27:00; minutes R24-006 seconder M. Zwaagstra); the mayor then says 'Councilor Zwaagstra is right'."
+  },
+  {
+   "time": "01:25:55",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "'I'll make a motion to deny.' (minutes R24-009 mover M. Zwaagstra); his speech continues on D 01:26:08 and Damian Penner refers to 'Councillor Zwaagstra' right after."
+  },
+  {
+   "time": "01:38:04",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Acting chair taking objections at the V-2023-25 hearing while the mayor is out (minutes 33-35: Deputy Mayor Zwaagstra chaired)."
+  },
+  {
+   "time": "01:38:12",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Acting chair taking objections at the V-2023-25 hearing while the mayor is out (minutes 33-35: Deputy Mayor Zwaagstra chaired)."
+  },
+  {
+   "time": "01:38:26",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Acting chair taking objections at the V-2023-25 hearing while the mayor is out (minutes 33-35: Deputy Mayor Zwaagstra chaired)."
+  },
+  {
+   "time": "01:38:30",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Acting chair taking objections at the V-2023-25 hearing while the mayor is out (minutes 33-35: Deputy Mayor Zwaagstra chaired)."
+  },
+  {
+   "time": "01:43:49",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Acting chair calling the motion/question while the mayor is out (minutes 33, 43); Bill Hiebert answers 'Thank you, Deputy Mayor'."
+  },
+  {
+   "time": "01:44:51",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Acting chair calling the motion/question while the mayor is out (minutes 33, 43); Bill Hiebert answers 'Thank you, Deputy Mayor'."
+  },
+  {
+   "time": "01:44:57",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "high",
+   "reason": "Acting chair calling the motion/question while the mayor is out (minutes 33, 43); Bill Hiebert answers 'Thank you, Deputy Mayor'."
+  },
+  {
+   "time": "00:31:09",
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "medium",
+   "reason": "'Is the applicant here?' just after the mayor left and the Deputy Mayor took the chair (minutes 16); the old transcript has it inside the acting chair's turn."
+  },
+  {
+   "time": "00:53:34",
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "medium",
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+  },
+  {
+   "time": "00:53:37",
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "medium",
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+  },
+  {
+   "time": "00:53:48",
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "medium",
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+  },
+  {
+   "time": "00:54:20",
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "medium",
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+  },
+  {
+   "time": "01:45:12",
+   "label": "E",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Answers 'Mr. Warkentin, do you want to briefly explain this one?' with 'Yes, Mr. Deputy Mayor... recommendation from administration'."
+  },
+  {
+   "time": "01:12:53",
+   "label": "F",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Answers Councillor S. Penner's truck-route question to administration ('designated truck route')."
+  },
+  {
+   "time": "01:42:11",
+   "label": "F",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Answers 'Mr. Warkentin ... if there's anything you want to add' with the administration's recommendation."
+  },
+  {
+   "time": "01:47:34",
+   "label": "B",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Continues the City Manager's file introduction begun on C 01:47:33 and resumed on C 01:47:56."
+  },
+  {
+   "time": "01:12:29",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'Mr.' begins Susan Penner's 'Mr. Mayor, can I just ask a question' on G 01:12:30; pitch 203 Hz."
+  },
+  {
+   "time": "01:39:49",
+   "label": "A",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Acting chair 'Thank you. Councillor Penner.' asking the seconder (minutes R24-010 seconder S. Penner); the mayor (A's main voice) was out of the room."
+  },
+  {
+   "time": "01:48:36",
+   "label": "A",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Councillor Penner?' -> 'Motion to approve.' (minutes R24-018 mover S. Penner); the mayor is speaking on E at this point. Pitch inconclusive."
+  },
+  {
+   "time": "01:48:39",
+   "label": "A",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Reply to 'Go ahead, Councillor Penner' as mover of R24-018 (S. Penner)."
+  },
+  {
+   "time": "01:44:57",
+   "label": "D",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Nothing.' answering the acting chair's 'Anything in closing, Councillor Hiebert?' (R24-015 mover B. Hiebert)."
+  },
+  {
+   "time": "01:50:22",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Nothing.' answering the mayor's 'Anything further? Councillor Siemens.' (R24-019 seconder J. Siemens)."
+  },
+  {
+   "time": "00:32:28",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'do we want to answer his question?' — a councillor prompting the acting chair; the old transcript put it on another letter; voice not checked."
+  },
+  {
+   "time": "00:31:31",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:32:53",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:33:25",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:36:06",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:36:53",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:37:27",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:38:12",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:38:31",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:38:35",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium during the By-Law 2237 hearing while the mayor was out of the room (minutes 16-20); self-identifies 00:31:31 (117 Wyndham Estate Drive) and spells the surname 00:38:26-00:38:35 with the acting chair."
+  },
+  {
+   "time": "00:38:40",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'Thank you.' answering the acting chair's thanks after the name was spelled; the mayor was out of the room."
+  },
+  {
+   "time": "01:05:14",
+   "label": "A",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "'Hi again, my name is ...' (117 Wyndham Estates Drive; minutes 23.7); the chair's lead-in and closing question are split off."
+  },
+  {
+   "time": "00:56:29",
+   "label": "C",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "'My name is ... and I live at 59 Winston Place' (minutes 23.3)."
+  },
+  {
+   "time": "00:58:28",
+   "label": "B",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "00:58:39",
+   "label": "B",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "00:58:45",
+   "label": "B",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "00:59:29",
+   "label": "D",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "00:59:52",
+   "label": "C",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "01:10:53",
+   "label": "D",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "01:11:03",
+   "label": "C",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "01:15:06",
+   "label": "D",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "01:38:09",
+   "label": "D",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+  },
+  {
+   "time": "01:11:01",
+   "label": "C",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'Okay.' from the podium between the mayor's lines; same speaker continues 01:11:03."
+  },
+  {
+   "time": "01:20:14",
+   "label": "C",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "Question from the floor about the letters; pitch 79 Hz matches Resident 6 (77-78 Hz), existing map gave it to the same resident's letter."
+  },
+  {
+   "time": "01:00:55",
+   "label": "E",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Middle of Resident 7's letter reading (M 01:00:32-01:03:24); same letter text continues across E and M."
+  },
+  {
+   "time": "01:01:20",
+   "label": "E",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Middle of Resident 7's letter reading (M 01:00:32-01:03:24); same letter text continues across E and M."
+  },
+  {
+   "time": "01:01:31",
+   "label": "E",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Middle of Resident 7's letter reading (M 01:00:32-01:03:24); same letter text continues across E and M."
+  },
+  {
+   "time": "01:01:39",
+   "label": "E",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Middle of Resident 7's letter reading (M 01:00:32-01:03:24); same letter text continues across E and M."
+  },
+  {
+   "time": "01:02:51",
+   "label": "E",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Middle of Resident 7's letter reading (M 01:00:32-01:03:24); same letter text continues across E and M."
+  },
+  {
+   "time": "01:03:00",
+   "label": "E",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Middle of Resident 7's letter reading (M 01:00:32-01:03:24); same letter text continues across E and M."
+  },
+  {
+   "time": "00:50:38",
+   "label": "E",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:50:46",
+   "label": "E",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:51:12",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:52:19",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:52:24",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:52:38",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:52:58",
+   "label": "E",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:53:03",
+   "label": "E",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:53:15",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:53:18",
+   "label": "E",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:53:30",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:53:46",
+   "label": "E",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "00:53:50",
+   "label": "E",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:20:51",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:21:36",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:22:34",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:23:06",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:23:21",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:23:28",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:24:22",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:24:43",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:25:00",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:25:15",
+   "label": "B",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:25:46",
+   "label": "D",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "high",
+   "reason": "Applicant answering council at the CU-2023-02 hearing (address, trucking business, 19 trucks, 4 acres, 5 lights, PTH 52; minutes 22.3, 23.1, 28, 30); addressed as the applicant and answers 'Ma'am' to Councillor S. Penner."
+  },
+  {
+   "time": "01:19:25",
+   "label": "A",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "Short reply while the mayor explains the M-1 zoning to Resident 8; the old transcript put it on Resident 8's letter, but pitch (133-144 Hz) is closer to the mayor's."
+  },
+  {
+   "time": "01:19:28",
+   "label": "A",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "Short reply while the mayor explains the M-1 zoning to Resident 8; the old transcript put it on Resident 8's letter, but pitch (133-144 Hz) is closer to the mayor's."
+  },
+  {
+   "time": "01:19:38",
+   "label": "A",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Yeah.' in a woman's voice (187 Hz), so not the mayor; Resident 8 or Susan Penner (existing map)."
+  },
+  {
+   "time": "01:25:34",
+   "label": "A",
+   "person": "Shivdeep Sandhu",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Trucking business",
+   "confidence": "medium",
+   "reason": "'Yes.' answering the mayor's 'Okay, so on Tower Avenue?' put to the applicant."
+  },
+  {
+   "time": "00:44:31",
+   "label": "E",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Reminds the chair that only second reading of By-Law 2237 was done; the mayor (E's main voice) answers it; few voiced frames (off-mic?). Existing map: City Manager; could also be the City Clerk."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:16:41",
+   "label": "A",
+   "text": "Yep.",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "Resident 2's 'Yep.' answering the mayor's question in the middle of the mayor's turn."
+  },
+  {
+   "time": "00:20:15",
+   "label": "D",
+   "text": "[Resident 2].",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "End of the mayor's 'rebuttal some of the questions that were asked you by Mr. [Resident 2]' (A 00:19:26)."
+  },
+  {
+   "time": "00:27:02",
+   "label": "E",
+   "text": "Go ahead.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The mayor handing the floor to the mover after naming the seconder."
+  },
+  {
+   "time": "01:05:14",
+   "label": "A",
+   "text": "Okay, thank you. Thank you. Go ahead.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The chair thanking the previous speaker and calling the next one."
+  },
+  {
+   "time": "01:05:14",
+   "label": "A",
+   "text": "Is there anyone else with comments, questions, or objections?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The chair's standard call for the next speaker after Resident 4 finishes."
+  },
+  {
+   "time": "01:10:41",
+   "label": "E",
+   "text": "I have a question.",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "From the floor; the next turn (L 01:10:49) is Resident 6's hog-hauling question; old transcript had it on that resident's letter."
+  },
+  {
+   "time": "01:15:06",
+   "label": "D",
+   "text": "Can you restate your name?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The chair asking the speaker at the podium to restate his name (old transcript: mayor's letter)."
+  },
+  {
+   "time": "01:51:31",
+   "label": "E",
+   "text": "Motion to approve.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "After 'Councillor Penner.'; minutes R24-020 mover D. Penner."
+  },
+  {
+   "time": "01:51:31",
+   "label": "E",
+   "text": "Thank you, Mr. Mayor. It's, uh, important that we hear from the public, so we'll approve this so we can go to a public hearing.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Mover's remarks after 'Go ahead, Councillor.'; minutes R24-020 mover D. Penner; existing map had this on Damian Penner's letter."
+  }
+ ],
+ "summary": "Badly merged diarization: the mayor is split over A and E, the Deputy Mayor's chairing over D and C, and resident/applicant turns are scattered over A, B, C, D and E, so about 100 turns are overridden from the minutes, self-identifications and voice pitch. Mayor out 00:30:51-00:44:10 and 01:35:44-01:46:18 (Zwaagstra chairs). Check the short Susan Penner turns on A and the 00:44 reading-count exchange.",
+ "transcript": "transcripts/2024/2024-01-16.txt"
+}

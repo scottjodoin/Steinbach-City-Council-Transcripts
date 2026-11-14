@@ -1,0 +1,159 @@
+{
+ "meeting": "2024-10-15",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:00), names every mover/seconder, calls every vote, opens and closes the public hearing; minutes item 2 'Mayor Earl Funk called the meeting to order'; 'I've appointed Matt Wheeler the presiding officer' (00:03:15) as mayor.",
+   "notes": "Chair turns contain a few other voices: 'Thank you,' at the end of 00:20:37 and 'Nothing further.' at 00:25:11 (splits); 'Nothing further.' at 00:05:46 split low. Bare 'Second.' words inside 00:03:15 are not split: the YouTube captions hear the chair naming movers there instead."
+  },
+  {
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'give the opening to Councillor Susan Penner' (00:00:00) followed by B's opening; minutes item 3 'Councillor Susan Penner opened the meeting'; chair 'Thank you, Councillor Penner' (00:03:15); minutes R24-198 mover S. Penner, chair 'Councillor Penner.' then 'Motion to approve' and 'Go ahead, Councillor Penner' (00:18:08) followed by B's speech; pitch 188-193 Hz (woman, not Damian Penner); 'Nothing further.' to 'Anything in closing?' (00:21:52) as mover."
+  },
+  {
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra, seconded by Councillor Siemens. Any comments?' (end of 00:03:15) followed by C's Board of Revision comment (minutes R24-197 mover M. Zwaagstra); chair answers 'like Councillor Spicer [Zwaagstra] said' (00:05:46); C 'I'm going to step out because of a conflict of interest' (00:06:27) = minutes 8.2 M. Zwaagstra declared a conflict; C speaks as seconder on building permits (00:24:48; minutes R24-199 seconder M. Zwaagstra). Pitch 98-100 Hz."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' (00:06:30) followed by D's file introduction; chair 'thank you, Mr. Warkentin' (00:08:35); minutes 8.1 Troy Warkentin, City Manager, introduced By-law 2250.",
+   "notes": "Letter also carries Damian Penner's building-permit speech at 00:24:20 (override). The sentence 'Thank you. Thank you, Alderman Demong, for your comments regarding this file.' inside 00:06:55 is in neither the YouTube captions nor the old transcript (likely a transcription artifact; see review)."
+  },
+  {
+   "label": "E",
+   "person": "Dave Reimer",
+   "role": "delegation",
+   "title": "President",
+   "organization": "Steinbach Bible College",
+   "confidence": "high",
+   "evidence": "Self-identifies 'Dave Reimer, president, Steinbach Bible College' (00:08:48) after the chair asks the applicant to state name and address; minutes 8.3 Dave Reimer, President of Steinbach Bible College; answers Siemens's question about neighbours (00:16:04); pitch 86-90 Hz.",
+   "notes": "Letter also carries a councillor's speech at 00:20:41 after 'Go ahead, Councillor Hiebert' (override)."
+  },
+  {
+   "label": "F",
+   "person": "Abe Bergen",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Steinbach Bible College",
+   "confidence": "high",
+   "evidence": "Reimer: 'Abe Bergen will also have a few words in conclusion here' (00:09:00); F's content (Integrity Design, engineers, Superior Projects, design team) matches minutes 8.4 'Abe Bergen provided the following'; minutes list Abe G. Bergen as applicant for By-law 2250; F ends 'Thank you, Mr. Mayor' (00:12:16) and adds the Crossview gymnasium point (00:16:57)."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Minutes R24-198 seconder J. Siemens; chair 'Second by Councillor Siemens. Go ahead, Councillor Penner' (00:18:08), then after the mover's speech 'go ahead, Councillor' (00:19:37) and G speaks as seconder; G at 00:19:40 refers back to his own 00:15:32 question ('Like I said, they have enough parking'), so both are one person. Zwaagstra had left chambers (00:06:27, minutes 8.2), so the 00:15:22 hand-off 'Councillor Stevenson' cannot be Zwaagstra here. Pitch 103-111 Hz, distinct from Zwaagstra's 98-100.",
+   "notes": "'Can we do third reading?' (00:24:01) is short and quiet; speaker not verified."
+  },
+  {
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:24:29 is the mid-sentence continuation ('...year-to-date is 174 / dwelling units that have been added') of the building-permit speech begun at 00:24:20 after the chair's 'Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.' (00:24:03); minutes R24-199 mover D. Penner; pitch 113-118 Hz (a man, not Susan Penner).",
+   "notes": "Letter is a catch-all: 00:18:07 'Motion' is Susan Penner, 00:26:00 'No comments.' is the business-licence mover Bill Hiebert, 00:21:25 is an unnamed councillor (overrides)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:18:07",
+   "label": "H",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "first word of 'Motion to approve' whose second half is on B; chair had just named 'Councillor Penner' and minutes R24-198 mover S. Penner; pitch 193 Hz; old transcript has the whole phrase on Susan Penner's letter"
+  },
+  {
+   "time": "00:20:41",
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "chair 'Go ahead, Councillor Hiebert' (00:20:37) and the speaker quotes 'Mr. Reimer', so this is a Hiebert, not Dave Reimer. Which Hiebert rests only on pitch: quiet, off-mic voice ~112-126 Hz, nearer Jake Hiebert (~105-116 Hz in other meetings) than Bill Hiebert (~124-165 Hz); the next councillor (00:21:25) measures 126-142 Hz"
+  },
+  {
+   "time": "00:21:25",
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "chair 'Go ahead, Councillor.' with no name; a councillor other than the 00:20:41 Hiebert, Susan Penner and Siemens (Zwaagstra was out). Pitch 126-142 Hz fits Bill Hiebert better than Damian Penner (113-130 Hz in this meeting) but between two men this is weak; could also be Damian Penner"
+  },
+  {
+   "time": "00:24:20",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.' (00:24:03); minutes R24-199 mover D. Penner; continues on H at 00:24:29; content is a councillor's mover remarks, not the City Manager's"
+  },
+  {
+   "time": "00:26:00",
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'No comments.' answers 'Councillor Hebert, seconded by Councillor Siemens. Any comments?' (00:25:11); minutes R24-200 mover B. Hiebert. Pitch inconclusive (one-second reply)"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:20:37",
+   "label": "A",
+   "text": "Thank you,",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "start of the Hiebert's 'Thank you, Mr. Mayor' (YouTube captions and old transcript both give the whole phrase to the councillor); which Hiebert is low as at 00:20:41"
+  },
+  {
+   "time": "00:25:11",
+   "label": "A",
+   "text": "Nothing further.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "mover's reply to the chair's 'Anything in closing?' on building permits (minutes R24-199 mover D. Penner); the old transcript put it on its own turn in the letter that carried Damian Penner's speech; the chair then says 'Well, I have nothing to add'"
+  },
+  {
+   "time": "00:05:46",
+   "label": "A",
+   "text": "Nothing further.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "a councillor's reply to 'Anything further?' on the Board of Revision motion; the old transcript gave it its own turn on Siemens's letter (seconder per minutes R24-197); could be the mover Zwaagstra"
+  }
+ ],
+ "summary": "Clean 28-minute meeting; all eight letters identified, but letters D, E and H each merge a second voice (overrides). The two Hiebert turns on the SBC rezoning (00:20:41, 00:21:25) are low confidence: neither is named by first name and pitch is the only separator.",
+ "transcript": "transcripts/2024/2024-10-15.txt"
+}

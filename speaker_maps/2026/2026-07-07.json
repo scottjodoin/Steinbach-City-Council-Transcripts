@@ -1,0 +1,395 @@
+{
+ "meeting": "2026-07-07",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:00 and hands the opening to Councillor Jake Hiebert (minutes item 2-3: Mayor Earl Funk called the meeting to order); opens/closes every public hearing, asks Mr. Warkentin to introduce files, names movers/seconders, calls every vote; addressed as 'Mr. Mayor' in the following turns.",
+   "notes": "Other people's words on A: 00:30:17 is Damian Penner continuing his turn (override); split pieces 'So I think that's it.' (00:20:26), 'We're talking—' (00:27:09), 'Second.' (00:27:37), 'Sure.' (00:33:50), 'Yes.' (00:42:25), 'Thank you, Mr.' (00:44:19), 'Move to approve.' (00:51:27), 'That's all for now.' (00:53:43), 'Second.' (00:56:41)."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:00:00 chair 'give the opening to Councillor Jake Ebert' then B gives the opening; chair 00:04:51 'Thank you, Councillor Hiebert' (minutes item 3: Councillor Jake Hiebert opened the meeting). CU-2026-08: chair 'Councillor Hiebert.' 00:43:31 then B 'Motion to approve.' 00:44:17 and mover speech (minutes R26-134 mover J. Hiebert). Minor subdivisions: B 'Motion to approve.' 00:51:09 and comment 00:51:13 (minutes R26-141 mover J. Hiebert). Pitch 00:39:04 turn 111 Hz.",
+   "notes": "00:43:06 and 00:43:09 (the 'follow-up' sign questions) are Damian Penner (override)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Answers every 'Mr. Warkentin, please introduce this file' (00:05:59, 00:32:29, 00:41:40, 00:47:30, 00:54:17); applicant's rep addresses him as 'Troy' 00:08:15; minutes items 6.1, 8, 12, 15.1, 18.1, 30.1 (Troy Warkentin, City Manager) match the content.",
+   "notes": "Several spurious 'Thank you, Your Worship.' phrases sit inside his introductions; probably transcription artifacts."
+  },
+  {
+   "label": "D",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Developer, Variance V-2026-13",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:08:07 ('Stefan Oldman, 454 Hanover ... the applicant asked me to speak on his behalf'); chair thanks 'Mr. Holdeman' 00:30:59; minutes 6.3 and 11 (Stefan Hodelmann representing the applicant) match the content.",
+   "notes": "Speaks for the developer, so named. 00:23:44 'Any ideas?' is the mayor (split)."
+  },
+  {
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Minor variances: chair 'Councillor Siemens ... Go ahead, Councillor Siemens.' 00:51:27 then E speaks 00:51:56, and Damian Penner replies 'Councillor Siemens was eloquent in his speech' (minutes R26-142 mover J. Siemens). By-law 2283 seconder 'seconded by Councillor Siemens' 00:48:30, E speaks after the mover 00:49:10 (minutes R26-140 seconder J. Siemens).",
+   "notes": "End of E's 00:49:10 turn 'Anything further, council?' is the mayor (split). 00:55:48 'Seconded, Mr. Mayor.' conflicts with the minutes (S. Penner seconded) - plausibly Siemens also offered to second; see review."
+  },
+  {
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Resident 1 self-identifies at the V-2026-13 hearing 00:12:43 after the chair asks for the public; content of 00:12:43 and 00:14:43 matches minutes items 7 and 9. Pitch 178/168 Hz.",
+   "notes": "F merges two women: Resident 1 (00:12:43, 00:14:43, 00:15:30) and Councillor Susan Penner (00:24:37, 00:50:13, 00:55:57, 00:56:05, 00:56:09 - all overridden)."
+  },
+  {
+   "label": "G",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Resident 2 self-identifies 00:15:42 at the V-2026-13 hearing after 'Is there anyone else?'; content matches minutes item 10.",
+   "notes": "Single turn."
+  },
+  {
+   "label": "H",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Variance: H 'I'll make a motion to approve the variance' 00:28:04, chair 'Go ahead, Councillor', H speech recalls 'I specifically asked the question about ... 2-storey versus 3-storey' (his 00:24:08 question) (minutes R26-132 mover M. Zwaagstra); 00:53:02 Damian Penner cites 'As Councillor Zwaagstra referred' to H's 00:44:42 sign remarks. Pitch 103/104/97 Hz.",
+   "notes": "H also holds CU-2026-07 turns by Susan Penner (00:36:54, 00:36:58, 00:39:59; pitch ~180 Hz) and one applicant sentence (00:35:51, 143 Hz) - overridden."
+  },
+  {
+   "label": "I",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "By-law 2283: chair 'Councillor Penner, seconded by Councillor Siemens. Go ahead.' 00:48:30 then I speaks (minutes R26-140 mover S. Penner); golf club 00:56:14 continues the seconder's remarks ('Seconded by Councillor Penner', minutes R26-144 seconder S. Penner). Pitch 182/178/176 Hz (female, so not Damian Penner).",
+   "notes": "00:24:35 'Mr.' + F's 00:24:37 'Mayor, I'd like to ask a question as well.' + I's 00:24:39 are one Susan Penner turn."
+  },
+  {
+   "label": "J",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:52:59-00:53:30 question to administration on electronic signs matches minutes item 30 (Councillor D. Penner asked ...); variance seconder 'seconded by Councillor Penner' speaks 00:30:16 (minutes R26-132 seconder D. Penner); 00:46:44 'Motion to approve.' then chair 'Councillor Penner' (minutes R26-138 mover D. Penner). Pitch 120-138 Hz (male).",
+   "notes": "Also speaks at 00:30:17 (on A) and 00:43:06/00:43:09 (on B) - overridden."
+  },
+  {
+   "label": "K",
+   "person": "Michael Janzen",
+   "role": "delegation",
+   "title": "Project manager for the applicant",
+   "organization": "Maplewood Manor Inc.",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:34:05 'I'm Michael Jansen ... I speak here on behalf of the Maplewood. I have been hired to manage this project'; minutes 15.3 (applicant Michael Janzen). Pitch 136 Hz.",
+   "notes": "Speaks for Maplewood Manor, so named. His sentence at 00:35:51 sits on H (override)."
+  },
+  {
+   "label": "L",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "CU-2026-07: chair 'Second by Councillor Hiebert' 00:36:56 and 'Councillor Hiebert.' 00:38:19, L agrees with 'Councillor Penner' (minutes R26-133 seconder B. Hiebert; Jake Hiebert speaks separately on B at 00:39:04); golf club: L moves 00:55:39 (minutes R26-144 mover B. Hiebert); accounts payable and business licence movers 'Councillor Hiebert' followed by L 'No comments.' (minutes R26-135, R26-143 mover B. Hiebert).",
+   "notes": ""
+  },
+  {
+   "label": "M",
+   "person": "Derek Amy",
+   "role": "delegation",
+   "title": "Applicant (sign company)",
+   "organization": "SRS Signs Inc.",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:42:39 'Derek Amy, SRS Signs, 1520 Notre Dame Avenue, Winnipeg. I'm here representing SCU'; minutes 18.3.",
+   "notes": "His 'Yes.' (00:42:25) and 'That's correct.' (00:42:57) sit inside other turns (split)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:12:43",
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident 1 self-identifies at the public hearing (minutes item 7)."
+  },
+  {
+   "time": "00:14:43",
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident 1's follow-up traffic concern (minutes item 9)."
+  },
+  {
+   "time": "00:15:34",
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Resident 1 thanking the chair after his reply to her."
+  },
+  {
+   "time": "00:24:37",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Continues I's 'Mr.' (00:24:35) into the I question 00:24:39 about 'anything from us' (a councillor); pitch 198 Hz; old transcript has the whole line on Susan Penner's letter."
+  },
+  {
+   "time": "00:24:35",
+   "label": "I",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Start of Susan Penner's 'Mr. Mayor, I'd like to ask a question' (same letter as her question)."
+  },
+  {
+   "time": "00:30:17",
+   "label": "A",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Continuation of J's 00:30:16 'Thank you very much, Mr.' -> 'Mayor. Yes, at the heart of the matter...' (old transcript has it as one J-cluster turn); variance seconder D. Penner; pitch 131 Hz."
+  },
+  {
+   "time": "00:35:51",
+   "label": "H",
+   "person": "Michael Janzen",
+   "role": "delegation",
+   "title": "Project manager for the applicant",
+   "organization": "Maplewood Manor Inc.",
+   "confidence": "high",
+   "reason": "Middle of the applicant's presentation ('we feel like the project will only be an improvement'), between his K turns; pitch 143 Hz vs his 136 Hz, not Zwaagstra's ~103 Hz."
+  },
+  {
+   "time": "00:36:54",
+   "label": "H",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair 'Councillor Penner?' then 'Motion to approve.' (minutes R26-133 mover S. Penner)."
+  },
+  {
+   "time": "00:36:58",
+   "label": "H",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair 'Go ahead, Councillor Penner.'; minutes mover S. Penner; pitch 182 Hz (female); Bill Hiebert then agrees with 'Councillor Penner'."
+  },
+  {
+   "time": "00:39:59",
+   "label": "H",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Mover's closing on CU-2026-07 (S. Penner per minutes); pitch 178 Hz."
+  },
+  {
+   "time": "00:43:06",
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'And if I can do a follow-up' right after Damian Penner's 00:42:57 question; pitch 130 Hz like his 138 Hz, not Jake Hiebert's 111 Hz; old map put it on Damian Penner."
+  },
+  {
+   "time": "00:43:09",
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "The follow-up question itself; pitch 134 Hz; old map Damian Penner."
+  },
+  {
+   "time": "00:50:13",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover's 'Nothing further.' after 'Anything in closing?' on By-law 2283 (mover S. Penner); old transcript put it on Susan Penner's letter."
+  },
+  {
+   "time": "00:55:57",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Golf-club item seconder exchange; pitch 205 Hz; old transcript on Susan Penner's letter."
+  },
+  {
+   "time": "00:56:05",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'I did second.' - chair 'Seconded by Councillor Penner' (minutes R26-144 seconder S. Penner); pitch ~225 Hz."
+  },
+  {
+   "time": "00:56:09",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Seconder speaks after 'You can speak to it'; continues into I (Susan Penner) 00:56:14; pitch 176 Hz."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:20:26",
+   "label": "A",
+   "text": "So I think that's it.",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "Closing words of Resident 2's presentation; YouTube captions show it as a separate line before the chair's 'Okay, thank you.'"
+  },
+  {
+   "time": "00:23:44",
+   "label": "D",
+   "text": "Any ideas?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The mayor's question, continued in his next turn; old transcript has it on the mayor's letter."
+  },
+  {
+   "time": "00:27:09",
+   "label": "A",
+   "text": "We're talking—",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "Cut-off start of the City Manager's next sentence 'we're actually talking thousands...'."
+  },
+  {
+   "time": "00:27:37",
+   "label": "A",
+   "text": "Second.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Variance seconder; chair 'seconded by Councillor Penner' and minutes R26-132 seconder D. Penner."
+  },
+  {
+   "time": "00:33:50",
+   "label": "A",
+   "text": "Sure.",
+   "person": "Michael Janzen",
+   "role": "delegation",
+   "title": "Project manager for the applicant",
+   "organization": "Maplewood Manor Inc.",
+   "confidence": "medium",
+   "reason": "Answer to 'Is the applicant present? Do you wish to speak?'"
+  },
+  {
+   "time": "00:42:25",
+   "label": "A",
+   "text": "Yes.",
+   "person": "Derek Amy",
+   "role": "delegation",
+   "title": "Applicant (sign company)",
+   "organization": "SRS Signs Inc.",
+   "confidence": "medium",
+   "reason": "Answer to 'Is the applicant here today?'; old transcript has it as a separate turn."
+  },
+  {
+   "time": "00:42:57",
+   "label": "J",
+   "text": "That's correct.",
+   "person": "Derek Amy",
+   "role": "delegation",
+   "title": "Applicant (sign company)",
+   "organization": "SRS Signs Inc.",
+   "confidence": "medium",
+   "reason": "Applicant's answer to Damian Penner's question (minutes 18.3: the sign is a replacement in the existing location)."
+  },
+  {
+   "time": "00:44:19",
+   "label": "A",
+   "text": "Thank you, Mr.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Start of Jake Hiebert's 'Thank you, Mr. Mayor.' continued on B 00:44:22 (mover J. Hiebert)."
+  },
+  {
+   "time": "00:49:10",
+   "label": "E",
+   "text": "Anything further, council?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The chair's standard prompt; next A turn continues 'Anything in closing?'."
+  },
+  {
+   "time": "00:51:27",
+   "label": "A",
+   "text": "Move to approve.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair names 'Councillor Siemens' as mover right after (minutes R26-142 mover J. Siemens)."
+  },
+  {
+   "time": "00:53:43",
+   "label": "A",
+   "text": "That's all for now.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Questioner ending his questions; old transcript has it on Damian Penner's letter."
+  },
+  {
+   "time": "00:56:41",
+   "label": "A",
+   "text": "Second.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Adjournment seconder: chair 'Seconded by Councillor Hiebert', minutes item 34 seconder J. Hiebert; voice not checked."
+  }
+ ],
+ "summary": "Good quality. Two merged letters: F (Resident 1 + Susan Penner) and H (Zwaagstra + Susan Penner's CU-07 turns + one applicant sentence), resolved with overrides backed by minutes and pitch. Many short interjections and spurious 'Thank you, Your Worship.' phrases; the seconder exchange at 00:55:48-00:56:09 is the least certain.",
+ "transcript": "transcripts/2026/2026-07-07.txt"
+}

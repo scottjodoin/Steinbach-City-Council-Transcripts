@@ -1,0 +1,282 @@
+{
+ "meeting": "2023-07-18",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:09 and gives the opening to Councillor Susan Penner; runs every motion and vote; opens and closes the V-2023-10 public hearing (minutes item 9: hearing called to order by Mayor Earl Funk); thanks both delegations (minutes 11.6, 12.4).",
+   "notes": "00:09:57 turn contains Siemens' 'I can do that.' (split)."
+  },
+  {
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'give the opening to Councillor Susan Penner' 00:00:09 -> B opening 00:00:17; chair 'Thank you, Councillor Penner' 00:03:13; chair 'Councillor Penner?' 00:50:57 -> B 'Motion to approve.' 00:51:02 (minutes R23-152 mover S. Penner) and 'Go ahead, Councillor Penner.' -> B 00:51:07; voice ~196 Hz (woman).",
+   "notes": "00:46:14 is a line of the Chamber video (override). 00:41:59 'Quick, say that again.' probably the Chamber presenter asking for the Wi-Fi password (override, low)."
+  },
+  {
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Siemens.' 00:53:55 -> C 00:53:57 comment and physician-recruitment motion (minutes R23-153 mover J. Siemens); chair later refers to 'Councillor Siemens' statement' 00:57:13; C 00:22:59 and 00:39:48 councillor comments to the delegations in the same voice (~105-107 Hz).",
+   "notes": "Merged on short lines: 00:04:36 'Motion to approve.' = Jake Hiebert (override); 00:25:59 'hey, family pictures!' is a woman's voice (~239 Hz, override Unclear); 00:44:58 is Chamber video narration (override). 00:04:40 'No further comments.' (~155 Hz) and 00:41:54 Wi-Fi password line are doubtful (review)."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, would you please introduce this file?' 00:05:17 -> D variance report 00:05:45 (minutes 9.1 Troy Warkentin introduced V-2023-10); chair 'Mr. Warkentin, would you please introduce this file?' (end of 00:48:54) -> D By-law 2234 report 00:49:40; chair 'Thank you, Mr. Warkentin' 00:07:25 and 00:50:57.",
+   "notes": "'Thank you, Your Worship.' inside 00:05:45 and 'Second.' inside 00:49:40 may not be his words; left in place."
+  },
+  {
+   "label": "E",
+   "person": "Ernest Schroeder",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Sommerfeld Mennonite Church of Manitoba",
+   "confidence": "high",
+   "evidence": "Chair asks if the applicant is present 00:07:25 -> E 00:07:41 'My name is Ernest Schrader. I am here on behalf of the Summerfelt Church.'; minutes 9.2: Ernest Schroeder, on behalf of the Sommerfeld Mennonite Church of Manitoba, was prepared to answer questions.",
+   "notes": "Spelled as in the minutes. Speaks for the church (organization), so named."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra.' 00:09:17 -> F 00:09:54 moves the variance (minutes R23-149 mover M. Zwaagstra); chair 'Go ahead, Councillor Zwaagstra.' 00:47:42 -> F building-permit report 00:48:31 (minutes R23-151 mover M. Zwaagstra); F 00:56:19 speaks to the physician motion he seconded (R23-153 seconder M. Zwaagstra); voice ~96 Hz.",
+   "notes": "00:45:15 is Chamber video narration (override)."
+  },
+  {
+   "label": "G",
+   "person": "Christine Beaumont",
+   "role": "delegation",
+   "title": "Chamber of Commerce President",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:11:49 'Christine Beaumont, president of the Steinbach Chamber of Commerce ... 284 Reimer Avenue'; chair 'any questions for Christine?' 00:22:51; minutes item 11 and 13."
+  },
+  {
+   "label": "H",
+   "person": "Michelle Bezditny",
+   "role": "delegation",
+   "title": "Director of Economic Development",
+   "organization": "Steinbach Economic Development Corporation",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:26:21 'Michelle Bizzini, Director of Economic Development. Address is D4, 284 Reimer Avenue'; chair 'thank you very much, Michelle' 00:40:07; minutes item 12 (Michelle Bezditny); voice ~168 Hz.",
+   "notes": "MERGED: tech-help lines 00:21:00-00:22:21 and 00:25:50/00:26:01 (another woman's voice, unidentified), Chamber video line 00:45:33, and the councillor's page-33 question 00:58:50-00:59:15 (male voice ~110-130 Hz) - see overrides. Name spelled as in the minutes."
+  },
+  {
+   "label": "I",
+   "person": "Chamber video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "evidence": "00:45:25 narration line inside the 'More for You Here' Chamber video played 00:44:58-00:46:36 (minutes item 13)."
+  },
+  {
+   "label": "J",
+   "person": "Chamber video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "evidence": "00:45:51 business-owner line inside the Chamber video (minutes item 13)."
+  },
+  {
+   "label": "K",
+   "person": "Chamber video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "evidence": "00:46:23 closing line 'There's more for you here.' of the Chamber video (minutes item 13)."
+  },
+  {
+   "label": "L",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "00:58:45 a councillor interrupts the adjournment ('just second, Mr. Mayor. Could I ask one question?') and 00:59:01 asks whether a motion is needed for the Chamber's page-33 request; male voice ~119-127 Hz, a different diarization cluster from Siemens (C, ~105 Hz) and Zwaagstra (F, ~96 Hz); Jake Hiebert is the only present councillor with no other letter (elimination); AssemblyAI also says Jake Hiebert. No name hand-off."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:04:36",
+   "label": "C",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Motion to approve.' on accounts payable; chair immediately names 'Councillor Hiebert' as mover and Siemens (letter C) as seconder; minutes R23-147 mover J. Hiebert."
+  },
+  {
+   "time": "00:21:00",
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Person at the chamber computer helping the Chamber presenter; not clearly the Economic Development director (who had not yet spoken); possibly the City Clerk."
+  },
+  {
+   "time": "00:21:37",
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Same tech-help exchange as 00:21:00."
+  },
+  {
+   "time": "00:21:40",
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Same tech-help exchange as 00:21:00."
+  },
+  {
+   "time": "00:22:01",
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Tech help about the chamber HDMI cable; woman's voice (~276 Hz, few frames), higher than Bezditny's ~168 Hz."
+  },
+  {
+   "time": "00:22:21",
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Tech help about the chamber Wi-Fi; same exchange as 00:21:00."
+  },
+  {
+   "time": "00:25:50",
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Tech helper at the computer; ~286 Hz, unlike Bezditny's ~168 Hz."
+  },
+  {
+   "time": "00:25:59",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'hey, family pictures!' is a woman's voice (~239 Hz), not Siemens (~105 Hz)."
+  },
+  {
+   "time": "00:26:01",
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Tech helper ('That's your home screen.'); ~203 Hz; just before Bezditny begins her own presentation."
+  },
+  {
+   "time": "00:41:59",
+   "label": "B",
+   "person": "Christine Beaumont",
+   "role": "delegation",
+   "title": "Chamber of Commerce President",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "low",
+   "reason": "'Quick, say that again.' after the Wi-Fi password; the Chamber presenter was the one connecting to the Wi-Fi and the original transcript gives the line to her letter."
+  },
+  {
+   "time": "00:44:58",
+   "label": "C",
+   "person": "Chamber video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "reason": "Opening narration of the Chamber video."
+  },
+  {
+   "time": "00:45:15",
+   "label": "F",
+   "person": "Chamber video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "reason": "Narration line of the Chamber video."
+  },
+  {
+   "time": "00:45:33",
+   "label": "H",
+   "person": "Chamber video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "reason": "Narration line of the Chamber video."
+  },
+  {
+   "time": "00:46:14",
+   "label": "B",
+   "person": "Chamber video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "Steinbach Chamber of Commerce",
+   "confidence": "high",
+   "reason": "Narration line of the Chamber video."
+  },
+  {
+   "time": "00:58:50",
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Continuation of the councillor's page-33 question begun on L at 00:58:45; male voice ~110 Hz, not Bezditny (~168 Hz)."
+  },
+  {
+   "time": "00:59:11",
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "The questioning councillor acknowledging the answer; male voice ~130 Hz."
+  },
+  {
+   "time": "00:59:15",
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Okay, thank you.' closing the councillor's page-33 question."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:09:57",
+   "label": "A",
+   "text": "I can do that.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Answer to the chair's call for a seconder; chair then names 'Councillor Siemens'; minutes R23-149 seconder J. Siemens."
+  }
+ ],
+ "summary": "Clean meeting: mayor, Susan Penner, Siemens, Zwaagstra, the City Manager, the church applicant and both Chamber delegates have strong letters; I/J/K and four other turns are the Chamber video. Jake Hiebert has no hand-off and is identified (medium) by elimination for the late page-33 question; the computer-help voice during the Chamber delegation is unidentified.",
+ "transcript": "transcripts/2023/2023-07-18.txt"
+}

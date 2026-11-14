@@ -1,0 +1,128 @@
+{
+ "meeting": "2024-02-06",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:09 and gives the opening to Councillor Jake Hiebert; runs every item, hand-off and vote; addressed as 'Mr. Mayor' throughout; minutes item 2: Mayor Earl Funk called the meeting to order.",
+   "notes": "00:17:15 turn starts with 'Administrative.', the end of the 00:17:06 speaker's sentence (YouTube captions: 'it's administrative') - split off. The 'Nothing further.' inside the same turn was a separate voice in the older transcript (v1 letter B); left with the chair."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'I would like to give the opening to Councillor Jake Hiebert' 00:00:09, then B gives the opening (minutes item 3: Councillor J. Hiebert opened the meeting) and mentions 'my paternal grandparents ... Hiebert'; chair replies 'Thank you, Councillor Evert [Hiebert]' 00:04:56. 00:08:02 'I agree with Councillor Penner' as seconder of R24-024 (minutes: D. Penner, J. Hiebert).",
+   "notes": "Quiet microphone: the voice pitch tool finds almost no voiced frames on B's turns."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this' 00:06:04 -> C's specification manual report 00:06:08; chair 'Thank you, Mr. Warkentin' 00:07:16; 00:08:47 C defers to 'the city's corporate services manager, Mr. Adam Thiessen'; 'Mr. Warkentin, could you please introduce this file?' -> C's rezoning report 00:14:59; 00:21:41 answers the chair's 'question for administration'. Pitch ~117-128 Hz on substantive turns.",
+   "notes": "Short turns 00:22:47 'No.' (147 Hz) and 00:22:57 'Yes, please.' (160 Hz) are not his voice - overridden."
+  },
+  {
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair names 'Councillor Penner' as mover then 'Go ahead, Councillor' 00:07:16 -> D 00:07:32, and B replies 'I agree with Councillor Penner'; minutes R24-024 mover D. Penner. 'Councillor Penner' -> D 'Motion to approve' 00:15:45 (R24-027 mover D. Penner) and D 'Resolution to create the Steinbach Sports History Committee' 00:22:10 (R24-031 mover D. Penner). Male voice 126-151 Hz, so not Susan Penner.",
+   "notes": "Letter also carries other voices: 00:17:06 (Jake Hiebert, after the chair's hand-off), 00:23:13 'Nothing further.' and 00:23:43 'really good.' (Susan Penner) - overridden. Short turns 00:18:00, 00:18:38, 00:18:55 left on D, unverified."
+  },
+  {
+   "label": "E",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager defers to 'Mr. Adam Thiessen' 00:08:47, E gives the community safety and well-being report 00:08:52; chair 'Thank you, Mr. Thiessen' 00:11:33; minutes item 2 lists Manager, Corporate Services, Adam Thiessen present.",
+   "notes": "Short 'Thank you.' / 'Okay. Thank you.' inside the report may be other voices; not split."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra.' 00:11:33 -> F moves the CSWB motion 00:11:48 (minutes R24-025 mover M. Zwaagstra); 'Go ahead, Councillor Sui[Zwaagstra]' -> F 00:12:01; 00:16:08 F speaks as seconder of By-law 2236 (R24-027 seconder M. Zwaagstra); 00:17:55 after chair names Councillor Zwaagstra as lottery-licence mover (R24-030). Pitch 103-109 Hz."
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:22:58 chair: 'Councillor Penner, seconded by Councillor Hiebert. Any comments?' -> G comments on the appointees 00:23:03; minutes R24-032 (ratify committee appointments) mover S. Penner, seconder J. Hiebert. Voice pitch 180 Hz at 00:23:03 and 205 Hz at 00:23:34: a woman's voice, so not Jake Hiebert or Damian Penner.",
+   "notes": "Only two turns; 00:23:34 is after adjournment."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:17:06",
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair: 'Councillor Hebert, seconded by Councillor Penner. Go ahead, Councillor Hebert.' then this turn ('as you indicated, it's just moving some of the unpaid bills'); minutes R24-028 mover J. Hiebert; the older v1 transcript put this turn on Jake Hiebert's letter. Pitch 111 Hz is lower than D's other turns (126-151) - another hint it is not Damian Penner."
+  },
+  {
+   "time": "00:22:47",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No.' in reply to 'Anything further?' from council; 147 Hz, not the City Manager's voice (117-128 Hz)."
+  },
+  {
+   "time": "00:22:57",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Yes, please.' when the chair asks for a motion to ratify the members; 160 Hz, not the City Manager's voice. Possibly Susan Penner, who then moved R24-032."
+  },
+  {
+   "time": "00:23:13",
+   "label": "D",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Nothing further.' in closing on R24-032, whose mover was S. Penner; pitch 165 Hz, above Damian Penner's 126-151 Hz this meeting."
+  },
+  {
+   "time": "00:23:43",
+   "label": "D",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Continues G's post-adjournment sentence 'That's a really great committee. That's / really good.' (one phrase in the YouTube captions)."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:17:15",
+   "label": "A",
+   "text": "Administrative.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "End of the 00:17:06 speaker's sentence: YouTube captions read 'moving some of the unpaid bills or debts to their taxes it's administrative anything further'."
+  }
+ ],
+ "summary": "Clean, short meeting (Siemens and B. Hiebert excused). Damian Penner's letter D also carries Jake Hiebert at 00:17:06 and Susan Penner's closing lines; Susan Penner's only substantive turn (G, 00:23:03) is identified by the minutes mover and a female voice pitch, against AssemblyAI's 'Jake Hiebert'. Councillor's opening names his late grandparents/uncles - withheld.",
+ "transcript": "transcripts/2024/2024-02-06.txt"
+}

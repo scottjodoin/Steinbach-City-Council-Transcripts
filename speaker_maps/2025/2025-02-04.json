@@ -1,0 +1,93 @@
+{
+ "meeting": "2025-02-04",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order 00:00:02 and gives the opening to Councillor Damian Penner; runs every motion and vote; opens/closes both public hearings and asks Mr. Warkentin to introduce files (minutes items 2, 6, 9: Mayor Earl Funk called the meeting and hearings to order)",
+   "notes": "adjournment 00:25:08: 'So moved.' is a garble of the chair naming the mover ('councelor Hebert' in YouTube captions; minutes: J. Hiebert moved) and stays with the chair. 'Nothing to add.' (00:11:07) and 'No comments.' (00:24:28) inside the chair's turns are split off at low confidence"
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair: 'give the opening to Councillor Damian Penner' -> B opening 00:00:12 (minutes item 3: Councillor Damian Penner opened); 'Thank you, Councillor Penner' after; chair 'Councillor Penner, seconded by Councillor Siemens. Any comments?' -> B 00:15:21 (minutes R25-028 mover D. Penner); chair 'Councillor Penner, seconded by Councillor Hiebert. Any comments?' -> B 'No comments.' 00:24:28 (R25-029 mover D. Penner); male voice (opening ~150 Hz, 00:15:21 ~108 Hz)",
+   "notes": "short replies 00:04:35 ('No comment.', minutes motion moved by J. Hiebert, seconded by D. Penner) and 00:14:44 ('Nothing further, Mr. Mayor.', after Zwaagstra's motion seconded by J. Hiebert) could be Jake Hiebert; kept on B, listed in review"
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' -> C report 00:05:25 (minutes 6.1: Troy Warkentin, City Manager, introduced By-Law 2255); same hand-off -> C 00:11:43 (minutes 9.1, By-Law 2257); 'Mr. Warkentin.' -> C Event Centre presentation 00:16:14 (minutes item 12); 'Thank you, Mr. Warkentin' after each",
+   "notes": "phrases inside C's turns ('Thank you, Your Worship.', 'Thank you, Brian.', 'Yes.', 'Okay.', 'Thank you. Thank you.') are absent from the YouTube captions and are likely transcription artefacts, not other speakers; not split, listed in review"
+  },
+  {
+   "label": "D",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Penner.' -> D 'Motion to approve.' 00:07:55; 'Second by Councillor Siemens. Go ahead, Councillor Penner.' -> D statement 00:07:59 (minutes R25-025: S. Penner mover, J. Siemens seconder); woman's voice by pitch tool (00:07:55 198 Hz, 00:07:59-00:08:47 180 Hz, 00:09:56 188 Hz), which rules out Damian Penner; E replies 'as stated by Councillor Penner'; 'Nothing further.' 00:09:56 is the mover's closing"
+  },
+  {
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "E speaks 00:08:50 right after the first-reading mover's speech, when the seconder usually speaks (chair: 'Second by Councillor Siemens'; minutes R25-025 seconder J. Siemens); E answers 'Nothing further.' 00:11:06 immediately after the chair's 'Motion for second reading, Councillor Siemens, seconded by Councillor Hiebert. Any comments?' (minutes R25-026 mover J. Siemens); pitch 113 Hz on the 00:08:50 speech vs G (Bill Hiebert, 157 Hz) argues against Bill Hiebert; AssemblyAI also says Jac Siemens",
+   "notes": "never addressed by name in his own turn; the old map gave the 00:08:50 speech to Bill Hiebert because its letter C merged this voice with Bill Hiebert's excavator motion"
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Zwaagstra.' -> F 'I'll make the motion for first reading.' 00:13:59 (minutes R25-027 mover M. Zwaagstra); chair afterwards 'Well, Councillor Zwaagstra, you said it well.' 00:14:45; low male voice (103 Hz, matching his measured 104 Hz)"
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Hiebert's favorite, excavator licenses. I'm thinking you want to make the motion.' -> G 'I'll make a motion to approve.' 00:25:01 (minutes R25-031 mover B. Hiebert, seconder M. Zwaagstra, matching 'Second by Councillor Zwaagstra'); pitch 157 Hz, matching Bill Hiebert's measured 160 Hz; 'No comments.' 00:25:07 is the mover's reply",
+   "notes": "AssemblyAI picked Jake Hiebert from the bare surname; the minutes name B. Hiebert as mover"
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:11:07",
+   "label": "A",
+   "text": "Nothing to add.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "a councillor's reply to 'Any comments?' after the mover (E) said 'Nothing further.'; the original v1 transcript put it on a different letter from the chair; B. Hiebert seconded R25-026 and the seconder usually answers next, but the voice is unconfirmed"
+  },
+  {
+   "time": "00:24:28",
+   "label": "A",
+   "text": "No comments.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "reply to 'Councillor Siemens, seconded by Councillor Zwaagstra. Any comments?' on the lottery licences (minutes R25-030 mover J. Siemens); the v1 transcript put it on a councillor letter, not the chair's; voice unconfirmed"
+  }
+ ],
+ "summary": "Short meeting with clean diarization: seven letters, one voice each as far as checked. E (Jac Siemens) rests on seconder/mover timing plus pitch and is medium; two short in-chair replies are split at low confidence; a few 'No comment' replies on B could be Jake Hiebert, who has no letter of his own. No members of the public spoke and no private individuals are named.",
+ "transcript": "transcripts/2025/2025-02-04.txt"
+}

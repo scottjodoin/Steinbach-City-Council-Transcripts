@@ -1,0 +1,108 @@
+{
+ "meeting": "2024-11-19",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:00 and gives the opening to Councillor Zwaagstra (minutes item 3); runs every motion, hand-off and vote; addressed as 'Mr. Mayor' by B 00:00:11, C 00:05:25, F 00:09:20; recounts attending the throne speech reception with other mayors 00:19:53. Pitch 126 Hz.",
+   "notes": "'Thank you.' fragments inside 00:10:41 and 00:29:29 are probably not his words (unclear in the audio)."
+  },
+  {
+   "label": "B",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair gives the opening to 'Councillor Michael Zwaagstra' 00:00:00 -> B gives it (minutes item 3: M. Zwaagstra opened); B moves the tender correction 00:16:24 (minutes R24-223 mover M. Zwaagstra); chair 'Councillor Zwaagstra.' (end of 00:26:47) -> B 00:27:32 moves supplementary taxes (R24-229 mover); B 00:21:28 declares a conflict on the next item (minutes item 15: M. Zwaagstra declared a conflict on By-law 2250). Pitch 104-130 Hz, consistent with his known ~104 Hz.",
+   "notes": "00:19:14 speaks after the chair names him seconder of building permits (R24-226 seconder M. Zwaagstra)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' (end of A turns 00:03:59, 00:10:41, 00:14:47, 00:21:34) -> C reports each time (minutes 7.1, 9, 10: Troy Warkentin, City Manager, presented); answers Councillor Siemens' questions 00:13:26 and 00:30:18.",
+   "notes": "'Thank you, Your Worship. Thank you.' fragments inside 00:05:25, 00:12:01 and 00:21:49 are likely mis-transcriptions or other voices, left with C."
+  },
+  {
+   "label": "D",
+   "person": "Keith Unger",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "10027732 Manitoba Inc. (applicant, CU-2024-06)",
+   "confidence": "high",
+   "evidence": "Chair asks 'Is the applicant here today?' 00:06:38 and to state name and address -> D 00:06:55 states his name and Granite Park Boulevard address; speaks for the development ('He came to us after purchasing the land', 'we're welcoming another tenant'); minutes 7.2 name him; Councillor S. Penner refers to him by name 00:10:11.",
+   "notes": "Treated as speaking for the applicant company (developer), not as a private resident. 00:25:52 'No, sir.' is overridden (not him)."
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Penner.' (end of 00:07:41) -> E 'Motion to approve' 00:08:21 on CU-2024-06 (minutes R24-222 mover S. Penner); F then refers to her points as 'Councillor Penner'; chair 'Councillor Penner, you'd like to make a motion to approve?' -> E 'Yes.' 00:18:11 (R24-226 mover S. Penner); E speaks first on the ratification 00:26:42 (R24-228 mover S. Penner). Pitch 182 Hz (woman), matching her known ~190 Hz.",
+   "notes": "00:31:54 closing 'Thank you. Yes, thank you.' (126 Hz) is overridden to several councillors."
+  },
+  {
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Speaks 00:09:20 in the seconder slot on CU-2024-06 after the chair names a Penner seconder (R24-222 seconder D. Penner) and refers to the mover as 'Councillor Penner'; chair 'Anything further, Councillor Penner?' 00:17:03 -> F (R24-223 seconder D. Penner) and 00:29:26 -> F (R24-230 seconder D. Penner). Pitch 110-136 Hz (man), so not Susan Penner."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Question from Councillor Siemens.' 00:13:13 -> G question; chair 'Councillor Siemens.' 00:23:39 -> G moves third reading of By-law 2250 (R24-227 mover J. Siemens); chair names Siemens as mover of tax cancellations 00:28:23 -> G speaks (R24-230 mover J. Siemens)."
+  },
+  {
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Second by Councillor Hiebert' 00:23:47 -> H speaks in the seconder slot on By-law 2250 00:24:52 (minutes R24-227 seconder J. Hiebert); pitch of H's long turns 105 Hz (00:24:52) and 112 Hz (00:14:20) matches Jake Hiebert's ~105-111 Hz in other meetings, not Bill Hiebert's ~140-165 Hz.",
+   "notes": "Letter merges both Hieberts: 00:28:13 (143 Hz, seconder slot for B. Hiebert) is overridden to Bill Hiebert. 00:17:54 'No comment.' (140 Hz) and 00:30:34 'Please.' are short and uncertain."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:28:13",
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair 'Seconded by? Councillor Hiebert. Go ahead.' then B speaks as mover and this turn follows in the seconder slot; minutes R24-229 seconder is B. Hiebert; pitch 143 Hz matches Bill Hiebert (~140-165 Hz) and differs from H's other turns (105-112 Hz)."
+  },
+  {
+   "time": "00:25:52",
+   "label": "D",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No, sir.' answering the chair's 'Anything in closing?' on By-law 2250, long after the applicant's representative spoke at the public hearing; 125 Hz. Not Keith Unger."
+  },
+  {
+   "time": "00:31:54",
+   "label": "E",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you. Yes, thank you. Thank you.' after adjournment; pitch 126 Hz, not Susan Penner's 182 Hz; possibly several voices or the mayor."
+  }
+ ],
+ "turn_splits": [],
+ "summary": "Clean diarization: one letter per person except H, which merges the two Hieberts (00:28:13 overridden to Bill Hiebert by minutes and pitch). Short interjections at 00:17:54 and 00:25:52 are uncertain; applicant's representative named as a delegation and the late project initiator kept as a public figure, both flagged for review.",
+ "transcript": "transcripts/2024/2024-11-19.txt"
+}

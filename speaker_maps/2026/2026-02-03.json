@@ -1,0 +1,206 @@
+{
+ "meeting": "2026-02-03",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:00 (minutes item 2: Mayor Earl Funk called the meeting to order); closes/opens the public hearing, asks 'Mr. Warkentin, could you please introduce this file?' for every report, calls every vote; addressed as 'Mr. Mayor' throughout.",
+   "notes": "Members' short lines inside A's turns: 'So moved.' at 00:28:52 and 00:31:42 (split to Susan Penner), 'No comments.' at 00:20:36 (split to Bill Hiebert); 'Nothing further.' at 00:28:49 and 'Nope.' at 00:22:40 left in place (see review). 'Thank you, Cari.' at 00:06:36 is probably a mis-hearing (old transcript: 'Thank you, Your Worship')."
+  },
+  {
+   "label": "B",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'give the opening to Councillor Michael Zwaagstra' 00:00:00 -> B's opening 00:00:12 (minutes item 3: Zwaagstra opened); B moves the conditional use 00:12:38 (R26-023 mover M. Zwaagstra); chair 'motion to approve by Councillor Zwaagstra ... Go ahead, Councillor' 00:21:43 -> B 00:21:53 on By-law 2270 (R26-028 mover M. Zwaagstra). Voice pitch ~104-113 Hz on long turns.",
+   "notes": "'No.' 00:29:36 fits him as seconder of R26-031."
+  },
+  {
+   "label": "C",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer), CU-2026-01",
+   "confidence": "high",
+   "evidence": "Chair 'Is the applicant present today? Would you like to speak?' 00:08:46 -> C gives name (transcribed 'Ronald Newstater') and 101-32 Brandt Street, matching minutes 6.2 (applicant Waldo Neustaedter, 101-32 Brandt Street); answers the Phase 2 question 00:11:17 and consolidation question 00:11:37 exactly as minutes 6.6 records. Speaks as the developer/landlord ('they leased space from us', 'the building that we're proposing to build'), so named as a business applicant.",
+   "notes": "C also carries council turns: 00:06:29 and 00:06:35 (Jake Hiebert), 00:13:33 (Jake Hiebert), 00:16:50 (Jac Siemens) - overridden."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Introduces every file right after 'Mr. Warkentin, could you please introduce this file?' (00:07:10, 00:15:21, 00:17:48, 00:21:14, 00:23:05, 00:26:10); answers questions for administration 00:19:40-00:19:57; minutes 6.1: Troy Warkentin, City Manager introduced CU-2026-01.",
+   "notes": "00:11:30 is Damian Penner's question (overridden). Stray 'Thank you. Thank you, Your Worship.' inside 00:07:10 and 'Thank you, Your Worship. Thank you.' inside 00:26:10 (see review). 'Thank you.' 00:14:59 left on D."
+  },
+  {
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "E's Phase 2 timing question 00:11:10 matches minutes 6.4 (Councillor B. Hiebert inquired about the timeline for the second building); 00:19:16 'like Councillor Penner said' rules out Penner; old map gave the same turns (old letter F) to Bill Hiebert; AssemblyAI agrees. Voice pitch ~130-148 Hz.",
+   "notes": "'Hear, hear.' at the end of 00:19:16 was a separate Zwaagstra-cluster turn in the old transcript (split, low)."
+  },
+  {
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "By elimination with one supporting cue: chair 'Seconded by Councillor Hebert' 00:12:43 (R26-023 seconder J. Hiebert) and F gives the seconder's comments 00:13:36 after the mover; F's long turns are one male voice (~112 Hz), distinct from Bill Hiebert (E, ~130-148), Damian Penner (H, ~120-126), Jac Siemens (G, ~100-107) and Zwaagstra (B); Susan Penner (woman) and every other member already have letters. Old map gave the same turns (old letter D) to Jake Hiebert; AssemblyAI agrees.",
+   "notes": "F also carries 'Motion to approve' 00:16:41 (Jac Siemens) and 00:18:39/00:18:42 (Damian Penner) - overridden. No name hand-off to an F turn."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "G 00:17:13 continues the crawler speech after 'Go ahead, Councillor Siemens' 00:16:45 (R26-024 mover J. Siemens); Damian Penner 00:18:42 'Similar to Councillor Siemens' comments'; G moves and speaks to the subdivision 00:27:51/00:27:58 (R26-030 mover J. Siemens; old transcript chair 'Go ahead, Councillor Siemens'); G speaks to the street lighting resolution 00:30:22 (R26-032 mover J. Siemens).",
+   "notes": "'Nothing further.' 00:22:37 is the end of Zwaagstra's speech (overridden)."
+  },
+  {
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Penner.' -> H 'Motion to approve' 00:23:51, 'Go ahead, Councillor Penner' -> H 00:23:55 on the event centre borrowing (R26-029 mover D. Penner); chair 00:24:54 'Councillor Damian Penner had said that it's paid off in 5 years' echoing H; H 00:18:58 'shiny garbage truck' is quoted by Bill Hiebert as 'like Councillor Penner said' (R26-025 mover D. Penner). Male voice ~120-126 Hz, not Susan Penner.",
+   "notes": "'No comments.' 00:20:35 (accounts, mover J. Hiebert) was on Jake Hiebert's cluster in the old transcript (see review)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:06:29",
+   "label": "C",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair corrects 'Councillor Siemens - I mean, Councillor Hiebert' as mover of the minutes (R26-022 mover J. Hiebert); 'The other Jake.' answers that; old transcript put it on Jake Hiebert's cluster, not the applicant's."
+  },
+  {
+   "time": "00:06:35",
+   "label": "C",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover (J. Hiebert) answering 'Any comments?'; old transcript put it on Jake Hiebert's cluster; the applicant has not spoken yet."
+  },
+  {
+   "time": "00:11:30",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair 'Councillor.' then the consolidation question, which minutes 6.5 attributes to Councillor D. Penner; old transcript had it on Damian Penner's cluster."
+  },
+  {
+   "time": "00:13:33",
+   "label": "C",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Opening of F's 00:13:36 seconder comments; old transcript has 'Thank you, Mr. Mayor. Thank you for the presentation...' as one turn."
+  },
+  {
+   "time": "00:16:41",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Crawler motion: R26-024 mover J. Siemens; chair then 'Go ahead, Councillor Siemens'; old transcript put it on Siemens' cluster."
+  },
+  {
+   "time": "00:16:50",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Follows 'Go ahead, Councillor Siemens'; continues mid-sentence into G (Siemens) at 00:17:13; Damian Penner later cites 'Councillor Siemens' comments'."
+  },
+  {
+   "time": "00:18:39",
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair 'Councillor Penner.' then 'Motion to approve' (R26-025 mover D. Penner); old transcript on Damian Penner's cluster."
+  },
+  {
+   "time": "00:18:42",
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Mover's speech after 'Go ahead'; continues into H (Damian Penner) at 00:18:58 ('shiny garbage truck', which Bill Hiebert credits to Councillor Penner); old transcript has 00:18:42-00:19:12 as one Damian Penner turn."
+  },
+  {
+   "time": "00:22:37",
+   "label": "G",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "End of Zwaagstra's By-law 2270 speech; old transcript has '...a very good rate. Nothing further' in one Zwaagstra turn."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:19:16",
+   "label": "E",
+   "text": "Hear, hear.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Separate turn on Zwaagstra's cluster in the old transcript; not Bill Hiebert's sentence."
+  },
+  {
+   "time": "00:20:36",
+   "label": "A",
+   "text": "No comments.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover of the excavator licences (R26-027 mover B. Hiebert) answering 'Any comments?'; separate turn on Bill Hiebert's cluster in the old transcript."
+  },
+  {
+   "time": "00:28:52",
+   "label": "A",
+   "text": "So moved.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair immediately names 'Councillor Susan Penner' as mover; R26-031 mover S. Penner."
+  },
+  {
+   "time": "00:31:42",
+   "label": "A",
+   "text": "So moved.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair immediately names 'Councillor Penner' as mover of adjournment; minutes item 21 mover S. Penner."
+  }
+ ],
+ "summary": "Clean diarization except letter C, which merges the applicant with three council turns, and letter F, which carries two motions by Siemens/Damian Penner; all overridden. Jake Hiebert (F) is by elimination; Susan Penner speaks only the two 'So moved.' lines inside the chair's turns. Several short procedural lines and stray 'Your Worship'/'Cari' phrases need an ear.",
+ "transcript": "transcripts/2026/2026-02-03.txt"
+}

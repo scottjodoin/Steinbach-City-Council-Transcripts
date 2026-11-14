@@ -1,0 +1,122 @@
+{
+ "meeting": "2024-12-17",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "chairs every item and calls all votes; delegation opens 'Mayor Funk, thank you very much' 00:06:43; minutes item 2 (Mayor Earl Funk called the meeting to order) and item 8 (Mayor Funk thanked the delegation, matches 00:32:12); pitch ~133-138 Hz",
+   "notes": "00:00:03 turn contains 'Yes, we are.' from the delegation (split). 00:30:30 'No, I think we've covered everything that-' is probably a delegation member (review). Several 'Thank you, Your Worship.' fragments across turns are not in the YouTube captions (likely transcription artifacts)."
+  },
+  {
+   "label": "B",
+   "person": "Paul Gibson",
+   "role": "delegation",
+   "title": "Delegation",
+   "organization": "Guardians of the Children, Steinbach",
+   "confidence": "high",
+   "evidence": "self-identifies 'My name is Paul Gibson, known as Donkey with Guardians of the Children' 00:06:43; minutes items 7, 7.1 and 7.3 (Mr. Gibson returned to the podium, matches 00:30:44 business partners); Koop refers to 'Paul' 00:23:32; one consistent voice ~139 Hz",
+   "notes": "'No comments.' 00:52:41 (councillors' item, delegation long finished) is not Gibson - overridden."
+  },
+  {
+   "label": "C",
+   "person": "Lyle Koop",
+   "role": "delegation",
+   "title": "Delegation",
+   "organization": "Guardians of the Children, Steinbach",
+   "confidence": "high",
+   "evidence": "self-identifies 'my name is Lyle Koop' 00:23:32; minutes item 7.2 (career teacher, Hanover School Division 37 years, Adult Teen Challenge) matches content; distinct voice ~99 Hz",
+   "notes": "'Thank you, Brian.' and 'Thank you, Your Worship.' inside the turn are not in the YouTube captions (likely transcription artifacts)."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' 00:33:23 / end of 00:42:46 / 00:52:41 / 00:58:02 each followed by D's staff report; 'I will defer this to Mr. Thiessen, the city's corporate services manager' 00:46:02; minutes item 9 (Troy Warkentin presented the RM of Hanover report); chair 'Thank you, Mr. Warkentin' 00:59:49",
+   "notes": "'Thank you, Alderman Demong.' and 'Thank you, Brian.' inside the 00:58:22 turn are not in the YouTube captions (artifacts)."
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Motion to approve' 00:36:29 and 00:47:31 match minutes movers S. Penner (R24-246, R24-250); chair hand-off 'Councillor Pinner' 00:47:14 -> E; Zwaagstra 'as Councillor Penner had referenced' 00:39:11 and mayor 'as Councillor Penner said, who wouldn't approve this' 00:49:54 echo E's speeches; Damian Penner excused (R24-245); pitch 184-193 Hz (woman), 'Nothing further' 00:42:43 measured 194 Hz",
+   "notes": "Chair hand-off at 00:36:32 reads 'Councillor Susan Penner' here but 'Councillor Stevenson'/'councelor s...' in the old transcript and captions; pitch and the Zwaagstra reference settle it."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "hand-offs 'Councillor Zwaagstra' 00:39:06, 'Councillor Swaigstra' 00:46:40 and 00:56:49, 'Councillor Zwaagstra' 00:59:49 each followed by F; F moves admin penalty, fee schedule and debt by-law first reading = minutes R24-249, R24-254, R24-255 (M. Zwaagstra); chair 'Thank you, Councillor Zwaagstra' 00:41:25; pitch 98-113 Hz"
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "hand-off 'Councillor Siemens.' 00:41:25 -> G substantive speech; chair asks 'Councillor Stevenson?' (= Siemens, as in the old map) 00:49:00 -> 'Yes, Mr. Mayor' building-permit remarks; G is seconder S. Penner yields to on building permits (minutes R24-250 seconder J. Siemens); pitch 110-120 Hz",
+   "notes": "'Councillor Stevenson?' at the start of 00:49:00 is the chair (split). 'Nothing further.' 00:58:01 uncertain (review)."
+  },
+  {
+   "label": "H",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager 'I will defer this to Mr. Thiessen, the city's corporate services manager' 00:46:02 -> H explains the administrative penalty by-law 00:46:07; minutes attendance (Manager, Corporate Services, Adam Thiessen); pitch 119 Hz",
+   "notes": "'No further.' 01:04:15 (councillors' comment call on second reading) is not Thiessen - overridden."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:52:41",
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'No comments.' answering the chair's 'Any comments?' on minor variances moved by B. Hiebert (minutes R24-253); delegation had finished; pitch 168-174 Hz (between Bill Hiebert ~160 and Susan Penner ~190)"
+  },
+  {
+   "time": "01:04:15",
+   "label": "H",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No further.' answering the chair's 'any comments?' on second reading (mover S. Penner, seconder B. Hiebert, R24-256); staff would not answer a council comment call; pitch 136-151 Hz, not Susan Penner; possibly Bill Hiebert or the mayor"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:00:03",
+   "label": "A",
+   "text": "Yes, we are.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "the delegation answering the mayor's 'Are you ready to, ready to speak?'; which member is unclear"
+  },
+  {
+   "time": "00:49:00",
+   "label": "G",
+   "text": "Councillor Stevenson?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "end of the chair's 'Anything further, Councillor ...?' (previous A turn ends 'Anything further,'); G then answers 'Yes, Mr. Mayor.'"
+  }
+ ],
+ "summary": "Clean meeting: eight letters each map to one person (mayor, two Guardians of the Children delegates, City Manager, Corporate Services Manager, Councillors S. Penner, Zwaagstra, Siemens). Neither Hiebert has a substantive turn; two short 'No comments/No further' interjections are uncertain. Several hallucinated 'Thank you, Your Worship/Brian/Alderman Demong' fragments appear inside long turns.",
+ "transcript": "transcripts/2024/2024-12-17.txt"
+}

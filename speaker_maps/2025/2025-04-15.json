@@ -1,0 +1,185 @@
+{
+ "meeting": "2025-04-15",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:00 and gives the AMM report; opens/closes the V-2025-08 hearing, asks 'Mr. Warkentin, could you please introduce this file?' for every item, calls every vote; councillors answer 'Thank you, Mr. Mayor'. Minutes item 2: Mayor Earl Funk called the meeting to order.",
+   "notes": "Turn boundaries slip: applicant's 'I could, yeah, sure.' (00:09:39), seconder's 'Here.' (00:31:08), short closing replies (00:28:25, 00:30:06, 00:34:21) sit inside A's turns - split. Scattered 'Thank you.' fragments inside long turns are left as is."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Hiebert, seconded by Councillor Penner. Go ahead, Councillor Hiebert.' 00:32:55 -> B 00:33:06 building-permit report (minutes R25-085 mover J. Hiebert, seconder D. Penner); Damian Penner next says 'as Councillor Hiebert said' 00:33:41; 00:12:17 'Nothing further to add.' answers the chair's 'Anything further?' to the seconder of R25-079 (minutes seconder J. Hiebert). Distinct from E (B. Hiebert's motions). Old map's D (same timestamps) = Jake Hiebert.",
+   "notes": "Merged cluster: 00:09:53 applicant (Resident 1) and 00:11:15 'Motion to approve.' (Damian Penner) are overridden; 00:07:23 'Agreed.' overridden to group. 00:07:26 'Good.' and 00:36:10 'That's' left on B (unclear)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Every 'Mr. Warkentin, could you please introduce this file?' (00:07:28, 00:12:59, 00:26:41, 00:28:25, 00:30:06) -> C staff report; Zwaagstra 'thanks to Mr. Warkentin for a very comprehensive answer' 00:21:15 after C's 00:15:24 reply. Minutes 6.1: Troy Warkentin, City Manager introduced V-2025-08."
+  },
+  {
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Go ahead, Councillor Penner' 00:11:16 -> D variance speech (minutes R25-079 mover D. Penner); chair 'Councilor Penner explained everything very well' 00:12:23; 00:30:05 'Nothing further to add to that.' as seconder of R25-083 (minutes seconder D. Penner); 00:33:41 seconder speech on R25-085 (minutes seconder D. Penner); 00:41:33 seconder of R25-087 (minutes D. Penner). Male voice 121-134 Hz, distinct from H (Susan Penner ~195 Hz)."
+  },
+  {
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Accounts payable: chair names 'Councillor Hiebert' as mover 00:12:23 -> E 00:12:54 comment (minutes R25-080 mover B. Hiebert); business licences: chair names 'Councillor Hiebert' as mover 00:34:21 -> E 00:35:34 'happy to approve' (minutes R25-086 mover B. Hiebert, seconder J. Hiebert). Separate cluster from B (J. Hiebert's motion). Pitch 151-155 Hz, near Bill Hiebert's 160 Hz reference; B's long turn 113 Hz.",
+   "notes": "Only two short turns. Old v1 split 00:12:54 into 'No comment.' (old E) and the rest (old C); here it is one turn."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra.' 00:13:53 -> F 'I'll make the motion to approve' and 'Go ahead, Councillor Zwaagstra' 00:14:01 -> F CHIF speech (minutes R25-081 mover M. Zwaagstra); Warkentin replies 'to your comments, Councillor Zwaagstra' 00:15:24; 'Councillor Zwaagstra.' 00:27:47 and 00:29:39 -> F motions (minutes R25-082, R25-083 mover M. Zwaagstra).",
+   "notes": "00:26:40 'Financial Plan Adoption.' may be the mayor reading the agenda (old v1 kept it inside the mayor's turn) - review. 'Hear, hear.' 00:35:38 and 'Still a democracy, Mr. Mayor.' 00:35:55 left on F."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Siemens ... You said you had comments' 00:36:12 -> G 'You want a comment or do you want a motion first?'; 'Go ahead, Councillor Siemens' 00:36:44 -> G ERMC report (minutes R25-087 mover J. Siemens); 00:23:23 seconder comment on R25-081 and 00:32:05 seconder 'Nothing further to add' on R25-084 (minutes seconder J. Siemens both times).",
+   "notes": "Merged cluster: 00:33:27 is the continuation of Jake Hiebert's permit report and 00:45:32 is the City Manager - both overridden. 00:35:50 'Call for the question.' left on G."
+  },
+  {
+   "label": "H",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penner, make motion' 00:31:02 -> H 'Motion to approve' (minutes R25-084 mover S. Penner); 'Go ahead, Councillor Penner' 00:31:08 -> H 'since my time on council'; 'Councillor Susan Penner.' 00:43:23 -> H 00:44:35 Southwood School request, and the chair replies 'as Councillor Susan Penner has requested' 00:45:07. Voice pitch 184-200 Hz (woman), unlike D (Damian Penner).",
+   "notes": "00:35:52 'Call for the question.' left on H."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:07:23",
+   "label": "B",
+   "person": "Several councillors",
+   "role": "group",
+   "confidence": "medium",
+   "reason": "'Agreed.' answering the chair's 'All those in favor?' on the minutes vote; pitch 158-180 Hz, unlike B's 113 Hz long turn; old v1 put it on Zwaagstra's cluster"
+  },
+  {
+   "time": "00:09:53",
+   "label": "B",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Self-identifies after the chair asks the applicant to state name and address; minutes 6.3 name the owner/applicant (Resident 1) at 886 Main Street; old v1 had a separate letter (H) for this turn"
+  },
+  {
+   "time": "00:11:15",
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair names 'Councillor Penner' as mover, then 'Go ahead, Councillor Penner' -> D's speech; minutes R25-079 mover D. Penner; old v1 put this turn in Damian Penner's cluster"
+  },
+  {
+   "time": "00:33:27",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Continuation of the building-permit report begun at 00:33:06 (old v1 has 00:33:06-00:33:40 as one turn); Damian Penner then says 'as Councillor Hiebert said, in the community', echoing this turn's 'confidence they have in the City of Steinbach'; pitch 114 Hz matches 00:33:06 (113 Hz)"
+  },
+  {
+   "time": "00:45:32",
+   "label": "G",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Chair hands the Southwood School letter to 'Mr. Warkentin' to give to staff; reply 'I will do that and we'll come back to council with a report'; old v1 put it in the City Manager's cluster"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:09:39",
+   "label": "A",
+   "text": "I could, yeah, sure.",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Applicant's answer to 'Is the applicant here today? Do you wish to speak?'; old v1 has it as a separate turn by the applicant's letter"
+  },
+  {
+   "time": "00:28:25",
+   "label": "A",
+   "text": "Nothing further.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Reply to the chair's 'Anything further?' to the seconder; minutes R25-082 seconder B. Hiebert, but old v1 put this reply in Damian Penner's cluster"
+  },
+  {
+   "time": "00:29:52",
+   "label": "F",
+   "text": "Councillor.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "End of the chair's 'Go ahead, Councillor.' (previous line ends 'Go ahead,')"
+  },
+  {
+   "time": "00:30:06",
+   "label": "A",
+   "text": "Nope.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover's reply to 'Anything closing?'; old v1 has it as a separate turn on Zwaagstra's cluster"
+  },
+  {
+   "time": "00:31:08",
+   "label": "A",
+   "text": "Here.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Answer to 'Second by?', chair immediately names 'Councillor Siemens'; minutes R25-084 seconder J. Siemens; old v1 has it on Siemens' cluster"
+  },
+  {
+   "time": "00:34:21",
+   "label": "A",
+   "text": "Nothing, thank you.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover's reply to 'Anything closing?' (R25-085 mover J. Hiebert); old v1 has it as a separate turn on Jake Hiebert's cluster"
+  }
+ ],
+ "summary": "Clean meeting; AssemblyAI's letter guesses all agree with the evidence. Letters B and G each carry a few turns from other voices (applicant, Damian Penner's motion, Jake Hiebert's report continuation, City Manager) - overridden. Short procedural replies are the main uncertainty.",
+ "transcript": "transcripts/2025/2025-04-15.txt"
+}

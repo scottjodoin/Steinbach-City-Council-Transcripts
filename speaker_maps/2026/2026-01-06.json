@@ -1,0 +1,152 @@
+{
+ "meeting": "2026-01-06",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:01), gives the opening remarks naming each councillor, runs every motion and vote, hands off to Mr. Warkentin (00:13:31, 00:28:52) and councillors; addressed as 'Mayor Funk' by the applicant (00:16:34) and 'Mr. Mayor' throughout. Minutes item 2: Mayor Earl Funk called the meeting to order.",
+   "notes": "Long opening turn (00:00:01) absorbs short councillor interjections ('Great.', 'Thank you.', 'Yeah.', 'Right.', 'Mayor.') that the old transcript gave to other letters; not split (voices not identifiable). Mover words split out at 00:04:04 ('So moved.') and 00:26:52 ('Move. Motion to approve.'); applicant's 'Yes.' split at 00:16:12."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this file?' followed by C's file introductions (00:13:31, 00:28:52); answers the lease-term question after 'any questions for Mr. Warkentin?' (00:31:13); applicant refers to 'Mr. Warkentin' and 'Troy' (00:16:34, 00:22:37); minutes 6.1 and 18: T. Warkentin introduced both items.",
+   "notes": "'Thank you, Your Worship.' fragments inside C's turns (00:13:31, 00:28:52) are not in the YouTube captions or the old transcript; split to Unclear. Stray 'Yes.', 'Okay.', 'Thank you.' inside 00:13:31 left in place."
+  },
+  {
+   "label": "A",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "A 'Motion to approve.' on CU-2025-06 (00:20:20) after chair calls 'Councillor Penner'; minutes R26-003 mover = D. Penner; chair 'Go ahead, Councillor Penner.' then A's substantive turn (00:20:24). Voice pitch of A's turns 121-144 Hz (male), ruling out Susan Penner. A at 00:26:24 refers to Councillor Zwaagstra in the third person.",
+   "notes": "00:16:27 'Yes.' is the applicant answering the chair (override). 00:00:00 'I haven't gone yet.' was on the mayor's letter in the old transcript (review). 00:27:27 'Nothing further, thank you.' follows the financial-statements motion moved by B. Hiebert (review)."
+  },
+  {
+   "label": "D",
+   "person": "Nic Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Three Way Builders Ltd.",
+   "confidence": "high",
+   "evidence": "Self-identifies 'Nick Thiessen, 50 Granite Park Boulevard' (00:16:34) after the chair asks the applicant to state name and address; minutes 6.2 and 9: Nic Thiessen on behalf of the applicant Three Way Builders Ltd.; 'Still the same guy.' at the variance hearing (00:22:33); answers councillor questions on the balcony (00:24:32-00:25:00).",
+   "notes": "00:28:18 'Not at this time.' answers the chair asking council about the ERMC South minutes, not the applicant (override to Unclear). Spelled 'Nic' as in the minutes."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair calls 'Councillor Swaigstra' and E moves the variance (00:25:41); minutes R26-004 mover = M. Zwaagstra; chair 'Thank you, Councillor Swaigstra' after E's substantive turn (00:26:22); A then says 'I also agree with what Councillor Swaigstra is saying'. E's CU turn (00:21:03) follows the chair naming Zwaagstra as seconder (R26-003 seconder M. Zwaagstra). Pitch 111 Hz on both turns."
+  },
+  {
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "F says 'Paying our bills.' (00:27:10) when the chair asks for comments on accounts payable right after naming the mover 'Councillor Hiebert'; minutes R26-005 mover = J. Hiebert. F's question turns (00:24:15, 00:31:07) are one male voice (pitch 113-118 Hz), lower than Bill Hiebert's measured ~160 Hz. AssemblyAI agrees.",
+   "notes": "Never named in a hand-off; identification rests on the mover comment, pitch and AssemblyAI. Bill Hiebert is the alternative."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair calls 'Councillor Siemens?' and G says 'Motion to approve.' on the Source for Sports lease (00:31:34); minutes item 19 mover = J. Siemens; chair 'Go ahead, Councillor Siemens.' then G's substantive turn on the Southeast Event Centre (00:31:38).",
+   "notes": "00:31:21 'Thank you. Thank you.' is the questioner thanking the City Manager (override to Jake Hiebert)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:16:27",
+   "label": "A",
+   "person": "Nic Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Three Way Builders Ltd.",
+   "confidence": "medium",
+   "reason": "answers the chair's 'do you wish to speak?' addressed to the applicant, who then takes the podium; old transcript put this 'Yes.' on the applicant's letter"
+  },
+  {
+   "time": "00:28:18",
+   "label": "D",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "answers the chair asking council (likely the ERMC South representative) for comments on the subcommittee minutes; not the applicant, whose items were finished"
+  },
+  {
+   "time": "00:31:21",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "the questioner (F) thanking the City Manager for answering the lease-term question; old transcript put it on the questioner's letter; Siemens is only called on afterwards"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:04:04",
+   "label": "B",
+   "text": "So moved.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair names 'Councillor Penner' as mover right after; minutes R26-001 mover = D. Penner; old transcript had 'So moved.' on a separate letter"
+  },
+  {
+   "time": "00:16:12",
+   "label": "B",
+   "text": "Yes.",
+   "person": "Nic Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Three Way Builders Ltd.",
+   "confidence": "medium",
+   "reason": "reply to the chair's 'Is the applicant here today?'; old transcript put it on the applicant's letter"
+  },
+  {
+   "time": "00:26:52",
+   "label": "B",
+   "text": "Move. Motion to approve.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair names 'Councillor Hiebert' as mover immediately after; minutes R26-005 mover = J. Hiebert"
+  },
+  {
+   "time": "00:13:31",
+   "label": "C",
+   "text": "Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "interrupts the City Manager's report mid-sentence; not in the YouTube captions; possibly not in the audio"
+  },
+  {
+   "time": "00:28:52",
+   "label": "C",
+   "text": "Thank you, Your Worship. Thank you, [name withheld]. Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "interrupts the City Manager's report mid-sentence; absent from the YouTube captions and the old transcript; likely not in the audio"
+  }
+ ],
+ "summary": "Clean 7-letter diarization of a 34-minute meeting: mayor, City Manager, applicant's representative and four councillors (D. Penner, Zwaagstra, Siemens high; Jake Hiebert medium). Susan Penner and Bill Hiebert have no identifiable turns. Short interjections and mover words absorbed into the chair's turns were split; two 'Your Worship' fragments in the City Manager's reports look spurious.",
+ "transcript": "transcripts/2026/2026-01-06.txt"
+}

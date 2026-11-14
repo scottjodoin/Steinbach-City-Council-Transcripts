@@ -1,0 +1,111 @@
+{
+ "meeting": "2026-01-20",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Opening remarks (minutes item 3: Councillor Susan Penner opened the meeting), chair replies 'Thank you, Councillor Penner' 00:00:59; 'Councillor Penner.' -> A 'Motion to approve' 00:23:07 (R26-012 mover S. Penner); 'Councillor Susan Penner ... Councillor Penner, go ahead' -> A 00:33:30 (R26-017 mover S. Penner); A 'I'll make the motion' 00:40:31 (R26-020 mover S. Penner); 'I've been on council for 15 years'. Voice pitch 184-229 Hz (woman) on all long turns.",
+   "notes": ""
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Chairs throughout (motions, calls for the question, introduces items); addressed as 'Mr. Mayor'; minutes item 2: Mayor Earl Funk called the meeting to order; speaks of 'my resolution' and meeting 'in my office'.",
+   "notes": "Short interjections 'Right.', 'Mm-hmm.', 'Yes.', 'Second.', 'Aye.' inside B's long turns are other members and were left in place (cannot be placed)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Introduces every report after 'Mr. Warkentin, would you please introduce this file?' (00:01:52, 00:17:55, 00:22:20, 00:25:30, 00:27:50); minutes items 6 and 8: Troy Warkentin, City Manager provided the information; 'Administration now recommends'.",
+   "notes": "Odd 'Thank you, Your Worship. Thank you, Greg.' fragments inside 00:01:59 and 00:18:02 (see review)."
+  },
+  {
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'Councillor Jake Siemens, you are on the library board' -> D 00:04:12; 'go ahead, Councillor Siemens' 00:04:38 -> D motion (R26-009 mover J. Siemens); 'Councillor Siemens.' -> D 'I will do so.' 00:27:30 (R26-014 mover J. Siemens); 'Go ahead, Councillor Siemens' 00:37:16 -> D (R26-018 mover J. Siemens); Bill Hiebert (E) and others refer to 'Councillor Siemens' laying out the motion.",
+   "notes": ""
+  },
+  {
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:09:52: 'when I was appointed to the Jake Epp Library board ... I made contact with all these municipalities' matches Siemens's account that Councillor Bill Hiebert made presentations to neighbouring municipalities, and refers to Councillor Siemens in the third person; 'No comments.' 00:22:05 after AP motion (R26-011 mover B. Hiebert); 'No further comment.' 00:26:55 as seconder (R26-013 seconder B. Hiebert). Pitch 144-165 Hz, distinct from G (104-111 Hz).",
+   "notes": "'Thank you, Mr. Mayor.' 00:20:50 and 'No further calls for' 00:38:10 overridden."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Motion to approve' 00:19:32 on land purchase (R26-010 mover M. Zwaagstra); 'Make a motion for 3rd reading' 00:29:39 (R26-015 mover Zwaagstra); 'Councillor Zwaagstra ... Go ahead.' -> F 00:38:08 (R26-019 mover Zwaagstra); chair 00:44:14 'like Councillor Switzer said, ... if we need more clarification' echoes F's 00:41:37 point (R26-020 seconder Zwaagstra). Pitch 96-100 Hz.",
+   "notes": ""
+  },
+  {
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Hebert. Second by Councillor Hebert. Go ahead.' -> G speaks as mover at 00:26:33 (R26-013 mover J. Hiebert); 00:20:52 land comment after 'Seconded by Councillor Hiebert' (R26-010 seconder J. Hiebert); 'No, that's all.' 00:31:17 as seconder of R26-015 (J. Hiebert). Pitch 104-111 Hz, clearly different from Bill Hiebert (E, ~145 Hz).",
+   "notes": "00:42:51 DFA comment is unnamed but same voice (111 Hz). 00:23:42 overridden to Damian Penner."
+  },
+  {
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:43:08 refers to 'Councillor Penner's opening' (Susan Penner) so is the other Penner; male pitch 129-134 Hz; 00:34:48 speaks after Susan Penner moved building permits (R26-017 seconder D. Penner); 00:24:01 continues the By-law 2266 seconder's speech (R26-012 seconder D. Penner).",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:20:50",
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Thank you, Mr. Mayor.' immediately precedes G's land-purchase comment with no hand-off; the old transcript diarized it as the same speaker as the comment; J. Hiebert seconded R26-010."
+  },
+  {
+   "time": "00:23:42",
+   "label": "G",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Sentence runs straight into H at 00:24:01 ('nice to see that we're / seeing a little bit of density creep'); seconder of R26-012 is D. Penner; pitch 124 Hz vs Jake Hiebert 104-111 Hz; old transcript gave the whole turn to Damian Penner's letter."
+  },
+  {
+   "time": "00:38:10",
+   "label": "E",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "'No further calls for' runs into the chair's next turn ('the question. All those in favour?'); the old transcript put the whole phrase on the chair's letter."
+  }
+ ],
+ "turn_splits": [],
+ "summary": "Clean 8-letter diarization matching all seven council members plus the City Manager; AssemblyAI's mapping agrees on every letter. Three short boundary slips overridden (00:20:50, 00:23:42, 00:38:10); some 'Thank you, Your Worship' fragments inside staff/councillor turns may not be in the audio.",
+ "transcript": "transcripts/2026/2026-01-20.txt"
+}

@@ -1,0 +1,144 @@
+{
+ "meeting": "2023-12-19",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Minutes item 2: Mayor Earl Funk called the meeting to order. A calls to order (00:00:08), gives the opening to Councillor Bill Hiebert, names every mover/seconder, calls every vote, opens/closes the V-2023-22 public hearing, asks Mr. Warkentin to introduce each file, and announces the library board appointment (minutes item 29: Mayor Funk appointed). Addressed as 'Mr. Mayor' throughout.",
+   "notes": "Some councillors' short replies sit inside A's turns (see splits): 'first?' 00:31:16, 'Nothing further.' 00:42:41 and 00:45:51, 'All comments.' 00:43:18, 'No' 00:53:42. 'Councilor Alderman Chabot.' (00:31:07) and 'Alderman Demong' (00:48:16) are vocabulary hallucinations not in the YouTube captions."
+  },
+  {
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'I'd like to give the opening to Councillor Bill Hiebert' (00:00:08), B gives the opening (00:00:14; minutes item 3: Councillor Bill Hiebert opened the meeting). Chair 'Councillor Bill Hiebert' (00:41:38), B 'I would vote to approve change order' (00:41:59) and mover statement (00:42:07); minutes R23-253 mover B. Hiebert. B speaks for the minor subdivisions (00:56:24); minutes R23-266 mover B. Hiebert.",
+   "notes": "'He can adjourn it too.' 00:58:22 is a short aside."
+  },
+  {
+   "label": "C",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Hiebert.' (00:06:41), C 'Motion to deny.' (00:07:30), 'Go ahead, Councillor Huber' -> C's speech (00:07:35); minutes R23-251 mover J. Hiebert. Chair 'Councillor Hiebert' (00:38:22), C 'As Councillor Siemens has said...' (00:38:28). Chair 'Councillor Hiebert, seconded by Councillor Switzer. Go ahead, Councillor Hiebert' (00:54:51), C on Barkman Avenue (00:55:01); minutes R23-264 mover J. Hiebert. Long turns measure ~107-114 Hz (low male voice), unlike Bill Hiebert's B (~160 Hz).",
+   "notes": "Short replies 'We can do that.' 00:04:54 and 'Looks beautiful.' 00:21:34 are not tied to him by any cue (see review)."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' (00:05:04, 00:10:39, 00:44:34, 00:46:39, 00:51:00, 00:53:57) each followed by D introducing the file; minutes 7.1, 9 and 10: Troy Warkentin, City Manager introduced V-2023-22 and presented the Event Centre update and change order. Chair asks 'A question for administration' and D answers (00:30:54).",
+   "notes": "'Thank you, Your Worship.' inside D's turns (00:05:32, 00:21:42, 00:48:43) and 'Thank you, Alderman Demong' (00:48:43) are not in the YouTube captions; scattered mid-presentation 'Thank you.' fragments are likely noise."
+  },
+  {
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Seconded by Councillor Siemens' then 'Anything further, Councillor Stevenson?' (00:09:01) -> E (minutes R23-251 seconder J. Siemens). Chair 'Go ahead, Councillor Siemens.' (00:52:32) -> E's lift station speech (minutes R23-262 mover J. Siemens). E's $200 million building-permit point (00:36:13) is later cited by the chair 'As Councillor Siemens had mentioned earlier' (00:43:18) and by C 'As Councillor Siemens has said' (00:38:28).",
+   "notes": "'Stevenson'/'Stevens' in the chair's lines here = Siemens (minutes R23-251, R23-254)."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Anything further? Councillor Zwaagstra?' (00:31:51) -> F 'I'll put a motion' and moves the funding (00:32:03); minutes R23-252 mover M. Zwaagstra. Chair 'Councillor Zwaagstra.' (00:47:41) -> F moves first reading of By-Law 2238 (minutes R23-259). Chair 'Councillor Spijkstra' (00:50:11) -> F (minutes R23-260 mover M. Zwaagstra). E refers to 'Councillor Zwaagstra' after F's speech (00:36:13).",
+   "notes": ""
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Council, would you like to proceed? Councillor Penner.' (00:45:27) -> G 'Motion to approve.' (00:45:34); minutes R23-258 mover S. Penner (Damian Penner excused, R23-250). G 'No, nothing further.' (00:44:33) after building permits moved by S. Penner (R23-257). Voice pitch of 'Motion to approve.' 190 Hz (a woman's voice; Susan Penner ~193 Hz).",
+   "notes": "'Anything' 00:53:39 is the chair's (override). Other G turns measure 148-178 Hz on short clips; 'No.' 00:48:15 measured 123 Hz on 15 frames only (see review)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:21:42",
+   "label": "A",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "'Now' begins D's next words 'I've got part 2' ('So that was part 1. Now I've got part 2.'); the original transcript put the whole sentence on the City Manager's letter"
+  },
+  {
+   "time": "00:53:39",
+   "label": "G",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "'Anything' continues in A's next turn 'further, council? Anything in closing?'; the original transcript has the whole phrase on the mayor; 129 Hz, not Susan Penner's voice"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:31:16",
+   "label": "A",
+   "text": "first?",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "completes E's 'Can I ask a question' (captions: 'a question first go ahead'); the mayor answers 'Go ahead, yeah.'"
+  },
+  {
+   "time": "00:42:41",
+   "label": "A",
+   "text": "Nothing further.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "reply after the accounts-payable motion moved by J. Siemens (R23-254); the original transcript put it on Siemens's letter"
+  },
+  {
+   "time": "00:43:18",
+   "label": "A",
+   "text": "All comments.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "probably 'No comments.' from the business-licence mover B. Hiebert (R23-256); the original transcript put it on Bill Hiebert's letter"
+  },
+  {
+   "time": "00:45:51",
+   "label": "A",
+   "text": "Nothing further.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "reply after the chair's 'Anything further?'; the original transcript put it on Jake Hiebert's letter; he seconded R23-258"
+  },
+  {
+   "time": "00:53:42",
+   "label": "A",
+   "text": "No",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "start of C's 'No further comments.' (next turn 00:53:56); J. Hiebert moved second reading R23-263"
+  }
+ ],
+ "summary": "Clean seven-letter meeting (mayor, City Manager, five councillors; Damian Penner excused); all letters agree with AssemblyAI. A few councillors' short replies sit inside the mayor's turns (split out); vocabulary hallucinations 'Alderman Chabot'/'Alderman Demong' and several 'Your Worship' lines are not in the captions. No residents spoke; the variance applicant and owners are withheld.",
+ "transcript": "transcripts/2023/2023-12-19.txt"
+}

@@ -1,0 +1,87 @@
+{
+ "meeting": "2024-08-06",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Unidentified",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "evidence": "Only substantive turn 00:13:14 answers the chair's 'Councillor Penner, seconded by Councillor Pinner. Any comments?' on By-law 2198 third reading (minutes R24-161: S. Penner, D. Penner). No name hand-off. Voice pitch 168-172 Hz: above Damian Penner's usual 116-145 Hz and below Susan Penner's ~190 Hz; the chair measures 140-158 Hz in this meeting, so it could even be the mayor explaining the file (he explains 9B himself). YouTube captions after the turn read 'nothing further D anything further of council', which may be the chair asking 'Damian?'.",
+   "notes": "A 00:00:00 'I'd like' is the start of the chair's call to order (override)."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:02, minutes item 2 'Mayor Earl Funk called the meeting to order'), gives the opening to 'Councillor Michael Zwaagstra', recesses for and closes the V-2024-07 public hearing (minutes item 6), names every mover/seconder and calls every vote; addressed as 'Mr. Mayor' by C, D and E.",
+   "notes": "Short replies inside B's turns ('Move.' 00:04:57, 'No comments.' 00:09:54, 'So moved.' / 'Second.' 00:13:30, 'Nothing further to add.' 00:13:30) may be councillors'. The adjournment 'So moved.' and 'Second.' are split; the rest are left with the chair."
+  },
+  {
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'I'd like to give the opening to Councillor Michael Zwaagstra' (00:00:02) -> C gives the opening (00:00:09), minutes item 3 'Councillor M. Zwaagstra opened the meeting'; chair 'Thank you, Councillor Zwaagstra' (00:04:57); chair 'Council, how would you like to proceed? Councillor Zwaagstra.' (00:07:49) -> C moves to approve the variance (00:08:39), minutes R24-156 mover M. Zwaagstra. 'Nope.' (00:09:53) answers 'Anything in closing?', which goes to the mover.",
+   "notes": "'No, sir.' (00:12:26) after the excavator-licence motion (Siemens / D. Penner) is a short interjection that may not be his."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, please, could you introduce this file?' (00:04:57) -> D introduces V-2024-07 (00:06:14), minutes 6.1 'Troy Warkentin, City Manager, introduced Variance V-2024-07'; chair 'Mr. Warkentin, could you please introduce this file?' (00:12:27) -> D reports on By-law 2198 (00:12:44); chair 'Thank you, Mr. Warkentin' (00:13:05).",
+   "notes": "'Thank you. Thank you, Your Worship. Thank you, Mr. Hrehirchuk.' inside the 00:06:14 report is not in the YouTube captions, which run 'provided for council's information in the agenda package' straight through: a transcription artefact."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "E 00:09:16 speaks in support of the variance right after the mover (Zwaagstra) and before closing; the chair had named the seconder 'Councillor Hiebert' (00:08:41) and minutes R24-156 give the seconder as J. Hiebert. E 00:12:08 'No comments.' answers 'Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?' (minutes R24-159 mover J. Hiebert). Voice pitch 101 Hz matches Jake Hiebert (~105-111 Hz in other meetings), not Bill Hiebert (~160 Hz). In the original transcript the same voice cluster also carried the adjournment 'So moved.' (minutes mover J. Hiebert).",
+   "notes": "No direct name hand-off before the 00:09:16 turn; Jac Siemens has a similar low voice (~104 Hz)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:00:00",
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "'I'd like' is the first words of the chair's 'I'd like to call this meeting to order', which continues on B at 00:00:02; the original transcript has the whole sentence on the chair"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:13:30",
+   "label": "B",
+   "text": "So moved.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "reply to the chair's 'looking for moves to adjourn'; chair then names 'Councillor Hiebert' and minutes item 14 give mover J. Hiebert; the original transcript put it on a separate voice cluster (the E voice)"
+  },
+  {
+   "time": "00:13:30",
+   "label": "B",
+   "text": "Second.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "seconding the adjournment; chair names 'seconded by Councillor Penner' and minutes item 14 give seconder S. Penner; the original transcript put it on a non-chair voice cluster"
+  }
+ ],
+ "summary": "Short, clean meeting (14 min): chair, Zwaagstra, Warkentin and Jake Hiebert identified; one councillor comment on By-law 2198 (A 00:13:14) is unresolved between the two Penners and the mayor. Adjournment mover/seconder split from the chair's turn; a hallucinated 'Mr. Hrehirchuk' line and several short replies inside the chair's turns are flagged.",
+ "transcript": "transcripts/2024/2024-08-06.txt"
+}

@@ -1,0 +1,124 @@
+{
+ "meeting": "2024-09-17",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order and gives the opening to Councillor Jake Hiebert (00:00:00); runs every motion, vote and both public hearings (minutes 2, 7, 9: Mayor Earl Funk chaired and called the hearings); hands the floor to Warkentin, Zwaagstra and Siemens by name.",
+   "notes": "Absorbs fragments of others: 'Through you, Mr. Mayor. Have you talked to the neighbor?' 00:13:49 (Siemens, split); 'I'll speak on behalf of the applicant.' / 'I'm the owner, yes.' 00:22:33 (split); 'Second.' 00:06:56 and 00:29:20 and 'Yes, please.' 00:48:19 are unplaced councillors; 'Thank you, Your Worship.' inside 00:46:42 is not the mayor's."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'give the opening to Councillor Jake Hiebert' 00:00:00 -> B's opening (minutes 3: Jake Hiebert opened; content about 39 years in policing); chair 'Thank you, Councillor Hiebert, for your opening' 00:06:56; 00:33:53 speaks as seconder right after mover Siemens on By-law 2250 (minutes R24-185 seconder J. Hiebert); chair 'Go ahead, Councillor Hiebert.' 00:53:07 -> B. Pitch 105-109 Hz on 00:18:20, 00:33:53, 00:53:11 matches Jake Hiebert's ~105-111 Hz in other meetings (Bill Hiebert 124-168 Hz). Opening reads 137-142 Hz with few voiced frames (prepared reading, weaker audio).",
+   "notes": "00:18:20 follows only 'Go ahead, Councillor.' - attributed by voice (107 Hz) and cluster."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' 00:06:56 -> C introduces V-2024-12 (minutes 7.1); again V-2024-13 (9.1); storm report after 'Mr. Warkentin, the floor is yours' 00:25:28 (minutes 11); By-law 2250; answers Zwaagstra on the encampment (minutes 18.1); chair 'Thank you, Mr. Warkentin.' after his turns.",
+   "notes": "Stray 'Yes.', 'Thank you.' and 'Thank you, Your Worship.' fragments inside 00:21:18, 00:26:09, 00:32:00 and 00:37:15 are probably crosstalk or mis-transcription, not his words."
+  },
+  {
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Chair 'Is the applicant here today? Do you wish to speak?' 00:11:20 -> D presents the V-2024-12 garage request (minutes 7.2: applicant present); answers Siemens's questions 00:13:57-00:15:21; councillors refer to Resident 1's comments at 00:16:21 and 00:17:20. Speaks for the numbered company that owns 322 Reimer Avenue but presents personally (family home), so treated as a private individual."
+  },
+  {
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hand-offs 'Go ahead, Councilor Stevenson' 00:13:49 and 00:39:47, 'Councillor Stevens.' 00:15:26 -> motion (minutes R24-180 mover J. Siemens), 'Go ahead, Councillor Stevens' 00:16:16, 'Councillor Siemens.' 00:51:53, each followed by E; 00:33:01 'Motion to approve' = R24-185 mover J. Siemens; B 00:18:20/00:33:53 and chair 00:43:23 cite 'Councillor Siemens' for E's points. Pitch 106-107 Hz.",
+   "notes": "00:22:49 is Oliver Kopp (override)."
+  },
+  {
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Never addressed by name. 00:17:20 speaks right after mover Siemens when the chair named seconder 'Councillor Penner' (minutes R24-180 seconder D. Penner); 00:50:50 speaks right after mover Zwaagstra when the chair named seconder 'Councillor Penner' (minutes R24-186 seconder D. Penner); Susan Penner was excused (minutes 6), so 'Councillor Penner' is Damian. Pitch 122-130 Hz across both speeches and 00:25:11, one voice, in Damian Penner's 116-148 Hz range and well above Jake Hiebert (B, 105-109). AssemblyAI agrees.",
+   "notes": "00:25:11 and 00:30:58 followed motions seconded by B. Hiebert; voice matches the other F turns but Bill Hiebert cannot be fully excluded (see review). Bill Hiebert has no identified speech in this meeting."
+  },
+  {
+   "label": "G",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra.' at the end of 00:23:55, 00:35:32 and 00:48:19, each -> G (motions R24-181 and R24-186, mover M. Zwaagstra; question period, minutes 18); 'Go ahead, Councillor Zwaagstra' 00:24:33 -> G; City Manager replies 'Thank you, Councillor Zwaagstra' 00:37:15; G 00:31:32 declares a conflict (minutes 15). Pitch 94-98 Hz on all speeches.",
+   "notes": "'Penner.' at the start of 00:49:33 is the end of the chair's hand-off (split); captions hear 'go ahead councelor uh thank you Mr Mayor'."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:22:49",
+   "label": "E",
+   "person": "Oliver Kopp",
+   "role": "delegation",
+   "title": "General Manager",
+   "organization": "The Rental House",
+   "confidence": "high",
+   "reason": "Self-identifies 'My name is Oliver Kopp from the rental house' after the chair asks for name and address; minutes 9.3: Oliver Kopp, General Manager of The Rental House and future tenant, spoke at the V-2024-13 hearing. Pitch 103 Hz."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:13:49",
+   "label": "A",
+   "text": "Through you, Mr. Mayor. Have you talked to the neighbor?",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair just said 'Go ahead, Councilor Stevenson'; Siemens's question to the applicant, continued by E at 00:14:50."
+  },
+  {
+   "time": "00:22:33",
+   "label": "A",
+   "text": "I'll speak on behalf of the applicant.",
+   "person": "Oliver Kopp",
+   "role": "delegation",
+   "title": "General Manager",
+   "organization": "The Rental House",
+   "confidence": "low",
+   "reason": "Answer to the chair's 'Do you wish to speak?'; Kopp then speaks for the tenant, but the speaker is not certain."
+  },
+  {
+   "time": "00:22:33",
+   "label": "A",
+   "text": "I'm the owner, yes.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "A member of the public answering the chair, not the mayor; could be Kopp or a property owner's representative."
+  },
+  {
+   "time": "00:49:33",
+   "label": "G",
+   "text": "Penner.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "End of the chair's 'Go ahead, Councillor ...' at the end of 00:49:29; the speech that follows is Zwaagstra's (pitch 98 Hz as in his other turns)."
+  }
+ ],
+ "summary": "Clean diarization: seven letters, one voice each apart from Kopp's speech under E and a few short fragments. Main uncertainty is F (Damian Penner by seconder pattern and pitch, never named); Bill Hiebert has no identified speech.",
+ "transcript": "transcripts/2024/2024-09-17.txt"
+}

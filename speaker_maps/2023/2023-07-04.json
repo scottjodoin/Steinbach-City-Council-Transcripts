@@ -1,0 +1,104 @@
+{
+ "meeting": "2023-07-04",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair hand-offs 'Councillor Zwaagstra' 00:07:24, 00:11:21, 00:13:50, 00:22:39 each followed by A moving; 'Go ahead, Councillor Zwaagstra' 00:22:48 -> A 00:22:53; minutes record M. Zwaagstra as mover of R23-137, R23-139, R23-140, R23-143; C says 'Councillor Zwaagstra covered it all' 00:12:09 right after A's 00:11:32 speech; voice ~103-117 Hz.",
+   "notes": "00:06:58 'I can do that.' and 00:07:05 'Nothing further.' overridden (Siemens moved the financial statements). Pre-meeting chatter 00:00:01 and 00:05:19 ('Let's do this meeting. Yeah. Give') are uncertain (pitch 143 Hz and 170 Hz, unlike A's speeches); left on A, see review. Short 'No.' 00:12:15 and 'Nope.' 00:20:22 left on A."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:08, gives the opening to Councillor Damian Penner, names movers/seconders matching minutes R23-132 to R23-143, hands files to Mr. Warkentin, calls every vote; addressed as 'Mr. Mayor' throughout; minutes: Mayor Earl Funk called the meeting to order; voice ~144 Hz.",
+   "notes": "'Call for the question' lines were a separate letter (E) in the original transcript; kept with the chair as in other meetings. 00:05:54 'No further comments.' split to the accounts mover. 00:18:29 ends with 'Thank you, Your Worship.' (probably the City Manager's opening words or not in the audio) - see review."
+  },
+  {
+   "label": "C",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'I would like to give opening to Councillor Damian Penner' 00:00:08 -> C opening; minutes item 3 'Councillor Damian Penner opened the meeting'; chair 'Thank you, Councillor Penner' 00:05:24; hand-off 'Councillor Penner' 00:16:35 -> C 'Motion to approve' 00:16:47, minutes mover D. Penner (R23-141); voice ~114-142 Hz.",
+   "notes": "Short turns ('No comments.', 'Or sleep.', 'Yeah.', 'Nothing further.') left on C; consistent with him being mover/seconder of those items."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' 00:07:44, 00:09:50, 00:12:15, 00:15:18, 00:18:29, 00:20:28 each followed by D's staff report; minutes list City Manager Troy Warkentin present; voice ~113 Hz.",
+   "notes": "00:21:05 contains 'Thank you, Your Worship. Thank you.' and 'Thank you.' inside the report - probably transcription artefacts; left in place."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hand-off 'Councillor Hiebert' 00:08:53 -> E 'Motion to approve', minutes mover J. Hiebert (R23-138, By-law 2230) separates the two Hieberts; 'Go ahead, Councillor Hiebert' 00:09:01 -> E substantive speech; G is the other Hiebert (minutes B. Hiebert R23-142); voice ~110 Hz at 00:09:04 and 00:17:20.",
+   "notes": "00:09:50 'Nothing.' answers 'Anything in closing?' as the mover; 00:23:54 'Yes, please.' left on E."
+  },
+  {
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Identification by elimination: minutes list Councillors Siemens, D. Penner, J. Hiebert, B. Hiebert and Zwaagstra present (S. Penner excused); A, C, E and G are the other four. F's single turn (00:17:44) is never handed off or addressed by name. Voice ~105 Hz.",
+   "notes": "Not identified from the recorded vote."
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hand-off 'Councillor Hiebert' 00:19:51 -> G 'Move to approve' 00:20:00, minutes mover B. Hiebert (R23-142, By-law 2215); 'Go ahead, Councillor Hiebert' 00:20:02 -> G substantive turn; E is J. Hiebert (R23-138); voice ~130 Hz, distinct from E (~110 Hz).",
+   "notes": "00:20:25 'Nothing further.' answers 'Anything further?' as the mover."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:06:58",
+   "label": "A",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "volunteers to move the financial statements; the chair immediately names 'Councillor Siemens' as mover and minutes R23-136 record J. Siemens; pitch 172 Hz unlike A's speech (~110 Hz)"
+  },
+  {
+   "time": "00:07:05",
+   "label": "A",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Nothing further.' answering 'Any comments?' right after Siemens moved the financial statements; the mover usually answers; original transcript gave it a separate letter from Zwaagstra"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:05:54",
+   "label": "B",
+   "text": "No further comments.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "answer to the chair's 'Any comments?' on the accounts payable motion moved by J. Hiebert (minutes R23-135); the original transcript gave it the letter mapped to Jake Hiebert"
+  }
+ ],
+ "summary": "Clean 24-minute meeting: every councillor except Jac Siemens is placed by a hand-off plus minutes mover initials (the two Hieberts separate cleanly: E = J. Hiebert R23-138, G = B. Hiebert R23-142); Siemens (F) by elimination. Only short interjections and pre-meeting chatter on A are uncertain.",
+ "transcript": "transcripts/2023/2023-07-04.txt"
+}

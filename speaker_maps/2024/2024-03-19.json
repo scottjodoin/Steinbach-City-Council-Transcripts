@@ -1,0 +1,999 @@
+{
+ "meeting": "2024-03-19",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:12 and gives the opening to 'Councillor Jake Siemens'; names movers/seconders, calls every vote, opens/closes the three public hearings, hands off ('Mr. Warkentin, could you please introduce this file?' 00:08:00, 02:16:00); minutes item 2 and 6/9/11: Mayor Earl Funk called the meeting and hearings to order; speaks of his own former house on Lumber Avenue.",
+   "notes": "Several mid-presentation 'Thank you.' lines (00:17:44-00:29:25) may be the applicant thanking the slide operator; left with the chair. 'Councillor <Resident 8's surname>' 01:20:43 and 'Thank you, Brian.' 00:10:31 look mis-heard."
+  },
+  {
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair gives the opening to 'Councillor Jake Siemens' 00:00:12 -> B 00:00:21 delivers it; 'Thank you, Councillor Siemens' 00:06:55; minutes item 3 (J. Siemens opened). 'I'll second it.' 01:26:34 = minutes R24-061 seconder J. Siemens; speaks after seconding the variance (02:15:30) and force main (02:21:55; chair 'Second by Councillor Siemens'); 'It's good that businesses are taking out licenses' 02:24:05 after the chair names Siemens as mover (R24-068). Applicant Waldo refers to 'Mr. Siemens' and the flour mill from B's opening.",
+   "notes": "Fragments by others overridden: 'Health.' 00:21:43 (applicant), 'Thank you kindly.'/'Pardon me?'/'An apartment, by the way.' 00:58:03-00:58:15 (Resident 7), 'Susan, good job.' 01:52:08, 'Way to go, Jake.' 01:56:56. Pitch ~105 Hz on long turns, 91-92 Hz on 02:15:30 and 02:21:55."
+  },
+  {
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Go ahead, Councillor Swaagstra' 01:36:06 -> C 01:36:10; Jake Hiebert cites 'Deputy Mayor Zwaagstra' for C's transitional-zone point; chair calls 'Councillor Strachan' -> C 'I'll make a motion to approve' 02:10:09 = minutes R24-062 mover M. Zwaagstra; C 'Motion to approve' 02:21:28 = R24-065 mover M. Zwaagstra; D. Penner 'Councillor Zwaagstra covered it all' 02:11:46; mayor addresses 'Councillor Zwaagstra' about Tokyo, which C raised.",
+   "notes": "Resident 3's speech 00:42:56 and 00:43:06 sits on C (overridden). the garbled 'Thank you, Councillor Lococo, and thank you, Councillor <Resident 2's first name>' 01:18:35 overridden to Unclear."
+  },
+  {
+   "label": "D",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Walnut Street address 00:58:25 and again 01:20:19 ('I'd like to add one thing'); minutes 6.14 and 6.22.",
+   "notes": "Fragments overridden: 'Fire hall.' 00:03:09, 'Walkable.' 00:21:48 and 'Next slide, please.' 00:28:53 (applicant), 'Thank you.' 00:55:37, 01:09:19."
+  },
+  {
+   "label": "E",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Motion to accept the bid' 02:17:26 = minutes R24-064 mover D. Penner, and Bill Hiebert then says 'Councillor Penner has pretty well stated everything' 02:18:24; 'Councillor Zwaagstra covered it all' 02:11:46 after chair 'Councillor Pendergast' = R24-062 seconder D. Penner; 'No comments' 00:07:07 after agenda mover 'Councillor Penner' (R24-059 D. Penner); point of order on item 9D 02:25:37; male voice 126-127 Hz (Susan Penner's turns on X are 182-190 Hz).",
+   "notes": "His turn starts landed on T 01:42:42, K 01:42:54, K 02:17:34, K 02:25:35 (overridden). 'Thank you, Your Worship.' inside 02:17:37 is doubtful."
+  },
+  {
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Hebert?' 02:13:11 -> F 'Motion to approve' 02:13:20 = minutes R24-063 mover J. Hiebert (seconder Siemens named next, matching the minutes); 'Go ahead, Councillor Hiebert' 01:39:09 -> F 01:39:17 speech; pitch 119-121 Hz on both long turns; AssemblyAI agrees.",
+   "notes": "'Opposed?' 00:07:11 is the chair (pitch 150) and 'Steinbach.' 00:43:06 and 'Where do we—' 01:19:50 are residents (overridden). Other one-word fragments ('Thank you.', 'Okay.', 'Yeah.', 'I know.') left with F."
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'I think Councillor Penner has pretty well stated everything' 02:18:24 = minutes R24-064 seconder B. Hiebert; 'I'll add the same' 02:25:03 after the library appointment seconded by 'Councillor Hiebert' (R24-069 seconder B. Hiebert); 'No comments' 00:07:28 after minutes mover 'Councillor Hiebert' (R24-060 mover B. Hiebert); 01:44:46 speech after 'go ahead, Councillor Hiebert'; AssemblyAI agrees.",
+   "notes": "'We're gonna—' 00:15:34 is the applicant and 'Go ahead.' 01:26:36 is the chair (overridden). Pitch 123-139 Hz, a little above Jake Hiebert's 119-121."
+  },
+  {
+   "label": "H",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' 00:08:00 -> H 00:08:24; introduces every file and tender; 'Thank you, Mr. Warkentin' 00:10:40, 01:56:21, 02:17:22; minutes 6.1, 9.1.",
+   "notes": "The repeated name 00:54:21 (Resident 7, pitch 107 vs 122) and 'Seconded by—' 02:13:22 (chair) overridden. 'Thank you, Your Worship.' inside 01:54:02 is doubtful."
+  },
+  {
+   "label": "I",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hospital Street address 00:39:46 at the By-Law 2241 hearing; minutes 6.8.",
+   "notes": "'Thank you.' 00:09:12, 00:36:57, 02:09:28 overridden to Unclear. 'It's ridiculous.' 00:41:01 (on A) and 'So go there.' 00:42:07 (on M) are hers."
+  },
+  {
+   "label": "J",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Wilson Street address 00:49:53; minutes 6.12 (speaks in favour).",
+   "notes": "Many short fragments elsewhere on J overridden ('Next slide, please.' 00:27:22 is the applicant; 'You can take that as you will.' 00:46:34 is Resident 4)."
+  },
+  {
+   "label": "K",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "evidence": "Chair 'I see the applicant here today' 00:10:40 -> K 'My name is Luke Wiebe. I'm with Kingdom Home Building' 00:10:46; chair asks administration whether 'Mr. Wiebe' was told about the variance 00:31:09 and K answers; minutes 6.4-6.5.",
+   "notes": "Others' words on K overridden: 00:42:49 (Resident 3), 00:49:36, 01:42:54/02:17:34/02:25:35 (Damian Penner), 02:08:54."
+  },
+  {
+   "label": "L",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hospital Street address 00:32:58 after the chair asks for 'Name and address' 00:32:57, first speaker at the By-Law 2241 hearing; minutes 6.7; Resident 12 and Resident 3 refer to him by first name.",
+   "notes": "'I—' 00:12:08 and 'We're—' 00:14:35 are the applicant; 'And it is—' 01:31:18 is Siemens (overridden)."
+  },
+  {
+   "label": "M",
+   "person": "Resident 11",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hospital Street address 01:08:35; minutes 6.17.",
+   "notes": "Many 'Thank you.'/'Thanks.' fragments elsewhere on M overridden to Unclear; 'So go there.' 00:42:07 is Resident 2; 'And that—' 01:50:26 and 'Closing?' 02:23:23 are the chair."
+  },
+  {
+   "label": "N",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies by name 00:54:14 and says the applicant is his son; gives a Brandt Street address when the chair asks 00:58:08; minutes 6.13. Speaks as a private resident (applicant's father).",
+   "notes": "'We've had—' 00:22:48 (applicant) and 'grew—' 02:04:28 (Resident 18) overridden. His end-of-speech lines 00:58:03-00:58:15 sit on B. private_name holds only his first name on purpose: he shares the applicant's surname, and the privacy filter replaces every 'Mr. <surname>' of a resident, which would turn the chair's and residents' references to the applicant (Mr. W.) into [Resident 7]; the alias with a trailing period catches his full name as spoken without triggering that rule."
+  },
+  {
+   "label": "O",
+   "person": "Resident 13",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hanover Street address 01:13:01; minutes 6.19 (minutes say 281 Hanover; transcript says 271).",
+   "notes": "Fragments 'Okay.' 00:25:23, 'Thank you.' 01:03:09, 'Good evening.' 01:22:35, 'Okay.' 01:47:31, 'Victory.' 02:18:33 overridden."
+  },
+  {
+   "label": "P",
+   "person": "Resident 17",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Second Street address 02:00:03 at the CU-2024-01 hearing; minutes 9.4.",
+   "notes": "'Thank you.' 00:29:52 and 'Okay.' 01:54:01 overridden to Unclear."
+  },
+  {
+   "label": "Q",
+   "person": "Resident 12",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hospital Street address 01:11:09 and refers to 'my wife' (Resident 10, who named him); minutes 6.18.",
+   "notes": "'Thank you.' 01:25:54 overridden."
+  },
+  {
+   "label": "R",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hanover Street address 00:47:39; minutes 6.11.",
+   "notes": "'Okay, yeah.' 00:32:14, 'Thank you very much.' 00:39:29, 'Thank you.' 01:46:13, 02:05:00 overridden. 'Thank you, Your Worship.' inside 00:47:39 is doubtful."
+  },
+  {
+   "label": "S",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hanover Street address 01:02:51; minutes 6.15; Resident 13 refers to her by first name.",
+   "notes": "'Okay.' 00:32:29 and 'Thank you.' 00:53:18, 01:21:58, 01:59:42 overridden."
+  },
+  {
+   "label": "T",
+   "person": "Resident 15",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hospital Street address 01:18:29; minutes 6.21 (the map's bottom left-hand corner).",
+   "notes": "'Thank you, Madam Mayor.' inside 01:18:29 and at 01:18:35 look like transcription artifacts; 'Thank you.' 00:41:21, 00:56:04, 'I—' 01:42:42 (Damian Penner), 'Well done.' 02:18:39 overridden."
+  },
+  {
+   "label": "U",
+   "person": "Resident 19",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Lumber Avenue address 02:05:09 at the CU-2024-01 hearing; minutes 9.6.",
+   "notes": "'Thank you.' 00:41:47, 'That—' 00:42:13, 'Yeah.' 02:04:06 overridden."
+  },
+  {
+   "label": "V",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hospital Street address 00:44:00; minutes 6.10 (privacy, heritage trees, construction damage).",
+   "notes": "His line 00:46:34 sits on J (overridden)."
+  },
+  {
+   "label": "W",
+   "person": "Resident 10",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Hospital Street address 01:06:20, mentions the petition she submitted; minutes 6.16.",
+   "notes": "'Thank you.' 00:47:36 overridden."
+  },
+  {
+   "label": "X",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Susan Penner' 01:26:11 -> X 'Motion to approve' 01:26:30 = minutes R24-061 mover S. Penner, then 'Good job, Susan' from the chair; chair names 'Councillor Penner' mover of building permits and says 'Go ahead, Councillor Penner' -> X 02:23:05 (R24-067 mover S. Penner); 'I was on the library board when Carolyn was librarian' 02:24:48 (R24-069 mover S. Penner); 'This is my 4th year on council'; female voice 182-190 Hz.",
+   "notes": "'More expensive.' 01:14:39 is Resident 13 (overridden). 'Thank you.' 00:08:53 and 01:23:20 left."
+  },
+  {
+   "label": "Y",
+   "person": "Resident 14",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Giesbrecht Street address 01:16:15; minutes 6.20.",
+   "notes": "'Any—' 01:44:36 (chair) and 'Thank you.' 02:00:17 overridden."
+  },
+  {
+   "label": "Z",
+   "person": "Resident 18",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies 02:02:24 after the chair asks for name and address, gives Southwood Drive address 02:02:29; minutes 9.5.",
+   "notes": "'Thank you.' 01:19:27 overridden."
+  },
+  {
+   "label": "AA",
+   "person": "Resident 16",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and Home Street address 01:22:39 and reads her email; minutes 6.23.",
+   "notes": ""
+  },
+  {
+   "label": "AB",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (owner's representative)",
+   "organization": "Skyprom Marketing Inc. (owner)",
+   "confidence": "high",
+   "evidence": "Chair 'Is the applicant here today?' 01:56:21 -> AB 'My name is Waldo Neusteder' 01:56:33, 'I'm representing the owner of the project'; returns 02:07:55 after 'The applicant wishes to speak again'; City Manager names the applicant 'Waldo Neustader'; minutes 9.3, 9.7.",
+   "notes": "'Thank you, Your Worship.' 02:17:45 and 'No comments.' 02:22:45 are other voices (overridden)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:03:09",
+   "label": "D",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "echo during Siemens's opening; a member of the public is clearly not the speaker"
+  },
+  {
+   "time": "00:07:11",
+   "label": "F",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "confidence": "high",
+   "reason": "chair's vote call ('All those in favor?' ... 'Opposed?' ... 'That is carried'); pitch 150 Hz matches the chair, not Jake Hiebert (119-121)",
+   "title": "Mayor"
+  },
+  {
+   "time": "00:09:12",
+   "label": "I",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:09:39",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:12:08",
+   "label": "L",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'I—' then K 'however, I was contacted' — the applicant's own sentence split by diarization",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:13:11",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:14:35",
+   "label": "L",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'We're—' then K 'in this building, we intend...' — applicant's sentence start",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:15:34",
+   "label": "G",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'We're gonna—' then K 'we try to always build' — applicant's sentence start",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:17:05",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'I think that's it.' after the applicant asks 'What else about the site plan?' — the applicant or the slide operator"
+  },
+  {
+   "time": "00:21:43",
+   "label": "B",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'Health.' is the heading in the applicant's list ('Why is infill housing so important to Steinbach? Health. Infill helps create walkable...')",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:21:48",
+   "label": "D",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'Walkable.' is the next heading in the applicant's list ('Walkable. In walkable communities...')",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:22:48",
+   "label": "N",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'We've had—' then K 'this is a major one here— we have had 0% vacancy' — applicant's sentence",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:25:23",
+   "label": "O",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:27:22",
+   "label": "J",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'Next slide, please.' — the applicant's refrain throughout his presentation",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:28:53",
+   "label": "D",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'Next slide, please.' — the applicant's refrain throughout his presentation",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:29:52",
+   "label": "P",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:31:41",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:32:14",
+   "label": "R",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "confidence": "low",
+   "reason": "'Okay, yeah.' answers the chair's 'Every variance requires a public hearing' during the applicant's exchange",
+   "title": "Applicant (developer)",
+   "organization": "Kingdom Home Building Inc."
+  },
+  {
+   "time": "00:32:29",
+   "label": "S",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:36:57",
+   "label": "I",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "inside Resident 1's speech; Resident 2 has not yet spoken"
+  },
+  {
+   "time": "00:39:29",
+   "label": "R",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "after Resident 1 finishes; Resident 5 has not yet spoken"
+  },
+  {
+   "time": "00:41:01",
+   "label": "A",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'It's ridiculous.' inside Resident 2's speech; she repeats 'Like, it's ridiculous' at 00:41:22"
+  },
+  {
+   "time": "00:41:21",
+   "label": "T",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:41:47",
+   "label": "U",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:42:07",
+   "label": "M",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'So go there.' completes Resident 2's sentence ('...suit to build, multifamily. So go there. Like, leave our neighborhood alone.')"
+  },
+  {
+   "time": "00:42:13",
+   "label": "U",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'That—' inside Resident 2's speech"
+  },
+  {
+   "time": "00:42:45",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:42:49",
+   "label": "K",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "'Hi, Mr. Mayor, councillors.' right after the chair's 'Anyone else?' and before Resident 3's self-introduction; pitch 147 Hz (70 frames) does not match Resident 3's ~91 Hz, so uncertain"
+  },
+  {
+   "time": "00:42:56",
+   "label": "C",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with name and Home Street address at the By-Law 2241 hearing; minutes 6.9; mentions his wife and 4-month-old; old map flagged the same merge"
+  },
+  {
+   "time": "00:43:06",
+   "label": "C",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues Resident 3's self-introduction ('Steinbach. And so I'd be across the street from it...', 'I came here with my wife and 4-month-old'); minutes 6.9"
+  },
+  {
+   "time": "00:43:06",
+   "label": "F",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'Steinbach.' completes Resident 3's address and he repeats it; pitch 90 Hz matches his speech, not Jake Hiebert"
+  },
+  {
+   "time": "00:45:48",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:46:34",
+   "label": "J",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'You can take that as you will.' continues Resident 4's 'Yes, obviously it's an older home.'"
+  },
+  {
+   "time": "00:47:36",
+   "label": "W",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:48:28",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:49:23",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:49:36",
+   "label": "K",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' after Resident 5 finishes; applicant not clearly the speaker"
+  },
+  {
+   "time": "00:53:18",
+   "label": "S",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:54:21",
+   "label": "H",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "repeats Resident 7's own name; pitch 107 Hz matches Resident 7 (106) not the City Manager (122)"
+  },
+  {
+   "time": "00:55:37",
+   "label": "D",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:56:04",
+   "label": "T",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "00:58:03",
+   "label": "B",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'Thank you kindly.' ends Resident 7's speech; the chair then asks him for his address"
+  },
+  {
+   "time": "00:58:07",
+   "label": "B",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'Pardon me?' answers the chair's request for his address; he then gives it"
+  },
+  {
+   "time": "00:58:15",
+   "label": "B",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'An apartment, by the way.' follows Resident 7's unit-number address"
+  },
+  {
+   "time": "00:58:18",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:03:09",
+   "label": "O",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:09:19",
+   "label": "D",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:14:39",
+   "label": "X",
+   "person": "Resident 13",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'More expensive.' completes Resident 13's sentence about Lexington ('...are Thank you. More expensive.')"
+  },
+  {
+   "time": "01:17:43",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:18:35",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you, Councillor Lococo.' — garbled; no such councillor; likely a transcription artifact"
+  },
+  {
+   "time": "01:18:35",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you, Councillor Lococo, and thank you, Councillor <Resident 2's first name>' — garbled, during Resident 15's introduction; likely a transcription artifact"
+  },
+  {
+   "time": "01:19:27",
+   "label": "Z",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:19:50",
+   "label": "F",
+   "person": "Resident 15",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'Where do we—' is Resident 15 starting the sentence he finishes at 01:19:53 ('Where do we strike that balance?')"
+  },
+  {
+   "time": "01:19:50",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Mr. Mayor.' during Resident 15's speech"
+  },
+  {
+   "time": "01:21:09",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:21:58",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:21:58",
+   "label": "S",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:22:35",
+   "label": "O",
+   "person": "Resident 16",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "'Good evening.' at the podium right before Resident 16 introduces herself; Resident 13 already spoke"
+  },
+  {
+   "time": "01:25:54",
+   "label": "Q",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:26:10",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No?' after the chair asks the developer if he wants to respond (minutes 6.24: he declined)"
+  },
+  {
+   "time": "01:26:36",
+   "label": "G",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "confidence": "medium",
+   "reason": "'Go ahead.' hands the floor to the mover Susan Penner after the seconder — the chair's role; pitch 178 Hz is not Bill Hiebert's 123-139",
+   "title": "Mayor"
+  },
+  {
+   "time": "01:31:18",
+   "label": "L",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "confidence": "medium",
+   "reason": "'And it is—' is Siemens continuing his speech ('it's in its own transition zone')",
+   "title": "Councillor"
+  },
+  {
+   "time": "01:42:42",
+   "label": "T",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "confidence": "medium",
+   "reason": "'I—' inside Damian Penner's speech; he continues 'pardon me'",
+   "title": "Councillor"
+  },
+  {
+   "time": "01:42:54",
+   "label": "K",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "confidence": "high",
+   "reason": "'for medium density. It is right downtown.' completes Damian Penner's sentence ('suitable location for medium dense— pardon me—'); pitch 130 Hz matches his 126",
+   "title": "Councillor"
+  },
+  {
+   "time": "01:44:36",
+   "label": "Y",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "confidence": "medium",
+   "reason": "'Any—' is the chair, who continues 'go ahead, Councillor Hiebert'",
+   "title": "Mayor"
+  },
+  {
+   "time": "01:45:38",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:46:13",
+   "label": "R",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:47:31",
+   "label": "O",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Okay.' inside the mayor's remarks"
+  },
+  {
+   "time": "01:50:26",
+   "label": "M",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "confidence": "medium",
+   "reason": "'And that—' then the chair continues 'because that's how we are'",
+   "title": "Mayor"
+  },
+  {
+   "time": "01:52:08",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Susan, good job.' — pitch 180 Hz, unlike Siemens (~105); someone echoing the chair's 'Good job, Susan'"
+  },
+  {
+   "time": "01:56:56",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Way to go, Jake.' is addressed to Jake Siemens, so not his own words"
+  },
+  {
+   "time": "01:54:01",
+   "label": "P",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:56:14",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "01:59:42",
+   "label": "S",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "02:00:17",
+   "label": "Y",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "02:04:06",
+   "label": "U",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "02:04:28",
+   "label": "N",
+   "person": "Resident 18",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'grew—' is Resident 18's own phrase ('I grew up— grew— outgrew the size of our home')"
+  },
+  {
+   "time": "02:05:00",
+   "label": "R",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "02:08:54",
+   "label": "K",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Okay.' during the CU applicant's return to the podium"
+  },
+  {
+   "time": "02:08:58",
+   "label": "F",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "confidence": "medium",
+   "reason": "'if that—' sits inside the applicant's explanation ('Just a point, just to— if that— And, and...')",
+   "title": "Applicant (owner's representative)",
+   "organization": "Skyprom Marketing Inc. (owner)"
+  },
+  {
+   "time": "02:09:28",
+   "label": "I",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection on a resident's letter, before/after that resident's own speech; speaker cannot be placed"
+  },
+  {
+   "time": "02:13:22",
+   "label": "H",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "confidence": "medium",
+   "reason": "'Seconded by—' then the chair continues 'Councillor Siemens, go ahead' — chair naming the seconder",
+   "title": "Mayor"
+  },
+  {
+   "time": "02:17:34",
+   "label": "K",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "confidence": "medium",
+   "reason": "'Thank you very much, Mr. Mayor.' after the chair's 'Go ahead' to the mover; E (Damian Penner, mover R24-064) continues; pitch 133 Hz matches him",
+   "title": "Councillor"
+  },
+  {
+   "time": "02:17:45",
+   "label": "M",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you, Mr. Mayor.' inside Damian Penner's speech; probably not in the audio or misplaced"
+  },
+  {
+   "time": "02:17:45",
+   "label": "AB",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you, Your Worship.' inside Damian Penner's speech; the CU applicant is not involved in the capital works item"
+  },
+  {
+   "time": "02:18:33",
+   "label": "O",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Victory.' — stray fragment during council debate"
+  },
+  {
+   "time": "02:18:39",
+   "label": "T",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Well done.' during council debate; not a resident's turn"
+  },
+  {
+   "time": "02:22:45",
+   "label": "AB",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No comments.' after the accounts motion (B. Hiebert, S. Penner); a councillor, but pitch 167 Hz does not settle which; not the CU applicant"
+  },
+  {
+   "time": "02:23:23",
+   "label": "M",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "confidence": "high",
+   "reason": "'Closing?' is the chair's 'Anything in closing?' prompt; pitch 162 Hz matches the chair; the chair then speaks in closing",
+   "title": "Mayor"
+  },
+  {
+   "time": "02:25:35",
+   "label": "K",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "confidence": "high",
+   "reason": "'Point, point, uh, Mr.' is completed by E 'Mayor, uh, item 9D on the agenda' (Damian Penner's point of order); pitch 139 vs 137 on the continuation",
+   "title": "Councillor"
+  }
+ ],
+ "turn_splits": [],
+ "summary": "All seven council members, the City Manager, two applicants and 19 residents identified (council letters agree with AssemblyAI and the old map). Many one-word 'Thank you.' fragments land on residents' letters and are overridden to Unclear; Resident 3 has no letter of his own (his speech is on C). Several 'Your Worship'/'Councillor Lococo' lines look like transcription artifacts.",
+ "transcript": "transcripts/2024/2024-03-19.txt"
+}

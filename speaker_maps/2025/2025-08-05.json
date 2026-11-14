@@ -1,0 +1,103 @@
+{
+ "meeting": "2025-08-05",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Minutes items 2-3: Mayor Earl Funk called the meeting to order and opened it; A calls to order 00:00:05, gives the opening, names every mover/seconder, calls every vote, hands the floor by name ('Mr. Warkentin, could you please introduce this file?' 00:06:38, 'Councillor Zwaagstra.' 00:15:58, 'Go ahead, Councillor Siemens.' 00:24:46); addressed as 'Mr. Mayor' by every replying speaker.",
+   "notes": "A's turns absorb short interjections: 'Yes.' and several 'Thank you.' inside the opening (00:00:05), 'Do that.' at 00:06:38 (split, low), 'any.' at 00:10:05 (the owner's words, split), 'No comments.' / 'There's no comments.' in 00:22:04 (councillor replies, left on A), and 'Thank you, Mr. Mayor.' at 00:27:20 (next speaker, split)."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "B is a councillor distinct from Zwaagstra (E: 'further to what Councillor Zwaagstra has said' 00:21:31), Siemens (F) and the other Hiebert (G); with both Penners excused (minutes R25-153), B and G must be the two Hieberts. B speaks first after the mover on R25-154, whose seconder per minutes is J. Hiebert (chair: 'Councillor Hiebert' 00:16:56). Voice pitch of B's speeches 110-114 Hz (00:21:31, 00:27:25) matches Jake Hiebert's ~105-111 Hz in other meetings' maps and is clearly lower than G's 136 Hz (Bill Hiebert measured 124-165 Hz elsewhere). AssemblyAI and the existing map (matched by timestamp) both say Jake Hiebert.",
+   "notes": "No name hand-off for B. Short replies on B are unreliable: 'No comment.' 00:06:11 (142 Hz), 'Nothing further.' 00:06:28 (152 Hz), 'None.' 00:06:38 (152 Hz), 'No comment.' 00:23:28 (136 Hz) are higher than B's speeches; the old transcript put 00:06:28/00:06:38 on the Siemens cluster. Left on B, flagged for review."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 00:06:38 'Mr. Warkentin, could you please introduce this file?' -> C introduces variance V-2025-14 (minutes 7.1-7.2: Troy Warkentin, City Manager, introduced it and clarified the residual lot); thanked 'Thank you, Mr. Warkentin' 00:09:56. Chair 00:10:05 'Mr. Warkentin, would you please introduce this file?' -> C presents the Southwood School report (minutes item 10); thanked 00:15:58.",
+   "notes": "C's long turns contain stray 'Okay.', 'Thank you, Your Worship.', 'Yes, please.' and 'Thank you.' fragments (00:07:17, 00:11:57) that may be someone else or ASR artifacts; left on C."
+  },
+  {
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "medium",
+   "evidence": "Chair 00:09:56 'Is the applicant here today? Do you wish to speak?' -> D 'I'll answer questions if there are [any]'. Minutes 7.3: 'The Owner was present and willing to answer questions of council.' Owners and applicant are private individuals; D does not state a name.",
+   "notes": "Only one short turn; which owner (or the applicant) is not determinable."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 00:15:58 'Councillor Zwaagstra.' -> E makes the Southwood motion 00:16:14 = minutes R25-154 mover M. Zwaagstra; chair 00:16:56 'Go ahead, Councillor Zwaagstra.' -> E's rationale 00:17:01; B at 00:21:31 refers to 'what Councillor Zwaagstra has said'. Pitch 111 Hz consistent with his ~104 Hz reference.",
+   "notes": ""
+  },
+  {
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "F moves to end EDO funding 00:24:30 = minutes R25-158 mover J. Siemens; chair 00:24:46 'Go ahead, Councillor Siemens.' -> F's speech 00:24:52; chair 00:29:54 'as Councillor Siemens stated, the landowners, the developers' echoes F's 00:28:58 turn. Pitch 116 Hz on both turns.",
+   "notes": ""
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "G is a councillor ('7 years ago I ran for council' 00:26:33) distinct from B, E and F; with both Penners excused, G is the other Hiebert. G speaks first after the mover on R25-158, whose seconder per minutes is B. Hiebert (chair: 'Seconded by Councillor Hiebert' 00:24:46). Pitch 136 Hz, higher than B's 110-114 Hz and in Bill Hiebert's 124-165 Hz range from other meetings. AssemblyAI and the existing map (by timestamp) both say Bill Hiebert.",
+   "notes": "Single turn; no name hand-off."
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:06:38",
+   "label": "A",
+   "text": "Do that.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "a councillor volunteering to move the excusal motion, which the chair then credits to 'Councillor Siemens' (minutes R25-153 mover J. Siemens); the original transcript gave it to the Siemens cluster"
+  },
+  {
+   "time": "00:10:05",
+   "label": "A",
+   "text": "any.",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "end of the owner's sentence 'I'll answer questions if there are any' (D at 00:10:02), carried onto the chair's turn"
+  },
+  {
+   "time": "00:27:20",
+   "label": "A",
+   "text": "Thank you, Mr. Mayor.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "after the chair's 'Go ahead.' the next speaker (B) begins; the mayor does not address himself as 'Mr. Mayor'; B's turn repeats the same words"
+  }
+ ],
+ "summary": "Clean diarization: seven letters, one per person. The two Hieberts (B, G) are separated only by the seconder convention and voice pitch (plus agreement of AssemblyAI and the old map), so both are medium. Short 'No comment' replies on B and stray 'Thank you, Your Worship' fragments in the City Manager's report deserve a listen.",
+ "transcript": "transcripts/2025/2025-08-05.txt"
+}

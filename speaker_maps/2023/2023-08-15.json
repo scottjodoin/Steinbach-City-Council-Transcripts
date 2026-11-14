@@ -1,0 +1,180 @@
+{
+ "meeting": "2023-08-15",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:03, gives the opening to Councillor Zwaagstra, runs every motion and vote, opens/closes all three public hearings; minutes item 2/6: Mayor Earl Funk chaired and called hearings to order.",
+   "notes": "A absorbs a few other voices: applicant's 'Correct.' 00:11:29 and Maplewood Manor representative's 'It's stated as we requested.' 00:14:53 (both split out); 'Including us.' 00:31:43 and short 'Thank you.'/'So true.'/'Please.' interjections inside 00:28:35 may be councillors."
+  },
+  {
+   "label": "B",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Opening hand-off 'give the opening to Councillor Michael Zwaagstra' 00:00:03 -> B opening (minutes item 3); 'Thank you, Councillor Zwaagstra' 00:04:14; 'Anything further, Councillor Sykes?' 00:08:11 -> B (minutes seconder M. Zwaagstra R23-164); seconder V-2023-14 speaks 00:16:33 (R23-167); 'Councillor Zwaagstra.' 00:22:28 -> B 'I'll make a motion to approve' (minutes mover R23-169) and D. Penner then says 'as Councilor Zwaagstra noted'; seconder of watershed motion 00:28:24 (R23-173).",
+   "notes": ""
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' 00:05:15 -> C staff report on By-law 2234; same for V-2023-13 00:09:55, V-2023-14 00:13:56, By-law 2223 00:21:07; 'Thank you, Mr. Warkentin' after each; minutes 6.1, 9.1, 11.1 Troy Warkentin introduced.",
+   "notes": "C also carries the delegate Daniel Banman 00:17:29 and 00:20:13 (overridden). 'Thank you, Your Worship.' 00:21:45 and inside 00:09:55 are probably not in the audio (absent from YouTube captions)."
+  },
+  {
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Siemens.' 00:06:16 -> D 'Motion to approve' -> 'Go ahead, Councillor Siemens' -> D substantive 00:06:58 (minutes mover J. Siemens R23-164); 'Thank you, Councillor Siemens' 00:08:11; 'Councillor Siemens would like to make the motion' 00:31:28 -> D 00:31:39.",
+   "notes": "'Nothing further to add.' 00:09:28 follows J. Hiebert's third-reading motion and is overridden to Jake Hiebert. Minutes record the motion to excuse (R23-174) as B. Hiebert/D. Penner, but the audio has Siemens moving it."
+  },
+  {
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Anything further, Councillor Hiebert?' 00:13:08 -> E after 'Second by Councillor Hiebert' (minutes seconder B. Hiebert R23-166); 'No comment' 00:20:43 after B. Hiebert moved accounts (R23-168); 'Anything further, Councilor Hiebert?' 00:25:11 -> E as seconder of S. Penner's building-permit motion (minutes seconder B. Hiebert R23-170), E cites 'Councillor Penner has said'; 'Nothing further' 00:09:30 as third-reading seconder (R23-165).",
+   "notes": "00:26:26 'Mayor. These are minor variances...' is the end of D. Penner's 'Thank you, Mr. ...' and is overridden."
+  },
+  {
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "title": "Property owner (variance applicant)",
+   "confidence": "high",
+   "evidence": "Self-identifies as the owner of 28 Spruce Crescent at the V-2023-13 public hearing after the chair asks the applicant to come to the podium (00:11:12); minutes 9.2: the owner was present and clarified the garage. Pitch 174 Hz (female).",
+   "notes": "'No. Clancy's here to answer any questions.' 00:11:41 left with Resident 1 (the chair replies about the builder, 'Mr. Unger')."
+  },
+  {
+   "label": "G",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penn.' 00:11:45 -> G 'Motion to approve' V-2023-13 (minutes mover D. Penner R23-166); G 00:23:24 as seconder of By-law 2223 third reading after 'Seconded by Councillor Penner' (minutes seconder D. Penner R23-169), cites 'Councilor Zwaagstra'; 'Councillor Penner, second by Councillor Siemens. Go ahead, Councillor Penner.' 00:25:50 -> G 00:26:26 (minutes mover D. Penner, seconder J. Siemens R23-172). Pitch 114-117 Hz (male, not Susan Penner).",
+   "notes": "00:22:23 'And recommendation from administration...' is the City Manager (overridden)."
+  },
+  {
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Hebert?' 00:14:53 -> H 'Motion to approve' V-2023-14 (minutes mover J. Hiebert R23-167); 'No comment' 00:25:49 after J. Hiebert moved the business licence (R23-171); 'Go ahead, Councillor Hiebert' 00:27:29 -> H watershed speech (minutes mover J. Hiebert R23-173), then Zwaagstra: 'Councillor Hiebert has made a compelling case'.",
+   "notes": "00:21:20 and 00:21:46 are the City Manager's By-law 2223 report (overridden)."
+  },
+  {
+   "label": "I",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Go ahead, Councillor Penner.' 00:23:44 for the building-permit motion; minutes mover S. Penner R23-170 (D. Penner is letter G); pitch 170 Hz (female); Bill Hiebert then cites 'Councillor Penner has said'.",
+   "notes": "Only one turn."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:09:28",
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair names Councillor Hiebert (mover, J. Hiebert per minutes R23-165) and seconder Hiebert; the mover answers 'Nothing further to add' and the seconder (E, Bill Hiebert) follows. Pitch 127 Hz, unlike Siemens (95 Hz)."
+  },
+  {
+   "time": "00:17:29",
+   "label": "C",
+   "person": "Daniel Banman",
+   "role": "delegation",
+   "title": "Delegation",
+   "organization": "Robert D. and Joanne S. Banman Heritage Foundation",
+   "confidence": "high",
+   "reason": "Self-identifies 'My name is Daniel Banman'; minutes item 13."
+  },
+  {
+   "time": "00:20:13",
+   "label": "C",
+   "person": "Daniel Banman",
+   "role": "delegation",
+   "title": "Delegation",
+   "organization": "Robert D. and Joanne S. Banman Heritage Foundation",
+   "confidence": "high",
+   "reason": "Reply 'Thank you, Mayor.' to the mayor's thanks for the presentation."
+  },
+  {
+   "time": "00:21:20",
+   "label": "H",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Continuation of the City Manager's By-law 2223 report (old transcript has 00:21:08-00:22:28 as one staff turn; YouTube captions continuous); pitch 111 Hz same as C's 116."
+  },
+  {
+   "time": "00:21:46",
+   "label": "H",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Continuation of the City Manager's By-law 2223 report ('as such, City Council may now give this bylaw consideration for third reading')."
+  },
+  {
+   "time": "00:22:23",
+   "label": "G",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "'And recommendation from administration...' ends the staff report; chair replies 'Thank you, Mr. Warkentin'."
+  },
+  {
+   "time": "00:26:26",
+   "label": "E",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Completes G's 'Thank you, Mr.' -> 'Mayor. These are minor variances...'; old transcript has the whole speech on one letter after 'Go ahead, Councillor Penner' (minutes mover D. Penner R23-172)."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:11:29",
+   "label": "A",
+   "text": "Correct.",
+   "person": "Resident 1",
+   "role": "resident",
+   "title": "Property owner (variance applicant)",
+   "confidence": "medium",
+   "reason": "Answer to the chair's question 'So you're planning a complete garage...?'; minutes 9.2 owner clarified."
+  },
+  {
+   "time": "00:14:53",
+   "label": "A",
+   "text": "It's stated as we requested.",
+   "person": "Tom Penner",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Maplewood Manor Inc.",
+   "confidence": "medium",
+   "reason": "Answer to 'Is the applicant here tonight? Do you wish to speak?'; minutes 11.2 Tom Penner present on behalf of Maplewood Manor Inc. (old transcript had it on a separate letter)."
+  }
+ ],
+ "summary": "Clean meeting; all nine letters agree with AssemblyAI and the old map. Main errors: the By-law 2223 staff report (00:21-00:22) is split across C/H/G and contains hallucinated words ('Alderman Demong', 'bylaw 2019-042'); short applicant replies sit inside the mayor's turns.",
+ "transcript": "transcripts/2023/2023-08-15.txt"
+}

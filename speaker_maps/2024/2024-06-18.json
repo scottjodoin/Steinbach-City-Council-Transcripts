@@ -1,0 +1,613 @@
+{
+ "meeting": "2024-06-18",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Gives the opening to 'Councillor Damian Penner' (00:00:00); runs every motion and vote; opens and closes the three public hearings (minutes items 6, 8, 11: called to order by Mayor Earl Funk); asks 'Mr. Warkentin, could you please introduce this file?' (00:04:14, 00:23:46, 00:41:37); introduces both delegations; addressed as 'Mr. Mayor' and 'Mayor Funk' (01:17:47). Pitch ~132-140 Hz.",
+   "notes": "Turn 00:21:40 ends with the City Manager's 'You read my mind, Mr.' and turn 00:29:14 contains his 'That's correct.' (both split). 'Second.' / 'Motion to approve.' fragments inside chair turns (00:38:18, 01:32:49, 01:35:29, 01:37:35) may be councillors but are left with the chair. 'Helping Hand.' (01:23:52) is probably the delegation's phrase echoed; left. 01:31:45 'There's support out in the rural communities' kept with the chair (pitch 144 Hz, male) though the old transcript gave it to a delegate."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'give the opening to Councillor Damian Penner' -> B opening (minutes item 3: D. Penner opened); 'Motion to approve' 00:19:31 then 'Go ahead, Councillor Penner' -> B mover speech (R24-115 mover D. Penner) and Bill Hiebert replies 'I will agree with Councilor Damian Penner'; 'Go ahead, Councillor Penner' 00:35:25 -> B (Susan Penner had already spoken); WSB resolution 'Councillor Penner, second by Councillor Zwaagstra' -> B comment 01:38:29 and Zwaagstra 'Councillor Penner convinced me' (R24-127 mover D. Penner); 01:45:56 'anything further, Councillor Penner?' -> B (R24-131 seconder D. Penner). Pitch 113-134 Hz.",
+   "notes": "MERGED cluster: also carries Jake Hiebert (00:18:27, 00:18:31, 00:20:55, 00:37:17, 00:37:22, 00:56:05, 00:57:07), the CU-2024-04 applicant's representative (00:29:22, 00:29:30, 00:29:55) and the assessor (01:16:50, 01:17:05) - all overridden. 'Thank you. Thank you.' 01:01:14 left. 01:45:39 'I got sidetracked' may be Susan Penner (see review)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Answers every 'Mr. Warkentin, could you please introduce this file?' (00:05:25, 00:24:12, 00:42:54) and the reserve-transfer question (01:35:59); chair 'Thank you, Mr. Warkentin' (00:07:12, 00:28:31, 00:46:44); minutes 6.1, 8.1, 11.1: Troy Warkentin, City Manager, introduced the files; Councillor Zwaagstra refers to 'the city manager noted' (00:34:52).",
+   "notes": "Several 'Thank you, Your Worship.' fragments inside his reports (00:24:12, 00:42:54, 01:35:59) look like noise or mis-transcription, not his words. 'Mr. Roarty' (01:32:49) is the chair addressing him. 'Yeah, we got to approve.' 01:39:38 left with C (unclear)."
+  },
+  {
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Chair asks 'Is the applicant here today?' (00:07:12) -> D self-identifies with name and rural address as owner/applicant for CU-2024-03 (minutes 6.2); answers councillors' questions on the caretaker residence 00:08:14-00:15:31. Pitch 115-119 Hz.",
+   "notes": "MERGED cluster: also carries Jake Hiebert (00:37:31, 00:57:02, 00:57:22) and Resident 4 (00:47:36, 00:48:03) - overridden."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra' 00:07:53 -> E question; 'Councillor Zwaagstra' 00:51:24 -> E motion with $1,000 fine (R24-118 mover M. Zwaagstra); 'Second by Councillor Zwaagstra' 00:34:03 -> E 'I agree with Councillor Penner' (R24-116 seconder); Jake Hiebert addresses 'Councillor Zwaagstra' 00:57:07 -> E replies 00:57:15; 'Councillor Penner convinced me' 01:38:39 (R24-127 seconder Zwaagstra); 'Go ahead, Councillor Lococo' (garbled) 01:30:43 -> E. Pitch 93-104 Hz.",
+   "notes": "Also carries the assessor (01:01:43) and the cancer-support delegates (01:21:14, 01:22:07, 01:24:52; women's voices 168-186 Hz) - overridden. 'Looks like they took it as information.' 01:47:35 left."
+  },
+  {
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hearing speaker answers F's question with 'That's a really good question, Susan' (00:17:34); 'Councillor Penner.' 00:32:35 -> F 'Motion to approve' + 'past 10-plus years that I've been on council' (R24-116 mover S. Penner, seconder Zwaagstra as the chair says); business licences and building permits motions 'Councillor Penner' -> F (R24-130/131 mover S. Penner). Pitch 178-205 Hz (woman).",
+   "notes": "Also carries a cancer-support delegate (01:31:15, 01:31:23) - overridden. 01:45:08 turn contains 'They're both there in the same column.' and 'Dwelling units is still there.' by others (split). 'Thank you.' 01:01:07 left."
+  },
+  {
+   "label": "G",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Comes to the podium when the chair asks for anyone with comments on CU-2024-03 (00:15:37) and self-identifies with name and address as the dominant owner of the condo development (minutes 6.4: appeared in support of the application). All G turns are this speaker.",
+   "notes": "Treated as a private resident (speaks in his own name as a landowner); see review."
+  },
+  {
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "By-law 2249: 'Councillor Hiebert. Seconded by Councillor Hiebert. Any comments?' -> H gives the mover's comment 01:39:31, then Bill Hiebert (seconder) says 'Nothing further' (R24-128 mover J. Hiebert, seconder B. Hiebert). The second 'Councillor Hiebert' call at 00:20:42 (after Bill Hiebert had spoken at 00:20:30) and the call at 00:56:01 lead to turns ending on H (00:21:17, 00:56:11). Pitch 100-107 Hz vs Bill Hiebert 132-136 Hz in this meeting.",
+   "notes": "Jake Hiebert's speech is split across H, B, D and I; overrides cover 00:18:27, 00:18:31, 00:20:47, 00:20:55, 00:37:17, 00:37:22, 00:37:31, 00:56:05, 00:57:02, 00:57:07, 00:57:22. 'Thank you.' 00:19:02 left (no clear voice)."
+  },
+  {
+   "label": "I",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Second by Councillor Hiebert' then 'Anything further, Councilor Hiebert?' 00:20:27 -> I (R24-115 seconder B. Hiebert); 'Go ahead, Councillor Hiebert and Councillor Siemens' 00:36:00 -> I then Siemens; By-law 2249 seconder 'Nothing further, thank you.' 01:39:41 (R24-128 seconder B. Hiebert); library appointment 'Second by Councillor Hiebert. Any comments?' -> I 01:48:10 (R24-132 seconder B. Hiebert). Pitch 132-136 Hz, distinct from Jake Hiebert.",
+   "notes": "Heavily MERGED cluster: also carries Jake Hiebert (00:20:47), the CU-2024-04 applicant's representative (00:29:54, 00:30:16, 00:30:34), Resident 3 (00:32:33), Resident 4 (00:49:21, 00:49:50), the assessor (01:00:40-01:16:40, his whole presentation), the cancer-support delegates (01:21:07, 01:22:27, 01:23:18, 01:30:23) and the chair (01:45:26, 01:46:23) - all overridden. Short 'Thank you.' 00:50:21, 01:23:50 and 'Take a look.' 01:45:22 left with I but could be anyone."
+  },
+  {
+   "label": "J",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Avedo Inc.",
+   "confidence": "high",
+   "evidence": "Chair 'is the applicant here today?' (00:29:14) -> self-ID 'My name is Stefan Hodelman, 36161 Loewen Boulevard' (00:29:30, labelled B) and J continues the same pitch for the mixed-use development (pitch 110-116 Hz across B/I/J pieces); minutes 8.2: Stefan Hodelmann on behalf of the applicant, Avedo Inc.",
+   "notes": "His presentation is split across B, I and J; overrides cover the B and I pieces."
+  },
+  {
+   "label": "K",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Comes to the podium when the chair asks for comments on CU-2024-04 (00:30:44) and self-identifies (transcript spelling differs; YouTube captions give the first name as 'wal'); asks about the number of suites and parking. Not named in the minutes.",
+   "notes": "00:31:38 turn may include '67, I believe.' from another voice (see review)."
+  },
+  {
+   "label": "L",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Siemens? Motion to approve. Seconded by Councillor Penner. [garbled] go ahead' 00:38:18 -> L 00:40:17 (R24-117 mover J. Siemens, seconder D. Penner); 'Councillor Siemens.' 00:54:35 -> L (R24-118 seconder J. Siemens); 'Councillor Hiebert and Councillor Stevenson [Siemens]' 00:36:00 -> I then L; long council tenure ('when I first got on council... every 4 years' 01:13:53).",
+   "notes": ""
+  },
+  {
+   "label": "M",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Chair 'Is the applicant here today?' (00:46:44) then 'Just state your name and your address' -> M self-identifies as owner for V-2024-05 and tells the sunroom history (minutes 11.2). Pitch 103-113 Hz across M, D and I pieces.",
+   "notes": "His account is split across M, D (00:47:36, 00:48:03) and I (00:49:21, 00:49:50); overrides cover those. 'About 5:30.' 00:47:10 is pre-speech chatter."
+  },
+  {
+   "label": "N",
+   "person": "Heather Jowett",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "high",
+   "evidence": "Chair introduces 'Cindy Rempel-Patrick and Heather Jowett' then 'Thank you, Heather, for coming' (01:17:44) -> N presents ('I am board chair for Southeast Cancer Support Services'); N hands off 'Cindy is able to answer the financial questions' (01:23:54); minutes 15: Heather Jowett & Cindy Rempel Patrick, co-chairs. Pitch ~174 Hz.",
+   "notes": "Pieces of her presentation landed on E and I (overridden)."
+  },
+  {
+   "label": "O",
+   "person": "Cindy Rempel Patrick",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "high",
+   "evidence": "Heather Jowett: 'Cindy is able to answer the financial questions' (01:23:54) -> O 01:24:00 continues the presentation with Morden/Portage figures and the proposed budget; minutes 15 co-chairs. Pitch ~178 Hz.",
+   "notes": "Turn 01:31:49 ends with the chair's 'Any other questions for council?' (split)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:18:27",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "start of the 00:18:31 question; old transcript put both in the Jake Hiebert cluster"
+  },
+  {
+   "time": "00:18:31",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "pitch 105 Hz matches Jake Hiebert (100-107) more than Damian Penner (113-134); the old transcript put this turn in the Jake Hiebert cluster; no name hand-off"
+  },
+  {
+   "time": "00:20:47",
+   "label": "I",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair calls 'Councillor Hiebert' a second time (00:20:42) after Bill Hiebert had just spoken; pitch 111 Hz vs Bill 132; old transcript one turn with the 00:20:55 remarks"
+  },
+  {
+   "time": "00:20:55",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues the 00:20:47 turn ('I do have concerns') and ends on H 00:21:17; pitch 106 Hz; the mover Damian Penner had already spoken in support"
+  },
+  {
+   "time": "00:29:22",
+   "label": "B",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Avedo Inc.",
+   "confidence": "high",
+   "reason": "answers 'is the applicant here today?'; same voice (114 Hz) as the self-ID that follows"
+  },
+  {
+   "time": "00:29:30",
+   "label": "B",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Avedo Inc.",
+   "confidence": "high",
+   "reason": "self-identification 'My name is Stefan Hodelman'; minutes 8.2"
+  },
+  {
+   "time": "00:29:54",
+   "label": "I",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Avedo Inc.",
+   "confidence": "medium",
+   "reason": "fragment inside his presentation"
+  },
+  {
+   "time": "00:29:55",
+   "label": "B",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Avedo Inc.",
+   "confidence": "high",
+   "reason": "continues his presentation (bottom-floor commercial); pitch 115 Hz"
+  },
+  {
+   "time": "00:30:16",
+   "label": "I",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Avedo Inc.",
+   "confidence": "medium",
+   "reason": "'You see it all the time.' mid-presentation; pitch 111 Hz"
+  },
+  {
+   "time": "00:30:34",
+   "label": "I",
+   "person": "Stefan Hodelmann",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Avedo Inc.",
+   "confidence": "medium",
+   "reason": "'Yeah.' mid-presentation"
+  },
+  {
+   "time": "00:32:33",
+   "label": "I",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "answers the chair's 'that's your only question?' put to Resident 3"
+  },
+  {
+   "time": "00:37:17",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Hiebert.' (00:37:14) after Bill Hiebert had spoken at 00:36:05; 'Not to be left out' - last councillor to speak; old map gave this hand-off to Jake Hiebert"
+  },
+  {
+   "time": "00:37:22",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues after 'I figured you were going to say something too'; pitch 107 Hz"
+  },
+  {
+   "time": "00:37:31",
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "second half of the same sentence as 00:37:22; pitch 107 Hz"
+  },
+  {
+   "time": "00:47:36",
+   "label": "D",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues the applicant's own story (gazebo permit call); pitch 107 Hz; old transcript one turn"
+  },
+  {
+   "time": "00:48:03",
+   "label": "D",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues the applicant's story ('we did not obtain a building permit'); pitch 113 Hz"
+  },
+  {
+   "time": "00:49:21",
+   "label": "I",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "mid-story (surveyors); male voice 113 Hz; old transcript one applicant turn"
+  },
+  {
+   "time": "00:49:50",
+   "label": "I",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "mid-story ('we did all that'); old transcript one applicant turn"
+  },
+  {
+   "time": "00:56:05",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Hiebert.' (00:56:01); sentence continues on H 00:56:11; pitch 110 Hz"
+  },
+  {
+   "time": "00:57:02",
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "follows up his own deadline question ('Then I would just ask of Mr.-'); pitch 103 Hz"
+  },
+  {
+   "time": "00:57:07",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "same sentence as 00:57:02 (friendly amendment to Councillor Zwaagstra); pitch 101 Hz"
+  },
+  {
+   "time": "00:57:22",
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "responds to Zwaagstra's reply and finishes his comments; pitch 99 Hz; old map gave this to Jake Hiebert"
+  },
+  {
+   "time": "01:00:40",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "replies to the chair's apology for mispronouncing Roger's surname"
+  },
+  {
+   "time": "01:00:44",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "'I just spell my last name'"
+  },
+  {
+   "time": "01:01:25",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "'I work with the assessment office'; minutes 13"
+  },
+  {
+   "time": "01:01:43",
+   "label": "E",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "mid-presentation ('get right into page 1'); pitch 150 Hz, not Zwaagstra"
+  },
+  {
+   "time": "01:01:55",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "the reassessment presentation (minutes 13)"
+  },
+  {
+   "time": "01:14:12",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "answers Siemens's question addressed to 'Roger'"
+  },
+  {
+   "time": "01:14:52",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "confirms the 2-year cycle"
+  },
+  {
+   "time": "01:16:12",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "replies to the chair's 'Roger, thank you very much'"
+  },
+  {
+   "time": "01:16:40",
+   "label": "I",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "assessment growth figure from the last reassessment"
+  },
+  {
+   "time": "01:16:50",
+   "label": "B",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "medium",
+   "reason": "completes the 01:16:40 comparison; old transcript kept it in the assessor's turn"
+  },
+  {
+   "time": "01:17:05",
+   "label": "B",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "reason": "'I'm just the assessor' in reply to the chair's thanks"
+  },
+  {
+   "time": "01:21:07",
+   "label": "I",
+   "person": "Heather Jowett",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "high",
+   "reason": "mid-sentence of her 'a hand up, not a handout'; woman's voice 187 Hz"
+  },
+  {
+   "time": "01:21:14",
+   "label": "E",
+   "person": "Heather Jowett",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "medium",
+   "reason": "continues her presentation; woman's voice 168 Hz; old transcript one Heather turn"
+  },
+  {
+   "time": "01:22:07",
+   "label": "E",
+   "person": "Heather Jowett",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "medium",
+   "reason": "woman's voice 186 Hz between Heather turns; old transcript one Heather turn"
+  },
+  {
+   "time": "01:22:27",
+   "label": "I",
+   "person": "Heather Jowett",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "medium",
+   "reason": "woman's voice 172 Hz mid-presentation; old transcript one Heather turn"
+  },
+  {
+   "time": "01:23:18",
+   "label": "I",
+   "person": "Heather Jowett",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "medium",
+   "reason": "wigs sentence continued by N; woman's voice 174 Hz"
+  },
+  {
+   "time": "01:24:52",
+   "label": "E",
+   "person": "Cindy Rempel Patrick",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "high",
+   "reason": "mid-sentence of her Morden trip figures"
+  },
+  {
+   "time": "01:30:23",
+   "label": "I",
+   "person": "Cindy Rempel Patrick",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "medium",
+   "reason": "woman's voice 176 Hz between Cindy's turns; old transcript inside her turn"
+  },
+  {
+   "time": "01:31:15",
+   "label": "F",
+   "person": "Cindy Rempel Patrick",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "medium",
+   "reason": "delegation answers Zwaagstra's question on other municipalities; old transcript kept 01:31:15-01:31:45 in Cindy's cluster, continued by O 01:31:32"
+  },
+  {
+   "time": "01:31:23",
+   "label": "F",
+   "person": "Cindy Rempel Patrick",
+   "role": "delegation",
+   "title": "Board co-chair",
+   "organization": "Southeast Cancer Support Services Inc.",
+   "confidence": "medium",
+   "reason": "same answer continued ('Hanover knows we're coming')"
+  },
+  {
+   "time": "01:45:26",
+   "label": "I",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "old transcript gives 'All right, that's 2. There's 2 of them there.' to the chair"
+  },
+  {
+   "time": "01:46:23",
+   "label": "I",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "old transcript gives 'No. Okay, we're good.' to the chair; his turn follows"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:21:40",
+   "label": "A",
+   "text": "You read my mind, Mr.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "C's next turn starts 'Mayor. I was going to make that recommendation'"
+  },
+  {
+   "time": "00:29:14",
+   "label": "A",
+   "text": "That's correct.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "answer to the chair's question to administration; old transcript a separate speaker"
+  },
+  {
+   "time": "01:31:49",
+   "label": "O",
+   "text": "Any other questions for council?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "chair's phrase; old transcript starts the chair's turn with it"
+  },
+  {
+   "time": "01:45:08",
+   "label": "F",
+   "text": "They're both there in the same column.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "someone answering Susan Penner, who then says 'Pardon me?'"
+  },
+  {
+   "time": "01:45:08",
+   "label": "F",
+   "text": "Dwelling units is still there.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "answer to Susan Penner's 'Pardon me?'; old transcript gives it to the chair"
+  }
+ ],
+ "summary": "Heavily merged diarization: I carries Bill Hiebert plus the assessor's whole presentation, the CU-2024-04 applicant's representative, residents and the cancer-support delegates; Jake Hiebert is split across H, B, D and I; D merges Resident 1 with Jake Hiebert and Resident 4. Hiebert turns separated by hand-offs, minutes and pitch (Jake ~105 Hz, Bill ~134 Hz). Check the cousin disclosure (00:20:47) and the 00:18:31 question by ear.",
+ "transcript": "transcripts/2024/2024-06-18.txt"
+}

@@ -1,0 +1,423 @@
+{
+ "meeting": "2026-07-21",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies twice ('Hi again, ...' 00:33:26; 'This is ... of 270 Golfview Crescent' 00:45:38); chair names her before 00:33:26; content of 00:00:00 and 00:33:26 turns matches minutes items 8 and 20; voice ~188 Hz.",
+   "notes": "Recording starts mid-way through her first submission. Letter A also carries Resident 8's turns at 00:38:31 and 00:47:57 (similar female voices, family members) and a male councillor's remark at 01:32:02; see overrides."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Chairs throughout (opens/closes hearings, calls movers, 'Call for the question'); addressed as 'Mr. Mayor' in replies; minutes: Mayor Earl Funk chaired; voice ~124-134 Hz.",
+   "notes": "Several other people's words sit inside B turns (Damian Penner's whole 01:01:14 speech, Zwaagstra's openings, J. Hiebert's 'Motion to approve.' / 'Motion.', gallery and resident interjections); handled with an override and splits."
+  },
+  {
+   "label": "C",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Gives the 104 Albert Street address and both household names at 00:07:29; content (entrances off Stonebridge or Albert, why six storeys, keep green space or three storeys) matches minutes item 9."
+  },
+  {
+   "label": "D",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with the 251 Stone Bridge Crossing address at 00:08:56; 00:41:07-00:43:17 turns match minutes item 30 (doubling of suites, opposed, 'elections are coming'); voice ~111-114 Hz.",
+   "notes": "Merged cluster: D also carries Nic Thiessen (00:27:08), Jac Siemens in the council portion (00:53:42, 01:18:42, 01:27:54, 01:33:23, 01:33:38, 01:36:35) and Jake Hiebert mid-speech (01:18:03, 01:18:30); see overrides."
+  },
+  {
+   "label": "E",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with the 250 Stonebridge Crossing address at 00:11:43; chair 'And this is ... again?' at 00:29:18; content matches minutes items 11, 17 and 26."
+  },
+  {
+   "label": "F",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with the 104 Albert Street address at 00:14:03; content (fire department, 37 years, $7,000 on sump pump) matches minutes item 12."
+  },
+  {
+   "label": "G",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with a Granite Park Boulevard address at 00:15:08; content matches minutes item 13."
+  },
+  {
+   "label": "H",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with a Penfeld Drive address at 00:19:08; content (flooded 5+ times, garage variance denied 11 years ago) matches minutes item 14."
+  },
+  {
+   "label": "I",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies at 00:21:18 and 00:37:46 (270 Golfview); content matches minutes items 15, 25 and 28; Resident 1 refers to her as 'my mom'."
+  },
+  {
+   "label": "J",
+   "person": "Nic Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Bridgepark Manor",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Thiessen, do you want to answer any of these questions' (00:22:49) -> J answers from the back of the room; minutes items 16, 19.1, 23 and 34 tie the answers (lift station, ditch, 81 suites, cars all night, trees, drain through the property) to Mr. Thiessen; minutes item 7 names Nic Thiessen representing Bridgepark Manor Group; voice ~101-104 Hz.",
+   "notes": "00:31:47 'Were there any questions from council about questions that were raised?' is chair-like but is a separate speaker from the mayor in the captions; left with J (see review)."
+  },
+  {
+   "label": "K",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair names 'Councillor Hiebert' (captions 01:17:40), the mover says 'Motion to approve.' and after 'Go ahead' K speaks first on CU-2026-09 (minutes R26-148 mover J. Hiebert); Bill Hiebert (Q) says 'Like Councillor Hiebert was saying, it's most likely the home care workers', echoing K's 01:03:13 speech; voice ~105-110 Hz.",
+   "notes": "Hand-off at the end of the 01:01:14 turn is garbled ('Councillor Newman'). 00:27:31 heckle overridden; 00:51:26/00:51:35 hearing question kept as Jake Hiebert at medium."
+  },
+  {
+   "label": "L",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Go ahead, Councillor Siemens' (01:08:13) -> L; 'Councillor Siemens has a question' (01:27:51) -> L library question (minutes item 43); chair 'Councillor Siemens' -> L 'Motion to approve.' at 01:36:30 (minutes R26-152 mover J. Siemens); Zwaagstra and S. Penner refer to 'Councillor Siemens' comment' about the library.",
+   "notes": "00:29:12 'Come on down.' overridden to low."
+  },
+  {
+   "label": "M",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councilor Zwaagstra' (00:53:44) -> M moves to approve six storeys and 1.25 stalls (minutes R26-147 mover M. Zwaagstra); 00:31:59 parking question matches minutes item 19; voice ~106 Hz.",
+   "notes": "His opening 'Thank you, Mr. Mayor' slipped onto B twice (00:31:54, 00:53:44); split."
+  },
+  {
+   "label": "N",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Gives name to the chair at 00:39:11 and the 101 Albert Street address at 00:39:18; content (hard to get out of the yard, sunset/sunrise, privacy) matches minutes item 27."
+  },
+  {
+   "label": "O",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Yes, Mr. Warkentin.' (00:43:40) -> O development-agreement clauses (minutes item 31); 'Mr. Warkentin, could you please introduce this file?' (01:13:5x, 01:18:49, 01:22:xx, 01:34:21) -> O each time; minutes 38.1."
+  },
+  {
+   "label": "P",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councilor Penner, second' (00:53:56; minutes R26-147 seconder S. Penner) and P speaks at 00:58:24; 'another question by Councilor Penner' (01:29:15) -> P; Damian Penner refers to her lift-station point 'as Councillor Penner said'; voice pitch 190 Hz (female; Susan Penner ~193 Hz)."
+  },
+  {
+   "label": "Q",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Refers to 'Councillor Hiebert' (K) as another member, so not Jake Hiebert; speaks right after the mover on the Park Road East tender, which minutes R26-149 say B. Hiebert seconded; by elimination the only council member left. No named hand-off.",
+   "notes": "Voice ~132-140 Hz, lower than the 160 Hz measured for him on 2026-09-15; weak cue only."
+  },
+  {
+   "label": "R",
+   "person": "Allan Klippenstein",
+   "role": "delegation",
+   "title": "Owner's representative",
+   "organization": "Schinkel Properties",
+   "confidence": "high",
+   "evidence": "Self-identifies 'I'm with Schinkel Properties' at 01:15:07 after the chair asks for the applicant; minutes item 38.3 (Allan Klippenstein representing Schinkel Properties Inc.)."
+  },
+  {
+   "label": "S",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "S moves the Park Road East tender (minutes R26-149 mover D. Penner) and speaks after 'Councillor Penner. Second by Councillor Hiebert. Go ahead.' on building permits (minutes R26-153 mover D. Penner); voice 139-153 Hz (male, so not Susan Penner)."
+  },
+  {
+   "label": "T",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Senior Manager, Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager defers 'to the city's corporate services manager, Mr. Adam Thiessen' (01:22:07) -> T presents the security grant (minutes item 42); chair 'What is your timeline, Mr. Thiessen?' -> T."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:27:08",
+   "label": "D",
+   "person": "Nic Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Bridgepark Manor",
+   "confidence": "high",
+   "reason": "Continues the applicant's 00:23:15 answer without a speaker change in the captions; minutes 16.6 ties 'more indoor parking ... squeeze a couple more suites' to Mr. Thiessen; voice 99 Hz matches J."
+  },
+  {
+   "time": "00:27:31",
+   "label": "K",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Listening to cars all night?' during the hearing, between gallery calls of 'Noise pollution' and the applicant's reply; probably a gallery voice, not a councillor's speech."
+  },
+  {
+   "time": "00:29:12",
+   "label": "L",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Come on down.' after the mayor asks a resident to use the podium; old transcript put it on the City Manager's letter; voice 140 Hz fits Siemens or the mayor."
+  },
+  {
+   "time": "00:38:31",
+   "label": "A",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "Minutes item 25.2 attribute 'maybe they will start moving out because they are not being taken care of' to Resident 8; follows Resident 8's 00:38:22 turn; voice is female (203 Hz) as both residents on A/I are."
+  },
+  {
+   "time": "00:47:57",
+   "label": "A",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "Self-identifies in the turn ('excuse me, it's ... again'); content matches minutes item 33."
+  },
+  {
+   "time": "00:51:26",
+   "label": "K",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Addresses 'Mr. Mayor' and asks the developer a question; voice cluster K and pitch (111 Hz) match Jake Hiebert's speeches; minutes do not name who asked (item 34)."
+  },
+  {
+   "time": "00:51:35",
+   "label": "K",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Continuation of the 00:51:26 question (three-storey unit count); same voice (109 Hz)."
+  },
+  {
+   "time": "00:53:42",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'No problem.' right after the mayor apologises that Siemens' motion to deny found no seconder (minutes item 36); hearing already closed; the old transcript put it on Siemens' letter; D's other council-period turns are Siemens."
+  },
+  {
+   "time": "01:01:14",
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair 'Yes, Councillor Penner.' then a new speaker in the captions; the speaker cites the lift-station upgrade 'as Councillor Penner said' (Susan Penner's 00:58:24 point), so it is the other Penner; voice 122 Hz (male); old map gave this speech to Damian Penner. Chair's hand-off words split back to the mayor."
+  },
+  {
+   "time": "01:18:03",
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Mid-sentence in Jake Hiebert's CU-2026-09 speech; no speaker change in the captions; voice 112 Hz matches K."
+  },
+  {
+   "time": "01:18:30",
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "End of Jake Hiebert's CU-2026-09 speech; no speaker change in the captions; voice 107 Hz matches K."
+  },
+  {
+   "time": "01:18:42",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Second councillor to speak on CU-2026-09, which Siemens seconded (minutes R26-148); old map gave it to Siemens; D's council-period turns are Siemens."
+  },
+  {
+   "time": "01:27:54",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair 'Councillor Siemens has a question' then 'Through you, Mr. Mayor, to Mr. Thiessen.' and L continues the library question (minutes item 43)."
+  },
+  {
+   "time": "01:32:02",
+   "label": "A",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Council discussion of the security grant; a male voice (142 Hz), so not Resident 1; captions show two speakers ('No, we need more.' / 'Then I'll go along, like, whatever.'); old map gave the first to Siemens and the second to S. Penner's merged letter."
+  },
+  {
+   "time": "01:33:23",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Completes L's 'Yeah, uh, through you, Mr.' (01:33:21): 'Mayor, to Mr. Thiessen. Are there other projects...'; continues his library/camera questions."
+  },
+  {
+   "time": "01:33:38",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Follow-up to his own question; L continues the same sentence at 01:33:50; old transcript had both on Siemens' letter."
+  },
+  {
+   "time": "01:36:35",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Comment right after Siemens moves first reading of By-law 2227 (minutes R26-152); old transcript put both turns on Siemens' letter; D's council-period turns are Siemens."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:27:08",
+   "label": "D",
+   "text": "Noise pollution. Noise pollution. Backyards, cars.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Gallery calls listing concerns; captions show new speakers ('>> noise pollution'); old transcript put them on Resident 1's and other letters."
+  },
+  {
+   "time": "00:31:54",
+   "label": "B",
+   "text": "Thank you, Mr. Mayor.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Captions show a speaker change before 'Thank you, Mr. Mayor' and M continues with the parking question (minutes item 19)."
+  },
+  {
+   "time": "00:36:46",
+   "label": "B",
+   "text": "Well, what about the property values?",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "Gallery question (minutes item 24: 'in response to comments from the gallery'); captions show a speaker change; old transcript put it on Resident 1's letter."
+  },
+  {
+   "time": "00:39:11",
+   "label": "B",
+   "text": "[Resident 9].",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "Resident answering the chair's 'Your name?'; captions show a speaker change."
+  },
+  {
+   "time": "00:39:11",
+   "label": "B",
+   "text": "[Resident 9].",
+   "occurrence": 1,
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "Resident giving her full name; old transcript had it on her letter; the second copy is the chair repeating it."
+  },
+  {
+   "time": "00:53:44",
+   "label": "B",
+   "text": "Thank you, Mr.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Start of Zwaagstra's motion ('Thank you, Mr. Mayor. I'll make a motion...'), continued by M at 00:53:49; captions show the speaker change."
+  },
+  {
+   "time": "01:01:14",
+   "label": "B",
+   "text": "Anything further, council? Yes, Councillor Penner.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "reason": "The chair calling on the next councillor."
+  },
+  {
+   "time": "01:01:14",
+   "label": "B",
+   "text": "Go ahead, Councillor Newman.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "reason": "The chair's hand-off to the next councillor (captions: '>> Go ahead council.')."
+  },
+  {
+   "time": "01:17:00",
+   "label": "B",
+   "text": "Motion to approve.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Captions: chair 'Council[lor] Hiebert.' then '>> Motion to approve.'; minutes R26-148 mover J. Hiebert; old transcript had it on Jake Hiebert's letter."
+  },
+  {
+   "time": "01:34:21",
+   "label": "B",
+   "text": "Motion.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover on the financial statements; chair then says 'Councillor Hiebert, seconded by Councillor Penner' (minutes R26-151 J. Hiebert / D. Penner); old transcript had 'Motion.' on Jake Hiebert's letter."
+  }
+ ],
+ "summary": "Video starts mid-way through the first resident's submission at the V-2026-14 hearing (applicant's presentation and agenda items before it are not in the recording). Letter D merges a resident with Jac Siemens (council period) and parts of Jake Hiebert's speech; Damian Penner's 01:01:14 speech sits on the mayor's letter; Bill Hiebert is identified by elimination; a few council-discussion interjections around 01:32 are unresolved.",
+ "transcript": "transcripts/2026/2026-07-21.txt"
+}

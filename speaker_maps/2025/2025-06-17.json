@@ -1,0 +1,139 @@
+{
+ "meeting": "2025-06-17",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "00:00:16 calls the meeting to order and hands the opening to Councillor Susan Penner (minutes item 2: Mayor Earl Funk called the meeting to order); names movers/seconders and calls every vote; introduces each item and asks Mr. Warkentin to introduce files (00:03:33, 00:17:34, 00:25:45 lead-in, 00:28:24, 00:34:06).",
+   "notes": "00:00:00 is pre-meeting chatter that may include other voices. 'Thank you, Your Worship.' inside 00:04:56 and 00:13:44 split off as Unclear (likely a mis-hearing of 'Mr. Mayor', possibly not in the audio)."
+  },
+  {
+   "label": "B",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Answers 'Mr. Warkentin, is there anything that you would like to add?' at 00:04:45; answers 'Mr. Warkentin, are there any highlights' at 00:18:04; introduces subdivision files after 'Mr. Warkentin, could you please introduce this file?' at 00:25:45 and 00:28:55 and the waste bylaw at 00:34:32; answers questions for administration (00:21:23, 00:31:34, 00:32:15, 00:33:39). Minutes list City Manager Troy Warkentin present.",
+   "notes": "'Yep.' 00:00:15 and 00:00:16 are pre-meeting chatter, speaker unclear. 00:34:32 contains 'Thank you, Your Worship. Thank you, Alderman Demong.' fragments that do not fit a file introduction; split off as Unclear."
+  },
+  {
+   "label": "C",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Opening handed to 'Councillor Susan Penner' -> C 00:00:47 (minutes item 3: S. Penner opened); 00:10:28 speaks first after the motion she seconded (R25-118); 'Go ahead, Councillor Tanner [Penner]' -> C 00:19:59 'motion to approve' (R25-125 mover S. Penner); chair at 00:23:49 'as Councillor Susan Penner said, with the improvements' refers back to C 00:23:36; 'Councillor Susan Penner, seconded by Councillor Damian Penner. Go ahead.' -> C 00:35:50 (R25-132 mover S. Penner). Voice pitch: 163-186 Hz on all five turns (female voice).",
+   "notes": ""
+  },
+  {
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Motion to adopt.' 00:03:29, then chair 'Second by Councillor Hiebert' (R25-116: mover J. Hiebert, seconder B. Hiebert); 'Councillor Hiebert, seconded by Councillor Siemens. Go ahead, councilor.' -> D 00:22:06 'Nothing further' (R25-126 mover J. Hiebert); 00:27:57 speaks as seconder 'Further to what Councillor Siemens says' (R25-129 Siemens/J. Hiebert). Pitch 105-119 Hz on longer turns, consistent across 00:22:06, 00:27:57, 00:31:21, 00:32:05.",
+   "notes": "00:17:33 'No comments.' answers the chair's question to the excavator-licence mover (B. Hiebert); overridden low. 00:31:21 and 00:32:05 title questions on item 18 kept on D by voice match only."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra.' -> E 00:06:14 moves the private-security motion (R25-118 mover M. Zwaagstra); C 00:10:28 and G 00:12:42 refer back to 'the motion that Councillor Zwaagstra put forward'; 00:17:27 'Just to get it on the floor' then chair 'Councillor Zwaagstra' as seconder (R25-124 seconder M. Zwaagstra); 'Councillor Zwaagstra, seconded by Councillor Penner. Go ahead, Councillor.' -> E 00:22:55 (R25-128). Pitch 94 Hz.",
+   "notes": ""
+  },
+  {
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Go ahead, Councillor Stevenson [Siemens].' -> F 00:11:31 on park patrols, and G 00:12:42 then says 'as Councillor Siemens already said'; 'Councillor Siemens, seconded by Councillor Hiebert. Go ahead' -> F 00:22:28 (R25-127 mover J. Siemens); 'Councillor Siemens.' -> F 'Motion to approve.' 00:27:00 and 'Go ahead, Councillor Siemens.' 00:27:03 (R25-129); D 00:27:57 'Further to what Councillor Siemens says'; 'Councillor Siemens.' -> F 00:29:50 and 00:29:56 (R25-130); H 00:31:07 'I agree with what Councillor Siemens has said'.",
+   "notes": "'Thank you, Mr. Mayor.' 00:32:32 sits between the City Manager's answer and the chair; may be the questioner (D). 00:32:43 bare-land-condo comment kept on F (pitch 109 Hz, same range as F's 113-116 Hz)."
+  },
+  {
+   "label": "G",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:20:31 speaks as seconder of R25-125 (S. Penner / D. Penner) after C; 'Councillor Penner. Second by Councillor Penner. Go ahead.' -> G 00:33:52 (R25-131 mover D. Penner; C is Susan Penner); 00:36:27 speaks after C as seconder of R25-132 ('seconded by Councillor Damian Penner'). Pitch 108-111 Hz on longer turns (male, not Susan Penner).",
+   "notes": "00:26:44 is the City Manager's recommendation sentence; overridden to Troy Warkentin. 00:12:42 hand-off was unnamed ('Go ahead, Councillor')."
+  },
+  {
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Only turn 00:31:07 follows 'Councillor Hiebert, any— anything further?' on item 18, whose seconder was B. Hiebert (R25-130: J. Siemens / B. Hiebert); voice separate from D (Jake Hiebert) in diarization; pitch 126 Hz.",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:26:44",
+   "label": "G",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "'The recommendation from administration is that council approve this subdivision subject to a road widening bylaw' completes the City Manager's file introduction begun at 00:25:45; chair replies 'Thank you, Mr. Warkentin'; minutes R25-129 is subject to a road widening by-law."
+  },
+  {
+   "time": "00:17:33",
+   "label": "D",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Chair asks the mover of the excavator licence motion for comments ('Any comments, Councillor [Hiebert]?'); minutes R25-124 mover is B. Hiebert, but the letter is D (Jake Hiebert), so conflicting cues."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:04:56",
+   "label": "A",
+   "text": "Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "the chair would not thank himself as 'Your Worship'; likely a mis-hearing or not in the audio"
+  },
+  {
+   "time": "00:13:44",
+   "label": "A",
+   "text": "Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "the chair would not thank himself as 'Your Worship'; likely a mis-hearing or not in the audio"
+  },
+  {
+   "time": "00:34:32",
+   "label": "B",
+   "text": "Thank you, Your Worship. Thank you, Alderman Demong. Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "does not fit the City Manager's file introduction; Steinbach has no aldermen; likely not in the audio"
+  },
+  {
+   "time": "00:34:32",
+   "label": "B",
+   "text": "Thank you, Your Worship. Thank you.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "interrupts the City Manager's sentence; likely not in the audio"
+  }
+ ],
+ "summary": "Clean diarization: eight letters map one-to-one to the mayor, six councillors and the City Manager, all agreeing with AssemblyAI. One staff sentence mislabelled G; several 'Your Worship' fragments split off as Unclear; the Hiebert 'No comments' at 00:17:33 and the item-18 title questions should be checked by ear. No private individuals named in the transcript.",
+ "transcript": "transcripts/2025/2025-06-17.txt"
+}

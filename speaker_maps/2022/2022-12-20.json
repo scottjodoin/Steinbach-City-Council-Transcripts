@@ -1,0 +1,92 @@
+{
+ "meeting": "2022-12-20",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "evidence": "Only pre-meeting chatter (00:00:00) and four 'No comments.' replies right after the chair's 'Any comments?' (00:03:06, 00:04:15, 00:04:36, 00:07:10). Elsewhere the chair answers his own 'Any comments? No comments.' inside one turn (00:03:07, and the old transcript put 'Any comments? No comments.' in one turn at 00:04:35), and pitch of these replies (121-146 Hz) is close to the chair's (147 Hz), so this may be Earl Funk; too thin to name.",
+   "notes": "Possibly Earl Funk answering his own question; could also be a councillor."
+  },
+  {
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair at 00:00:13: 'give the opening to Councillor Susan Penner' and B gives the opening reflection at 00:00:21; minutes item 3: Councillor Susan Penner opened the meeting; pitch of the opening 190-194 Hz (Susan Penner ~193).",
+   "notes": "The two 'Nothing further.' turns (00:05:31, 00:09:59) measure ~150 Hz (a man's voice) and are overridden to Unclear. Pre-meeting chatter at 00:00:02 kept on B."
+  },
+  {
+   "label": "C",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:13), calls every motion and vote, hands the floor to Mr. Warkentin (00:07:12, 00:08:37) and to councillors; addressed as 'Mr. Mayor' in the replies; minutes: Mayor Earl Funk called the meeting to order.",
+   "notes": "Mover/seconder names in C's turns are often misheard (e.g. 'Councillor Penner by Councillor Penner', 'Councillor Hiebert, seconded by Councillor Hebert'); the minutes have the correct movers. 'Move.' at 00:05:33 split off as another voice."
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Each substantive D turn (00:05:00, 00:08:12, 00:09:47) follows the chair naming Councillor Zwaagstra as mover and 'Go ahead, Councillor'; minutes R22-288, R22-292, R22-293 moved by M. Zwaagstra; pitch 101-105 Hz (Zwaagstra ~104).",
+   "notes": "'Not at all.' at 00:08:34 is too short to measure; the old map thought it might be another voice."
+  },
+  {
+   "label": "E",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Both E turns (00:07:28, 00:08:53) follow 'Mr. Warkentin, would you please introduce this file?' and present administration's recommendation; chair replies 'Thank you, Mr. Warkentin' (00:09:37); Zwaagstra then refers to 'the city manager'."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:05:31",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Nothing further.' measures ~132-150 Hz, a man's voice, not Susan Penner (~193 Hz); the mover was Zwaagstra (~104 Hz), so possibly the chair or another councillor."
+  },
+  {
+   "time": "00:09:59",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Nothing further.' measures ~154 Hz, a man's voice, not Susan Penner (~193 Hz); not the mover Zwaagstra (~104 Hz) either."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:00:21",
+   "label": "B",
+   "text": "Thank you.",
+   "occurrence": 4,
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "the chair's 'Thank you' after the opening; the original transcript has it as the start of the chair's turn ('Thank you, Council.' at 00:02:53)"
+  },
+  {
+   "time": "00:05:33",
+   "label": "C",
+   "text": "Move.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "a councillor offering the motion after the chair's 'Looking for a motion to approve'; the original transcript gave 'Move.' (00:06:16) to a different voice than the chair"
+  }
+ ],
+ "summary": "Short, clean meeting: chair, Susan Penner, Zwaagstra and Warkentin are well separated. Letter A ('No comments.') and two 'Nothing further.' turns are unidentified short interjections; Damian Penner was absent.",
+ "transcript": "transcripts/2022/2022-12-20.txt"
+}

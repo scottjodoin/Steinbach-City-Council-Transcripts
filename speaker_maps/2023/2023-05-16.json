@@ -1,0 +1,113 @@
+{
+ "meeting": "2023-05-16",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "minutes item 2: Mayor Earl Funk called the meeting to order; A calls the meeting to order (00:00:00), names movers, hands the floor to councillors and calls every vote; addressed as 'Mr. Mayor' in replies. Pitch 127-150 Hz.",
+   "notes": "Short councillor fragments sit inside A turns (two 'So moved.' and 'first' inside 00:05:54,'No, sir.' at 00:11:18 after 'Anything further, Councillor Siemens?', 'Thank you.'/'Mm-hmm.'/'Yep.' in 00:12:36, 00:21:01, 00:28:19, 00:29:56); not separable with confidence. Reviewer confirmed 00:13:57 'Anything further?' is the mayor."
+  },
+  {
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:00:00 chair gives the opening to 'Councillor Bill Penner— or Bill Hiebert' and B delivers it (minutes item 3: Councillor Bill Hiebert opened); 00:09:26 B speaks right after the chair names 'Councillor Hiebert' as third-reading mover of By-law 2225 (minutes R23-096 mover B. Hiebert); 00:11:09 'Go ahead, Councillor Ebert' -> B on business licences (minutes R23-099 mover B. Hiebert). Pitch 155-160 Hz on the opening, 120-131 Hz on short replies; distinct from Jake Hiebert's E (107 Hz).",
+   "notes": "00:05:35 'No comments.' follows the agenda motion (D. Penner / J. Hiebert per minutes), so it may be another councillor; 00:05:53 'Comments.' follows the minutes motion B. Hiebert moved."
+  },
+  {
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:08:20 'Motion to approve' right after the chair names 'Councillor Zwaagstra' (captions 'counselor swagster motion to approve') and 00:08:24 mover's speech (minutes R23-095 mover M. Zwaagstra); 00:09:26 Bill Hiebert: 'same as what Mike— Councillor Zwaagstra just mentioned'; 00:11:48 'Go ahead, Councillor Zwaagstra' -> C (R23-100 mover M. Zwaagstra); 00:13:52 excavator licence mover (R23-101 M. Zwaagstra; reviewer confirmed by ear); 00:19:06 reserve transfers mover (R23-102); 00:23:23 City Manager replies 'I agree with Councillor Zwaagstra'; 00:27:31 'Councillor Zwaagstra, you have another question?' -> C. Pitch 87-99 Hz on all long turns.",
+   "notes": "00:09:16 'There is none, Mr. Mayor.' is the City Manager (overridden). 00:11:15 'You're here.' is the end of Bill Hiebert's sentence (overridden). 00:07:07 'reading. No,' and 00:07:10 'Oh, sorry...' (116-129 Hz, higher than Zwaagstra) may be another councillor: see review. Chair hand-off 'Councillor Strange' (00:21:01) is not in the captions."
+  },
+  {
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:07:11 'Councillor Penner, seconded by Councillor Zwaagstra. Go ahead, Councillor.' -> D 00:07:31 mover's speech (minutes R23-094 mover D. Penner); 00:12:19 D speaks as seconder of building permits (R23-100 seconder D. Penner) and the mayor then says 'I agree with Councillor Penner'; 00:19:48 D speaks as seconder of reserve transfers (R23-102 seconder D. Penner). Susan Penner was excused (minutes R23-092); pitch 110-123 Hz is a man's voice.",
+   "notes": "Short 'Nothing further.' turns (00:07:49, 00:08:41) are unreliable but plausible."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:09:39 chair: 'Councillor Hiebert, seconded by Councillor Zwaagstra. Go ahead, Councillor Hiebert.' -> E 00:10:08 mover's speech on By-law 2226 second reading; minutes R23-097 mover J. Hiebert (not Bill). E's voice (107 Hz) is separate from Bill Hiebert's B (opening speaker, 155-160 Hz). 00:14:00 'Nothing further.' after the excavator licence, which J. Hiebert seconded (R23-101).",
+   "notes": "00:14:00 is short and measured 156 Hz (unreliable on 30 frames); see review."
+  },
+  {
+   "label": "F",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "00:14:06 mayor asks 'Mr. Warkentin' for highlights -> F reports on reserve transfers; 00:18:49 'Thank you, Mr. Warkentin'; F answers council's questions to administration (00:24:12, 00:26:47, 00:29:49) and says 'I will ask that my staff'; minutes list City Manager Troy Warkentin. Pitch 100-103 Hz.",
+   "notes": "'Go ahead, Greg.' inside 00:14:35 is not in the YouTube captions (vocabulary artifact; no Greg on council in 2023). Stray 'Thank you.' fragments inside the report are probably not his."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:20:20 'Anything further? Councillor Siemens.' -> G 00:20:24; 00:25:43 'Councillor Siemens, do you have a question?' -> G 00:25:45; minutes list Councillor Jac Siemens present. Pitch 97 Hz.",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:09:16",
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "direct answer to 'Mr. Warkentin, is there any reason we can't go directly into third reading?'; only the City Manager answers procedural questions to administration; short turn's pitch (163 Hz) is unreliable"
+  },
+  {
+   "time": "00:11:15",
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "captions run 'we're approving you're here' as one phrase: the end of Bill Hiebert's 00:11:09 sentence; pitch 128 Hz matches his 131 Hz, not Zwaagstra's 87-99 Hz"
+  },
+  {
+   "time": "00:13:52",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "human_check": true,
+   "reason": "reviewer listened (2026-11-14): 'I think' is Michael Zwaagstra; minutes R23-101 mover M. Zwaagstra"
+  },
+  {
+   "time": "00:13:57",
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "human_check": true,
+   "reason": "reviewer listened (2026-11-14): 'Anything further?' is Mayor Earl Funk"
+  }
+ ],
+ "turn_splits": [],
+ "summary": "Clean meeting, no public speakers. Seven letters map one-to-one to council and the City Manager; Bill (B) and Jake (E) Hiebert are separated by the opening and minutes R23-097. A few short interjections carry the wrong letter (two overridden); 00:07:07-00:07:10 and some 'Nothing further' lines are uncertain.",
+ "transcript": "transcripts/2023/2023-05-16.txt"
+}

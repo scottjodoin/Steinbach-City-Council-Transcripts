@@ -1,0 +1,54 @@
+{
+ "meeting": "2023-11-21",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Minutes: Mayor Earl Funk called the meeting to order and opened it. A calls to order (00:00:20), reads the premier's reply addressed 'dear Mayor Funk', calls every motion and vote, hands the floor to councillors and the City Manager; addressed as 'Mr. Mayor' by C, D and E.",
+   "notes": "Some short replies may sit inside A's turns: 'No comments.' at 00:16:20 and 'Nothing further.' at 00:15:00 could be a councillor (see review). 'I'll' at the end of 00:14:28 is the start of C's next words."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'Councillor Hiebert?' (00:11:40), B 'Motion to approve.' (00:11:45); chair 'Go ahead, Councillor Hiebert' (00:11:47), B gives the mover's statement on the Emergency Plan (00:11:50). Minutes R23-237: mover J. Hiebert. Voice pitch of the 00:11:50 turn 107 Hz (a low male voice, not Bill Hiebert's ~160 Hz).",
+   "notes": "The repeated 'No comments.' / 'No comment.' replies (00:06:12 to 00:08:04) and 'No, thank you.' (00:12:32) are one-to-two-word replies with pitches 127-160 Hz; they may come from different councillors (see review)."
+  },
+  {
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair hands off 'Councillor Zwaagstra.' (00:08:06), C 'Motion to approve.' (00:08:24), chair 'Go ahead, Councillor Zwaagstra' and C's permit statement (00:08:27). Minutes: M. Zwaagstra mover of R23-236 (building permits) and R23-238 (subdivision, C moves at 00:14:39). D replies 'I agree with Councillor Zwaagstra' (00:09:06); the mayor: 'like Councillor Switzer [Zwaagstra] said, we're going to hit $200 million' (00:09:42). Voice pitch 96-108 Hz."
+  },
+  {
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Susan Penner was excused (minutes R23-233), so the only Penner present is Damian Penner. Minutes: D. Penner seconded R23-236 and R23-237; the chair names 'Councillor Penner' as seconder and D speaks right after the mover both times (00:09:06, 00:12:08). The mayor's 00:12:33 'As Councillor Penner said, in an emergency it's very important to be prepared' restates D's 00:12:08 turn. Voice pitch 117-125 Hz across D's three long turns (male voice, consistent).",
+   "notes": "00:16:01 (2024 meeting dates) follows the chair's 'Motion to approve?' and D's 'Yes, sir.'; the minutes record no mover for this acknowledged item. Same voice pitch as D's other turns, so left with D."
+  },
+  {
+   "label": "E",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this file?' (end of the 00:09:42 and 00:12:33 turns); E gives the staff reports (00:11:13, 00:13:21) and the chair replies 'Thank you, Mr. Warkentin' (00:11:40, 00:14:28). E also gives the staff recommendation on the 2024 meeting dates (00:15:49). Minutes: City Manager Troy Warkentin present."
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [],
+ "summary": "Short 17-minute meeting with five clean letters (mayor, City Manager, three councillors); all mapped high and in agreement with AssemblyAI. Bill Hiebert has no letter of his own; his voice may be among the short 'No comments.' replies on B. No residents spoke and no private individuals are named.",
+ "transcript": "transcripts/2023/2023-11-21.txt"
+}

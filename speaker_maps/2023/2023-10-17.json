@@ -1,0 +1,111 @@
+{
+ "meeting": "2023-10-17",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:00) and hands the opening to Councillor Damian Penner; calls every motion and vote, asks Mr. Warkentin to introduce files (00:05:45, 00:22:18, 00:25:54). Minutes item 2: Mayor Earl Funk called the meeting to order. Addressed as 'Mr. Mayor' throughout.",
+   "notes": "'Go ahead.' at 00:23:56 sits inside B's turn and is split out to the mayor."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hand-off 'give the opening to Councillor Damian Penner' (00:00:00) followed by B's opening remarks; minutes item 3 'Councillor Damian Penner opened the meeting'; mayor replies 'Thank you, Councillor Penner' (00:01:37). 'Councillor Penner.' (00:14:47, 00:23:52) followed by B's turns. Pitch 136-162 Hz, a man's voice, while C (188 Hz) is Susan Penner.",
+   "notes": "'No comments.' at 00:02:40 (accounts payable) could be the mayor answering his own 'Any comments?'; left with B, see review."
+  },
+  {
+   "label": "C",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penner. Second by Councillor Hiebert. Go ahead, Councillor Penner.' (00:02:41) followed by C on building permits (minutes R23-209 mover S. Penner); mayor then says 'Councillor Penner is correct' about C's remarks. C speaks first on Board of Revision (R23-212 mover S. Penner, 00:21:51) and auditor ('Go ahead, Councillor Penner', 00:26:42; R23-214 mover S. Penner). Pitch 188 Hz (woman's voice), matching Susan Penner."
+  },
+  {
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "D says 'I'll make the second.' (00:08:38) and the mayor answers 'Okay. Councillor Siemens.' (00:08:44); minutes R23-211 seconder J. Siemens. D speaks right after 'Do we have a seconder? Go ahead, Councillor.' on the lift station (00:25:13; R23-213 seconder J. Siemens). Existing map gives the same turns (08:38, 11:32, 25:15) to Jac Siemens by timestamp.",
+   "notes": "00:05:42 (business licences, mover J. Hiebert, seconder J. Siemens) is on D here but was given to Jake Hiebert by the existing map; pitch (113 Hz) does not separate them. Left with D, see review."
+  },
+  {
+   "label": "E",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' (00:05:45, 00:22:18, 00:25:54) each followed by E; thanked 'Thank you, Mr. Warkentin' (00:08:13, 00:23:52); D. Penner asks 'Mr. Warkentin' a question at 00:23:56 and E answers. Minutes list City Manager Troy Warkentin as present.",
+   "notes": "'Thank you, Your Worship.' and 'That's correct.' inside his reports (00:06:14, 00:22:35) are not in the earlier transcript of the same audio and break his sentences; split out as Unclear."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Council, how would you like to proceed? Councillor Zwaagstra.' (00:08:13) followed by F's motion; minutes R23-211 and R23-213 mover M. Zwaagstra. 'Thank you, Councillor Zwaagstra' (00:19:11) after F's closing; 'How would you like to proceed, Councillor Zwaagstra?' (00:24:31) followed by F's motion to award the tender. Colleagues refer to 'Councillor Zwaagstra recommending the 5%' (00:13:57).",
+   "notes": "Garbled hand-offs 'Councillor Slater' (00:08:44) and 'Councillor Dijkstra' (00:25:10) = Zwaagstra. Mid-speech 'Thank you.' fragments in his turns (00:08:47, 00:17:50) may be others; left in place."
+  },
+  {
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Hiebert.' (00:16:17) followed by G's substantive turn. G is told from Bill Hiebert by the minutes: G answers on the Board of Revision (00:22:17) and auditor (00:27:13), both seconded by J. Hiebert (R23-212, R23-214), and no G turn is tied to a B. Hiebert motion. Pitch 110-116 Hz, far below Bill Hiebert's measured 160 Hz. Existing map gives the same turns (16:20, 22:17, 27:13) to Jake Hiebert by timestamp.",
+   "notes": "Bill Hiebert does not appear to speak at length in this meeting."
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:23:56",
+   "label": "B",
+   "text": "Go ahead.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair granting the floor after D. Penner says 'Question for administration'; the earlier transcript has it as a separate mayor turn at 00:23:58"
+  },
+  {
+   "time": "00:06:14",
+   "label": "E",
+   "text": "Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "breaks the City Manager's sentence mid-report; absent from the earlier transcript of the same audio"
+  },
+  {
+   "time": "00:06:14",
+   "label": "E",
+   "text": "That's correct.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "breaks the City Manager's sentence mid-report; absent from the earlier transcript of the same audio"
+  },
+  {
+   "time": "00:22:35",
+   "label": "E",
+   "text": "Thank you, Your Worship. Thank you.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "replaces part of the City Manager's sentence; the earlier transcript put a 'Thank you.' on another letter here"
+  }
+ ],
+ "summary": "Clean meeting: seven letters, all council and the City Manager, no public speakers. Main uncertainties are the two Hieberts (G placed as Jake by minutes and pitch) and one short business-licence comment that could be Siemens or Jake Hiebert. Board of Revision appointees named by the mayor are public appointments.",
+ "transcript": "transcripts/2023/2023-10-17.txt"
+}

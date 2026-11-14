@@ -1,0 +1,119 @@
+{
+ "meeting": "2026-05-05",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "evidence": "Single pre-meeting remark at 00:00:00 ('Nice to see you...') before the meeting is called to order; no name cue."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order and gives the opening to Councillor Susan Penner (00:00:03); calls every question; asks 'Mr. Warkentin, could you please introduce this file?' four times; replies address him 'Mr. Mayor'; makes the library board appointment (minutes item 14: Mayor Funk appointed). Pitch 151 Hz on 00:05:26-00:06:40.",
+   "notes": "The 00:12:55 silica statement contains 'Thank you, Your Worship,', 'Thank you.' and 'Yes.' fragments that are not in the YouTube captions (probably spurious); left on the mayor. Splits: 'Definitely support, yep.' (00:16:38) and 'Thank you, Mr.' (00:20:38) are other speakers."
+  },
+  {
+   "label": "C",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair gives the opening to 'Councillor Susan Penner' (00:00:03) and C gives it (minutes item 3: S. Penner opened); chair 'Thank you, Councillor Penner' (00:05:25); chair 'Motion to approve, Councillor Susan Penner' (00:17:24) and C says 'Motion to approve' and speaks as mover (minutes R26-096 mover S. Penner); E at 00:19:28 'As was stated by Councillor Penner'. Pitch 205 Hz (female).",
+   "notes": "00:16:37 'Thanks, Ben.' is a 1-second fragment; captions hear 'I'm good.' / 'Thank you, Stan.' - speaker uncertain, left on C (see review)."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Each of four 'Mr. Warkentin, could you please introduce this file?' hand-offs is followed by D's staff report (00:06:44, 00:08:54, 00:11:00, 00:15:14); 'I can do that, Mr. Mayor' (00:14:53) to the chair's direction to Mr. Warkentin; minutes list City Manager Troy Warkentin present."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "E moves By-law 2278 ('Motion to approve.' 00:07:21) and By-law 2279 ('Move first reading.' 00:09:40) and gives the mover's speech after 'Go ahead, Councillor' each time; minutes R26-094 and R26-095 mover M. Zwaagstra. At 00:19:28 E refers to Councillor Penner and Councillor Siemens in the third person. Pitch 97-100 Hz (Zwaagstra measured 104 Hz on 2026-09-15)."
+  },
+  {
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Single turn 00:08:08 on By-law 2278, the first councillor after the mover (Zwaagstra); the chair named 'Councillor Penner' as seconder (00:07:22) and minutes R26-094 record seconder D. Penner. Male voice (140 Hz), so not Susan Penner (C). No direct name hand-off.",
+   "notes": "Turn ends with the chair's 'Anything' (split). Pitch 140 Hz is also close to Bill Hiebert's debate pitch in other meetings (137-142 Hz), so a weak contrary cue; see review."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair names 'seconded by Councillor Siemens' for the endorsement (00:17:24; minutes R26-096 seconder J. Siemens); G speaks right after the mover (Susan Penner) at 00:18:27; E then says 'As was stated by Councillor Penner and affirmed by Councillor Siemens' (00:19:28). Pitch 104 Hz.",
+   "notes": "Turn begins with the chair's 'Anything?' (split)."
+  },
+  {
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "evidence": "Single turn 00:20:43 on the endorsement: 'I was volunteering at the Pick Up and Walk on Saturday'. Councillors without another letter are Bill Hiebert and Jake Hiebert (if F is Damian Penner). Bill Hiebert's 2026-06-02 opening says he has volunteered at every Pick Up and Walk - a content cue only. Pitch 130 Hz sits between Bill (137-165 Hz in other meetings) and Jake (105-133 Hz), inconclusive.",
+   "notes": "Turn's opening 'Thank you, Mr.' sits at the end of the chair's 00:20:38 turn (split). AssemblyAI says Jake Hiebert; conflicting thin evidence, so low."
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:08:08",
+   "label": "F",
+   "text": "Anything",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "turn-boundary slip: the chair's 'Anything further for council?' continues on B's 00:08:26 line"
+  },
+  {
+   "time": "00:18:27",
+   "label": "G",
+   "text": "Anything?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's 'Anything?' before Councillor Siemens answers 'Yes, Mr. Mayor, thank you'"
+  },
+  {
+   "time": "00:20:38",
+   "label": "B",
+   "text": "Thank you, Mr.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "turn-boundary slip: H's turn continues 'Mayor. I was working at...' on the next line"
+  },
+  {
+   "time": "00:16:38",
+   "label": "B",
+   "text": "Definitely support, yep.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "medium",
+   "reason": "a councillor answering the chair's question (captions: 'I fully support.'); the chair then says 'Thank you. That's exactly what I'd like to do.' Old transcript put it on the unidentified-councillor letter."
+  }
+ ],
+ "summary": "Short, clean meeting (23 min). Chair, City Manager, Susan Penner, Zwaagstra and Siemens are solid. The two single-turn male councillors are uncertain: F (seconder slot, Damian Penner, medium) and H (Pick Up and Walk volunteer, possibly Bill Hiebert, low; AssemblyAI says Jake Hiebert). Spurious 'Thank you, Your Worship' fragments in the mayor's 00:12:55 turn.",
+ "transcript": "transcripts/2026/2026-05-05.txt"
+}

@@ -1,0 +1,96 @@
+{
+ "meeting": "2022-12-06",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:08), names movers/seconders, calls every vote, opens/closes the public hearing, hands files to Mr. Warkentin; addressed as Mr. Mayor throughout; roster mayor.",
+   "notes": "00:07:33 ends with 'Move approval. Thank you,' which is the mover (split to Zwaagstra). 00:26:04 C 'it?' is the end of this letter's sentence (override)."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'give the opening to Councillor Penner' (00:00:08) and B gives the tribute; 'Thank you, Councillor Penner' (00:05:01). Susan Penner was excused this meeting (chair's motion at 00:05:39 excuses Councillors Siemens, Jake Hiebert and Susan Penner), so the only Penner present is Damian. Voice pitch of the tribute 144-150 Hz and other B turns 127-139 Hz: a man, not Susan (~190 Hz). Chair names Councillor Penner as mover before B speaks at 00:10:33 and 00:11:40; chair at 00:17:01 'as Councillor Penner said' after B's 00:16:33 turn; 'Councillor Penner has suggested' after B's 00:25:14 turn.",
+   "notes": "Short 'No comments' turns (00:05:17, 00:06:10) could be other councillors; kept on B."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this file?' and C introduces the file each time (00:06:46, 00:11:03, 00:12:44, 00:15:06, 00:18:12, 00:20:57); Zwaagstra refers to 'the city manager explained' (00:13:58); C commits staff to follow-up (00:26:12). Pitch ~96-108 Hz across turns.",
+   "notes": "00:08:05 (mover's 'I'll make the motion for second reading') belongs to Zwaagstra; 00:26:04 'it?' belongs to the chair. 00:15:06 and 00:18:12 contain text not in the audio (see review)."
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'Go ahead, Councillor Zwaagstra' and D speaks (00:08:07->00:08:14, 00:13:55->00:13:58); chair names Councillor Zwaagstra as mover before D's 'I make the motion' (00:19:22, 00:21:20, 00:26:18->00:27:07); E replies 'You made a good case there, Councillor Zwaagstra' after D's turn (00:14:28). Pitch 91-103 Hz on long turns.",
+   "notes": "00:20:08 'Yes.' answers whether council can go directly to second reading - more likely the City Manager (see review)."
+  },
+  {
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Jake Hiebert was excused this meeting (00:05:39), so the only Hiebert present is Bill. Chair: 'Councillor Hiebert?' -> E 'I will approve' and 'Go ahead, Councillor Hiebert' -> E speaks (00:16:05-00:16:15); chair names Councillor Hiebert as mover before E's comments (00:09:35, 00:20:08, 00:22:09); E seconds Zwaagstra's motion and praises his case (00:13:55, 00:14:28).",
+   "notes": "00:09:30 starts with 'Mayor.', the end of B's 'Thank you, Mr.' (split)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:08:05",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "The mover speaking ('I'll make the motion for second reading'); the chair then says 'Second by Councillor Hiebert. Go ahead, Councillor Zwaagstra' and D speaks to the motion. The City Manager does not move motions."
+  },
+  {
+   "time": "00:26:04",
+   "label": "C",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "'it?' completes the chair's question 'do we have consensus to give it over to administration to have a good look at' (00:25:42)."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:07:33",
+   "label": "A",
+   "text": "Move approval. Thank you,",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Continues into the next turn 'Mr. Mayor. I'll make the motion for second reading.' by the mover, whom the chair then calls on as Councillor Zwaagstra."
+  },
+  {
+   "time": "00:09:30",
+   "label": "E",
+   "text": "Mayor.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Completes B's 'Thank you, Mr.' at the end of the previous turn (captions run 'thank you Mr Mayor' as one phrase)."
+  }
+ ],
+ "summary": "Short, clean meeting: mayor, City Manager and three councillors (Damian Penner, Bill Hiebert, Zwaagstra; Siemens, Jake Hiebert and Susan Penner excused). No minutes or older map available; identities rest on the chair's hand-offs and the excusal motion. Two Warkentin turns (00:15:06, 00:18:12) contain text the captions show was not said, including a spurious 'Greg Carlos'.",
+ "transcript": "transcripts/2022/2022-12-06.txt"
+}

@@ -1,0 +1,85 @@
+{
+ "meeting": "2026-03-03",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order (00:00:00), hands the floor to councillors and staff by name, calls every vote; minutes item 2: Mayor Earl Funk called the meeting to order",
+   "notes": "Turn 00:16:00 contains short motion/seconder words ('Second.', 'So moved.') that are probably councillors but cannot be placed; left with the chair."
+  },
+  {
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'give the opening to Councillor Bill Hiebert' (00:00:00) -> B gives the opening; chair 'Thank you, Councillor Hiebert' (00:04:58); minutes item 3: Councillor B. Hiebert opened the meeting; B 'No comments.' (00:05:50) right after the chair names Hiebert as mover of the minutes (R26-048 B. Hiebert)",
+   "notes": "Short turns 00:05:05, 00:10:02, 00:20:42 keep the letter; voice pitch similar to the opening (133-158 Hz)."
+  },
+  {
+   "label": "C",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Senior Manager, Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager 'I'd like to defer to Mr. Thiessen' (00:10:37) -> C gives the Millwork Drive tender report (00:10:41); chair 'Thank you, Mr. Thiessen' (00:12:14); C also gives the Capital Works tender report after the City Manager defers (00:06:24); minutes item 2 lists Adam Thiessen, Senior Manager, Corporate Services",
+   "notes": "The opening sentence of 00:06:24 is the City Manager deferring to him (split)."
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Zwaagstra' (00:08:16) -> D 'Make a motion to approve' and 'Go ahead, Councillor Zwaagstra' (00:08:45) -> D's speech, matching minutes R26-049 mover M. Zwaagstra; chair 'Councillor Switzer?' (00:19:55) -> D moves first reading, matching R26-054 mover M. Zwaagstra; B replies 'Councillor Swaigstra has pretty well said it all' (00:10:02); pitch 120-127 Hz"
+  },
+  {
+   "label": "E",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' (00:10:07) -> E defers to Mr. Thiessen (00:10:37); chair asks Mr. Warkentin again (00:18:46) -> E introduces By-law 2273 (00:19:14); minutes item 2 lists City Manager Troy Warkentin",
+   "notes": "Turn 00:19:14 contains 'Thank you, Your Worship. Thank you, Brian. Thank you, Your Worship.' which is not in the YouTube captions or the original transcript (they read 'the civic address of the subject') - likely a transcription artefact."
+  },
+  {
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Penner.' (00:12:14) -> F 'Motion to award Friesen Hauling' (00:13:37), minutes R26-050 mover D. Penner; F 'Motion to appoint Deb Rempel' (00:18:29), minutes R25-053 mover D. Penner; Zwaagstra refers to F's argument as 'Councillor Penner' (00:14:44); male pitch 139-157 Hz rules out Susan Penner (~190 Hz)",
+   "notes": "'Oh,' / 'No, I'm good.' (00:15:59-00:16:00) answer the chair's offer of closing remarks to the mover; kept with F."
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:06:24",
+   "label": "C",
+   "text": "Uh, thanks, Mr. Mayor. I will defer this to, uh, Mr. Jason, the city's corporate planner.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "the chair has just asked Mr. Warkentin to introduce the file; the original transcript gave these words to the City Manager's letter and the YouTube captions start a new speaker at 'Uh yes'; 'Mr. Jason' = Mr. Thiessen"
+  },
+  {
+   "time": "00:18:34",
+   "label": "F",
+   "text": "comments?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "completes the chair's 'Any' at the end of 00:18:30; original transcript has 'Any comments?' on the chair"
+  }
+ ],
+ "summary": "Clean six-letter meeting; every letter matches AssemblyAI and the older map (by timestamp). Susan Penner has no letter of her own. Two splits; one likely hallucinated 'Your Worship'/'Brian' phrase at 00:19:14 to check by ear.",
+ "transcript": "transcripts/2026/2026-03-03.txt"
+}

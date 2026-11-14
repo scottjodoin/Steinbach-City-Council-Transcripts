@@ -1,0 +1,189 @@
+{
+ "meeting": "2023-10-03",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:00:02 chair gives the opening to 'Councillor Jake Hiebert' and A delivers it (minutes item 3: Jake Hiebert opened; content: former RCMP officer, Parole Board); 00:18:47 A 'motion to approve' on asset management after the chair names 'Council Hubert' (minutes R23-199 mover J. Hiebert) and 00:18:50 'Go ahead, Councillor Hiebert' -> A speaks as mover; 00:25:03 'go ahead, Councillor Hiebert' -> A on fire hall. Pitch 108-117 Hz on long turns, distinct from C (130-148 Hz).",
+   "notes": "00:24:55 'I was.' is the fire-hall seconder (overridden to Damian Penner). Short turns 00:00:01, 00:05:33 'No, sir.' (137 Hz) and 00:27:30 'Okay. Absolutely.' (139 Hz) are uncertain; left on A."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order, chairs every item, calls the votes; minutes item 2: Mayor Earl Funk called the meeting to order; addressed as 'Mr. Mayor' and 'Earl' (00:06:35) in replies.",
+   "notes": "Several movers' words are merged into B's turns (split out at 00:11:20, 00:17:21, 00:22:16)."
+  },
+  {
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:23:35 C 'Motion to approve.' on the Hanover Street grant right after the chair names 'Councillor Hebert', then speaks as mover at 00:23:42 (minutes R23-201 mover B. Hiebert, seconder J. Siemens matches 'Seconded by Councillor Siemens'); 00:05:53 and 00:16:26 'No comments.' right after motions B. Hiebert moved (R23-195, R23-197). Pitch 128-148 Hz, clearly higher than Jake Hiebert's A (108-117 Hz).",
+   "notes": "00:26:02 'We need things excavated.' (excavator licence) is a quip; left on C."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' -> D at 00:06:27, 00:16:47, 00:18:05 and 00:20:52 introduces the parking report (defers to Adam Thiessen), By-law 2232, asset management (defers) and the MEDIP applications; minutes list City Manager Troy Warkentin.",
+   "notes": "Merged cluster: D also carries Michael Zwaagstra (00:11:11) and Damian Penner (00:17:34, 00:22:38, 00:29:16); all overridden."
+  },
+  {
+   "label": "E",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager defers to 'the city's corporate services manager, Adam Thiessen' at 00:06:27 and E gives the parking report; chair replies 'Thank you, Mr. Thiessen' (00:10:53); E presents the asset management item after the City Manager defers again (00:18:05-00:18:10). Minutes: Manager, Corporate Services, Adam Thiessen present.",
+   "notes": "Small 'Thank you.'/'Okay.' interjections inside E's long report are probably someone else's; not separable."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:11:20 'Go ahead, Councillor Zwaagstra' -> F speaks as mover of the parking motion (minutes R23-196 mover M. Zwaagstra); 00:24:18 F speaks after chair names Councillor Zwaagstra as fire-hall mover (R23-202 mover M. Zwaagstra); 00:27:52 chair 'Councillor Zwaagstra' -> F moves the Chapel Drive motion (R23-204) and 00:29:16 Damian Penner agrees with 'Councillor Zwaagstra's motion'; 00:19:15 F speaks as asset-management seconder (R23-199 seconder M. Zwaagstra). Pitch 98-103 Hz on all long turns.",
+   "notes": "00:25:59 'It's not us convincing.' is a woman's voice (193 Hz), overridden to Susan Penner. 00:25:37 'Nope.' too short to check (144 Hz on 9 frames); left on F."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Elimination: every other council member is on another letter and Siemens is otherwise silent; G speaks after the mover on the two motions Siemens seconded (00:13:25 parking R23-196, 00:29:10 Chapel Drive R23-204, both minutes seconder J. Siemens); G's pitch 113 Hz is steady across turns and differs from Zwaagstra (98-103 Hz); AssemblyAI and the old map agree.",
+   "notes": "The hand-offs 'Councillor Stevenson' (00:13:22) and 'Councillor Stevens' (00:19:29) are NOT in the YouTube captions ('anything further of council'): vocabulary artifacts, not evidence. Odd 'Thank you, Your Worship. Thank you, Mr. Mayor. Thank you, Your Worship' inside 00:13:25."
+  },
+  {
+   "label": "H",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "By-law 2232 first reading: minutes R23-198 mover S. Penner; chair 'Councillor Penner. Motion to approve.' and H gives the mover's comment 'This just allows for the public hearing to be had' (00:17:29) and 'I can't top that.' (00:17:50); pitch 168-203 Hz (a woman's voice; Susan Penner ~190 Hz, Damian Penner ~115-145 Hz).",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:11:11",
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'How would you like to proceed? Councillor Zwaagstra.' (captions 'counselor swagster') -> motion on options 1 and 4; minutes R23-196 mover M. Zwaagstra; pitch 100 Hz matches F (98-103), not the City Manager (131-133)"
+  },
+  {
+   "time": "00:17:34",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "councillor-style comment ('Thank you, Mr. Mayor... good to give this first reading') right after mover Susan Penner; minutes R23-198 seconder D. Penner; old map Damian Penner"
+  },
+  {
+   "time": "00:22:38",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Penner. Motion to approve... Go ahead' -> mover's speech on Hespeler Street; minutes R23-200 mover D. Penner (seconder S. Penner); male pitch 116 Hz; old map Damian Penner"
+  },
+  {
+   "time": "00:29:16",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Penner.' -> D; male pitch 122 Hz rules out Susan Penner; content (agrees with 'Councillor Zwaagstra's motion') is not the City Manager; old map Damian Penner"
+  },
+  {
+   "time": "00:24:55",
+   "label": "A",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "answers 'Who's the seconder?' with 'I was.'; chair had said 'Second by Councillor Penner'; minutes R23-202 seconder D. Penner; old map Damian Penner"
+  },
+  {
+   "time": "00:25:59",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "woman's voice (193 Hz) right after 'Councillor Penner, make the motion... Any comments?' on the excavator licence; minutes R23-203 mover S. Penner; text garbled"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:11:20",
+   "label": "B",
+   "text": "I'll second.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "answer to 'are you seconding?', followed by 'Seconded by Councillor Siemens'; minutes R23-196 seconder J. Siemens; separate turn in the original transcript"
+  },
+  {
+   "time": "00:17:21",
+   "label": "B",
+   "text": "Motion to approve.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "after the chair names 'Councillor Penner'; pitch 203 Hz at 00:17:24-00:17:27 (woman); minutes R23-198 mover S. Penner"
+  },
+  {
+   "time": "00:22:16",
+   "label": "B",
+   "text": "Motion to approve.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "after the chair names 'Councillor Penner'; minutes R23-200 mover D. Penner; separate turn in the original transcript"
+  },
+  {
+   "time": "00:22:16",
+   "label": "B",
+   "text": "Thank you, Mr. Mayor.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "the mover's reply to 'Go ahead', start of his 00:22:38 speech (captions 'go ahead thank you Mr Mayor this is a Grant application')"
+  },
+  {
+   "time": "00:18:47",
+   "label": "A",
+   "text": "Council Hubert,",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "the chair naming the mover (captions 'Council Hubert'; original transcript has it in the chair's turn); 'motion to approve' stays with Jake Hiebert (R23-199 mover)"
+  }
+ ],
+ "summary": "Good quality. Letter D merges the City Manager with Damian Penner (3 turns) and Zwaagstra (1 turn); movers' 'Motion to approve' lines merged into the chair are split out. Jac Siemens (G) rests on elimination and seconder pattern because the 'Stevenson/Stevens' hand-offs are vocabulary artifacts not in the audio.",
+ "transcript": "transcripts/2023/2023-10-03.txt"
+}

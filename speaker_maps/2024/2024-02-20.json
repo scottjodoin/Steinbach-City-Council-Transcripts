@@ -1,0 +1,232 @@
+{
+ "meeting": "2024-02-20",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls meeting to order 00:00:00 (minutes: Mayor Earl Funk called the meeting to order), hands the floor to every councillor and to Mr. Warkentin, opens/closes the public hearing, calls every vote; addressed as 'Mr. Mayor' throughout.",
+   "notes": "A few other voices sit inside chair turns: 'Motion to approve.' at 00:05:12 and 00:09:44 and 'So moved.'/'Second.' at 00:35:13 are split out; the trailing 'Third reading.' at 00:09:25 and 'Not at this time.' at 00:17:17 may be someone else (see review)."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:00:00 chair gives the opening to 'Councillor Damian Penner' and B gives it (minutes item 3: D. Penner opened); 00:11:47 chair 'Councillor Penner' -> B 'Motion to approve' on By-law 2241 first reading (minutes R24-038 mover D. Penner); 00:20:18 'Joining Councillor Penner with regards to the resolution' as seconder of R24-039 (minutes seconder D. Penner); 00:29:39 mover of By-law 2242 first reading (R24-041 mover D. Penner); 00:35:11 comment as seconder of R24-046 (D. Penner).",
+   "notes": "00:08:28 'Motion to approve.' after the chair called Councillor Siemens is overridden to Jac Siemens."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Introduces every file after 'Mr. Warkentin, could you please introduce this file?' (00:06:25, 00:10:57, 00:28:56, 00:33:58); answers the admin question at 00:13:03 and is thanked 'Thank you, Mr. Warkentin'; minutes 6.1: Troy Warkentin, City Manager, introduced By-Law 2235.",
+   "notes": "00:33:32 'Hear, hear.' is not his voice by pitch (overridden to Unclear). His turns at 00:06:25 and 00:28:56 contain 'Thank you, Your Worship.' fragments that look like transcription artifacts."
+  },
+  {
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:08:29 chair 'Go ahead, Councillor Siemens' -> D speaks as mover of By-law 2235 second reading (minutes R24-035 mover J. Siemens); 00:09:03 Zwaagstra: 'As Councillor Siemens had mentioned' about D's content; 00:30:28 'Nothing further' right after chair names 'Councillor Siemens' as mover of By-law 2242 second reading (R24-042 mover J. Siemens).",
+   "notes": ""
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:26:16 chair 'Yes, Councillor Zwaagstra' -> E moves the crosswalk letter motion (minutes R24-040 mover M. Zwaagstra); 00:34:54 chair 'Councillor Zwaagstra ... Go ahead, Councillor' -> E replies, and Damian Penner then says 'Councillor Zwaagstra could convince me' (R24-046 mover M. Zwaagstra); E speaks second as seconder on R24-035, R24-038, R24-043 and R24-044 (minutes seconder M. Zwaagstra each time). Pitch 89-109 Hz.",
+   "notes": "00:28:22 is the delegate (overridden to Resident 1); 00:09:43 'First.' is a higher voice (144 Hz), overridden to Unclear. 00:26:33 contains 'Thank you, Your Worship. Thank you, Alderman Demong. Thank you, Your Worship.' which looks like a transcription artifact."
+  },
+  {
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "First comment as mover on accounts payable 00:10:33 (minutes R24-037 mover J. Hiebert) and on business licences 00:30:54 after chair 'Councillor Hiebert, seconded by Councillor Zwaagstra' (R24-043 mover J. Hiebert); 'Nothing further to add' as mover of By-law 2235 third reading 00:09:57 (R24-036 mover J. Hiebert); 'Nothing further' 00:30:09 as seconder of R24-041 (J. Hiebert). Distinct from Bill Hiebert (J) by pitch (F 103-124 Hz vs J 143-154 Hz).",
+   "notes": "00:12:30 question to admin and 00:18:05 question to the delegate rest on the letter only."
+  },
+  {
+   "label": "G",
+   "person": "Audrey Harder",
+   "role": "delegation",
+   "title": "Executive Director",
+   "organization": "Pat Porter Active Living Centre",
+   "confidence": "high",
+   "evidence": "Gives the delegation presentation on the Manitoba 55+ Games bid introduced by the chair at 00:13:44 (minutes item 12: Audrey Harder, Executive Director, Pat Porter Active Living Centre); Councillor S. Penner thanks 'Audrey' at 00:19:46.",
+   "notes": ""
+  },
+  {
+   "label": "H",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:19:40 'moved by Councillor Penner' -> H speaks as mover of R24-039 (minutes mover S. Penner, seconder D. Penner, who then says 'Joining Councillor Penner'); 00:31:18 'Motion to approve' after chair 'Councillor Penner' on building permits (R24-044 mover S. Penner) and the mayor then says 'like Councillor Susan Penner said', echoing H's 'on the heels of'; female voice by pitch (184-186 Hz).",
+   "notes": "Seven turns between 00:22:14 and 00:25:01 carry H but are a male voice (103-129 Hz) continuing the crosswalk delegate's speech: overridden to Resident 1 / Unclear."
+  },
+  {
+   "label": "I",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Private citizen delegation on rapid-flashing crosswalk lights: the chair introduces Resident 1 by name at 00:21:01 and greets him at 00:22:14; I answers 'Great to be here' and presents; at 00:25:35 corrects the chair on how to address him (minutes item 15).",
+   "notes": "Pitch 111-128 Hz."
+  },
+  {
+   "label": "J",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:26:26 chair 'second by? Councillor Hiebert. Okay, go ahead.' -> after Zwaagstra, J speaks as seconder of R24-040 (minutes seconder B. Hiebert); 00:33:28 first comment as mover on excavator licences (minutes R24-045 mover B. Hiebert, seconder J. Hiebert). Voice distinct from Jake Hiebert (F) by pitch (143-154 Hz).",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:08:28",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair asked 'Councillor Siemens?' immediately before; minutes R24-035 mover J. Siemens; the chair then says 'Go ahead, Councillor Siemens' and D speaks; existing map also had Siemens here"
+  },
+  {
+   "time": "00:09:43",
+   "label": "E",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "short interjection reminding the chair about third reading; pitch 144 Hz is far above Zwaagstra's 89-109 Hz in this meeting"
+  },
+  {
+   "time": "00:22:14",
+   "label": "H",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "reply 'Good evening.' to the chair's 'Good evening' greeting of the delegate; male voice (129 Hz), not Susan Penner (184-186 Hz)"
+  },
+  {
+   "time": "00:22:59",
+   "label": "H",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues the delegate's description of the crosswalks (minutes 15); male voice 103 Hz, not Susan Penner"
+  },
+  {
+   "time": "00:23:28",
+   "label": "H",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' mid-presentation in a male voice (110 Hz), so not Susan Penner; could be the delegate or a councillor"
+  },
+  {
+   "time": "00:23:43",
+   "label": "H",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "sentence continues into the delegate's next turn ('So what they did in Ste. / Anne and throughout Winnipeg'); male voice 117 Hz"
+  },
+  {
+   "time": "00:23:56",
+   "label": "H",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "delegate's account of the earlier Main Street collision ('shortly after I brought this out'); male voice 118 Hz"
+  },
+  {
+   "time": "00:24:27",
+   "label": "H",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "'I haven't heard back from MTA about their study' - the delegate's own study request (minutes 15.2); male voice 118 Hz"
+  },
+  {
+   "time": "00:25:01",
+   "label": "H",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues the delegate's sentence about the law office ('pedestrians— drivers yelling'); male voice 111 Hz"
+  },
+  {
+   "time": "00:28:22",
+   "label": "E",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "the delegate thanking council after his request carried ('older guys like myself too that cross those places'); pitch 127 Hz matches the delegate (128 Hz), not Zwaagstra (89-109 Hz); existing map also had the delegate"
+  },
+  {
+   "time": "00:33:32",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Hear, hear.' after a councillor's motion comment is not a City Manager remark; pitch 144 Hz vs Warkentin's 121-125 Hz in this meeting (possibly a Hiebert)"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:05:12",
+   "label": "A",
+   "text": "Motion to approve.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "a councillor moving the minutes inside the chair's turn; minutes R24-034 mover J. Hiebert (chair corrects himself to 'Councillor Hebert')"
+  },
+  {
+   "time": "00:09:44",
+   "label": "A",
+   "text": "Motion to approve.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "a councillor moving third reading inside the chair's turn; minutes R24-036 mover J. Hiebert, who then says 'Nothing further to add'"
+  },
+  {
+   "time": "00:35:13",
+   "label": "A",
+   "text": "So moved.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "a councillor moving adjournment after the chair asks for the motion; minutes item 25 mover J. Hiebert"
+  },
+  {
+   "time": "00:35:13",
+   "label": "A",
+   "text": "Second.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "the seconder, named by the chair 'Second by Councillor Penner'; minutes item 25 seconder S. Penner"
+  }
+ ],
+ "summary": "Clean diarization for council and staff; all ten letters identified with minutes-backed cues and agree with AssemblyAI and the existing map. The main error is the crosswalk delegate's speech scattered onto Susan Penner's letter H (male voice, overridden) and one closing remark on E; a few short procedural interjections remain unclear.",
+ "transcript": "transcripts/2024/2024-02-20.txt"
+}

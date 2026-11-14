@@ -1,0 +1,215 @@
+{
+ "meeting": "2024-04-16",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Penner.' -> A 'Motion to approve.' 00:12:10 and 'Go ahead, Councillor Penner' -> A 00:12:13 (minutes R24-085 mover S. Penner); 'Councillor Susan Penner, seconded by Councillor Damian Penner' -> A 00:43:30 (R24-087); 'Seconded by Councillor Susan Penner ... Councillor Penner, do you wish to add anything?' -> A 00:45:18 (R24-088); 'Councillor Susan Penner.' -> A 00:49:14 (R24-090 mover S. Penner). Pitch 176-198 Hz (female) on 00:12:13, 00:38:38, 00:45:18, 00:49:20, 00:50:05.",
+   "notes": "00:00:00 'Oh, no.' is pre-meeting and unprovable."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "00:12:43 speaks in the seconder slot right after the second-reading mover S. Penner, referring to 'councilor Penner' in the third person (minutes R24-085 seconder D. Penner); pitch 113-128 Hz (male, so not Susan Penner); every other council and staff member maps to another letter; AssemblyAI agrees.",
+   "notes": "00:00:03 is pre-meeting chatter. 00:47:49 'Nothing further.' overridden (mover's closing slot)."
+  },
+  {
+   "label": "C",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:05 and hands the opening to Councillor Bill Hiebert (minutes items 2-3); names movers, calls every vote; 'I have to excuse myself' 00:41:21 matches minutes item 18 (8:13 p.m.); returns 'Thank you very much, Deputy Mayor' 00:50:32 (minutes item 23). Pitch 137-144 Hz.",
+   "notes": "Splits: councillor words inside chair turns at 00:03:33, 00:08:07, 00:09:29. 'Thank you, Mr. Mayor. I have a report...' inside 00:50:32 is unexplained (see review). 'Alderman Demong' 00:09:29 is a transcription garble."
+  },
+  {
+   "label": "D",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'I'd like to give the opening to Councillor Bill Hiebert' -> D opening 00:00:15 (minutes item 3: B. Hiebert opened); 'Okay, Councillor Hiebert.' -> D 00:47:36 after 'seconded by Councillor Bill Hiebert' (R24-089 seconder B. Hiebert); 'Councillor Hiebert.' -> D 00:49:59 after 'seconded by Councillor Bill Hiebert' (R24-090); S. Penner 00:38:38 'Councillor Hiebert had to sit for 5 minutes' matches D 00:37:08. Pitch 138-165 Hz.",
+   "notes": "00:29:20 motion is Jac Siemens (override); 00:20:42 question overridden low."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra, seconded by Councillor Hiebert. Go ahead.' -> E 00:05:05 (R24-083 mover M. Zwaagstra); 'Councillor Zwaagstra.' -> E 00:34:51; chairs 00:43:14-00:50:06 after the mayor leaves, addressed 'Mr. Deputy Mayor' 00:43:49 (minutes item 18: Deputy Mayor Zwaagstra assumed the chair). Pitch 89-103 Hz; 00:09:02 (after 'Is there a seconder? Councillor Siemens, go ahead.') is 93 Hz = Zwaagstra, the subdivision mover (R24-084), not Siemens (~110 Hz).",
+   "notes": "Councillor for most of the meeting; Deputy Mayor in the chair 00:43:14-00:50:06. 00:14:21 'I'm good.' overridden; 'No, sir.' inside 00:43:31 split."
+  },
+  {
+   "label": "F",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' -> F 00:06:46 and 00:09:57 (minutes 9.1, 11.1); chair hands the traffic report to administration -> F 00:23:21 (minutes item 16); 'Mr. Warkentin, can you introduce this one' -> F 00:43:49, 00:46:10, 00:48:36.",
+   "notes": "00:46:45 is Councillor Jake Hiebert (override). 'Thank you, Your Worship.' fragments inside 00:09:57 and 00:23:21 are probably not in the audio."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Siemens, seconded by-- sorry, go ahead.' -> G 'Motion to approve.' 00:44:55 and 'Councillor Siemens, go ahead.' -> G 00:45:00 (R24-088 mover J. Siemens); 'Anything in closing, Councillor Siemens?' -> G 00:45:31; G 00:29:40 'I made this request' as mover of the three-way stop (minutes item 17 mover J. Siemens) and Jake Hiebert replies 'Further to what Councillor Siemens said' 00:33:39; G 00:40:17 mover's closing. Pitch 108-111 Hz.",
+   "notes": "Merged letter: 00:13:55 and 00:14:28 are Jake Hiebert (quiet voice, overridden)."
+  },
+  {
+   "label": "H",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "high",
+   "evidence": "Warkentin hands over 'to the city's corporate services manager' 00:14:52 and H gives the Event Centre update 00:14:58 (minutes item 14: Adam Thiessen presented); answers council questions 00:20:53, 00:22:09 (minutes item 15). Pitch 126-128 Hz.",
+   "notes": "00:33:39 is Councillor Jake Hiebert (override)."
+  },
+  {
+   "label": "I",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "00:29:29 'I would second that motion.' (minutes item 17 seconder J. Hiebert); 00:33:37 'Thank you, Mr. Mayor.' opens the turn that continues 'Further to what Councillor Siemens said ... I too have advocated for it' (the seconder). AssemblyAI agrees. Pitch 114-120 Hz.",
+   "notes": "Only two short turns."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:13:55",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair: 'Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?' for third reading; minutes R24-086 mover J. Hiebert; old map has Jake Hiebert here; voice too quiet for the pitch tool, unlike Siemens' clearly voiced G turns"
+  },
+  {
+   "time": "00:14:28",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Nothing further.' answering 'Anything in closing, Councillor Hiebert?' (mover J. Hiebert, R24-086)"
+  },
+  {
+   "time": "00:14:21",
+   "label": "E",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'I'm good.' pitch ~150 Hz, not Zwaagstra (~90-103 Hz); old transcript gave it to another cluster"
+  },
+  {
+   "time": "00:20:42",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Are we on track for construction?' pitch 125 Hz is below Bill Hiebert's 138-165 Hz here and nearer Siemens' ~110; old map gave it to Siemens"
+  },
+  {
+   "time": "00:29:20",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "moves the three-way stop (minutes item 17 mover J. Siemens); G (Siemens) then says 'I made this request'; old map has Siemens; pitch 114 Hz fits Siemens, not Bill Hiebert (138-165 Hz)"
+  },
+  {
+   "time": "00:33:39",
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'Further to what Councillor Siemens said ... I too have advocated for it' right after I's 'Thank you, Mr. Mayor' (seconder J. Hiebert, minutes item 17); S. Penner then names 'Councillor Siemens or the other councillor, Hiebert'; old map Jake Hiebert; not Thiessen's staff role"
+  },
+  {
+   "time": "00:46:45",
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Deputy Mayor: 'Councillor Hiebert, seconded by Councillor Bill Hiebert. So Councillor Hiebert, go ahead.' (minutes R24-089 mover J. Hiebert); councillor speech 'I approve of it'; old map Jake Hiebert"
+  },
+  {
+   "time": "00:47:49",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Nothing further.' in the mover's closing slot ('Anything in closing?') for R24-089 (mover J. Hiebert); old map Jake Hiebert; very short"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:03:33",
+   "label": "C",
+   "text": "So moved to approve.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "a councillor moving the minutes inside the chair's turn; minutes R24-081 mover J. Hiebert, not named aloud"
+  },
+  {
+   "time": "00:08:07",
+   "label": "C",
+   "text": "Move approval. Thank you, Mr.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "medium",
+   "reason": "continues into E 00:08:56 'Mayor. I'll make the motion to approve the subdivision.' (minutes R24-084 mover M. Zwaagstra)"
+  },
+  {
+   "time": "00:09:29",
+   "label": "C",
+   "text": "Nothing further.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "answer to 'Anything further?' inside the chair's turn; seconder J. Siemens (R24-084); old map gave it to Siemens"
+  },
+  {
+   "time": "00:13:55",
+   "label": "G",
+   "text": "Anything further, council?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's prompt; old transcript has it as a separate chair turn"
+  },
+  {
+   "time": "00:43:31",
+   "label": "E",
+   "text": "No, sir.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "a councillor answering the Deputy Mayor's question, not the chair"
+  }
+ ],
+ "summary": "Letters mostly clean; G (Siemens) also holds Jake Hiebert's quiet third-reading turns, and single Jake Hiebert turns sit on D, H and F; the three-way-stop motion sat on Bill Hiebert's letter. No residents spoke. Short interjections (00:14:21, 00:20:42, 00:47:49) are uncertain.",
+ "transcript": "transcripts/2024/2024-04-16.txt"
+}

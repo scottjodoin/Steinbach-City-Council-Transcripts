@@ -1,0 +1,130 @@
+{
+ "meeting": "2023-09-05",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:00) and hands the opening to Councillor Bill Hiebert; calls every motion and vote; asks 'Mr. Warkentin, could you please introduce this file?' (00:04:58, 00:09:27, 00:19:45); closes/opens the public hearing. Minutes item 2: Mayor Earl Funk called the meeting to order; item 6: public hearing called to order by Mayor Earl Funk; item 15: Mayor Funk commented on the Hampton Village park naming (00:22:56). Pitch 134-148 Hz.",
+   "notes": "Merged interjections: the applicant's 'No, unless there's any questions.' (00:08:08) and councillors' 'Second.' / 'So moved.' (00:22:56) and '8 years.' (00:26:59) are split out. 'Move approval.' (00:08:08), 'Second that, yeah.' (00:17:03) and 'Move.' (00:22:39) are probably councillors but left with the chair (see review)."
+  },
+  {
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Hand-off 'give the opening to Councillor Bill Hiebert' (00:00:00) followed by B's opening on the golf course history; minutes item 3 'Councillor Bill Hiebert opened the meeting'; 'Thank you, Councillor Hiebert' (00:04:58). 00:09:25 'No further comment' as seconder of the subdivision (minutes R23-177 seconder B. Hiebert); 00:19:43 'No comments.' as mover of the financial statements (minutes R23-180 B. Hiebert). Opening pitch 151 Hz.",
+   "notes": "00:19:22 'No comments.' after accounts payable (seconder J. Hiebert per minutes) measured 188 Hz on very few frames - may be another voice; see review."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Each 'Mr. Warkentin, could you please introduce this file?' (00:04:58, 00:09:27, 00:19:45) is followed by C's staff report; 'Thank you, Mr. Warkentin' (00:08:08, 00:11:02, 00:21:11); minutes 6.1 and 8: Troy Warkentin, City Manager, introduced the subdivision and the In Memoriam Policy; C answers all questions to administration."
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra.' (00:08:08) then D 'I'll make the motion to approve'; 'Go ahead, Councillor Zwaagstra' (00:08:52) followed by D's substantive turn (minutes R23-177 mover M. Zwaagstra); D seconds the in-memoriam motion (00:14:40; minutes R23-178 seconder M. Zwaagstra) and C replies 'wording suggested by both Councillors Penner and Zwaagstra. Mr. Zwaagstra...' (00:16:32); D seconds the park naming (00:25:55; minutes R23-183 seconder Michael Zwaagstra) and says he served alongside Councillor Siemens for 12 years. Pitch 90-101 Hz.",
+   "notes": "00:21:17 'Motion to approve.' follows 'Councillor Siemens?' and is overridden to Jac Siemens."
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penner?' (00:11:02) followed by E's question; E moves the in-memoriam change (00:13:31; minutes R23-178 mover S. Penner); 'Go ahead, Councillor Penner' (00:22:56) followed by E moving the park naming (minutes R23-183 mover Susan Penner). Pitch 170-178 Hz, a woman's voice, so not Damian Penner.",
+   "notes": "'I think that's a fair point.' inside 00:11:23 may be another voice (see review). 'Nothing.' at 00:22:56 fits S. Penner as seconder of second reading."
+  },
+  {
+   "label": "F",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "evidence": "Single turn 00:13:53 'question to administration on that. Do we need to amend policy...' - a councillor, not named by anyone. Pitch 110 Hz (a man; not Zwaagstra 90-101 or Siemens 85 in this meeting).",
+   "notes": "Possibly Jake Hiebert (his 00:22:53 turn measured 109 Hz) or Damian Penner; neither is otherwise heard. The old transcript merged this turn into the City Manager's letter."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Siemens?' then 'Go ahead, Councillor Siemens.' (00:21:11, 00:21:17) followed by G's substantive By-law 2229 turn (minutes R23-181 mover J. Siemens); D refers to 'Councillor Siemens' in the third person. 00:22:38 'No, sir.' closing as mover. Pitch 85 Hz.",
+   "notes": "00:22:53 'Nothing further, it's all been said.' follows 'Go ahead, Councillor Hiebert' (second-reading mover J. Hiebert) and is overridden."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:21:17",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair asks 'Councillor Siemens?' just before; chair then asks for a seconder and names Zwaagstra; minutes R23-181 mover J. Siemens. Pitch 118 Hz on few frames, unlike D's 90-101."
+  },
+  {
+   "time": "00:22:53",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair: 'Councillor Hiebert, seconded by Councillor Penner. Go ahead, Councillor Hiebert.' immediately before; minutes R23-182 mover J. Hiebert. Pitch 109 Hz vs 85 Hz for Siemens' turn on G."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:08:08",
+   "label": "A",
+   "text": "No, unless there's any questions.",
+   "person": "Jack Kehler",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Bethesda Wellness Inc.",
+   "confidence": "medium",
+   "reason": "Answer to the chair's 'I see the applicant is here today. Do you wish to speak?'; minutes 6.2 Jack Kehler on behalf of Bethesda Wellness Inc. was present and prepared to answer questions. Old transcript gave it its own turn at 00:08:14."
+  },
+  {
+   "time": "00:22:56",
+   "label": "A",
+   "text": "Second.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Councillor interjection after the watershed minutes are read (own turn at 00:23:37 in the old transcript); pitch 114 Hz, speaker not named."
+  },
+  {
+   "time": "00:22:56",
+   "label": "A",
+   "text": "So moved.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Councillor moving the park naming (own turn at 00:25:21 in the old transcript); chair then names Councillor Penner (minutes mover Susan Penner) but the pitch is 111 Hz on few frames, not her voice."
+  },
+  {
+   "time": "00:26:59",
+   "label": "A",
+   "text": "8 years.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Someone corrects the mayor's '12 years with him' (own turn at 00:27:31 in the old transcript); pitch 127 Hz."
+  }
+ ],
+ "summary": "Clean meeting with all seven council members; letters are mostly one voice each. Short interjections merged into the chair's letter (applicant reply, 'Move approval', 'Second that', 'So moved', '8 years') and one unnamed councillor question (F, 00:13:53) need an ear; golf-course staff named in the opening are withheld.",
+ "transcript": "transcripts/2023/2023-09-05.txt"
+}

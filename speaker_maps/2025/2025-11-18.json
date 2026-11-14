@@ -1,0 +1,276 @@
+{
+ "meeting": "2025-11-18",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:02 and hands the opening to Councillor Jake Hiebert; opens/closes the public hearings, calls every vote, hands the floor to councillors and staff throughout; minutes item 2: Mayor Earl Funk called the meeting to order.",
+   "notes": "Several councillor interjections sit inside A's turns (split out: 00:45:26, 01:00:12, 01:02:56, 01:04:35, 01:06:46, 01:08:39)."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'give the opening to Councillor Jake Hiebert' 00:00:02 -> B gives the opening 00:00:11 (minutes item 3); chair 'Go ahead, Councillor Hiebert' 00:52:39 -> B; B comments 01:09:48 as seconder of the emergency plan resolution (minutes R25-229 seconder J. Hiebert); 'No comments.' 01:03:14 after J. Hiebert moved accounts (R25-224). Pitch 115 Hz, distinct from G (Bill Hiebert, ~143 Hz).",
+   "notes": "00:05:13 'No comment.' and 00:05:52 'Call for the—' are overridden."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' 00:05:53, 00:17:30, 01:03:16, 01:10:30 -> C reports each time; answers 'question for administration'; minutes 7.1, 13.1, 18.",
+   "notes": "'Thank you, Your Worship. Okay.' inside the 01:03:38 report is probably not his (see review)."
+  },
+  {
+   "label": "D",
+   "person": "Terry Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Hillside Custom",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:08:25 ('My name is Terry Thiessen ... I'd be representing the applicant'); chair 'Mr. Thiessen' 00:12:20, 00:19:21, 00:24:33; minutes 7.3 and 13.2: Terry Thiessen of Hillside Custom on behalf of the applicants.",
+   "notes": "MERGED: 00:44:00 and 00:44:07 are Resident 2 (overridden)."
+  },
+  {
+   "label": "E",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Single turn 00:10:39: comes to the podium at the By-law 2266 public hearing after the chair asks for the public, self-identifies; minutes item 9 records Resident 1's lighting and dog concerns."
+  },
+  {
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "F 'Motion to approve.' 00:14:20 (minutes R25-221 mover S. Penner), 00:45:24 after chair 'Councillor Penner' (R25-222 mover S. Penner) and 01:12:08 after 'Councillor Penner, I saw your hand' (R25-230 mover S. Penner); others reply to 'Councillor Penner's comments' 00:47:30; female voice (pitch 174-186 Hz).",
+   "notes": "MERGED with Jac Siemens 00:32:49-00:34:06 (male voice, ~120-133 Hz; overridden). 00:55:46 'Alderman Demong.' is a garble (female pitch, see review)."
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Second by Councillor Hiebert ... Councillor Hiebert.' 00:15:30 -> G as seconder of R25-221 (minutes seconder B. Hiebert); chair 'Go ahead, Mr. Hiebert.' 00:39:05 -> G; voice ~143 Hz, distinct from Jake Hiebert (B, ~115 Hz) who gave the opening."
+  },
+  {
+   "label": "H",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Councillor Damian Penner 00:31:46: 'Councillor Zwaagstra covered most of it' right after H's questions 00:27:06-00:30:35; chair 'Go ahead, Councillor Strange [Zwaagstra]' 00:49:01 -> H, and B/I/F reply to Councillor Zwaagstra's points; chair 'Councillor Zwaagstra' 01:05:37 -> H 'Motion to approve' (minutes R25-227 mover M. Zwaagstra); H speaks to the recycling agreement 01:02:26 (R25-223 mover M. Zwaagstra). Pitch 93-100 Hz.",
+   "notes": "MERGED: 00:32:33, 00:47:30, 00:47:53 are Jac Siemens and 01:04:48 is Damian Penner (overridden). 'Go ahead.' at the start of 00:37:32 is the chair (split)."
+  },
+  {
+   "label": "I",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Penner ... go ahead' 00:31:42 -> I (male, 131 Hz, so not Susan Penner) 'Councillor Zwaagstra covered most of it'; chair 'Councillor Penner' 00:53:56 -> I; I speaks 01:04:42 after 'Motion to approve' on By-law 2268 first reading (minutes R25-225 mover D. Penner) and 01:09:38 on the emergency plan (R25-229 mover D. Penner)."
+  },
+  {
+   "label": "J",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Siemens' 01:06:46 then J speaks to the Board of Revision 01:08:11 (minutes R25-228 mover J. Siemens); chair 'Second by Councillor Siemens' 01:12:09 then J 01:13:02 'Just to echo exactly those comments' (R25-230 seconder J. Siemens); J continues the seconder's comment after 'Seconded by Councillor Siemens' 00:45:26 (R25-222 seconder J. Siemens). Pitch 109-122 Hz.",
+   "notes": "His turns are fragmented across F and H around 00:32-00:34 and 00:47-00:48 (overridden)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:05:13",
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'No comment.' right after the chair asks the mover for comment; D. Penner moved the agenda (R25-218, chair 'Councillor Penner'); the original transcript put this on the Damian Penner voice, not Jake Hiebert's"
+  },
+  {
+   "time": "00:05:52",
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "'Call for the—' is the chair's false start; the chair's next turn begins 'Call for the question'"
+  },
+  {
+   "time": "00:32:33",
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'Question for administration' runs straight into J's question 00:32:37; one turn on the Siemens voice in the original transcript; pitch 130 Hz vs Zwaagstra ~100 Hz"
+  },
+  {
+   "time": "00:32:49",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "male voice (133 Hz), not Susan Penner; continues Siemens's question to administration (one turn in the original transcript)"
+  },
+  {
+   "time": "00:33:38",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "male voice (119 Hz); middle of Siemens's single question to Mr. Thiessen 00:33:23-00:34:14 in the original transcript"
+  },
+  {
+   "time": "00:33:51",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "male voice (118 Hz); continues the same question"
+  },
+  {
+   "time": "00:34:06",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "male voice (127 Hz); end of the same question"
+  },
+  {
+   "time": "00:44:00",
+   "label": "D",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "public speaker stating name and address at the V-2025-32 hearing (minutes item 14)"
+  },
+  {
+   "time": "00:44:07",
+   "label": "D",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "same public speaker after the chair's 'Okay, go ahead' ('I'm not much of a public speaker'); minutes item 14"
+  },
+  {
+   "time": "00:47:30",
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "seconder's comment after 'Seconded by Councillor Siemens' and Susan Penner's comments; one continuous turn with J 00:47:46-00:49:00 in the original transcript; pitch 116 Hz vs Zwaagstra ~100 Hz"
+  },
+  {
+   "time": "00:47:53",
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "middle of the same Siemens comment (pitch 114 Hz)"
+  },
+  {
+   "time": "01:04:48",
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues Damian Penner's sentence from 01:04:42; pitch 129 Hz matches Damian Penner (131) not Zwaagstra (~100); one turn in the original transcript"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:37:32",
+   "label": "H",
+   "text": "Go ahead.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair handing the floor to Councillor Zwaagstra, who then says 'Thank you, Mr. Mayor' (chair's line in the original transcript)"
+  },
+  {
+   "time": "00:45:26",
+   "label": "A",
+   "text": "I'll second that.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair immediately says 'Seconded by Councillor Siemens'; minutes R25-222 seconder J. Siemens"
+  },
+  {
+   "time": "01:00:12",
+   "label": "A",
+   "text": "Yes.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "the mover's answer to 'Councillor Penner, are you okay with that condition'; a separate turn on another voice in the original transcript"
+  },
+  {
+   "time": "01:02:56",
+   "label": "A",
+   "text": "Nothing further to add, Mr. Mayor.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "seconder's reply (chair 'Second by Councillor Penner'; minutes R25-223 seconder D. Penner); on the Damian Penner voice in the original transcript"
+  },
+  {
+   "time": "01:04:35",
+   "label": "A",
+   "text": "Motion to approve.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "minutes R25-225 mover D. Penner; Damian Penner (I) then speaks as mover; on the Damian Penner voice in the original transcript"
+  },
+  {
+   "time": "01:06:46",
+   "label": "A",
+   "text": "Motion to approve.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "minutes R25-228 mover J. Siemens, named by the chair just before; on the Siemens voice in the original transcript"
+  },
+  {
+   "time": "01:08:39",
+   "label": "A",
+   "text": "No, sir.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "mover's reply to 'Anything closing?'; on the Siemens voice in the original transcript"
+  }
+ ],
+ "summary": "Good diarization overall; ten letters, all identified. Jac Siemens's questions 00:32-00:34 and seconder comment 00:47-00:48 were scattered across Susan Penner's (F) and Zwaagstra's (H) letters, and 01:04:48 on H is Damian Penner; fixed by overrides backed by pitch and the original transcript. Resident 2's two turns sat on the applicant's letter. Short interjections at 00:05 and 01:00 are worth a listen.",
+ "transcript": "transcripts/2025/2025-11-18.txt"
+}

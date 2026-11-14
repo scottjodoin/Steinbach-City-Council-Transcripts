@@ -1,0 +1,114 @@
+{
+ "meeting": "2024-08-20",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order (00:00:01) and hands the opening to 'Councillor Bill Hiebert'; minutes item 2 'Mayor Earl Funk called the meeting to order'; opens/closes the V-2024-09 hearing, names movers/seconders and calls every vote; addressed as 'Mr. Mayor' throughout and as 'Mayor Funk' by Siemens (00:31:06); says 'I couldn't go so I sent Councillor Jake [Jac] Siemens in my place' (minutes item 15).",
+   "notes": "A 00:20:19 ends with Zwaagstra's 'Thank you, Mr.'; A 00:21:40 ends with Siemens's 'Uh, thank you, Mr. Mayor.'; A 00:26:26 begins with Warkentin's 'Mayor.' (split). 'So moved.' inside A 00:26:26 and 00:45:23 is probably the mover's (S. Penner / J. Hiebert per minutes) but YouTube captions do not hear it, so left with the chair."
+  },
+  {
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'I'd like to give the opening to Councillor Bill Hiebert' (00:00:01) -> B gives the opening (00:00:08), minutes item 3 'Councillor B. Hiebert opened the meeting'; speaks of his own Barkman ancestry; chair 'Yes, Councillor Hee[bert].' (00:24:07) -> B (00:24:09). Voice pitch 162 Hz / 134 Hz (Bill Hiebert ~160 Hz), clearly different from F (105-111 Hz).",
+   "notes": "Stray 'Thank you.' fragments inside the opening are transcription artefacts, not in YouTube captions."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' (00:04:05) -> C introduces V-2024-09 (minutes 7.1 Troy Warkentin); 'Thank you, Mr. Warkentin.' (00:07:00); chair 'Mr. Warkentin, I will have you introduce this file' (00:09:57) -> C By-law 2157 report (minutes item 9); 'Troy— Mr. Warkentin ... you have council support' (00:24:32) -> C 'Thank you, Mr.' (00:26:23); C 00:44:23 asks when council wants the ERMC membership to start (administrative question).",
+   "notes": "Interjected 'Yes.' / 'Thank you.' fragments inside the 00:10:32 report are transcription artefacts."
+  },
+  {
+   "label": "D",
+   "person": "Rob Krywy",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Manitoba Hydro",
+   "confidence": "high",
+   "evidence": "after the chair asks if the applicant is present (00:07:00), D self-identifies 'My name is Rob Krywyj. I represent Manitoba Hydro.' (00:07:12); minutes 7.2 'Rob Krywy, representing the Manitoba Hydro Electric Board'; answers the chair 'That's correct.' (00:08:13).",
+   "notes": "Name spelled as in the minutes; transcript spells 'Krywyj'. Speaks for an organization, so named."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Zwaagstra.' (00:08:16) -> E 'I'll make a motion to approve the variance.' (00:08:43), minutes R24-165 mover M. Zwaagstra; 'Go ahead, Councillor Zwaagstra.' -> E (00:08:48); chair 'Is there a seconder? Councillor Zwaagstra.' and 'Councillor Zwaagstra.' (00:41:51, 00:42:29) -> E (00:42:31), minutes R24-170 seconder M. Zwaagstra; E 'I concur with that amendment.' (00:45:03) as seconder. Pitch 96 Hz."
+  },
+  {
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Hiebert.' (00:19:39) -> F substantive By-law 2157 turn (00:19:40); B is Bill Hiebert (named opening) and F is a clearly different, lower voice (105-111 Hz vs B 134-162 Hz), so F is the other Hiebert; F 00:09:32 comment on the variance follows the chair's 'Seconded by Councillor Hiebert' (minutes R24-165 seconder J. Hiebert).",
+   "notes": "F 'Reynolds.' (00:32:23) prompts Siemens with the missing RM name; left with F."
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Damian Penner excused (minutes R24-164), so 'Councillor Penner' = Susan Penner; chair 'Councillor Penner, then Councillor Siemens.' (00:20:49) -> G (00:20:53); 'any comments, Councillor Penner?' (00:26:26 end) -> G (00:28:24), minutes R24-169 mover S. Penner; mayor later credits Councillor Penner for G's firefighter point (00:24:32). Voice pitch 174-178 Hz (female).",
+   "notes": "'Go ahead, Councillor Carra.' (00:36:52) -> G is a mis-transcription of the chair's hand-off."
+  },
+  {
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Penner, then Councillor Siemens.' (00:20:49) -> H after Penner (00:21:43); mayor answers 'Councillor Siemens, I do agree ... losing some of the lower cost rentals' (00:24:32) to H's rental-loss point; chair 'Councillor Siemens, would you like to give your report?' (00:31:03) -> H ERMC report opening 'Mayor Funk asked me to attend' (minutes item 15, J. Siemens); H moves to join the ERMC (00:41:40; minutes R24-170 mover J. Siemens). Pitch 96 Hz.",
+   "notes": "H 00:21:43 contains 'Thank you, Your Worship. Thank you, [name withheld]. Thank you, Your Worship.' which is not in the YouTube captions (hallucinated text)."
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:20:19",
+   "label": "A",
+   "text": "Thank you, Mr.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "start of E's 'Thank you, Mr. Mayor. Support moving...' (00:20:22); YouTube captions run 'thank you Mr Mayor support moving' as one phrase"
+  },
+  {
+   "time": "00:21:40",
+   "label": "A",
+   "text": "Uh, thank you, Mr. Mayor.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "opener of Siemens's turn (00:21:43), who was named next by the chair; captions run it straight into 'I also agree'"
+  },
+  {
+   "time": "00:26:26",
+   "label": "A",
+   "text": "Mayor.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "completes C's 'Thank you, Mr.' (00:26:23) replying to the mayor; captions 'thank you Mr May okay'"
+  }
+ ],
+ "summary": "Clean diarization: eight letters, one person each (Funk, both Hieberts, Warkentin, Hydro delegate, Zwaagstra, S. Penner, Siemens; D. Penner excused). Hieberts separated by the named opening and pitch. Only boundary slips (three splits); 'So moved.' attributions and a hallucinated '[name withheld]' line flagged for review.",
+ "transcript": "transcripts/2024/2024-08-20.txt"
+}

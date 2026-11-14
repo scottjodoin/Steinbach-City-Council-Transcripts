@@ -1,0 +1,262 @@
+{
+ "meeting": "2023-03-21",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Penner' -> A 'Motion to approve' on By-Law 2222 (00:29:41) and the Park Road West tender (00:50:02); minutes R23-055 and R23-057 both moved by S. Penner. At 00:42:03 a Hiebert asks 'a similar question to Councillor Susan Penner's' right after A's traffic questions. Pitch 172 Hz (woman), unlike every other speaker.",
+   "notes": "00:41:06 'Probably you.' is not hers (93 Hz, Zwaagstra-like; overridden). Pre-meeting chatter at 00:00:00-00:00:03 left on A/B."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 00:00:06 gives the opening to 'Councillor Damian Penner' -> B delivers it (minutes item 3: D. Penner opened). B speaks at 00:28:11 after 'Seconded by Councillor Penner' on By-Law 2221 (D. Penner seconder, R23-054) and at 00:50:58 as seconder of the Park Road tender (D. Penner, R23-057), agreeing 'with everything Councillor Penner said' after A.",
+   "notes": ""
+  },
+  {
+   "label": "C",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order, chairs every item, hands the floor to councillors and staff; minutes: Mayor Earl Funk called the meeting to order.",
+   "notes": "00:42:08 is a Hiebert's traffic question (overridden). Pieces of other speakers inside chair turns are split: 00:30:17, 00:41:59, 00:48:20, 00:57:57, 00:58:49; 00:28:29 and 00:48:20 'Thank you, Your Worship.' are not the chair's."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' -> D introduces every by-law, report and tender; hands the budget to Mr. Hrehirchuk at 00:08:21. Minutes list City Manager Troy Warkentin.",
+   "notes": "00:20:20 and 00:20:30 are Zwaagstra (overridden). Short 'Thank you.' / 'Yes.' fragments inside the 00:30:56 report are probably others."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "E merges both Hieberts. Jake turns: 00:05:32/00:05:39 moves By-Law 2220 after 'Councillor Hiebert?' and says 'that's why I'm making the motion' (minutes R23-052: J. Hiebert mover); 00:23:13 after 'Anything further, Councillor Hiebert?' (J. Hiebert seconded the financial plan, R23-053); 00:48:00 after 'Anything further, Councillor Hiebert?' (J. Hiebert seconded the traffic report, R23-056); 00:58:25 'No comment.' (J. Hiebert seconded accounts). Pitch of these turns 109-118 Hz vs 130-141 Hz for the turns overridden to Bill Hiebert. Existing map put these turns on its Jake letter.",
+   "notes": "Bill Hiebert turns on E overridden: 00:42:03, 00:51:50, 01:00:57, 01:01:02; 00:06:20 and 00:06:42 'Nothing further.' uncertain (low)."
+  },
+  {
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Stevenson' -> F at 00:06:24 on the truck's 1.5-2 year lead time, then chair at 00:06:44 'as Councillor Siemens has mentioned'; chair 'Councillor Siemens' -> F at 00:23:36; chair 'Councillor Stevens' -> F moves the traffic report at 00:45:39 (minutes R23-056: J. Siemens mover). Pitch 105 Hz.",
+   "notes": "'Stevens'/'Stevenson' here is Siemens (confirmed by the chair's own reference at 00:06:44)."
+  },
+  {
+   "label": "G",
+   "person": "Brian Hrehirchuk",
+   "role": "staff",
+   "title": "Senior Manager, Finance",
+   "confidence": "high",
+   "evidence": "Warkentin at 00:08:21 turns it over to Mr. Hrehirchuk to present the budget -> G presents the 2023 financial plan; minutes 7.2: Brian Hrehirchuk, Senior Manager, Finance, presented.",
+   "notes": ""
+  },
+  {
+   "label": "H",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra' -> H moves By-Law 2221 (00:27:50) and the Barkman tender (00:56:51); minutes R23-054 and R23-058: M. Zwaagstra mover. H continues the financial plan motion speech begun on D at 00:20:30 (R23-053 M. Zwaagstra mover); chair at 00:25:28 'as Councillor Zwaagstra said'. Pitch 95-96 Hz.",
+   "notes": "00:59:10 'to do business in our community.' is Bill Hiebert's remark (overridden)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:06:20",
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Nothing further.' answering the chair right after Jake Hiebert's mover speech; pitch 108 Hz Jake-like, but the existing map put it on its Bill Hiebert letter"
+  },
+  {
+   "time": "00:06:42",
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Nothing further.' to 'Anything further, council?'; B. Hiebert seconded R23-052; pitch 144 Hz Bill-like, but the existing map put it on its Jake letter"
+  },
+  {
+   "time": "00:20:20",
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Zwaagstra' -> 'I'll make a motion to approve the 2023 financial plan'; minutes R23-053 M. Zwaagstra mover; pitch 101 Hz (Warkentin 122)"
+  },
+  {
+   "time": "00:20:30",
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "mover's speech after 'Seconded by Councillor Hiebert. Go ahead.'; runs mid-sentence into H at 00:20:51 and ends 'I'm happy to make the motion'; pitch 96 Hz"
+  },
+  {
+   "time": "00:41:06",
+   "label": "A",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Probably you.' pitch 93 Hz (Susan Penner 172 Hz, Zwaagstra 96 Hz); the original transcript put it on Zwaagstra's letter"
+  },
+  {
+   "time": "00:42:03",
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair 'Yes, Councillor Hiebert' -> question to administration; pitch 134 Hz vs 109-118 Hz for Jake's turns; existing map put it on its Bill Hiebert letter"
+  },
+  {
+   "time": "00:42:08",
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "continuation of the 00:42:03 question about the Co-op/Penfeld turnoff ('Can that be changed?'), answered by Warkentin 'as you noted in your example'; not the chair"
+  },
+  {
+   "time": "00:51:50",
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair credits the bypass point to 'Councillor Hiebert' at 00:52:21; pitch 130 Hz vs Jake 109-118 Hz; existing map put it on its Bill Hiebert letter"
+  },
+  {
+   "time": "00:59:10",
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "end of the excavator-licence comment begun inside the chair's turn; B. Hiebert moved R23-061 and the original transcript gave the whole sentence to its Bill Hiebert letter"
+  },
+  {
+   "time": "01:00:57",
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair 'Councillor Hiebert, motion to approve' -> 'I will make a motion to approve'; minutes R23-063 B. Hiebert mover; pitch 141 Hz"
+  },
+  {
+   "time": "01:01:02",
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "mover's comment on the delegation resolution (B. Hiebert mover); pitch 131 Hz like his other turns, not Siemens (105 Hz) although the chair had just named Siemens; existing map put it on its Bill Hiebert letter"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:28:29",
+   "label": "C",
+   "text": "Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "inside the chair's own introduction of By-Law 2222; not the chair's words and possibly not in the audio"
+  },
+  {
+   "time": "00:30:17",
+   "label": "C",
+   "text": "We have nothing further to add.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "answer to 'Anything further?' on By-Law 2222, seconded by B. Hiebert (R23-055); the original transcript gave it to its Bill Hiebert letter"
+  },
+  {
+   "time": "00:41:59",
+   "label": "C",
+   "text": "Thank you, Mr. Mayor.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "start of the Hiebert question after the chair's 'Yes, Councillor Hiebert.'"
+  },
+  {
+   "time": "00:48:20",
+   "label": "C",
+   "text": "No, sir.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "answer to 'Anything in closing?' after Siemens moved the traffic report; speaker not confirmed"
+  },
+  {
+   "time": "00:48:20",
+   "label": "C",
+   "text": "Thank you, Your Worship.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "low",
+   "reason": "after 'Mr. Warkentin, could you please introduce this file?', just before Warkentin's next turn; possibly not in the audio"
+  },
+  {
+   "time": "00:57:57",
+   "label": "C",
+   "text": "No, sir.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "answer to 'Anything further, Councillor Stevenson?' (Siemens seconded R23-058); the original transcript put it on the City Manager's letter"
+  },
+  {
+   "time": "00:58:49",
+   "label": "C",
+   "text": "It's good to see people wanting",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "comment after 'Councillor Hiebert, seconded by Councillor Penner. Any comments?' (R23-061 B. Hiebert mover); the original transcript gave the sentence to its Bill Hiebert letter"
+  },
+  {
+   "time": "00:59:10",
+   "label": "H",
+   "text": "Hear, hear.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "reaction to the excavator comment; the original transcript put it on the chair's letter, the new one on Zwaagstra's"
+  }
+ ],
+ "summary": "Clean meeting apart from letter E, which merges Jake and Bill Hiebert; they are separated per turn by minutes movers/seconders and pitch (Jake ~110-118 Hz, Bill ~130-141 Hz). Several short replies inside chair turns are split out; the two 'Nothing further.' Hiebert replies near 00:06 are uncertain.",
+ "transcript": "transcripts/2023/2023-03-21.txt"
+}

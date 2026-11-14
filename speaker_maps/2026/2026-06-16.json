@@ -1,0 +1,133 @@
+{
+ "meeting": "2026-06-16",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:13 (minutes item 2: Mayor Earl Funk called the meeting to order), chairs every item, opens/closes both public hearings (minutes items 7, 10), is addressed 'Mr. Mayor' throughout; 00:53:24 'I was on that show' about the Premier's radio interview.",
+   "notes": "Long chair turns contain ASR artifacts not in the YouTube captions: 'Thank you, Your Worship. Thank you, Greg. Thank you, Your Worship.' (00:36:21), 'Thank you, Your Worship. Thank you, Brian. Thank you, Your Worship.' (00:43:50), 'Thank you, Alderman Demong. Alderman Demong, you had a question on this letter.' (00:56:54). Councillors' motion words ('Move. Move. Second.' 00:04:26, 'Move approval.' 00:10:10, 'Second.' 00:13:31, 'Nothing further.' 00:42:57) sit inside chair turns."
+  },
+  {
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair hands the opening to 'Councillor Jake Siemens' 00:00:13 and B gives it; chair 'Thank you, Councillor Siemens' 00:04:12; minutes item 3 'Councillor Jac Siemens opened the meeting'; 00:59:43 chair asks Councillor Jake Siemens about the Eastman committee and B answers 01:00:28; B mentions 20 years on council."
+  },
+  {
+   "label": "C",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Susan Penner was excused (minutes R26-118), so the only Penner present is D. Penner. 00:34:32 'Go ahead, Councillor Penner' -> C presents the audit (R26-124 mover D. Penner); Bill Hiebert then cites 'Councillor Damian Penner' 00:35:56. 00:41:54 'Councillor Penner... go ahead' -> C on building permits (R26-127 mover D. Penner). 00:47:11 C 'I second.' -> chair 'Councillor Penner seconds that' (R26-129 seconder D. Penner). Chair 00:53:24 'as Councillor Penner said... 100-plus year' echoes C 00:50:52. C fills the seconder slot on R26-119 (00:07:59) and R26-122 (00:12:03).",
+   "notes": "'No comments.' 00:04:25 (agenda, moved by B. Hiebert / M. Zwaagstra) is a short interjection; 'Nothing further, Dad.' 00:41:52 (captions: 'Nothing further to add') fits the chair's 'seconded by Councillor Penner', though minutes list J. Hiebert as R26-126 seconder."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' 00:04:26 / 00:08:59 / 00:36:21 -> D introduces By-Laws 2278, 2279, 2272 with administration's recommendation (minutes 7.1, 10.1: Troy Warkentin, City Manager, introduced); 00:56:54 'Mr. Warkentin, did you have an update' -> D 'Yes, Mr. Mayor, I do.'",
+   "notes": "'Thank you, Your Worship.' inside D's 00:12:52 and 00:37:44 turns is not in the YouTube captions (ASR artifact)."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:06:19 chair 'Councillor Hiebert' -> E 'Motion to approve.'; chair 'Go ahead, Councillor Hiebert' -> E 00:06:59 = R26-119 mover J. Hiebert. E fills the seconder slot on J. Hiebert-seconded items: 'Nothing further.' 00:08:55 (R26-120), 00:12:04 (R26-122), 00:43:49 (R26-128), and the seconder speech on the lending by-law 00:40:50 (R26-125 seconder J. Hiebert). Separate voice cluster from F, which carries every B. Hiebert mover turn.",
+   "notes": "'Thank you.' x5 at 00:15:28 overridden to Unclear. 'Please.' 00:56:51 and 'Yeah.' 00:48:02 are short interjections, left on E."
+  },
+  {
+   "label": "F",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:08:28 'Councillor Hiebert, seconded by Councillor Hiebert, go ahead' -> F speaks as mover = R26-120 mover B. Hiebert, and F closes 'Nothing in closing' 00:08:58. 00:43:26 business licences 'Councillor Hiebert, go ahead' -> F = R26-128 mover B. Hiebert. F 'No comments' 00:12:36 after accounts (R26-123 mover B. Hiebert); F 00:35:56 seconds the audit citing 'Councillor Damian Penner' (R26-124 seconder B. Hiebert); F 00:41:51 mover on R26-126 (B. Hiebert).",
+   "notes": "Also asked the assessment delegate about condo assessments 00:31:25-00:32:49. 00:15:41 'Thank you.' left on F."
+  },
+  {
+   "label": "G",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra' 00:10:10 -> G 'I make the motion to approve second reading' (R26-121 mover M. Zwaagstra); 00:38:46 'Councillor Zwaagstra' -> G 'I'll make the motion' (R26-125 mover M. Zwaagstra); G moves the DFA letter 00:46:52 (R26-129 mover M. Zwaagstra) and mentions listening to the Premier's radio interview, which the chair attributes to 'Councillor Switzer' 00:53:24."
+  },
+  {
+   "label": "H",
+   "person": "Roger Storoschuk",
+   "role": "delegation",
+   "title": "Assessor",
+   "organization": "Manitoba Municipal Relations - Assessment Services",
+   "confidence": "high",
+   "evidence": "Chair 'Good evening, Roger' 00:14:27 -> H; H self-identifies 00:15:41 'my name is Roger Storczyk... assessment officer with the Province of Manitoba'; minutes item 15 'Roger Storoschuk, Assessor, Manitoba Municipal Relations - Assessment Services' presented the 2027 reassessment.",
+   "notes": "Surname spelled as in the minutes. Many stray 'Thank you.' fragments inside his presentation are not in the captions (ASR artifacts)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:15:28",
+   "label": "E",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' repeated five times while the delegate sets up; the YouTube captions have a single 'Thank you.' at 00:15:31; cannot be placed and the repetition looks like an ASR artifact."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:08:55",
+   "label": "A",
+   "text": "you.",
+   "occurrence": 1,
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Turn-boundary slip: F's 00:08:42 turn ends 'Thank' and the captions have Bill Hiebert's 'approve. Thank you.' at 00:08:52."
+  },
+  {
+   "time": "00:41:54",
+   "label": "A",
+   "text": "Thank",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Turn-boundary slip: C's 00:42:17 turn starts 'you very much, Mr. Mayor'; captions show 'Thank you very much, Mr. Mayor' as the new speaker after 'Go ahead, Councillor'."
+  },
+  {
+   "time": "00:42:57",
+   "label": "A",
+   "text": "Nothing further.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Reply to the chair's 'Anything in closing?' on building permits; the mover (D. Penner) normally closes. Not the chair's words."
+  },
+  {
+   "time": "00:10:10",
+   "label": "A",
+   "text": "Move approval.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "A councillor's motion inside the chair's turn; the chair immediately names Councillor Zwaagstra, who then moves second reading (R26-121)."
+  }
+ ],
+ "summary": "Clean diarization: eight letters, one person each, no residents speak. Main issue is ASR artifacts ('Thank you, Your Worship', 'Greg', 'Brian', 'Alderman Demong', repeated 'Thank you') absent from the YouTube captions; AssemblyAI swapped the two Hieberts (minutes movers put Jake on E and Bill on F).",
+ "transcript": "transcripts/2026/2026-06-16.txt"
+}

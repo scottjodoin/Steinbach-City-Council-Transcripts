@@ -1,0 +1,385 @@
+{
+ "meeting": "2026-09-01",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:02 and hands the opening to 'Councillor Michael Swaigert'; runs every motion and vote, closes/opens each public hearing and asks 'Mr. Worke-Ting/Worthing' to introduce files; minutes item 2: Mayor Earl Funk called the meeting to order, items 7/17/21: Mayor Earl Funk called each public hearing to order; minutes 10.3 (Mayor Funk confirmed the parking lot is at the front) matches 00:14:38.",
+   "notes": "00:13:00 is Resident 2's self-introduction (overridden), with the chair's first sentence split back to the chair. The 00:16:09 turn mixes the chair with three resident remarks, split out at low confidence. 01:13:09 'Thank you, Mr. Mayor.' split out (low, possibly Zwaagstra). 00:12:59 'This is taped, right?', 00:13:58 'we're right on the corner' and 00:14:02/00:14:05 may be residents - in review."
+  },
+  {
+   "label": "B",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair gives the opening to 'Councillor Michael Swaigert' 00:00:02 and B gives it (20 years on council, last opening; minutes item 3: M. Zwaagstra opened); 'Thank you, Councillor Swainstra' 00:04:49; B moves By-law 2285 00:37:31 and 'Go ahead, Councillor Switzer' -> B (minutes R26-179 mover M. Zwaagstra); B moves the subdivision 01:08:13 (R26-185 mover M. Zwaagstra) and By-law 2286 01:13:15 (R26-187 mover M. Zwaagstra); L at 00:41:50 debate follows B's argument.",
+   "notes": "00:42:46 'Thank you, Mr. Mayor.' is Siemens after the hand-off to 'Councillor Stevenson' - overridden. Unplaced shorts left on B: 'Yeah.' 00:12:59, 'I-' 00:36:02, 'Future council.' 01:15:56, 'I have a question.' 01:16:35 (never followed up). 01:20:04 hand-off is garbled ('Councillor Sykes') but the B turn that follows is in Zwaagstra's voice cluster."
+  },
+  {
+   "label": "C",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'I was missing from that meeting' 00:05:20 (R26-178 excuses Susan Penner from Aug 18); location question 00:13:45 = minutes 10.1 (S. Penner requested clarification on the location); C moves CU-2026-10 01:01:01 (R26-181 mover S. Penner), By-law 2281 01:10:29 (R26-186) and the RBC ramp 01:19:06 (R26-189); 'Go ahead, Councilor Pincott' 01:10:37 -> C (Damian Penner absent); 'Second by Susan Penner' 01:08:16 and C speaks in the seconder slot 01:08:47 (R26-185 seconder S. Penner); L 01:19:50 refers to C's argument as 'as Councillor Penner has stated'.",
+   "notes": "'Mr. Mayor?' 00:12:52 may be Resident 2 (chair answers 'You have to come to the podium') but Penner says 'Mr. Mayor?' the same way at 00:13:44 - left on C. 'You moved?' 00:47:00 is a conversational aside."
+  },
+  {
+   "label": "D",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-introduces with first name and an address next door to 58 Giesbrecht at 00:29:32 during the By-law 2285 hearing; content (privacy, fence, overhanging tree, timeline) matches minutes item 13.",
+   "notes": "Minutes give the surname. Mislabels: 'We were going to-' 00:05:23 (during minutes approval, overridden Unclear); 'Yeah.' 00:07:52 (applicant answering 'Is the applicant here?', overridden); 'All right.' 00:17:59 and 'Thank you.' 00:32:37 unplaced."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Hebert?' 01:05:35 -> E 'Motion to approve' and 'Go ahead, Councillor Hebert' -> E substantive turn on By-law 2273 (minutes R26-184 mover J. Hiebert); financial statements 01:04:22 chair names 'Councilor Hebert' as mover and E answers 'No comment.' (R26-183 mover J. Hiebert); audit 01:15:43 'Second by Councillor Hebert' and E speaks in the seconder slot 01:15:58 (R26-188 seconder J. Hiebert); CU-2026-10 E speaks after the mover and 'agrees with the whole motion' (R26-181 seconder J. Hiebert). The Bill/Jake split rests on the minutes initials.",
+   "notes": "'Opposed?' 01:04:22 is the chair (overridden). Unplaced shorts left on E: 'Uh, okay.' 00:05:25, 'Okay.' 00:12:50, 'Yes.' 00:20:39 (answers the chair's question to Resident 3 - could be a resident or staff), 'Thank you.' 00:25:54/00:42:40/01:13:53, 'And move.' 00:46:59."
+  },
+  {
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Siemens?' 00:52:23 -> F 'I wish to approve', 'Go ahead, Councillor Siemens' -> F (minutes R26-180 mover J. Siemens); 'Go ahead, Councillor Stevenson' 00:42:42 -> F substantive turn; 'Anything further, Councillor Stevenson?' 01:11:02 -> F; F moves the audit 01:15:39 and 'Go ahead, Councillor Stevens' (R26-188 mover J. Siemens).",
+   "notes": "F also collects audience shorts: 'Good evening.' 00:08:02 and 'Sure.' 00:56:52 (applicant, overridden), 'I can.' 00:50:45 and 'They're about 30, 40 feet high.' 00:51:26 (Resident 6, overridden). Unplaced: 'Okay.' 00:16:06/00:17:46, 'Mm-hmm.' 00:21:11, 'Thank you.' 00:27:15/00:36:50, 'Is-' 00:30:11. 'Motion to excuse Councilor Penner' 00:05:34 left on F, though minutes R26-178 record J. Hiebert as mover."
+  },
+  {
+   "label": "G",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-introduces with name and a Giesbrecht Street address at 00:18:08 during the By-law 2285 hearing; drainage and traffic concerns match minutes item 11.",
+   "notes": "G collects many stray shorts. Overridden: 'Second.' 00:05:57 (Bill Hiebert), 'I don't-' 01:02:45 (Jake Hiebert), 'Councilor Hebert.' 01:04:14 (chair), 'Okay.' 01:14:28 (Unclear), 'Okay, Mr.' 01:16:43 (chair). 'farmstead.' 00:51:19 overridden low to Resident 6. Unplaced and left: 'Thank you.' 00:24:38, 'Yeah.' 00:51:46."
+  },
+  {
+   "label": "H",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Introduces every file after the chair's 'Mr. Worke-Ting / Worthing / Workadeen / Workentine, could you please introduce this file?' (00:06:25, 00:49:30, 00:53:48, 01:05:02, 01:06:56, 01:09:58, 01:12:42, 01:16:48); minutes 7.1, 17.1, 21.1 (T. Warkentin introduced); 00:15:48 street-edge landscaping answer = minutes 10.5.",
+   "notes": "Overridden: 'It's not end of life.' 00:25:03 (Resident 4) and 'Um, I think that's all I have.' 00:31:15 (Resident 5). Unplaced shorts left on H: 'Where we-' 00:22:26, 'Okay.' 00:31:24, 'Thank you.' 00:36:20/01:06:17, 'Thank you, Mr. Mayor.' 00:37:27, 'Motion?' 01:01:00."
+  },
+  {
+   "label": "I",
+   "person": "Jordan Loewen",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "3XL Holdings Ltd. / 10021661 Manitoba Ltd.",
+   "confidence": "high",
+   "evidence": "'My name is Jordan Loan. I live at ... Haspler Street South' 00:08:04 and 'Jordan Long, 444 Haspler' 00:57:00, after the chair asks for the applicant; minutes items 8, 14, 22: applicant Jordan Loewen representing 3XL Holdings Ltd. (By-law 2285) and 10021661 Manitoba Ltd. (CU-2026-10); chair 00:45:43 'as Mr. Loewen said'.",
+   "notes": "Two applicants merged: the V-2026-17 owner's turns 00:50:51, 00:51:20, 00:51:28 are Resident 6 (overridden). Also overridden: 'No, I was just-' 00:12:57 (Resident 2), 'I'm sorry, the exit door.' 01:17:32 (City Manager), 'So moved.' 01:21:35 (Jake Hiebert). 'Thank you.' 00:19:43 unplaced."
+  },
+  {
+   "label": "J",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Opens the public comments at 00:09:48 introducing herself and her husband with a Westview Place address; directly affected property, privacy, trees, lights, traffic and Tim Hortons concerns match minutes item 9; her parking-lot (00:14:24) and tree (00:15:13) questions match minutes 10.2 and 10.4 (asked by her).",
+   "notes": "'I have to come to the podium, sorry.' 00:12:56 may be Resident 2. 'Thank you.' 01:03:52 during council debate after the hearing closed - overridden Unclear."
+  },
+  {
+   "label": "K",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-introduces with name and a McKenzie address at 00:23:24 during the By-law 2285 hearing; end-of-life/car comparison, duplex and tree-replacement points match minutes item 12; chair answers him by surname at 00:45:43.",
+   "notes": "'Basement.' 00:17:31 (prompting Resident 1, probably Resident 2) left on K. 'Councilor Stevens.' 01:10:35 (naming the seconder in council business) overridden to the chair, low."
+  },
+  {
+   "label": "L",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Seconded by Councillor Bill Hebert' 01:13:17, and after the mover (B) speaks, L takes the floor 01:13:42 (minutes R26-187 seconder B. Hiebert); L speaks in the seconder slot on every other item B. Hiebert seconded: By-law 2285 00:41:50 (R26-179), By-law 2273 01:06:25 (R26-184, after mover E), RBC ramp 01:19:50 (R26-189); a councillor voice (refers to 'Councillor Penner') that is not B, C, E or F, and Bill Hiebert is the only other councillor present (minutes item 2).",
+   "notes": "Never handed the floor by full name directly; identification rests on the seconder pattern plus elimination. 'This-' 01:02:32 fragment left on L."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:05:23",
+   "label": "D",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "fragment during approval of the minutes, before any public hearing; not the Giesbrecht resident"
+  },
+  {
+   "time": "00:05:57",
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair: 'Second by Councilor Hebert' right after; minutes R26-178 seconder B. Hiebert"
+  },
+  {
+   "time": "00:07:52",
+   "label": "D",
+   "person": "Jordan Loewen",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "3XL Holdings Ltd.",
+   "confidence": "medium",
+   "reason": "answers the chair's 'Is the applicant here today?'; the applicant then takes the podium"
+  },
+  {
+   "time": "00:08:02",
+   "label": "F",
+   "person": "Jordan Loewen",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "3XL Holdings Ltd.",
+   "confidence": "medium",
+   "reason": "'Good evening.' at the podium immediately before the applicant's self-introduction 00:08:04"
+  },
+  {
+   "time": "00:12:57",
+   "label": "I",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "'No, I was just-' is continued at 00:13:00 by Resident 2 ('I was just going to mention...') after the chair asks him to come to the podium"
+  },
+  {
+   "time": "00:13:00",
+   "label": "A",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identification ('my name is ...') and traffic concern matching minutes item 10; the first sentence is the chair's and is split out"
+  },
+  {
+   "time": "00:25:03",
+   "label": "H",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "sits inside Resident 4's end-of-life argument ('...built in 1943. It's not end of life. That home is a lot newer than our home'); minutes item 12"
+  },
+  {
+   "time": "00:31:15",
+   "label": "H",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "closes Resident 5's list of questions ('I think that's all I have'); the chair thanks her next"
+  },
+  {
+   "time": "00:42:46",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair hands the floor 'Go ahead, Councillor Stevenson' 00:42:42; the turn opens Siemens' speech continued on F 00:42:49"
+  },
+  {
+   "time": "00:50:45",
+   "label": "F",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "answers the chair's 'Is the applicant here today? Do you wish to speak?' for V-2026-17; the owner then self-introduces at 00:50:51"
+  },
+  {
+   "time": "00:50:51",
+   "label": "I",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identification with name and Hanover Road West address as the V-2026-17 owner/applicant; minutes item 18"
+  },
+  {
+   "time": "00:51:19",
+   "label": "G",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "one-word fragment inside the V-2026-17 owner's description of the old home; he uses 'old farmstead' again at 00:51:28"
+  },
+  {
+   "time": "00:51:20",
+   "label": "I",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues the V-2026-17 owner's presentation (mature pine trees); minutes item 18"
+  },
+  {
+   "time": "00:51:26",
+   "label": "F",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "medium",
+   "reason": "tree height inside the V-2026-17 owner's presentation; minutes item 18 '30-40 foot trees'"
+  },
+  {
+   "time": "00:51:28",
+   "label": "I",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues the V-2026-17 owner's presentation (driveway from the old farmstead); minutes item 18"
+  },
+  {
+   "time": "00:56:52",
+   "label": "F",
+   "person": "Jordan Loewen",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "10021661 Manitoba Ltd.",
+   "confidence": "medium",
+   "reason": "answers the chair's 'The applicant's here. Would you wish to speak?' for CU-2026-10; the applicant self-introduces at 00:57:00"
+  },
+  {
+   "time": "01:02:45",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "false start of E's sentence 'I don't see how this is a caretaker's suite' at 01:02:48, during council debate"
+  },
+  {
+   "time": "01:03:52",
+   "label": "J",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' during council debate on CU-2026-10, after the By-law 2285 hearing closed; not Resident 1"
+  },
+  {
+   "time": "01:04:14",
+   "label": "G",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "medium",
+   "reason": "chair naming the mover on accounts payable, same pattern as 'Councilor Hebert, seconded by...' elsewhere; next chair turn 'Second by Councilor Hebert'"
+  },
+  {
+   "time": "01:04:22",
+   "label": "E",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "medium",
+   "reason": "vote call between the chair's 'All those in favor?' and 'That is carried.'"
+  },
+  {
+   "time": "01:10:35",
+   "label": "K",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "low",
+   "reason": "names the seconder after the chair's 'Seconded by?' during council business (minutes R26-186 seconder J. Siemens); not Resident 4, most likely the chair"
+  },
+  {
+   "time": "01:14:28",
+   "label": "G",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Okay.' during council debate on By-law 2286; not Resident 3"
+  },
+  {
+   "time": "01:16:43",
+   "label": "G",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "medium",
+   "reason": "'Okay, Mr.' is completed by the chair's next turn 'Workney, would you introduce this file?'"
+  },
+  {
+   "time": "01:17:32",
+   "label": "I",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "self-correction inside the City Manager's RBC ramp report ('the exit door'), continued by H at 01:17:33"
+  },
+  {
+   "time": "01:21:35",
+   "label": "I",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'So moved.' on adjournment; chair names 'Councilor Hebert' as mover and minutes item 34 mover J. Hiebert"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:13:00",
+   "label": "A",
+   "text": "We can't hear you from where you were talking.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "reason": "the chair telling the resident who spoke from his seat that he cannot be heard (follows 'You have to come to the podium' 00:12:54); the rest of the turn is Resident 2's self-introduction"
+  },
+  {
+   "time": "00:16:09",
+   "label": "A",
+   "text": "And then the drainage? That never got addressed either.",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "a resident's follow-up question inside the chair's turn (the chair answers 'Okay, well, drainage, okay'); Resident 1 raised flooding (minutes item 9) and continues on drainage at 00:17:25, but the voice is not confirmed"
+  },
+  {
+   "time": "00:16:09",
+   "label": "A",
+   "text": "Okay, so it's not like it would be, there'd be drainage like specifically for rain going right onto the street.",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "a resident's question inside the chair's explanation (the chair replies 'Right, he can't put his downspouts into the neighbor's yard'); which resident is not confirmed"
+  },
+  {
+   "time": "00:16:09",
+   "label": "A",
+   "text": "Yeah, no, it's just 'cause, yeah, like she said, the main concern is Giesemerck floods all the time.",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "low",
+   "reason": "a resident referring to Resident 1's concern ('like she said'), at the end of the chair's turn; most likely Resident 2, who was at the podium with her"
+  },
+  {
+   "time": "01:13:09",
+   "label": "A",
+   "text": "Thank you, Mr. Mayor.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "after the chair's 'Thank you, Mr.' to the City Manager someone else says 'Thank you, Mr. Mayor.'; Zwaagstra moves first reading at 01:13:15, so possibly him, or the City Manager closing his report"
+  }
+ ],
+ "summary": "Six council members, the City Manager, one applicant and six residents; all twelve letters identified. Letters G, F, I and H collect many stray short turns; I merges two applicants (V-2026-17 owner overridden as Resident 6). The Bill/Jake Hiebert split rests on minutes initials and the mover/seconder pattern. Resident remarks inside the chair's 00:16:09 turn are split out at low confidence; unplaced shorts stay on their letters and the doubtful spots (00:12:52-00:14:05 exchange, 00:16:09, R26-178 mover) are listed in review.",
+ "transcript": "transcripts/2026/2026-09-01.txt"
+}

@@ -1,0 +1,161 @@
+{
+ "meeting": "2025-11-04",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair names 'Councillor Susan Penner' as seconder of the security motion (00:07:54; minutes R25-209 seconder S. Penner) and A speaks at 00:09:19; 'Councillor Susan Penner, motion to approve ... go ahead, Councillor Penner' (00:13:30) -> A 00:13:43, chair 'thank you, Councilor Penner' (minutes R25-210 mover S. Penner); 'Councillor Susan Penner. Make the motion ... Go ahead, Councillor' (00:18:36) -> A 00:18:49 (minutes R25-215 mover S. Penner). Voice pitch 188-198 Hz on all substantive turns (female).",
+   "notes": "Short lines 'That was something.' 00:00:02 (pre-meeting, 3 voiced frames) and '11E. Oh, 11E.' 00:20:07 (185 Hz, female) left on A."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:03), hands the opening to Councillor Bill Hiebert, names movers/seconders and calls every vote; minutes item 2 Mayor Earl Funk called the meeting to order.",
+   "notes": "B's turns contain other people's short replies: 'Yes.' x2 at 00:13:30 (split), the last word 'Thank' at 00:22:21 (split, Bill Hiebert); 'Chair.' 00:20:34 is Thiessen's (override). Possibly others' words left in: 'Yep.' 00:06:57 (staff), 'Sure.' 00:02:55, 'I think we need to pay.' 00:14:11, 'Question?' 00:25:32, 'Second.' 00:29:06."
+  },
+  {
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'give the opening to Councillor Bill Hiebert' (00:00:03) -> C delivers the Remembrance Day opening, chair 'Thank you, Councillor Hebert' (00:02:55); minutes item 3 Councillor Bill Hiebert opened the meeting. C 00:22:24 speaks after D. Penner's By-Law 2269 2nd-reading speech ('I agree with Councillor Penner') and minutes R25-216 seconder = B. Hiebert. Jake Hiebert is on separate letter G in this transcription.",
+   "notes": "00:07:14 question on patrol hours has no name cue. 'No comments.' 00:14:54 answers 'Any comments?' on the financial statements (mover D. Penner, seconder J. Hiebert); the v1 transcript put it on the letter the old map called Damian Penner, but pitch 160 Hz is not Damian-like (125 Hz) — left on C and flagged."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' (00:02:55) -> D refers items to Mr. Adam Thiessen (00:04:17); chair addresses Mr. Warkentin (00:06:40) -> D answers on the operating budget; answers ISIP deadline and Sio Silica questions as administration; minutes item 2 City Manager Troy Warkentin present.",
+   "notes": "'Thank' 00:17:13 is the start of Damian Penner's 'Thank you very much' (override)."
+  },
+  {
+   "label": "E",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Senior Manager, Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager refers items to Mr. Adam Thiessen and chair 'go ahead, Mr. Thiessen' (00:04:28) -> E presents the security report; chair turns to Mr. Thiessen for the generator, By-Law 2267, ISIP and By-Law 2269 and E presents each; minutes items 6 and 8.",
+   "notes": "'Thank you, Your Worship.' inside the 00:12:26 turn is mid-sentence and probably not Thiessen (flagged). 'Okay.' 00:29:05 has no clear voice."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "F 'I'm prepared to make a motion' (00:07:09) and moves the security motion (00:07:37), minutes R25-209 mover M. Zwaagstra; 'Seconded by Councillor Zwaagstra' (00:16:03) and F 00:16:51 'Councillor Hiebert has summed that up' (minutes R25-213 seconder M. Zwaagstra); 'Second by? Councillor Zwaagstra' (00:18:36) -> F 00:19:19 (minutes R25-215 seconder). Pitch 99 Hz on 00:07:58.",
+   "notes": "00:19:19 begins with the chair's 'further?' (split). '11?' 00:20:08 and 'Correspondence of position.' 00:20:09 measure 147 Hz, unlike Zwaagstra's 99 Hz: overridden to Unclear."
+  },
+  {
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Hiebert.' -> G 'Motion to approve.' -> 'Go ahead, Councillor Hiebert' (00:15:56-00:16:06), minutes R25-213 mover of By-Law 2267 2nd reading = J. Hiebert; 'Councillor Hiebert, seconded by Councillor Penner. Go ahead.' -> G 'No further comments' (00:22:37-00:22:53), minutes R25-217 mover = J. Hiebert. Bill Hiebert is on separate letter C (opening).",
+   "notes": "Sio Silica question/comment 00:25:38 and 00:27:49 have no name cue; same letter."
+  },
+  {
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penner, seconded by Councillor Siemens. Go ahead.' -> H 00:17:13 (minutes R25-214 3rd-reading mover D. Penner); H 'Motion to approve.' 00:21:33, chair after H's speech 'Thank you very much, Councillor Penner' and C 'I agree with Councillor Penner, his comments' (minutes R25-216 mover D. Penner). Pitch 125-126 Hz (male), so not Susan Penner."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:17:13",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'Thank' is the first word of H's 'you very much, Mr. Mayor' at the same timestamp; Penner was just handed the floor"
+  },
+  {
+   "time": "00:20:34",
+   "label": "B",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Senior Manager, Corporate Services",
+   "confidence": "high",
+   "reason": "'Chair.' completes E's 'Thank you, Mr.' (v1 transcript has 'Thank you, Mr. Chair.' on Thiessen's letter)"
+  },
+  {
+   "time": "00:20:08",
+   "label": "F",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "agenda-number chatter; 147 Hz vs Zwaagstra's 99 Hz in this meeting"
+  },
+  {
+   "time": "00:20:09",
+   "label": "F",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "agenda-number chatter; 147 Hz vs Zwaagstra's 99 Hz in this meeting"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:13:30",
+   "label": "B",
+   "text": "Yes.",
+   "occurrence": 1,
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "reply to 'Councillor Susan Penner, motion to approve'; v1 transcript has this 'Yes.' on Susan Penner's letter"
+  },
+  {
+   "time": "00:13:30",
+   "label": "B",
+   "text": "Yes.",
+   "occurrence": 2,
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "reply to 'Seconded by Councillor Siemens'; minutes R25-210 seconder J. Siemens; v1 transcript has it as a separate non-chair voice"
+  },
+  {
+   "time": "00:19:19",
+   "label": "F",
+   "text": "further?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "completes the chair's 'Anything' at 00:19:16"
+  },
+  {
+   "time": "00:22:21",
+   "label": "B",
+   "text": "Thank",
+   "occurrence": 2,
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of C's 'you, Mr. Mayor' at 00:22:24"
+  }
+ ],
+ "summary": "Clean 8-letter transcription: re-transcription separated Bill Hiebert (C) and Jake Hiebert (G), which the old map had merged; all letters high. Remaining doubt is only on short interjections (No comments 00:14:54, chair-turn fragments).",
+ "transcript": "transcripts/2025/2025-11-04.txt"
+}

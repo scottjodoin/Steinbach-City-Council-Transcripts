@@ -1,0 +1,136 @@
+{
+ "meeting": "2025-09-02",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order 00:00:00 and hands the opening to Councillor Damian Penner; addressed as 'Mr. Mayor' throughout; calls every vote, opens/closes both public hearings (minutes items 2, 6, 10: Mayor Earl Funk called the meeting and hearings to order)",
+   "notes": "A's turns carry short replies by others: 'Comments.' 00:03:11 (split, unclear), 'No.' 00:09:35 (split, S. Penner), 'No comments, thank you.' and 'Nope.' 00:12:54 (split). Adjournment 'Second.' 00:12:54 left with the chair: YouTube captions hear 'Council center. Second by councelor Stevens' there, so it may be the chair naming the mover"
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 00:00:00 'give the opening to Councillor Damian Penner' -> B gives the opening 00:00:09; chair 00:03:11 'Thank you, Councillor Penner'; minutes item 3: Councillor Damian Penner opened the meeting"
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 00:03:11 'Mr. Warkentin, could you please introduce this file?' -> C 00:05:05 introduces V-2025-20; chair 00:09:42 'Mr. Wartine, could you please introduce this?' -> C 00:10:06 introduces CU-2025-04; 'Thank you, Mr. Warkentin' after both; minutes 6.1 and 10.1: Troy Warkentin, City Manager, introduced both files",
+   "notes": "C 00:05:05 contains 'Thank you, Your Worship. Thank you, Mr. Adam Thiessen.' (zero-duration, low-confidence words, absent from the YouTube captions) and C 00:10:06 'Thank you, Your Worship. Thank you, Brian.' (low confidence, captions hear only 'uh'); both split off as Unclear. C 00:05:05 'Council, Okay. The next item on the agenda is dealt with' is a mis-hearing of 'council dealt with' (captions) - his own words, not split"
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 00:06:25 'Councillor Zwaagstra.' -> D 00:07:07 'I move to approve.' and the mover's speech 00:07:12; minutes R25-170 and R25-171: M. Zwaagstra moved both variances; D 00:09:18 moves V-2025-14 and speaks 00:09:22; D 'No.' 00:09:41 answers 'Anything in closing?' (the mover's closing)"
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 00:07:08 'Seconded by? Councillor Hiebert' then 00:07:54 'Anything further, Councillor Hiebert?' -> E 00:07:57 seconder's comments; minutes R25-170: J. Hiebert seconded (separates him from B. Hiebert, who moved nothing on this item)"
+  },
+  {
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 00:11:26 'Council, how would you like to proceed? Councillor Siemens?' -> F 00:12:05 'I wish to approve.' and the mover's speech 00:12:08 after 'Go ahead'; minutes R25-172: J. Siemens moved CU-2025-04"
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "only turn 'No, thank you.' 00:12:52 answers the chair's 'Anything further, Councillor Penner?' to the seconder of CU-2025-04; minutes R25-172: S. Penner seconded. Voice pitch inconclusive (reply too short and quiet: ~140-163 Hz on 1-17 voiced frames), so the Penner/Penner split rests on the minutes alone"
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:03:11",
+   "label": "A",
+   "text": "Comments.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "reply to the chair's 'Any comments?' on the minutes; YouTube captions mark a speaker change (>>) and pitch ~186 Hz on 5 frames is unlike the mayor (~136-145 Hz); speaker cannot be placed"
+  },
+  {
+   "time": "00:05:05",
+   "label": "C",
+   "text": "Thank you, Your Worship. Thank you, Mr. Adam Thiessen.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "mid-sentence insertion with zero-duration, low-confidence words, absent from the YouTube captions; probably not in the audio, not Warkentin's report"
+  },
+  {
+   "time": "00:08:19",
+   "label": "A",
+   "text": "I make",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "boundary slip: start of the mover's 'I make the motion to approve' continued by D at 00:09:18; minutes R25-171: M. Zwaagstra moved V-2025-14 (captions hear the chair say 'Councelor Swer' here, so the words themselves are uncertain)"
+  },
+  {
+   "time": "00:09:35",
+   "label": "A",
+   "text": "No.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "reply to the chair's 'Anything further, Councillor Penner?' (captions mark a speaker change); minutes R25-171: S. Penner seconded V-2025-14; pitch could not be measured"
+  },
+  {
+   "time": "00:10:06",
+   "label": "C",
+   "text": "Thank you, Your Worship. Thank you, Brian.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "low-confidence words in a pause of Warkentin's report; YouTube captions hear only 'uh' here; probably not in the audio"
+  },
+  {
+   "time": "00:12:54",
+   "label": "A",
+   "text": "No comments, thank you.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "reply to the chair's 'Any comments?' right after naming the mover 'Councillor Hiebert' (minutes R25-174: B. Hiebert moved); captions mark a speaker change; pitch ~135-150 Hz on 12-17 frames fits a man but cannot separate Bill Hiebert from Damian Penner (seconder)"
+  },
+  {
+   "time": "00:12:54",
+   "label": "A",
+   "text": "Nope.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "reply to the chair's 'Anything further?'; captions mark a speaker change; mover (B. Hiebert) or seconder (D. Penner), cannot tell"
+  }
+ ],
+ "summary": "Short, clean meeting (15 min, no residents spoke): all seven letters map one-to-one to the mayor, City Manager and five councillors (Bill Hiebert has no letter; he only moves by the chair's naming). Short replies ('No.', 'Comments.', 'No comments, thank you.', 'Nope.') sit inside the chair's turns and are split, as is the boundary slip 'I make' 00:08:19; two 'Thank you, Your Worship...' insertions in the City Manager's reports look like transcription artifacts and are split off as Unclear. The Penner replies rest on the minutes; voice pitch was inconclusive.",
+ "transcript": "transcripts/2025/2025-09-02.txt"
+}

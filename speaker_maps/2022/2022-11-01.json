@@ -1,0 +1,411 @@
+{
+ "meeting": "2022-11-01",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls meeting to order 00:00:08, runs every item, opens/closes hearings, asks 'Mr. Warkentin, could you please introduce this file?'; minutes item 2 (Mayor Earl Funk chaired); addressed 'Mr. Mayor'. Pitch 147-154 Hz.",
+   "notes": "Turn 00:45:00 contains the start of Luke Wiebe's presentation (split); 01:23:01 'Thank you, Mr. Mayor.' and 01:33:27 'I'll second that.' are councillors (split). Several 'Thank you, Your Worship.' fragments inside turns left to the text fixer."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'I'll make the motion to approve' on By-law 2213 at 00:12:59 after chair calls 'Councillor Penner' (minutes R22-250 mover D. Penner); ends the By-law 2217 speech 'I'll second the motion' 01:21:22 (minutes R22-253 seconder D. Penner); chair 'Councillor Pender' 00:52:47; chair separates him from Susan at 01:46:13 ('Thank you, Councillor. Susan.'); 'Nothing further' as seconder of R22-255 at 01:54:14. Pitch 114-123 Hz (male).",
+   "notes": "Letter merges other voices: Jac Siemens at 00:05:04, 00:21:18, 00:36:45, 00:37:09, 01:18:24, 01:36:55; Evan Schroeder 00:26:59; Luke Wiebe 01:14:38, 01:14:39. All overridden. 01:58:09 uncertain (review)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Introduces every file after 'Mr. Warkentin, could you please introduce this file?' (00:06:28, 00:09:57, 00:14:34, 00:40:58, 00:58:15, 01:28:16, 01:55:02); minutes 6.1/8.1/10.1/12.1/14.1/18 credit the City Manager.",
+   "notes": "01:42:05 Event Centre speech (thanks 'our CAO Troy Warkentin') is Jake Hiebert - overridden."
+  },
+  {
+   "label": "D",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Thank you, Councillor. Susan.' 01:46:13 then D's statement; D moves CU-2022-03 (00:08:36 'being a parent myself'; minutes R22-249 S. Penner), By-law 2166 first reading 01:56:09 (R22-257) and the AMM endorsement 01:57:36 (R22-258); E says 'I agree with the comments of Councillor Penner' after D. Pitch 182-188 Hz (woman).",
+   "notes": "Turn 01:46:17 ends with the chair's 'Anything further?' and 01:57:40 with 'Any other comments?' (split)."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Go ahead, Councillor Hiebert' 00:21:48 and 01:23:40 each followed by E; E 01:23:44 refers back to his own garage-setback question (01:16:52); E seconds CU-2022-03 and agrees 'with the comments of Councillor Penner' (minutes R22-249 seconder J. Hiebert); distinct from O (Bill Hiebert), who spoke just before at 01:23:08. Pitch 108-114 Hz."
+  },
+  {
+   "label": "F",
+   "person": "Mike Fast",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "6204741 Manitoba Inc. (applicant)",
+   "confidence": "high",
+   "evidence": "Self-identifies 'My name is Mike Fast, 560 Henry Street' 00:16:54; addressed 'Mr. Fast'; minutes 10.4/10.8/12.4 (applicant, By-laws 2216/2215; applicant company 6204741 Manitoba Inc.).",
+   "notes": "01:17:54 'Yep, 45. Sorry.' is Luke Wiebe; 01:27:35 'There is none.' unclear (overridden). 00:30:28 'Thank you.' unplaced."
+  },
+  {
+   "label": "G",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Switzer' 00:18:21 then G's question; chair 'Councillor Zwaagstra' 00:33:38 / 01:18:43 then G moves By-laws 2216 and 2217 (minutes R22-251, R22-253 mover M. Zwaagstra); 'Councillor Spicer' 01:33:18 then G moves the Event Centre tender (R22-254); chair 'Thank you, Councillor Zwaagstra' after G at 00:39:36, 01:21:20, 01:48:18; D 'As Councillor Zwaagstra mentioned' after G. Pitch 107 Hz.",
+   "notes": "Letter absorbs public speakers: Jon Sawatzky 00:28:56; Luke Wiebe 00:45:43, 01:00:22, 01:00:32, 01:01:08, 01:02:02, 01:15:39; Evan Schroeder 00:49:26 (overridden). 00:50:31 ends with chair's 'Anything further, Councillor Penner?' (split). Stray 'Thank you.' 00:28:40 and 00:54:23 left."
+  },
+  {
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Siemens' 00:20:15 then H addresses Mr. Fast; City Manager 'Councillor Siemens, I would refer you to page 44' answering H 00:30:50; Zwaagstra 'Councillor Siemens had mentioned what the council of the day had done' after the 00:36:15-00:37:37 speech; H 01:36:55 speech 'the 16 years that Michael and myself have been involved'; chair 'Councillor Stevens?' 00:53:31 then H; adjournment mover (minutes item 25 J. Siemens) 01:59:12.",
+   "notes": "01:59:12 turn ('I'll make that. We got a seconder. Oh.') measures ~184 Hz, so likely mixes voices; see review. 01:58:13 'You will all work hard.' measures 154 Hz (mayor-like), left."
+  },
+  {
+   "label": "I",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Speaks at the By-law 2216 public hearing after the chair invites the public; self-identifies by name as the next-door resident at 12 First Street; minutes 10.5."
+  },
+  {
+   "label": "J",
+   "person": "Evan Schroeder",
+   "role": "delegation",
+   "title": "Speaking for Swift Communications",
+   "organization": "Swift Communications",
+   "confidence": "high",
+   "evidence": "Self-identifies 'my name is Evan Schrader. I work with Swift' (00:26:59, on letter B) and again 00:49:04; minutes 10.6/12.6 spell Evan Schroeder, Swift Communications."
+  },
+  {
+   "label": "K",
+   "person": "Jon Sawatzky",
+   "role": "delegation",
+   "title": "Speaking for Loewen Windows",
+   "organization": "Loewen Windows",
+   "confidence": "high",
+   "evidence": "Introduces himself as representing Loewen Windows on By-laws 2215/2216 (00:28:19); minutes 10.7 name Jon Sawatzky; the original v1 transcript heard 'John Sawatzky'. The new transcript's 'John Fehr' is a vocabulary substitution (John Fehr was a 2014-2018 councillor).",
+   "notes": "Transcript text at 00:28:19 still reads 'My name is John Fehr' - wrong name in the words themselves."
+  },
+  {
+   "label": "L",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "evidence": "Self-identifies 'my name's Luke Wiebe' (00:45:00, inside chair's turn) and 'My name's Luke Wiebe with Kingdom Home Building Inc.' 01:00:14; chair 'Mr. Wiebe'; minutes 12.5, 14.3, 14.6.",
+   "notes": "At the By-law 2215 hearing he spoke as a developer owning land to the south; at 2217 as the applicant's builder."
+  },
+  {
+   "label": "M",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Speaks at the By-law 2217 public hearing after the chair invites objections; self-identifies with name and 478 Cottonwood Bend, presents neighbours' letters; minutes 14.4. 01:17:38 'Her house is 24 feet.' interjection from the floor."
+  },
+  {
+   "label": "N",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "medium",
+   "evidence": "Speaks at the By-law 2217 hearing after Resident 2: a mother living across the walkway, traffic and privacy concerns; matches minutes 14.5 (210 McKenzie Avenue). Does not state her name. Pitch 195 Hz."
+  },
+  {
+   "label": "O",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Hiebert' 01:41:24 then O: 'I had a passion to run for council for this reason'; chair later 'I picked you, Councillor Hiebert, for your passion... it started with Councillor Bill's passion'; distinct from E (Jake Hiebert), handed the floor right after O at 01:23:40. Pitch 133-137 Hz."
+  },
+  {
+   "label": "P",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Single joke turn 01:56:30 about Jac Siemens and the Campbell settler history; pitch 211 Hz (a woman; Susan Penner is the only woman on council, D measures 182-188 Hz); existing map gives the same timestamp to Susan Penner."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:05:04",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'I will.' moves agenda adoption; minutes R22-247 mover J. Siemens (seconder D. Penner named by chair next); existing map gives this turn to Siemens"
+  },
+  {
+   "time": "00:21:18",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "completes Siemens's sentence from H 00:20:39 ('Back it off to the— put a buffer between your building and the highway?')"
+  },
+  {
+   "time": "00:26:59",
+   "label": "B",
+   "person": "Evan Schroeder",
+   "role": "delegation",
+   "title": "Speaking for Swift Communications",
+   "organization": "Swift Communications",
+   "confidence": "high",
+   "reason": "self-identifies 'my name is Evan Schrader. I work with Swift'; continues on J; minutes 10.6"
+  },
+  {
+   "time": "00:28:56",
+   "label": "G",
+   "person": "Jon Sawatzky",
+   "role": "delegation",
+   "title": "Speaking for Loewen Windows",
+   "organization": "Loewen Windows",
+   "confidence": "high",
+   "reason": "mid-sentence continuation of the Loewen Windows objection (K before and after); pitch 131 Hz matches K"
+  },
+  {
+   "time": "00:36:45",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues Siemens's vote-against speech ('Council of the day, when we built that'); Zwaagstra replies 'Councillor Siemens had mentioned what the council of the day had done'"
+  },
+  {
+   "time": "00:37:09",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "same Siemens speech about CBD zero lot line, resumed by H at 00:37:37"
+  },
+  {
+   "time": "00:45:43",
+   "label": "G",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "middle of Luke Wiebe's presentation ('I'm also very pro-proper planning... Mr. Troy Warkentin'); pitch 128 Hz matches L"
+  },
+  {
+   "time": "00:49:26",
+   "label": "G",
+   "person": "Evan Schroeder",
+   "role": "delegation",
+   "title": "Speaking for Swift Communications",
+   "organization": "Swift Communications",
+   "confidence": "high",
+   "reason": "continues J's 00:49:04 remarks ('our discussions with Mike last summer'); original transcript keeps it on Schroeder's letter"
+  },
+  {
+   "time": "01:00:22",
+   "label": "G",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "mid-sentence of Luke Wiebe's introduction of his client"
+  },
+  {
+   "time": "01:00:32",
+   "label": "G",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "Luke Wiebe walking council through his package pages"
+  },
+  {
+   "time": "01:01:08",
+   "label": "G",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "Luke Wiebe's presentation continues"
+  },
+  {
+   "time": "01:02:02",
+   "label": "G",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "Luke Wiebe's presentation continues"
+  },
+  {
+   "time": "01:14:38",
+   "label": "B",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "medium",
+   "reason": "applicant answering the chair's hand-back ('I'll give it back to Mr. Wiebe'); original transcript gives it to Wiebe"
+  },
+  {
+   "time": "01:14:39",
+   "label": "B",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "'I was simply hired by somebody...' - the applicant's rebuttal (minutes 14.6); continues on L; pitch 128 Hz matches L"
+  },
+  {
+   "time": "01:15:39",
+   "label": "G",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "mid-sentence of Luke Wiebe's speed-bump remark"
+  },
+  {
+   "time": "01:17:54",
+   "label": "F",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "Wiebe correcting himself '45 feet' (original transcript keeps it in his turn); Mike Fast was not part of this hearing"
+  },
+  {
+   "time": "01:17:58",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'That's it. Okay.' measures 166 Hz, not Damian Penner's voice"
+  },
+  {
+   "time": "01:18:24",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'A motion to deny.' - minutes item 15 mover J. Siemens; existing map agrees; Siemens later 'I second the petition'"
+  },
+  {
+   "time": "01:27:35",
+   "label": "F",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'There is none.' (air conditioning) - Mike Fast's hearing was over; voice not placeable"
+  },
+  {
+   "time": "01:36:55",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "opening of Siemens's 'generational decision' speech that continues on H; Siemens seconded R22-254; original transcript has it all on one letter"
+  },
+  {
+   "time": "01:42:05",
+   "label": "C",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Hiebert' right after Bill Hiebert (O) finished; speaker thanks 'our CAO Troy Warkentin' so not the City Manager; existing map Jake Hiebert; pitch 114 Hz matches E"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:45:00",
+   "label": "A",
+   "text": "Good evening, Mr. Mayor and council. Thank you very much for, uh, allowing me to speak here tonight. Um, I wanted to also thank you for, uh, well, what I got to witness with Thank you. I'd never actually seen that before. I'm not sure if that's standard protocol every time, but that was really special to see. I wanted to make it clear and state that my name's Luke Wiebe. I live in the arm of La Broquerie just south of Steinbach. I'm a developer. I'm pro-development.",
+   "person": "Luke Wiebe",
+   "role": "delegation",
+   "title": "Developer",
+   "organization": "Kingdom Home Building Inc.",
+   "confidence": "high",
+   "reason": "self-identification at the podium; original transcript gives this to Wiebe's letter"
+  },
+  {
+   "time": "00:50:31",
+   "label": "G",
+   "text": "Anything further, Councillor Penner?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair handing the floor to Susan Penner, who speaks next"
+  },
+  {
+   "time": "01:23:01",
+   "label": "A",
+   "text": "Thank you, Mr. Mayor.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "councillor accepting the floor; O continues"
+  },
+  {
+   "time": "01:33:27",
+   "label": "A",
+   "text": "I'll second that.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair immediately says 'Seconded by Councillor Siemens'; minutes R22-254 seconder J. Siemens"
+  },
+  {
+   "time": "01:46:17",
+   "label": "D",
+   "text": "Anything further?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's prompt after Susan Penner finishes"
+  },
+  {
+   "time": "01:57:40",
+   "label": "D",
+   "text": "Any other comments?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair's prompt after the mover's comments"
+  }
+ ],
+ "summary": "Clean diarization for council and staff; letter B (Damian Penner) absorbs several Jac Siemens turns and two public speakers, and G (Zwaagstra) absorbs much of Luke Wiebe's presentations - all overridden. Loewen Windows speaker is written 'John Fehr' in the transcript text (vocabulary error; really Jon Sawatzky). Three residents spoke.",
+ "transcript": "transcripts/2022/2022-11-01.txt"
+}

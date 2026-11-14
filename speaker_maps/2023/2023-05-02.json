@@ -1,0 +1,175 @@
+{
+ "meeting": "2023-05-02",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order (00:00:01), hands off to councillors and the City Manager throughout, calls every vote; addressed as 'Mr. Mayor'; minutes: Mayor Earl Funk called the meeting to order",
+   "notes": "'I second.' inside the 00:17:53 turn is split off (seconder). Stray 'Thank you, Your Worship' inside 00:41:39 is likely a mis-transcription"
+  },
+  {
+   "label": "B",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair gives the opening to 'Councillor Michael Zwaagstra' (00:00:01) -> B delivers it, chair 'Thank you, Councillor Zwaagstra'; B 'I'm the chair of the RCMP Advisory Group' (00:09:18) and chair later 'like Councillor Switzer said, to our first meeting'; 'Councillor Swaigstra' -> B 'I'll make the motion to approve' (00:25:37, minutes item 9 mover M. Zwaagstra); 'Councillor Swiggs' -> B motion (00:37:13, item 14 mover M. Zwaagstra); 'Second by Councillor Zwaagstra' -> B 'Councillor Hiebert convinced me' (00:35:28, item 12 seconder M. Zwaagstra); speaks after S. Penner on Pistons (item 19 seconder M. Zwaagstra); pitch 91-98 Hz consistent across turns",
+   "notes": "00:09:18 turn contains Landreville's 'I can confirm that.' (split). 00:18:00 and 00:37:19 follow a chair line transcribed as 'Councillor Penner, go ahead' but are the mover's (Zwaagstra's) statement in his voice (98 / 94 Hz)"
+  },
+  {
+   "label": "C",
+   "person": "Guy Landreville",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "organization": "RCMP Steinbach Detachment",
+   "confidence": "high",
+   "evidence": "chair invites 'our brand new Staff Sergeant, Guy Landerville' to the podium (00:04:15) -> C describes his 35 years in the RCMP and the Annual Performance Plan; answers council questions 00:10:18-00:17:37; minutes item 6: Staff Sergeant Landreville presented",
+   "notes": "MERGED letter: also carries Jac Siemens (00:20:56, 00:21:01, 00:32:15, 00:40:47, 00:40:51 overridden) and two unplaced 'No, sir.' turns (00:22:52, 00:41:39 overridden to Unclear)"
+  },
+  {
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Anything further, Councillor Hiebert?' -> D statement on the event-centre agreement (00:26:25; minutes item 9 seconder J. Hiebert); chair 'Councillor Hiebert' -> D 'Motion to approve.' + statement (00:35:08; item 12 mover J. Hiebert); 'Nothing further, thank you.' (00:40:07) as Skimmers seconder (J. Hiebert); pitch 103-110 Hz, distinct from E (122-126 Hz)",
+   "notes": "00:39:50 'Yes, thank you, Mr. Mayor. The Steinbach skimmers' is the start of Damian Penner's sentence continued on H (overridden)"
+  },
+  {
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "comments right after 'Seconded by Councillor Hiebert' on the ladder truck (00:22:26; item 8 seconder B. Hiebert); 'No comments.' right after chair names 'Councillor Hiebert' as accounts-payable mover (00:33:57; item 11 mover B. Hiebert); 'No further comments.' after 'Councillor Hebert' moves second reading (00:35:51; item 13 mover B. Hiebert); comments on curling (00:41:23; item 17 seconder B. Hiebert); voice distinct from D (Jake Hiebert)",
+   "notes": "minutes attendance line omits Bill Hiebert, but he moves/seconds four resolutions (known 2023 minutes issue)"
+  },
+  {
+   "label": "F",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Yes, Mr. Warkentin' / 'Mr. Warkentin, could you please introduce this file?' -> F introduces each file; 'Thank you, Mr. Warkentin'; minutes item 10: City Manager report on PTH 12 signals",
+   "notes": "short crosstalk ('Okay.', 'That's right.', 'Thank you.', 'Thank you, Your Worship.') embedded in long turns is likely others or mis-transcription; left in place"
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councilor Penner?' -> G 'Motion to approve.' + Chamber comment (00:38:31; item 15 mover S. Penner); chair 'Councillor Penner' -> G 'Motion to approve.' + Pistons statement (00:43:45; item 19 mover S. Penner); 'Nothing further.' as By-law 2225 seconder (item 14 seconder S. Penner); voice pitch 174-179 Hz (female)"
+  },
+  {
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Penner, second by Councillor Hiebert' on the Skimmers resolution -> H gives the mover's statement (00:39:53; item 16 mover D. Penner); 'Nothing further.' in closing (00:40:12); voice pitch 128-131 Hz (male), so not Susan Penner"
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:20:56",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Siemens?' -> 'Motion to approve.'; minutes item 8 mover J. Siemens"
+  },
+  {
+   "time": "00:21:01",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Go ahead, Councillor Siemens.' then 'Thank you, Councillor Siemens.'; ladder-truck mover statement (item 8 mover J. Siemens)"
+  },
+  {
+   "time": "00:22:52",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No, sir.' to 'Anything closing?' after the delegation had left; possibly mover Jac Siemens; pitch on a 1-second clip inconclusive"
+  },
+  {
+   "time": "00:32:15",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "councillor's comment on PTH 12 lights ('the ones that I have whined about since the first meeting in January') long after the delegation left; the only councillor on letter C; existing map and AssemblyAI both say Siemens; pitch 106 Hz matches Siemens at 00:21:01 (101 Hz)"
+  },
+  {
+   "time": "00:40:47",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Siemens?' -> 'Motion to approve.'; minutes item 17 mover J. Siemens"
+  },
+  {
+   "time": "00:40:51",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "mover's statement on the curling grant continuing from 00:40:47 (item 17 mover J. Siemens)"
+  },
+  {
+   "time": "00:41:39",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No, sir.' to 'Anything in closing?' after the delegation had left; possibly mover Jac Siemens (existing map had it on the City Manager's letter)"
+  },
+  {
+   "time": "00:39:50",
+   "label": "D",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair names 'Councillor Penner' as Skimmers mover (item 16 mover D. Penner); the sentence 'The Steinbach skimmers' continues on H at 00:39:53; pitch 135 Hz matches H (131 Hz), not D (~107 Hz)"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:09:18",
+   "label": "B",
+   "text": "I can confirm that.",
+   "person": "Guy Landreville",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "organization": "RCMP Steinbach Detachment",
+   "confidence": "medium",
+   "reason": "Zwaagstra asks the Staff Sergeant to confirm the dedicated traffic officer; the reply interrupts his turn"
+  },
+  {
+   "time": "00:17:53",
+   "label": "A",
+   "text": "I second.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "a seconder's words inside the chair's turn; chair then names 'Councillor Penner'; minutes item 7 seconder D. Penner"
+  }
+ ],
+ "summary": "Clean meeting with no public speakers. Letter C merges the RCMP Staff Sergeant with Jac Siemens (5 Siemens turns overridden, 2 'No, sir.' turns Unclear); D/E split Jake and Bill Hiebert by voice and minutes initials; G/H Penners separated by pitch. Mayor's wife named in passing is withheld.",
+ "transcript": "transcripts/2023/2023-05-02.txt"
+}

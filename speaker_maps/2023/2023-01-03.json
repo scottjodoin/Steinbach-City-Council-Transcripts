@@ -1,0 +1,112 @@
+{
+ "meeting": "2023-01-03",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order 00:00:00, hands the opening to Councillor Siemens, runs all motions and votes, opens and closes the three public hearings; minutes: Mayor Earl Funk called the meeting and hearings to order; pitch ~143-147 Hz throughout",
+   "notes": "00:11:00 'Mayor.' is the end of Siemens's 'Thank you, Mr.' (override); 'I'll second.' inside 00:03:04 is not the chair (split, Unclear); 'Go ahead, Councillor Siemens' at 00:05:10 is a vocabulary insertion - captions have only 'go ahead Council' and D (Zwaagstra, the mover) speaks"
+  },
+  {
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair gives the opening to Councillor Siemens 00:00:00 and B delivers it (minutes item 3: J. Siemens opened); chair 'Thank you, Councillor Siemens' 00:03:04; B 'Motion to approve.' 00:12:52 then chair 'Go ahead, Councillor Siemens' (minutes R23-008 mover J. Siemens); chair 'Councillor Siemens.' 00:19:30 -> B's traffic-signal statement (minutes item 19); Zwaagstra replies 'as Councillor Siemens noted' 00:14:06 and 'I agree with Councillor Siemens' 00:22:56; pitch 99-126 Hz",
+   "notes": "'my wife [name withheld]' in the opening is withheld (mentioned_private)"
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' before each C report (00:04:33, 00:06:31, 00:11:29, 00:16:04); chair 'Thank you, Mr. Warkentin' after; minutes 9.1/12.1/15.1 City Manager Troy Warkentin introduced the by-laws; 00:26:02 'I will follow up on that' after the mayor hands the MTI meeting to Mr. Warkentin",
+   "notes": "'Thank you, Your Worship.' inside 00:11:29 and 'Thank you, Your Worship. Thank you, Alderman Demong. Thank you, Your Worship.' inside 00:16:04 are not in the YouTube captions at those points - likely transcription artifacts (see review)"
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Zwaagstra?' 00:05:03 -> D 'I'll make the motion for first reading.' (minutes R23-004 mover M. Zwaagstra) and D's mover speech 00:05:14; chair 'Thank you, Councillor Zwaagstra' 00:15:07 after D's 00:14:06 turn; chair 'Do we agree with Councillor Siemens and Councillor Zwaagstra' 00:24:24 after D's 00:22:56 traffic turn; pitch 98-105 Hz on all long turns",
+   "notes": "'Councillor.' at the start of 00:22:56 is the chair's 'Go ahead, Councillor.' (split); 00:18:41 'Nope.' measures 162 Hz on few frames (see review)"
+  },
+  {
+   "label": "E",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Penner.' 00:07:49 -> E 'Motion to approve.' 00:08:21 and mover speech 00:08:25 (minutes R23-006 mover D. Penner); Hiebert replies 'as has been indicated by Councillor Penner' 00:09:00; E's 'Nothing further to add' turns fall on items D. Penner seconded/moved (R23-005 00:05:59, R23-011 00:18:38); male voice 111-113 Hz, distinct from G (Susan Penner, ~180 Hz)"
+  },
+  {
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Seconded by Councillor Hiebert ... Anything further, Councillor Hiebert?' 00:08:22-00:08:58 -> F 00:09:00 (minutes R23-006 seconder J. Hiebert); pitch 106-117 Hz matches Jake Hiebert's 103-117 Hz in other 2023 maps, not Bill Hiebert's 125-160 Hz",
+   "notes": "00:11:00 'I would agree...' - minutes give the R23-007 seconder as Zwaagstra, though the transcript has the chair say 'Hebert' (review); 00:18:01 turn on the Barkman item, whose seconder was B. Hiebert per minutes (review)"
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "G 'Motion to approve.' 00:17:23 then chair 'Go ahead, Councillor Penner' and G's mover speech 00:17:27 (minutes R23-010 mover S. Penner); G 'No comments.' 00:15:32 after mover 'Councillor Paterson' = S. Penner (R23-009); woman's voice 170-184 Hz",
+   "notes": "00:18:54 'All right.' has no clear voice; left with G"
+  },
+  {
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "single turn 00:18:07 that finishes F's 00:18:01 sentence ('as the sewer, / the underground infrastructure ages'); captions run it as one turn; same pitch as F's 00:18:01 (117 Hz), in Jake Hiebert's range",
+   "notes": "minutes give B. Hiebert as seconder of this item (R23-010), so this could be Bill Hiebert (review)"
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:11:00",
+   "label": "A",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'Mayor.' completes B's 'Thank you, Mr.' at 00:10:57; captions run 'I think it's all been said thank you' as one phrase"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:22:56",
+   "label": "D",
+   "text": "Councillor.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "ends the chair's 'Go ahead,' at 00:22:53"
+  },
+  {
+   "time": "00:03:04",
+   "label": "A",
+   "text": "I'll second.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "a seconder's words after the chair has already named the seconder (minutes R23-003 seconder J. Siemens); not in the captions; pitch here ~186-201 Hz, higher than the chair"
+  }
+ ],
+ "summary": "Short, clean meeting with no public speakers; all seven council members and the City Manager map to their own letters, agreeing with AssemblyAI and the existing map. Open points: which Hiebert made the 00:18:01 comment, who said two short seconder lines, and apparent 'Your Worship / Alderman Demong' artifacts in the City Manager's reports.",
+ "transcript": "transcripts/2023/2023-01-03.txt"
+}

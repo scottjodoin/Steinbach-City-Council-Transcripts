@@ -1,0 +1,109 @@
+{
+ "meeting": "2024-12-03",
+ "chair": "Michael Zwaagstra",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "minutes item 2: Deputy Mayor Michael Zwaagstra called the meeting to order (Mayor Funk excused, R24-233); A calls to order 00:00:00 and asks Councillor Bill Hiebert to open; addressed 'Mr. Deputy Mayor' by B 00:00:05, C 00:06:35, F 00:18:33, G 00:46:25; A runs every hand-off and vote; G 00:24:20 'I was there as well as the Deputy Mayor'",
+   "notes": "Chair's turns carry a few other voices: 'it.' at 00:36:26 (end of Siemens' sentence) and 'Nothing further.' at 00:35:17 (Siemens' reply) are split out."
+  },
+  {
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'I will ask Councillor Bill Hiebert to give the opening' 00:00:00 -> B opening 00:00:05 (minutes item 3: B. Hiebert opened); chair 'Councillor Bill Hiebert, motion to approve?' -> B 'Yes.' 00:06:09 (minutes R24-233 B. Hiebert moved); chair 'Councillor Hiebert.' 00:48:00 -> B 00:48:02; 'Councillor Hiebert, anything to add?' -> B 00:52:47; Jake Hiebert excused, so the only Hiebert present"
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 'Mr. Warkentin, can I get you to introduce this one' -> C 00:06:35, 00:32:18, 00:37:40, 00:50:46; chair 'Thank you, Mr. Warkentin' 00:14:04 and 00:32:45; minutes item 7: Troy Warkentin, City Manager presented the OCP/zoning report; C defers to the city planner and to Adam Thiessen"
+  },
+  {
+   "label": "D",
+   "person": "Lacey Gaudet",
+   "role": "staff",
+   "title": "City Planner",
+   "confidence": "high",
+   "evidence": "C 00:06:35 ends 'I would just like to refer to the city planner, Lacey Gaudet ... proposed timeline and the next steps' -> D 00:12:51 timeline/next steps (minutes 7.4: City Planner Lacey Gaudet spoke regarding timelines and next steps); chair later 'as Ms. Gaudet had noted' (open house); pitch 205 Hz (female)"
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Penner.' 00:14:04 -> E 'I'll make the motion to approve.' with chair naming seconder 'Councillor Damian Penner' (minutes R24-234: S. Penner moved, D. Penner seconded); chair 'Councillor Susan Penner.' 00:34:40 -> E 'Motion to approve.' (minutes R24-238 S. Penner moved); F 00:18:33 refers to E's secondary-suite point as 'Councillor Penner also touched on'; pitch 190/176/176 Hz (female, matches Susan Penner)"
+  },
+  {
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Damian Penner.' 00:32:45 -> F 'Motion to approve as presented.' (minutes R24-237: D. Penner moved); chair 'Councillor Penner.' 00:18:30 and 00:48:26 -> F; F 00:18:33 cites 'Councillor Penner also touched on' (Susan's point), so F is the other Penner; pitch 122/142/129 Hz (male, unlike E)"
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Siemens.' 00:24:15 -> G 00:24:20; 'Councillor Siemens?' 00:35:58 -> G 00:36:06 (minutes R24-239 J. Siemens moved); 'Councillor Siemens.' 00:46:02 -> G 'Motion to approve.' (minutes R24-241 J. Siemens moved); 'Councillor Siemens.' 00:51:44 -> G motion (minutes R24-242); chair 'Thank you, Councillor Siemens.' 00:48:00",
+   "notes": "'Okay.' at the end of 00:52:01 is split to the chair."
+  },
+  {
+   "label": "H",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "high",
+   "evidence": "C 00:37:40 'I will defer to Adam Thiessen, the city's Corporate Services Manager' -> H 00:37:46 animal control by-law summary; chair 'Thank you very much, Mr. Thiessen.' 00:46:02; C 00:50:46 'defer this one to Mr. Thiessen' -> H 00:50:51; minutes item 2 lists Adam Thiessen, Manager, Corporate Services",
+   "notes": "00:37:46 contains 'Thank you, Your Worship. Thank you, Brian. Thank you, Your Worship.' which is absent from the original transcript and the YouTube captions (likely a transcription hallucination); see review."
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:36:26",
+   "label": "A",
+   "text": "it.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "last word of Siemens' sentence at 00:36:06 ('vote in favour of ... it.'); the original transcript ends G's turn with 'it.'"
+  },
+  {
+   "time": "00:35:17",
+   "label": "A",
+   "text": "Nothing further.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "reply to the chair's 'Councillor Siemens, anything further?' (Siemens seconded R24-238); YouTube captions hear 'no' here; pitch 144 Hz differs from the chair's surrounding speech"
+  },
+  {
+   "time": "00:52:01",
+   "label": "G",
+   "text": "Okay.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Deputy Mayor",
+   "confidence": "medium",
+   "reason": "chair's acknowledgement of Siemens' motion before asking for a seconder; the chair habitually says 'Okay.' at this point"
+  }
+ ],
+ "summary": "Clean diarization: one letter per person, all eight agree with AssemblyAI and (by timestamp) with the existing map, whose merged Gaudet/Susan Penner letter is now split into D and E. Penners separated by chair's full names, minutes movers and pitch. Several stray 'Thank you.'/'Okay.'/'Yes.' fragments inside long turns appear to be transcription artifacts; no members of the public spoke.",
+ "transcript": "transcripts/2024/2024-12-03.txt"
+}

@@ -1,0 +1,113 @@
+{
+ "meeting": "2023-04-18",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "'I'd like to call this meeting to order' 00:00:07 (minutes item 2: Mayor Earl Funk called the meeting to order); every hand-off, call for motions and call for the question; addressed 'Mr. Mayor' at 00:12:49 and 00:14:04. Pitch 133-155 Hz throughout.",
+   "notes": "'Thank you, Mr. Mayor.' at the end of 00:00:07 is Siemens (split). 'Yep.' inside 00:21:06 is council (split). 'Thank you. Thank you, Your Worship.' inside 00:16:47 is not in the v1 transcript (which reads 'as she had mentioned') and is left with the mayor; see review."
+  },
+  {
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair hands the opening to 'Councillor Jake Siemens' 00:00:07 and C gives the Centennial Arena history 00:00:19 (minutes item 3: Councillor Jac Siemens opened the meeting); mayor replies 'Thank you, Councillor Siemens, for that story' 00:10:59; self-reference 'Jake Siemens was there as a 10-year-old'; 00:19:37 T.G. Smith speech follows the chair's 'as Councillor Siemens has alluded to in his opening'; 00:18:31 'No, nothing further.' after he moved business licences (R23-076 J. Siemens). Pitch 102-119 Hz on long turns.",
+   "notes": "00:14:56 'Nothing further.' (140 Hz, 1 s) after the sweeper debate could be Siemens as seconder or Zwaagstra as mover; left with C."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this file?' 00:12:17, D opens 'This is a recommendation from administration' 00:12:49; minutes list City Manager Troy Warkentin present.",
+   "notes": "Mayor's reply 'Thank you, Mr. Willems' 00:14:00 is a mis-transcription (v1: 'Mr. Lortine')."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'Councillor Zwaagstra.' 00:14:00, E 'I'll make the motion to approve' 00:14:04; 'Go ahead, Councillor Zwaagstra.' 00:14:06 followed by E 00:14:11; minutes R23-073 mover M. Zwaagstra. Pitch 97 Hz."
+  },
+  {
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'Councillor Penner, ... Go ahead, Councillor Penner.' 00:15:29/00:15:41 followed by F's building-permit remarks 00:15:44; minutes R23-075 mover S. Penner; mayor 'agree with Councillor Penner ... as she' 00:16:47; pitch 180 Hz (woman), ruling out Damian Penner.",
+   "notes": "00:15:39 'motion to approve,' may be the chair's words (v1 transcript gives it to the mayor); see review."
+  },
+  {
+   "label": "A",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Substantive turn 00:16:27 (Loewen Autobody remark) follows the chair's 'second by Councillor Hiebert' and 'Anything further?'; minutes R23-075 seconder J. Hiebert; 'No comments.' 00:12:16 after the minutes motion (R23-072 mover J. Hiebert). Pitch 112 Hz on 00:16:27 matches Jake Hiebert's 107-117 Hz in other meetings, not Bill Hiebert (127-160 Hz). AssemblyAI agrees.",
+   "notes": "Damian Penner has a similar pitch and is not excluded. 'No comments.' at 00:11:50 and 00:15:28 follow motions the minutes give to B. Hiebert (overridden low). Pre-meeting chatter 00:00:00 overridden to Unclear."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:00:00",
+   "label": "A",
+   "person": "Unclear",
+   "role": "unknown",
+   "title": "",
+   "confidence": "low",
+   "reason": "pre-meeting chatter before the call to order; the v1 transcript splits it between two voices ('She didn't.' on the mayor's letter)"
+  },
+  {
+   "time": "00:11:50",
+   "label": "A",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'No comments.' answers 'Any comments?' after the agenda motion, which minutes R23-071 give to B. Hiebert (the mover answers elsewhere in this meeting); 1-second turn, pitch 141 Hz does not separate the Hieberts"
+  },
+  {
+   "time": "00:15:28",
+   "label": "A",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'No comments.' after the accounts motion, which minutes R23-074 give to B. Hiebert; pitch 163 Hz is above A's 112 Hz long turn and near Bill Hiebert's range"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:00:07",
+   "label": "B",
+   "text": "Thank you, Mr. Mayor.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Siemens accepting the opening; the v1 transcript and YouTube captions start his turn with these words at 00:00:16"
+  },
+  {
+   "time": "00:21:06",
+   "label": "B",
+   "text": "Yep.",
+   "person": "Several councillors",
+   "role": "group",
+   "title": "",
+   "confidence": "medium",
+   "reason": "council answering the chair's 'And so we have consensus?'"
+  }
+ ],
+ "summary": "Short, clean meeting (21 min). Five letters are high-confidence; A (Jake Hiebert, medium) carries mover/seconder interjections that may include Bill Hiebert, overridden low on two 'No comments.' turns. Historical names in the arena history are kept as public history; T.G. Smith's son is withheld.",
+ "transcript": "transcripts/2023/2023-04-18.txt"
+}

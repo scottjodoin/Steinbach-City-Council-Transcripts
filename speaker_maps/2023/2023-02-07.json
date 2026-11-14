@@ -1,0 +1,168 @@
+{
+ "meeting": "2023-02-07",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "D",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order 00:00:28 and gives the opening to Councillor Bill Hiebert; opens/closes the public hearing on By-Law 2223 (minutes item 7: called to order by Mayor Earl Funk); names every mover/seconder and calls every vote; adjourns 00:20:31",
+   "notes": "'Thank you, Your Worship.' inside the 00:20:31 turn is not in the YouTube captions (likely spurious). First 'Take it as information.' at 00:20:31 split off (v1 diarization gave it to a councillor). 'Yes. Correct.' in the 00:16:26 turn split to the City Manager."
+  },
+  {
+   "label": "A",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 00:00:28 'give the opening to Councillor Bill Hiebert' -> A 00:00:36 delivers the opening (minutes item 3: Councillor Bill Hiebert opened the meeting); business licences moved by B. Hiebert (R23-030), 'Go ahead, Councillor Hiebert' -> A 00:18:14 'Just move to approve'. Pitch 157 Hz (opening) matches Bill Hiebert's ~160 Hz reference, distinct from G (Jake Hiebert, ~110 Hz).",
+   "notes": "Pre-meeting banter turns 00:00:00, 00:00:08, 00:00:12 overridden to Unclear."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "building permits R23-029 seconded by D. Penner: 'Anything further, Councillor Penner?' -> B 00:16:14 'We're off to a record start'; excavator licences R23-031 seconded by D. Penner: 'Anything further, Councillor Penner?' -> B 00:19:30; second reading R23-027 seconded by D. Penner -> B 00:14:41 'Nothing further to add.' right after the mover's 'No further comments.'. Pitch 128-148 Hz, a man's voice (not Susan Penner, 189-193 Hz here).",
+   "notes": "B 00:12:09 'Thank you, Mr. Mayor. In response to this $5 million borrowing' is the start of Jake Hiebert's speech (overridden). B 00:00:03 pre-meeting banter overridden to Unclear. B 00:05:11 'No comments.' lowered (v1 diarization put it with another councillor)."
+  },
+  {
+   "label": "C",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "building permits moved by S. Penner (R23-029): 'Councillor Penner, you'd like to make the motion?' -> C 00:15:32 'Motion to approve.' then C 00:15:36 speech; first reading seconded by S. Penner (R23-026): 'Anything further, Councillor Penner?' -> C 00:11:59; business licences seconded by S. Penner (R23-030) -> C 00:18:28. Pitch 189-193 Hz (woman's voice, matches Susan Penner reference).",
+   "notes": "Pre-meeting banter 00:00:10 and 00:00:15 overridden to Unclear. C 00:16:25 'Nothing further.' answers 'Anything in closing?' to the mover (S. Penner) - kept."
+  },
+  {
+   "label": "E",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' -> E 00:06:32 staff report on By-Law 2223 (minutes 7.1: Troy Warkentin, City Manager, introduced By-Law 2223); chair 'Thank you, Mr. Warkentin.' 00:08:09; pitch 104 Hz.",
+   "notes": "E 00:16:20 'What else are we building?' overridden to Unclear (old diarization put it with Zwaagstra; pitch 167 Hz fits neither man's turns tonight)."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra?' -> F 00:08:43 moves first reading (minutes R23-026: M. Zwaagstra mover); 'Go ahead, Councillor Zwaagstra' -> F 00:08:53; 'Thank you, Councillor Zwaagstra' 00:11:55; excavator licences 'Councillor Zwaagstra.' -> F 00:19:10 'Move to approve' (R23-031 M. Zwaagstra mover); F 00:20:26 as seconder of lottery licences (R23-032). Pitch 103-112 Hz (reference 104).",
+   "notes": "'Thank you, Your Worship. Thank you. Thank you, Your Worship.' inside the 00:08:53 turn is not in the YouTube captions (likely spurious)."
+  },
+  {
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "lottery licences moved by J. Hiebert (R23-032): 'Go ahead, Councillor Hiebert.' -> G 00:20:12; accounts payable moved by J. Hiebert (R23-028) -> G 00:15:16 'Just paying our bills'; second reading moved by J. Hiebert (R23-027) -> G 00:14:39 'No further comments.'; 'Councillor Hiebert.' -> 00:12:09/00:12:14 speech. Pitch ~110 Hz on all these turns, distinct from A (Bill Hiebert, ~157 Hz)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:00:00",
+   "label": "A",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "pre-meeting off-mic banter; v1 and current diarization split these lines differently and pitch is unreadable"
+  },
+  {
+   "time": "00:00:03",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "pre-meeting off-mic banter; v1 diarization joined this to the previous line"
+  },
+  {
+   "time": "00:00:08",
+   "label": "A",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "pre-meeting off-mic banter; v1 diarization gave it to a different cluster"
+  },
+  {
+   "time": "00:00:10",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "pre-meeting off-mic banter; v1 diarization gave 'Touche' to the mayor's cluster"
+  },
+  {
+   "time": "00:00:12",
+   "label": "A",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "pre-meeting off-mic banter about the coming book review; speaker not identifiable"
+  },
+  {
+   "time": "00:00:15",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "pre-meeting off-mic banter; v1 diarization gave 'Nice.' to a different cluster"
+  },
+  {
+   "time": "00:05:11",
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "short 'No comments.' interjection; v1 diarization put it with Jake Hiebert's cluster, too short for pitch"
+  },
+  {
+   "time": "00:12:09",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "first words of the speech that G continues mid-sentence at 00:12:14 ('this $5 million borrowing / loan or debt authorization'); v1 transcript has it as one turn; pitch 120 Hz like G (~110), not Bill Hiebert (~157)"
+  },
+  {
+   "time": "00:16:20",
+   "label": "E",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "quip 'What else are we building?'; current diarization says City Manager, v1 said Zwaagstra; pitch 167 Hz fits neither (104/108 Hz tonight)"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:16:26",
+   "label": "D",
+   "text": "Yes. Correct.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "answer to the chair's question 'Mr. Warkentin, does... the one motion cover both...?'; v1 diarization gave 'Correct.' its own turn on another voice; captions 'correct yes okay okay'"
+  },
+  {
+   "time": "00:20:31",
+   "label": "D",
+   "text": "Take it as information.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "a councillor's answer to 'how'd you like to proceed?' that the chair then repeats; v1 diarization gave the first copy to a councillor's cluster"
+  }
+ ],
+ "summary": "Clean, short meeting (Siemens absent); all seven letters map one-to-one to the minutes' attendees and agree with AssemblyAI. Fixes: B 00:12:09 is the start of Jake Hiebert's speech; pre-meeting banter and the 00:16:20 quip are left unidentified; no members of the public spoke.",
+ "transcript": "transcripts/2023/2023-02-07.txt"
+}

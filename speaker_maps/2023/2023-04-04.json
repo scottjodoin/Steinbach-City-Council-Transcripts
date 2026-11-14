@@ -1,0 +1,106 @@
+{
+ "meeting": "2023-04-04",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order (00:00:00), hands the opening to Councillor Susan Penner, names movers/seconders, hands the floor to every speaker and calls every vote; minutes item 2 Mayor Earl Funk called the meeting to order",
+   "notes": "00:14:50 and the closing correspondence run contain short interjections ('No.', 'Motion.', 'Take his information.') that may be councillors' words inside the chair's turn; not split."
+  },
+  {
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'I'd like to give the opening to Councillor Susan Penner' (00:00:00) and B delivers it (00:01:26); minutes item 3 Councillor Susan Penner opened the meeting; chair 'Thank you, Councillor Penner' (00:02:55); pitch 200 Hz (female)",
+   "notes": "00:13:16 'Nothing further.' measures 141 Hz (not Susan's voice), overridden to Unclear."
+  },
+  {
+   "label": "C",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Penner' -> 00:08:25 substantive speech (120 Hz, male, so not Susan Penner); chair 'Councillor Pinner?' -> 00:12:17 'Motion to approve.', 'Second by Councillor Penner. Go ahead, Councillor.' -> 00:12:22 mover's speech (118 Hz); minutes R23-067 mover D. Penner, seconder S. Penner; chair later 'Councillor Penner, you brought up bacon and eggs' (00:13:21)",
+   "notes": "00:07:31 and 00:07:40 are Jac Siemens (overrides). Short 'No comments.'/'Nothing further.' turns (00:03:24, 00:03:44, 00:13:20, 00:14:30, 00:14:50) are unverified; 00:03:24/00:03:44 measure 139-148 Hz, between Damian Penner and Bill Hiebert."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' -> 00:04:10 'I will defer this file to the city's corporate services manager, Mr. Adam Thiessen'; 'Mr. Warkentin, is there anything you would like to add' -> 00:10:20 'administration does have comments'; 'Mr. Warkentin, is there anything you'd like to add?' -> 00:14:07 'Nothing further.'"
+  },
+  {
+   "label": "E",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager, Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager defers to 'Mr. Adam Thiessen' -> 00:04:19 RCMP Musical Ride report; chair 'Thank you, Mr. Thiessen' (00:06:51, 00:12:03); Councillor D. Penner thanks Mr. Thiessen for the legwork (00:08:25); City Manager hands to Mr. Thiessen -> 00:10:43 expense policy changes; minutes item 2 lists Manager, Corporate Services, Adam Thiessen"
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'Councillor Zwaagstra.' -> 00:06:56 speech, 00:07:33 'We're making a motion', 00:07:43 'the motion is that the city not proceed' (minutes R23-066 mover M. Zwaagstra); chair 'Councillor Zwaagstra?' -> 00:14:20 'I'll move to approve' and 00:14:23 speech (minutes R23-068 mover M. Zwaagstra); pitch 88-94 Hz",
+   "notes": "00:08:53 'No.' measures 176 Hz, overridden to Unclear."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "chair 'go ahead, Councillor Simmons' (00:07:35, transcription of Siemens) -> 00:07:45 'I also agree with the recommendation and with the new motion' (minutes R23-066 seconder J. Siemens); recalls hosting the Musical Ride in the early 1990s (long-serving); pitch 102 Hz, matches 00:07:40"
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:07:31",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair calls 'Councillor Simmons?' (Siemens) immediately before; minutes R23-066 seconder J. Siemens; pitch on this 1-second turn (176 Hz) is unreliable and does not match"
+  },
+  {
+   "time": "00:07:40",
+   "label": "C",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Then go ahead, Councillor Simmons' immediately before; pitch 97 Hz matches Siemens's 00:07:45 speech (102 Hz), not Damian Penner (118-120 Hz)"
+  },
+  {
+   "time": "00:08:53",
+   "label": "F",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "one-word 'No.' after 'Anything in closing?'; pitch 176 Hz, not Zwaagstra (88-94 Hz)"
+  },
+  {
+   "time": "00:13:16",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Nothing further.' measures 141 Hz, not Susan Penner (200 Hz); possibly Damian Penner closing as mover"
+  }
+ ],
+ "turn_splits": [],
+ "summary": "Clean 17-minute meeting; every letter matches AssemblyAI. Letter C (Damian Penner) absorbed Jac Siemens's two short turns at 00:07:31/00:07:40. Short 'No comments'/'Nothing further' interjections are unverified. Bill Hiebert is absent from the minutes attendance line but moves/seconds R23-065, R23-070 and adjournment; he has no identified speaking turn. The mayor's wife, named in passing, is withheld.",
+ "transcript": "transcripts/2023/2023-04-04.txt"
+}

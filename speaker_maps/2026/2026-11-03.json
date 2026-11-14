@@ -1,0 +1,188 @@
+{
+ "meeting": "2026-11-03",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Oath of office self-identification 'I, Earl Funk, do solemnly declare' (00:10:48) after C asks 'Mayor Funk, if I could ask you to come down to the floor' (00:09:31); runs the agenda, makes the mayor's appointments (00:19:15), calls motions and votes (00:28:05, 00:29:57); addressed as 'Mr. Mayor' by C (00:29:12).",
+   "notes": "00:19:15 opens with 'By the virtue of the Canada Evidence Act.' which is probably the tail of Jake Hiebert's oath (or the mayor echoing it); the aside 'I'm not required to' in the same turn (city manager's voluntary declaration) is probably the City Manager interjecting. The calls to the next oath-taker are on other letters: 'Dr. Banner?' (Councillor Penner?) opens E 00:13:13, 'Mr. Councillor Greg Carlos' ends E 00:13:13, 'Councillor Ron Falk.' ends G 00:15:59."
+  },
+  {
+   "label": "B",
+   "person": "Reuben Singh",
+   "role": "delegation",
+   "title": "Opening speaker",
+   "organization": "Youth for Christ (Steinbach)",
+   "confidence": "high",
+   "evidence": "Chair calls 'Reuben Singh to the podium to do our opening' (00:00:00); B self-identifies 'My name is Reuben Singh. I work with Youth for Christ here in town' (00:00:30) and gives the opening reflection and prayer; chair thanks 'Reuben' (00:08:12) and B replies (00:08:53).",
+   "notes": "Invited guest giving the opening, not a resident speaking to an item. Chair also notes he serves on the RCMP Advisory Board."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Role behaviour: administers the oaths of office ('I will join you in the administration of the oaths of office', 00:09:31), as the City Manager did at the 2018-11-06 inaugural meeting; gives procedural advice ('point of order, Mr. Mayor ... recommendation would be to have a council resolution to ratify all of the appointments', 00:29:12). Never addressed by name. AssemblyAI agrees.",
+   "notes": "City Clerk Amanda Dubois is the other plausible staff speaker (the chair mentions her in the third person at 00:19:15); no existing 2023-2026 map identifies her speaking. Check against the video or minutes when available.",
+   "human_check": "2026-11-14 reviewer listened: City Manager confirmed (00:09:31, 00:29:12)"
+  },
+  {
+   "label": "D",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Oath self-identification 'I, Susan Penner, do solemnly declare' (00:12:17); D's 'Get it straight.' (00:29:36) follows immediately on the chair correcting himself to 'Deputy Mayor Susan Penner'. AssemblyAI agrees.",
+   "notes": "Appointed Deputy Mayor at this meeting (00:19:15) but does not chair. 00:29:54 'Nothing further.' is plausible for her but unconfirmed."
+  },
+  {
+   "label": "E",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair's call 'Dr. Banner?' (= Councillor Penner?) followed by 'I, Damian Penner, do solemnly declare' (00:13:13). AssemblyAI agrees.",
+   "notes": "The 00:13:13 turn starts with the chair's call ('Dr. Banner?') and ends with the chair's 'Thank you, Mr. Councillor Greg Carlos.' Only the oath text is his."
+  },
+  {
+   "label": "F",
+   "person": "Greg Carlos",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair calls 'Councillor Greg Carlos' (end of 00:13:13) and F's next turn is 'I, Greg Carlos, do solemnly declare' (00:14:21). AssemblyAI agrees.",
+   "notes": "MERGED: F 00:18:23 is Jake Hiebert's oath ('I, Jake Gebert, do solemnly declare'); overridden."
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Oath self-identification 'I, Bill Hebert, do solemnly declare' (00:15:59); the oath order and AssemblyAI agree.",
+   "notes": "The 00:15:59 turn ends with the chair's call 'Councillor Ron Falk.'"
+  },
+  {
+   "label": "H",
+   "person": "Ron Falk",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair calls 'Councillor Ron Falk.' (end of 00:15:59) and H's next turn is 'I, Ron Falk, do solemnly declare' (00:16:57). AssemblyAI agrees.",
+   "notes": "MERGED with Jake Hiebert: 00:18:59 is the end of Jake Hiebert's oath (overridden) and 00:28:04 'Thank you very much.' follows the chair appointing Jake Hiebert to the Eastman committee (overridden, low). 00:29:49 'I appreciate your wisdom and the appointments that you've made' is left on Ron Falk but could also be Jake Hiebert."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:18:23",
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Oath self-identification 'I, Jake Gebert (= Hiebert), do solemnly declare'; Greg Carlos already took his oath on F at 00:14:21; Jake Hiebert is the only member not yet sworn."
+  },
+  {
+   "time": "00:18:59",
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Continues the oath begun at 00:18:23 mid-declaration ('That I make this solemn declaration ... Canada Evidence Act'); Ron Falk already finished his oath on H at 00:16:57."
+  },
+  {
+   "time": "00:28:04",
+   "label": "H",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "reviewer confirmed Jake Hiebert",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:29:49",
+   "label": "H",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer: Jake Hiebert, not Ron Falk",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor"
+  },
+  {
+   "time": "00:29:54",
+   "label": "D",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer confirmed"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:13:13",
+   "label": "E",
+   "text": "Dr. Banner?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "Garbled 'Councillor Penner?': the chair calling the next councillor to the oath table, before Damian Penner's oath begins."
+  },
+  {
+   "time": "00:13:13",
+   "label": "E",
+   "text": "Thank you, Mr. Councillor Greg Carlos.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "reviewer: 'Thank you, Mr.' is the mayor too, calling Greg Carlos up",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:15:59",
+   "label": "G",
+   "text": "Councillor Ron Falk.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The chair calling the next councillor to take the oath; Ron Falk's oath follows at 00:16:57."
+  },
+  {
+   "time": "00:19:15",
+   "label": "A",
+   "text": "By the virtue of the Canada Evidence Act.",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer: the last words of Jake Hiebert's oath",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor"
+  },
+  {
+   "time": "00:19:15",
+   "label": "A",
+   "text": "I'm not required to.",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer: the City Manager interjecting about his voluntary declaration",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager"
+  }
+ ],
+ "summary": "Short inaugural meeting (oaths, appointments, two banking resolutions); every councillor self-identifies in the oath of office, so the councillor letters are solid. Jake Hiebert has no letter of his own (his oath is split across F and H; overridden). The City Manager attribution for C rests on role behaviour (oath administration, point of order) and AssemblyAI, not on a name; the H turns at 00:28:04 and 00:29:49 could be Jake Hiebert or Ron Falk. Minutes were not available to check movers.",
+ "transcript": "transcripts/2026/2026-11-03.txt"
+}

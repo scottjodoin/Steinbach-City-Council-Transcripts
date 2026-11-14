@@ -1,0 +1,310 @@
+{
+ "meeting": "2025-12-16",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order and gives the Christmas opening (00:00:03); opens/closes every public hearing, asks 'Mr. Warkentin, would you please introduce this file?' (00:05:12, 00:08:50, 00:20:11), names movers/seconders and calls every vote; addressed as 'Mr. Mayor' throughout; minutes item 2/7 (Mayor Earl Funk chaired).",
+   "notes": "Some A turns carry others' short lines at boundaries: 'Sure.'/'That's correct, yes.' (applicant, 00:21:38/00:22:12), 'Correct.' (City Manager, 00:31:18), 'Thank you, Mr.' (City Manager 00:55:09, Zwaagstra 00:57:30), 'So moved.' (00:59:58, 01:07:41) - split where clear. Unsplit: 'Move approval.' 00:07:38 and 00:57:30, 'Second.' 00:05:12/00:57:30/01:03:56, 'Yes, please.' 01:12:24 (councillors, voice not placed)."
+  },
+  {
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Anything further, Councillor Hiebert?' (00:12:29) to the 2nd-reading seconder of By-law 2268 (minutes R25-246 seconder B. Hiebert) -> B 00:12:34; chair 'Councillor Bill Hiebert, seconded by Councillor Jake Hiebert. Go ahead.' (01:09:34) -> B 01:09:39 (minutes R25-259 mover B. Hiebert); B 'No comments.' 00:05:11 as minutes mover (R25-243), 'No further comment' 00:59:52 as seconder V-2025-36 (R25-250), 'No comment.' 01:00:30 as accounts mover (R25-251), 'Again, just housekeeping.' 01:01:51 as minor-variance mover (R25-253). Pitch 143-155 Hz on council turns, consistent.",
+   "notes": "B also carries the applicant at 00:48:31, 00:48:48, 00:49:15 (pitch 124-128 Hz, content is the developer's) and the chair's 'All further comment?' 01:04:20 - overridden."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Every 'Mr. Warkentin, would you please introduce this file?' (00:05:12, 00:08:50, 00:20:11, 00:43:30, 01:01:57) is followed by C's file introduction; answers questions as city manager (00:30:54, 00:34:07, 00:37:09); minutes 7.1, 9.1, 9.2, 12.1, 12.4, 12.6 attribute these to Troy Warkentin, City Manager.",
+   "notes": "Stray 'Thank you, Your Worship.' / 'Thank you, Brian.' fragments inside C turns (00:09:33, 00:20:32, 00:34:07, 00:58:23-area, 01:04:40) may not be in the audio."
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra.' (01:02:55, 01:05:43) -> D 'Motion to approve.' and speech, minutes movers M. Zwaagstra (R25-254, R25-256); D moves the subdivision (00:08:23, minutes R25-245 M. Zwaagstra) and V-2025-36 (00:58:13, R25-250); B says 'I think Councillor Zwaagstra said it all' right after D (00:59:52); chair 'seconded by Councillor, um, Michael Zwaagstra' (01:09:50) then D speaks as seconder (01:10:42, R25-260). Pitch 95-103 Hz.",
+   "notes": "D 00:08:26 ends with the chair's 'Anything further?' (split)."
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penner.' / 'Go ahead, Councillor Penner.' (00:11:14-00:11:58) -> E motion and speech, minutes R25-246 mover S. Penner; same at 00:52:16-00:52:20 (R25-249 mover S. Penner); 'Councillor Susan Penner, seconded by Councillor Jake Hiebert' (01:07:41) -> E 01:08:17 (R25-258); chair 'like Councillor Susan Penner said' (01:06:38) refers to E 01:04:08; Damian Penner excused (R25-244). Pitch 172-182 Hz (female voice).",
+   "notes": "E 00:17:08 'I made the motion. You made the motion already. Yeah.' may mix two voices."
+  },
+  {
+   "label": "F",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "F's short council turns match minutes J. Hiebert roles: 'Motion to approve.' 00:20:05 for 3rd reading of By-law 2268 (R25-247 mover J. Hiebert); 'Nothing further, thank you.' as seconder 01:01:17 (R25-252), 01:01:56 (R25-253), 01:03:27 (R25-254); F 01:11:36 'Thank you, Mr.' runs straight into G's 'Mayor. As you indicated...' after the chair names 'Councillor Hiebert' (R25-261 mover J. Hiebert), same pitch (112 Hz) as G 01:11:37. Chair never names him directly at F's turns.",
+   "notes": "Merged letter: also carries Resident 1 at 00:26:57, 00:29:03, 00:35:16 (overridden). Jake Hiebert is split across F and G."
+  },
+  {
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Hiebert.' / 'go ahead, Councillor Hiebert' (00:40:19-00:40:20) -> G motion and speech, minutes R25-248 mover J. Hiebert; 'Councillor Hiebert, seconded by Councillor, um, Michael Zwaagstra' (01:09:50) -> G 01:10:33 (R25-260 mover J. Hiebert); 'Councillor Hiebert, seconded by Councillor Penner' (01:10:52) -> G 01:11:37 (R25-261 mover J. Hiebert); G 'No further.'/'Nothing further.' as seconder of R25-258 (01:08:33) and R25-259 (01:09:48, chair named 'seconded by Councillor Jake Hiebert'). Bill Hiebert is separately on B.",
+   "notes": "Merged letter: also carries the applicant (Waldo Neustaedter) at 00:21:53, 00:22:17, 00:29:00, 00:47:56, 00:48:25, 00:49:26 (overridden). G 01:12:21 opens with the chair's 'Anything further?' (split)."
+  },
+  {
+   "label": "H",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with name and First Street address at the CU-2025-05 hearing after the chair asks for anyone else (00:38:06) and again at the V-2025-35 hearing (00:47:18); minutes 12.7 and 15.3 record Resident 2's parking/stormwater and sight-line questions; chair addresses Resident 2 by name (00:49:57); H 00:48:23 and 00:51:40 continue the same exchange.",
+   "notes": "Private resident; name withheld in public copy."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:26:57",
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with name and address (185 First Street) when the chair asks for the public at CU-2025-05; minutes 12.3"
+  },
+  {
+   "time": "00:29:03",
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continues Resident 1's sewer/water capacity questions after the applicant answers '31'; minutes 12.3"
+  },
+  {
+   "time": "00:35:16",
+   "label": "F",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "follow-up asking for William Avenue to be one-way; minutes 12.5 (Resident 1 returned to the podium)"
+  },
+  {
+   "time": "00:21:53",
+   "label": "G",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "self-identifies 'My name is Waldo Neusteder, 32 Brandt Street' after the chair asks the applicant to state name and address; minutes 12.2"
+  },
+  {
+   "time": "00:22:17",
+   "label": "G",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "applicant's presentation of the conditional use and two variances; minutes 12.2"
+  },
+  {
+   "time": "00:29:00",
+   "label": "G",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "answers Resident 1's 'Mr. Nystedt, how many units are you adding?' with '19 and 12 is 31'"
+  },
+  {
+   "time": "00:47:56",
+   "label": "G",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "explains the sight-line photo taken from a zoom boom; minutes 15.4 attributes this to the applicant"
+  },
+  {
+   "time": "00:48:25",
+   "label": "G",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "applicant continuing the exchange with Resident 2 about which side Resident 2 lives on"
+  },
+  {
+   "time": "00:49:26",
+   "label": "G",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "'I hired a surveyor ... I'm a tree guy' - the applicant; minutes 15.4 (worked with a surveyor to keep the pine trees)"
+  },
+  {
+   "time": "00:48:31",
+   "label": "B",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "medium",
+   "reason": "'I should have taken that picture too' - the applicant who took the photos; pitch 128 Hz vs Bill Hiebert 143-155 Hz this meeting. Opening words may be Resident 2 (see review)."
+  },
+  {
+   "time": "00:48:48",
+   "label": "B",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "'we thought this was the most important one to kind of meet their satisfaction' - the applicant's photo choice; pitch 124 Hz, not Bill Hiebert"
+  },
+  {
+   "time": "00:49:15",
+   "label": "B",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "high",
+   "reason": "replies 'That's correct' to the chair's 'Just a question for you, Mr. Neusteder' and mentions his presentation; pitch 124 Hz"
+  },
+  {
+   "time": "01:04:20",
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "'All further comment?' is the chair's procedural call ('Any further comment?') immediately before he calls the question"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:08:26",
+   "label": "D",
+   "text": "Anything further?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "chair's prompt to the seconder; E (seconder S. Penner) answers 'Nothing further.'"
+  },
+  {
+   "time": "00:21:38",
+   "label": "A",
+   "text": "Sure.",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "medium",
+   "reason": "applicant's reply to 'Do you wish to speak?'"
+  },
+  {
+   "time": "00:22:12",
+   "label": "A",
+   "text": "That's correct, yes.",
+   "person": "Waldo Neustaedter",
+   "role": "delegation",
+   "title": "Applicant (developer)",
+   "organization": "Neustaedter Holdings Inc.",
+   "confidence": "medium",
+   "reason": "applicant confirming the chair's 'All the properties are held by—'"
+  },
+  {
+   "time": "00:22:17",
+   "label": "G",
+   "text": "Sure.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "chair's reply to the applicant's 'if that's okay with you'"
+  },
+  {
+   "time": "00:31:18",
+   "label": "A",
+   "text": "Correct.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "City Manager confirming the chair's description of the First Street upgrade"
+  },
+  {
+   "time": "00:55:09",
+   "label": "A",
+   "text": "Thank you, Mr.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "start of the City Manager's 'Thank you, Mr. Mayor' that continues on C 00:56:26 'Mayor, and for members of council'"
+  },
+  {
+   "time": "00:57:30",
+   "label": "A",
+   "text": "Thank you, Mr.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of Zwaagstra's 'Thank you, Mr. Mayor' that continues on D 00:58:13 'Mayor. I'll make a motion'",
+   "occurrence": 2
+  },
+  {
+   "time": "00:59:58",
+   "label": "A",
+   "text": "So moved.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "accounts payable mover per minutes R25-251 (B. Hiebert); chair then names the seconder; B answers 'No comment.' as mover"
+  },
+  {
+   "time": "01:07:41",
+   "label": "A",
+   "text": "So moved.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair immediately names 'Councillor Susan Penner' as mover; minutes R25-258 mover S. Penner"
+  },
+  {
+   "time": "01:12:21",
+   "label": "G",
+   "text": "Anything further?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "chair's procedural prompt at the start of G's turn"
+  }
+ ],
+ "summary": "Mostly clean: A, C, D, E map one-to-one. G and F both carry Jake Hiebert but are merged with the applicant (G, B) and Resident 1 (F); all such turns overridden by self-identification, minutes and pitch. Damian Penner and Jac Siemens excused. Check 00:48:31 and F's short motion lines by ear.",
+ "transcript": "transcripts/2025/2025-12-16.txt"
+}

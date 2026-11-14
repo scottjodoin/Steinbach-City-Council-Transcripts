@@ -1,0 +1,179 @@
+{
+ "meeting": "2026-10-20",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:00:00 gives the farewell opening; 00:04:17 chair: 'Thank you, Councillor Hebert'; in the opening he lists the three councillors elected in 2018 as 'Councillor Damian Penner, ... Bill Hebert, and yours truly', so he is the other Hiebert, Jake. 00:11:25 'Go ahead, Councillor Huber' -> A raises concerns about the variance; 00:16:53 chair: 'as Councillor Hebert said, $93 million' repeats A's 00:16:31 comment; 00:29:40 A objects to 288 Henry again, matching the applicant's 00:07:10 remark that 'Jake voted against me at our last meeting'. Bill Hiebert is on a different letter (F).",
+   "notes": "00:24:39 chair cue transcribed as 'Councillor Niman' but the turn is A's voice and style."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Chairs throughout: adopts agenda, opens/closes the 00:05:40 public hearing, calls every vote, asks 'Mr. Warkentin, could you introduce this file?'; Councillor Jake Hiebert's opening calls 'Our Mayor Earl Funk'; 00:18:02 'I as mayor appoint 3 people' to the Board of Revision.",
+   "notes": "Turn-boundary slips inside B's long turns: 00:08:49 contains 'Thank you, Your Worship.' and 00:33:57 ends with 'Thank you, Your Worship.' (probably Troy Warkentin's lead-in); 00:35:37 ends 'Thank you, Mr.' which is Michael Zwaagstra's start (G 00:35:41 'Mayor. I'll make a motion'). 00:01:34 'Uh-oh.' during the opening is unplaced."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Each C turn follows the chair handing him the floor by name ('Mr. Worke Dean, could you please introduce this file?' 00:05:40; 'Mr. Warkstein' 00:19:50; 'Mr. Workneen' 00:27:04; 'Mr. Worthington' 00:28:31; 'Mr. Warting' 00:30:48; 'Mr. Workman' 00:34:46; 'Mr. Workneen' 00:41:49); chair thanks 'Mr. Worthington' 00:07:04; 00:19:50 he defers to 'Mr. Thiessen, the city's corporate services director'. Package lists Troy Warkentin as City Manager."
+  },
+  {
+   "label": "D",
+   "person": "Nick Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": null,
+   "confidence": "high",
+   "evidence": "00:07:04 chair: 'Is the applicant here today? Do you wish to speak?'; 00:07:10 self-identifies 'Nick Thiessen, 50 Granite Park Boulevard' and speaks for the developer ('we have struggled to get commercial tenants'); 00:08:49 chair: 'thank you very much, Mr. Nick Thiessen'.",
+   "notes": "Speaks for the development, so named as a delegation rather than numbered as a resident. Not the same person as staff member Adam Thiessen. Former title: Applicant representative"
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:09:38 chair: 'Councilor Susan Penner.' -> E 'Motion to approve' and speaks to it; E uses closing as mover at 00:12:30 and 00:25:36; 00:22:56 'Go ahead, Councillor Penner' -> E; chair 00:25:36: 'Councilor Pender did a great job introducing this'; 00:16:10 after 'Councillor Penner moves to approve ... Go ahead, Councillor Penner'. Damian Penner is not on this letter (see F override 00:29:05)."
+  },
+  {
+   "label": "F",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:32:17 chair 'Councillor Hebert?' -> F 'I'd like to approve'; 00:32:24 'Go ahead, Councillor Hebert' -> F speaks to the compactor, then F uses closing at 00:33:56; Jake Hiebert is letter A and speaks separately at 00:33:06, so this Hiebert is Bill. 00:29:34 F 'That was well said. I'll add no more' is the seconder after 'Second by Councillor Hebert'. 00:42:54 F retracts ('I take it back') right after the chair names 'Councilor Hebert' for the adjournment. AssemblyAI agrees.",
+   "notes": "Merged letter: also carries Adam Thiessen (00:19:56, 00:24:55) and Damian Penner (00:29:05), overridden below. Short F turns at 00:10:35 (seconder after 'Seconded by Councilor Bill Pinner'), 00:18:02, 00:37:55, 00:38:10 and 00:42:36 cannot be split between Bill Hiebert and Damian Penner from text alone and are left as Bill Hiebert.",
+   "human_check": "2026-11-14 reviewer listened: Bill Hiebert confirmed at 00:10:35, 00:18:02, 00:29:34, 00:32:28, 00:37:55, 00:38:10, 00:33:56, 00:42:54 (Bill's voice is raspier; Jake's is higher)"
+  },
+  {
+   "label": "G",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:27:22 chair 'Councillor Swaistrom?' -> G 'I'll make the motion for third reading'; 00:14:28 'Councilor Swaigstra. Motion.' -> G speaks to cancelling the meeting; 00:18:02 Siemens moved, 'seconded by Councillor Swaikstra' -> G at 00:19:17 'I agree with Councillor Siemens'; 00:36:39 chair 'Thank you, Mr.— Councilor Swager'; 00:42:57 'Councilor Swaigstra' moves to adjourn -> G 'I've never made the motion to adjourn in 20 years' (20-year councillor leaving council). The 00:29:05 speaker refers back to 'Councillor Zweigstra' on the previous file, which was G's 00:27:34 speech.",
+   "notes": "00:19:17 turn ends with 'Anything further, council?' which is the chair's words bleeding in."
+  },
+  {
+   "label": "H",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "evidence": "Single 'Okay.' at 00:15:15 after Zwaagstra's comment; no cue to who said it."
+  },
+  {
+   "label": "I",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:18:02 'Go ahead, Councillor Siemens' -> I on the Board of Revision; G then says 'I agree with Councillor Siemens'; 00:22:54 'Second by Councillor Siemens' -> I 'Yes, sir.'; 00:36:59 chair addresses 'Councilor Seaman' on the library board (Siemens sits on that board per package minutes) -> I moves the resolution; 00:38:53 chair 'apparently you're unemployed right now' -> I 'As of tonight' (leaving council).",
+   "notes": "00:15:24 'I can't.' is unclear but left on I."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:19:56",
+   "label": "F",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Director of Corporate Services",
+   "confidence": "high",
+   "reason": "00:19:50 City Manager: 'I'll defer to Mr. Thiessen, the city's corporate services director'; F then presents the overnight security report (package RFD 20260036 authored by Adam Thiessen); 00:22:42 chair: 'Thank you, Mr. Thiessen'; Susan Penner 00:22:57: 'As Adam Thiessen mentioned'."
+  },
+  {
+   "time": "00:24:55",
+   "label": "F",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Director of Corporate Services",
+   "confidence": "high",
+   "reason": "Jake Hiebert's 00:24:42 'question for administration' about Next Level's president; the answer 'Yes, that's correct' comes from administration, i.e. Adam Thiessen who presented the file."
+  },
+  {
+   "time": "00:29:05",
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "00:28:56 chair: 'Second by Councillor Hebert. Go ahead, Councillor Penner.' -> this mover's speech; Susan Penner is letter E, so this Penner is Damian. Next F turn 00:29:34 ('That was well said. I'll add no more') is the seconder Hiebert, so F carries two councillors here."
+  },
+  {
+   "time": "00:01:34",
+   "label": "B",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer could not tell who said 'Uh-oh.'"
+  },
+  {
+   "time": "00:15:24",
+   "label": "I",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer confirmed"
+  },
+  {
+   "time": "00:42:36",
+   "label": "F",
+   "person": "Several councillors",
+   "role": "group",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer: several councillors answering at once"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:33:57",
+   "label": "B",
+   "text": "Thank you, Your Worship.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "reviewer confirmed Troy Warkentin; the audio says 'Thank you, Mr. Mayor' (YouTube captions have it right), not 'Your Worship'",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:35:37",
+   "label": "B",
+   "text": "Thank you, Mr.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Turn boundary slip: the sentence continues on G at 00:35:41 ('Mayor. I'll make a motion to approve'), which is Zwaagstra moving the GRO application.",
+   "occurrence": 2
+  },
+  {
+   "time": "00:19:17",
+   "label": "G",
+   "text": "Anything further, council?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "The chair's stock prompt, cutting off Zwaagstra mid-sentence ('rather than'); B continues at 00:19:35 with 'Anything in closing?'."
+  }
+ ],
+ "summary": "Good-quality transcript; B (Funk), C (Warkentin), E (S. Penner), G (Zwaagstra), I (Siemens), A (Jake Hiebert) and D (applicant Nick Thiessen) are solid. Letter F merges Bill Hiebert with Adam Thiessen (two overrides, high) and Damian Penner (00:29:05, medium); Damian Penner has no letter of his own, so a reviewer with audio should check the short F turns at 00:10:35, 00:18:02, 00:37:55, 00:38:10 and 00:42:36, any of which could be Damian Penner rather than Bill Hiebert. H ('Okay.') is unidentified.",
+ "transcript": "transcripts/2026/2026-10-20.txt"
+}

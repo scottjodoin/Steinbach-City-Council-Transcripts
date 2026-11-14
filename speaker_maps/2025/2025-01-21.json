@@ -1,0 +1,138 @@
+{
+ "meeting": "2025-01-21",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "calls the meeting to order (minutes item 2: Mayor Earl Funk called the meeting to order), gives the opening to Councillor Jake Hiebert, names movers/seconders and calls every vote; addressed as 'Mr. Mayor' throughout",
+   "notes": "00:24:43 turn ends with the excavator mover's 'Thank you, Mr. Mayor. This is my favorite.' (split to Bill Hiebert) and contains 'Motion to approve. Okay. No comments.' (split to Jake Hiebert); 00:18:50 'Thank you, Your Worship.' not in the YouTube captions (dropped by the build)"
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:00:02 chair: 'give the opening to Councillor Jake Hiebert' -> B gives the opening (minutes item 3); 00:11:31 'City paying their bills' after chair names Councillor Hiebert as mover of accounts (minutes R25-013 J. Hiebert); 00:18:48 third-reading mover response (R25-016 J. Hiebert)",
+   "notes": "00:18:50 'Nothing further.' could be the seconder (D. Penner) - left on B"
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' 00:06:25/00:11:34 -> C reports; 00:14:16 C hands items C-E to 'Mr. Adam Thiessen'; 00:33:24 answers 'Mr. Warkentin, are you okay with bringing this to your staff' (minutes 6.1, item 20)",
+   "notes": "00:25:35 excavator remark is Bill Hiebert (override); 00:07:04 'Your Worship' heard as 'Mr. Mayor' in the YouTube captions"
+  },
+  {
+   "label": "D",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "moves subdivision 00:08:38 and building permits 00:26:12 (minutes R25-012 and R25-022 mover S. Penner; chair then names 'Councillor Penner' as seconder = D. Penner); chair: 'smaller lots, as Councillor Penner said' after D's smaller-lots remark; 'Councillor Penner has a question' 00:34:15; voice pitch 170-213 Hz (female)"
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra' -> E 'Make the motion for second reading' 00:21:10 and 00:23:41 (minutes R25-017, R25-019 mover M. Zwaagstra); 'Go ahead, Councillor Zwaagstra' 00:23:43 -> E; addressed as 'Deputy Mayor, Councillor Zwaagstra ... chair of the RCMP Advisory Board' and replies 00:32:19",
+   "notes": "00:25:40 'You're here.' interjection unplaced"
+  },
+  {
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penner' -> F 'Motion to approve' 00:12:43 for By-law 2260 (minutes R25-014 mover D. Penner); 'Anything further, Councilor Penner?' 00:24:28 -> F (R25-019 seconder D. Penner); chair 'as Councillor Damian Penner said' after F's $77M/$28M figures 00:27:09; pitch 119-132 Hz (male)",
+   "notes": "letter also carries Siemens's 00:16:12 motion and 00:18:28 'No, sir.' and Bill Hiebert's 00:18:01 seconder remarks (overrides); 00:37:44 'Dogs.' after adjournment has no clear voice, left on F"
+  },
+  {
+   "label": "G",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager, Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager 00:14:16: 'I'll now call on ... Mr. Adam Thiessen, for items C, D, and E' -> G reports; each G report followed by 'Thank you, Mr. Thiessen' (00:16:06, 00:21:04, 00:23:34); minutes attendance"
+  },
+  {
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Go ahead, Councillor Siemens' (transcribed 'Stevens') 00:16:13 -> H speech as mover of R25-015 (minutes J. Siemens); 'Anything further, Councillor Siemens?' 00:22:11 -> H 'No, sir.'; chair 'as Councillor Siemens had stated' about H's traffic-calming remark 00:31:11; third-reading mover response 00:22:32 (R25-018 J. Siemens)"
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:16:12",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair: 'how would you like to proceed? Councillor Siemens.' -> 'Motion to approve.'; minutes R25-015 mover J. Siemens; original v1 diarization put this line on Siemens's letter"
+  },
+  {
+   "time": "00:18:01",
+   "label": "F",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair named 'Councillor Hiebert' as seconder at 00:16:13 and asks 'Anything further, Councillor?'; minutes R25-015 seconder B. Hiebert (J. Hiebert not on this motion); speaker refers to 'Councillor Siemens' so not Siemens; pitch 139-151 Hz vs Damian Penner's 119-132 Hz on F's other turns"
+  },
+  {
+   "time": "00:18:28",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "answers the chair's 'Anything in closing?', which goes to the mover (R25-015 J. Siemens); same 'No, sir.' Siemens gives at 00:22:14; v1 diarization put it on Siemens's letter"
+  },
+  {
+   "time": "00:25:35",
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair names 'Councillor Hiebert' as mover of the excavator licences, then 'Go ahead'; minutes R25-021 mover B. Hiebert; chair then says 'we're going to vote on Bill's favorite, or Councillor Hiebert's favorite'; councillor's remark, not the City Manager"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:24:43",
+   "label": "A",
+   "text": "Thank you, Mr. Mayor. This is my favorite.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "follows the chair's 'Councillor Hiebert, seconded by Councillor Siemens. Go ahead.' for the excavator licences (R25-021 mover B. Hiebert); chair later calls it 'Bill's favorite'"
+  },
+  {
+   "time": "00:24:43",
+   "label": "A",
+   "text": "Motion to approve. Okay. No comments.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "follows 'Councillor Hiebert, seconded by Councillor Penner' for third reading of By-law 2259 (R25-020 mover J. Hiebert); original v1 diarization put these words on Jake Hiebert's letter; chair then repeats 'No comments.'"
+  }
+ ],
+ "summary": "Clean 8-letter diarization agreeing with AssemblyAI on every letter; Bill Hiebert has no letter of his own and is placed by override/split on the traffic by-law seconder remarks (medium) and the excavator licence remarks. F also carries two short Siemens lines; the 00:24:43 split lines in the chair's turn need an ear.",
+ "transcript": "transcripts/2025/2025-01-21.txt"
+}

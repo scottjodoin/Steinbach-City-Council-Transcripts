@@ -1,0 +1,105 @@
+{
+ "meeting": "2025-01-07",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order and gives the opening (minutes item 3: Mayor Earl Funk opened the meeting); runs every item, names movers/seconders, hands off ('Mr. Warkentin, could you please introduce this file?' 00:05:02 area); addressed as 'Mr. Mayor' in following turns; makes the board appointments at 00:26:22.",
+   "notes": "Turn 00:00:00 ends with 'Yes. Sorry', Warkentin's interruption (split). 00:04:25 contains 'Second.' (split to Zwaagstra) and 'So moved.' (split to Bill Hiebert). 'Thank you, Your Worship.' inside 00:15:39 is probably a mis-hearing or stray; left with the chair (see review)."
+  },
+  {
+   "label": "B",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Introduces 8A, 9B, 9C and 9E after the chair's hand-offs by name ('Mr. Warkentin, could you please introduce this file?', 'Mr. Warkentin, is there anything you want to highlight', 'Mr. Warting, could you please introduce this file?'); chair replies 'Thank you, Mr. Overteen/Wardening/Warkentin'; minutes item 6: Troy Warkentin, City Manager presented the Southeast Event Centre operating agreement report.",
+   "notes": "Stray 'Thank you.' / 'Thank you, Your Worship.' fragments inside 00:05:38 and 00:18:45 are likely not his words (or not in the audio)."
+  },
+  {
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Speaks after 'Councillor Zwaagstra.' (00:09:32) and moves the operating agreement (minutes item 7 mover M. Zwaagstra); 'Go ahead, Councillor Zwaagstra' 00:09:41 and 00:20:18 followed by his speeches; moves the RCMP letter (minutes item 12 mover M. Zwaagstra); 00:27:28 speech after being named seconder of the appointments (minutes item 16 seconder M. Zwaagstra). Pitch 96-103 Hz, matching his known ~104 Hz.",
+   "notes": "Short 'Nope.' (00:12:55, closing as mover) and 'Hear, hear.' (00:25:11)."
+  },
+  {
+   "label": "D",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:11:41 speech is the seconder's comment on item 8A (minutes item 7 seconder J. Hiebert; chair: 'Second by Councillor Hiebert'); 00:18:25 'No comments, thank you.' after the chair names 'Councillor Heaber' as mover of the RBC borrowing resolution (minutes item 11 mover J. Hiebert); 00:26:21 'Thank you, Mr. Mayor.' answers the mayor thanking Jake Hiebert by name for his watershed board service. Pitch 109 Hz on both 00:11:41 and 00:26:21 (Bill Hiebert's turn 00:25:03 is 165 Hz).",
+   "notes": "00:15:37 'Thank you.' after Siemens' speech (J. Hiebert was seconder) left with him."
+  },
+  {
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:15:09 'Motion to approve.' right after the chair asks 'Councillor Siemens?'; 00:15:15 speech after 'Go ahead, Councillor Siemens.' (minutes item 9 mover J. Siemens). Pitch 99 Hz.",
+   "notes": "00:17:40 'Nothing further.' measures 130 Hz (few frames), unlike Siemens' 99 Hz; may be Damian Penner, seconder of item 10 (see review)."
+  },
+  {
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:17:07 moves item 9C after 'Councilor Penner.' and speaks after 'Go ahead, Councilor Penner' (minutes item 10 mover S. Penner, seconder D. Penner); 00:22:44 seconder's comment on the RCMP letter (minutes item 12 seconder S. Penner); 00:27:17 mover's comment on the watershed appointments (minutes item 16 mover S. Penner). Voice pitch 170-178 Hz on all three turns: a woman's voice, not Damian Penner (~115-145 Hz).",
+   "notes": "Her 00:27:17 'thank you to Councillor Jake Epp' is a slip for Jake Hiebert."
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:25:03 mover's comment on the Kootenay Way street lighting resolution (minutes item 13 mover B. Hiebert, seconder J. Hiebert; chair: 'Councillor Hebert, second by Councillor Hebert. Any comments?'); 00:27:25 'Thank you.' immediately after 'good luck to Councillor Bill Hiebert'. Pitch 165 Hz, matching his known ~160 Hz and unlike Jake Hiebert's 109 Hz in this meeting.",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:00:00",
+   "label": "A",
+   "text": "Yes. Sorry",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "Continues as B's 00:04:07 'for the interruption. Recommendation is to... add one item to the agenda' - the City Manager interrupting the agenda motion."
+  },
+  {
+   "time": "00:04:25",
+   "label": "A",
+   "text": "Second.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "The chair immediately says 'Second by Councillor Zwaagstra'; minutes item 4 seconder M. Zwaagstra."
+  },
+  {
+   "time": "00:04:25",
+   "label": "A",
+   "text": "So moved.",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover of the December 17 minutes (minutes item 5 mover B. Hiebert, seconder J. Hiebert); the chair then names the seconder 'Councillor Hiebert'."
+  }
+ ],
+ "summary": "Clean diarization: seven letters, one per person, all agreeing with AssemblyAI; Damian Penner (present, mover of the agenda and adjournment) has no letter of his own. Short 'So moved'/'Second' fragments sit in the chair's turns; stray 'Thank you, Your Worship.' fragments in the chair's and City Manager's turns are probably not real.",
+ "transcript": "transcripts/2025/2025-01-07.txt"
+}

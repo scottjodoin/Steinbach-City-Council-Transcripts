@@ -1,0 +1,106 @@
+{
+ "meeting": "2024-10-01",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair: 'I'd like to give the opening to Councillor Damian Penner' (00:00:02) followed by A's opening 'Thank you, Mr. Mayor...' (00:00:13); minutes item 3: Councillor Damian Penner opened the meeting; the mayor replies to the groupthink theme. 00:10:09 seconder's comment on By-law 2252 follows 'Seconded by Councillor Penner' and minutes R24-191 seconder = D. Penner. Pitch 124-148 Hz (a man's voice, not Susan Penner).",
+   "notes": "00:00:00 'No, we didn't have 2 minutes' is pre-meeting chatter; same pitch (148 Hz) as his opening, left with him."
+  },
+  {
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (minutes item 2: Mayor Earl Funk called the meeting to order), runs every item, names movers/seconders, hands off to Mr. Warkentin and Adam Thiessen; addressed as 'Mr. Mayor' in replies.",
+   "notes": "Mover/seconder words 'So moved.' / 'Second.' at 00:05:30 and 'Second.' at 00:24:53 split off (low). 'Oh, on Hanover.' (00:22:57) and 'Oh, it's looking really good.' (00:24:44, 158 Hz) may be other voices (see review)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warting, could you please introduce this file?' -> C (00:07:40); 'Mr. Warkentin, could you please introduce this file?' -> C (00:11:02); chair thanks 'Mr. Warkentin' (00:09:08) and 'Mr. Wartein' (00:11:55). Minutes item 2: City Manager Troy Warkentin present.",
+   "notes": ""
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra?' (00:09:08) -> D 'I'll make a motion to give first reading.' (00:09:14); 'Go ahead, Councillor Zwaagstra.' (00:09:16) -> D mover's statement (00:09:20); minutes R24-191 mover = M. Zwaagstra. Pitch 101 Hz, matching his known ~104 Hz.",
+   "notes": ""
+  },
+  {
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Siemens.' (00:11:55) -> E 'Motion to approve first reading.' (00:12:01); 'Go ahead, Councillor Siemens.' (00:12:02) -> E mover's statement (00:12:07); minutes R24-192 mover = J. Siemens. Pitch 107 Hz.",
+   "notes": "Event-centre questions 00:24:07-00:24:32 measure 119-125 Hz, a little higher than his 107 Hz speech; kept with him on the diarization (old map also gave them to Siemens), see review."
+  },
+  {
+   "label": "F",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "F's only turn, 'No comments.' (00:13:10), answers the chair's 'Councillor Hiebert. Second by Councillor Zwaagstra. Any comments?' on the excavator licence; minutes R24-193 mover = B. Hiebert, so the mover declining to comment is Bill Hiebert. Pitch 168 Hz, matching Bill Hiebert's known ~160 Hz and unlike Jake Hiebert (~109 Hz in other meetings).",
+   "notes": "One-line letter; few voiced frames."
+  },
+  {
+   "label": "G",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager, Corporate Services",
+   "confidence": "high",
+   "evidence": "Chair 'I will ask Adam Thiessen, our corporate service manager, The floor is yours.' -> G event-centre presentation (00:15:38); 'Thank you very much, Mr. Thiessen' (00:24:53); minutes items 16-17.",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [],
+ "turn_splits": [
+  {
+   "time": "00:05:30",
+   "label": "B",
+   "text": "So moved.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Chair immediately names 'Councilor Siemens'; minutes R24-189 mover = J. Siemens. Pitch of the fragment (few frames) does not confirm."
+  },
+  {
+   "time": "00:05:30",
+   "label": "B",
+   "text": "Second.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "occurrence": 1,
+   "reason": "Chair immediately names 'Councilor Penner'; minutes R24-189 seconder = D. Penner. Not confirmed by ear."
+  },
+  {
+   "time": "00:24:53",
+   "label": "B",
+   "text": "Second.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Seconder of the adjournment per minutes item 18 (S. Penner, J. Siemens); not named in the audio."
+  }
+ ],
+ "summary": "Clean 7-letter diarization, one person per letter; Susan Penner and Jake Hiebert have no letter. F ('No comments.') assigned to Bill Hiebert by minutes and pitch against AssemblyAI's Jake Hiebert. Short mover/seconder fragments inside the chair's turns are low-confidence splits.",
+ "transcript": "transcripts/2024/2024-10-01.txt"
+}

@@ -1,0 +1,560 @@
+{
+ "meeting": "2026-09-15",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Minutes item 3: 'Councillor B. Hiebert opened the meeting' and A gives the opening (00:00:00), after which the chair says 'Thank you, Councillor Hebert' (00:04:05). 00:39:57 chair: 'Go ahead, Councillor Hebert' -> A asks about a helipad in Steinbach = minutes item 14 'Councillor B. Hiebert asked about the possibility of a helipad'. 00:43:36 chair: 'Councillor Hebert.' -> A 'I'll make a motion to object' = R26-192 mover B. Hiebert. 00:56:15 business licences: chair names 'Councillor Hebert' as mover -> A comments = R26-195 mover B. Hiebert. 00:58:22 'Nothing further to add.' fits R26-196 seconder B. Hiebert. Jake Hiebert's minuted questions (items 9 and 13) are on letter B, so A is the other Hiebert.",
+   "notes": "AssemblyAI's 'Jake Hiebert' is contradicted by every minuted cue; it was probably misled by 'Councillor Hebert' plus the opening's 'Jake, I appreciate you as a friend', which is addressed to outgoing councillor Jac Siemens ('Jake Seamans'). 00:40:40 merges the STARS delegate's words ('I don't necessarily fundraise for extra helipads, but that is a community conversation that') with Bill Hiebert's follow-up question; the delegate's part is split out (turn_splits). 00:13:08 'Got it.' is a stray short turn (low override).",
+   "human_check": "2026-11-14 reviewer listened: Bill Hiebert confirmed (opening, helipad question, motion to object)"
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Merged letter; base person is Jake Hiebert. 00:27:18-00:30:38: after the chair's 'Go ahead', B asks whether the city pays overtime for the officers from Oak Bank and Stonewall = minutes item 9 'Councillor J. Hiebert asked about the use of officers from other detachments and if the City is paying the overtime'; the speaker also mentions a break-in 'a couple doors down from my place'. 00:39:24: B asks STARS whether the 472 recreational incidents show a rise in e-bike/e-scooter incidents = minutes item 13 'Councillor J. Hiebert questioned with 472 recreational vehicle incidents if they saw a rise in accidents with E-vehicles'. Bill Hiebert is the separate letter A.",
+   "notes": "B also carries Jac Siemens's whole RCMP exchange (00:22:19-00:27:14, overridden), Director of Corporate Services Adam Thiessen at 00:52:12, and the City Manager at 00:57:00 (overridden). Short interjections on B are overridden to low or Unclear where they cannot be placed."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "00:41:16 chair: 'Mr. Warkentin, could you please introduce this file?' -> C presents the La Broquerie development plan report (= minutes item 15 'Troy Warkentin, City Manager presented a report'); thanked as 'Mr. Workman' 00:43:22. 00:56:26 'Mr. Worcutine, could you please introduce this file?' -> C presents the subdivision; thanked 'Mr. Worthing' 00:58:02.",
+   "notes": "Short turns on C belonging to others are overridden: 00:04:04, 00:05:29, 00:22:43, 00:27:20, 00:49:13, 00:58:09 and 00:58:55 ('Second by-' is the chair)."
+  },
+  {
+   "label": "D",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Minutes item 2: Mayor Earl Funk called the meeting to order. D chairs throughout (agenda, minutes, delegations, every vote, hands the floor by name: 'Go ahead, Councillor Hebert', 'Mr. Warkentin, could you please introduce this file?'); addressed as 'Mr. Mayor' by replying speakers; thanks the Staff Sergeant and STARS as recorded for Mayor Funk in minutes items 10 and 12.",
+   "notes": "00:57:00 'Thank you, Alderman Demong. Thank you, Your Worship.' is not the mayor's (he would not address himself as 'Your Worship'); probably an ASR artifact echoing the City Manager's 00:56:53 ending; overridden to Unclear."
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:43:37 chair names 'Councillor Susan Penner' as R26-192 seconder (minutes: S. Penner) and 00:44:17 hands her the floor ('Anything further, Councilor Pender?') -> E speaks. 00:51:35 chair: 'Councilor Penner, motion to approve.' -> E 'Motion to approve.' then the building-permit remarks = R26-194 mover S. Penner; G then says 'As Councillor Pender noted' about E's point. Damian Penner is the separate letter H.",
+   "notes": "00:30:39 private-security question to the RCMP is not in the minutes; mapped by letter. 00:51:33 'Second.' is overridden to Jac Siemens (chair names 'Councillor Simmons' as seconder; minutes R26-193 seconder J. Siemens). Other short E turns overridden to low or Unclear."
+  },
+  {
+   "label": "F",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "organization": "RCMP Steinbach Detachment",
+   "confidence": "high",
+   "evidence": "Chair 00:04:05: 'This is our new Staff Sergeant Mike Maxwell, and he's here to present'; 00:05:30 'Staff Sergeant Maxwell, you'll be speaking from this'; F gives the detachment report matching minutes items 6.1-6.7 (18 municipal positions, 4,700 calls, Mental Health Act calls 311, B&E 78 to 91, arsons 11 to 2) and answers the questions in items 7.1, 8.1, 9.1.",
+   "notes": "00:22:46 'Was it even CSI or- GIS.' mixes Jac Siemens's prompt with the Staff Sergeant's answer; left on F."
+  },
+  {
+   "label": "G",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "00:18:26 G, speaking 'as the chair of the RCMP Advisory Group', praises the Staff Sergeant's 'willingness to just dive right in' and says 'we've been impressed by the leadership', then asks about the challenges of catching offenders on Main Street = minutes item 7, credited to Councillor M. Zwaagstra, and in the minutes' order (item 7 before Siemens item 8 and J. Hiebert item 9). 00:51:51 chair names 'Councilor Michael Smystra' as R26-194 seconder (minutes: M. Zwaagstra); after mover S. Penner speaks, G gives the seconder's remarks at 00:52:56 ('As Councillor Pender noted').",
+   "notes": "The 00:18:09 hand-off is transcribed 'Go ahead, Councillor Stevenson'. That is not a roster name and the turn that follows is Zwaagstra's minuted content, so it is read as an ASR garble of 'Zwaagstra'. The existing map read it as a Siemens variant and therefore rated G low. 00:30:37 'No problem.' is the Staff Sergeant (override); 00:08:01, 00:24:16, 00:45:24 short turns overridden.",
+   "human_check": "2026-11-14 reviewer listened: Michael Zwaagstra confirmed; the chair's hand-off, quietly spoken, is 'Zwaagstra' (transcribed 'Stevenson')"
+  },
+  {
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "00:45:24 chair: 'Go ahead, Councilor Bennett' (a Penner variant) -> H's R26-192 debate turn at 00:45:28; the chair later says 'as to what Councillor Penner said, we are going through a time of unprecedented growth' (00:49:15), quoting H ('we are in the middle of unprecedented growth'). Both cues give only the surname; Susan Penner is the separate letter E, so H is Damian Penner by elimination.",
+   "notes": "Only other H turn: 00:22:19 'Thank you.' (low override)."
+  },
+  {
+   "label": "I",
+   "person": "Madeline Wieler",
+   "role": "delegation",
+   "title": "STARS representative",
+   "organization": "STARS",
+   "confidence": "high",
+   "evidence": "00:34:17 chair introduces the STARS delegation 'Madeline Wheeler and Tammy Beauregard'; I presents the fiscal year in review (1,181 missions, 47 Steinbach calls, 370 units of blood, 223 pediatric patients, expansion) = minutes item 11, speaks in the singular ('Thank you so much for having me'), and answers the questions recorded for Ms. Wieler in minutes items 13.1 and 14.1 (helmet advice; helipad 'would be impactful', she fundraises for STARS).",
+   "notes": "Tammy Beauregard does not speak separately in the transcript. Part of I's helipad answer slipped onto A at 00:40:40 (split back to her in turn_splits)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:03:04",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' splits Bill Hiebert's opening mid-sentence (A continues 'apartment units'); no way to place it, and not Jake Hiebert's turn."
+  },
+  {
+   "time": "00:04:04",
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Thank you.' at the end of Bill Hiebert's opening, just before the chair thanks him; probably his sign-off slipped onto C, not the City Manager."
+  },
+  {
+   "time": "00:05:29",
+   "label": "C",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "medium",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'It is.' answers the chair's question to the Staff Sergeant: 'This is your first time presenting to council, isn't it?'"
+  },
+  {
+   "time": "00:05:47",
+   "label": "E",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Yes.' replies to the chair's remark addressed to Staff Sergeant Maxwell; probably not Susan Penner, but cannot be placed."
+  },
+  {
+   "time": "00:05:48",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Second 'Yes.' in reply to the chair's remark to the Staff Sergeant; cannot be placed."
+  },
+  {
+   "time": "00:08:01",
+   "label": "G",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Short question 'And the other one?' during the RCMP report; letter G but too short to confirm."
+  },
+  {
+   "time": "00:13:08",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Right there.' answers the Staff Sergeant's 'did that report come through?'; too short to confirm."
+  },
+  {
+   "time": "00:13:08",
+   "label": "A",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Got it.' stray short reply during the RCMP report; too short to confirm."
+  },
+  {
+   "time": "00:18:54",
+   "label": "B",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "low",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'Thank you.' immediately after Councillor Zwaagstra compliments the Staff Sergeant's leadership; most likely his reply."
+  },
+  {
+   "time": "00:19:15",
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Yeah.' inside Councillor Zwaagstra's question; too short to confirm."
+  },
+  {
+   "time": "00:22:18",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Okay, good.' at the end of the Staff Sergeant's answer to Councillor Zwaagstra, before Jac Siemens's turn; cannot be placed."
+  },
+  {
+   "time": "00:22:19",
+   "label": "H",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Lone 'Thank you.' on H between two questioners; too short to confirm."
+  },
+  {
+   "time": "00:22:19",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Minutes item 8: Councillor J. Siemens welcomed the Staff Sergeant to Steinbach and asked whether the undercover GIS officer hired 6-8 years ago for Main Street racing was still active ('again, welcome to Steinbach... about 6 years ago, 8 years ago, we asked for an officer... for undercover work'); AssemblyAI also names B Jac Siemens.",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:22:43",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Okay.' inside Jac Siemens's question to the RCMP; the City Manager is not in this exchange."
+  },
+  {
+   "time": "00:22:49",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Continues the GIS question ('Yeah, GIS... that was a request of council') = minutes item 8.",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:24:13",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'That's good to hear.' is Jac Siemens's reply to the answer to his GIS question (item 8).",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:24:16",
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'One more?' immediately before Jac Siemens's second question ('Changing totally...'); probably him asking to continue."
+  },
+  {
+   "time": "00:24:16",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Second part of minutes item 8: Councillor J. Siemens asked the Staff Sergeant's thoughts on e-bikes and e-scooters.",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:27:14",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "'Thank you.' closing Jac Siemens's e-bike question after the Staff Sergeant's answer, before the chair moves on.",
+   "human_check": "2026-11-14 reviewer listened"
+  },
+  {
+   "time": "00:27:20",
+   "label": "C",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "medium",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'Thank you.' replies to Jake Hiebert's 'Welcome to Steinbeck' addressed to the Staff Sergeant."
+  },
+  {
+   "time": "00:30:37",
+   "label": "G",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "medium",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'No problem.' replies to Jake Hiebert's thanks for the Staff Sergeant's overtime answer (the Staff Sergeant said 'No problem.' the same way at 00:28:42 on F)."
+  },
+  {
+   "time": "00:32:34",
+   "label": "B",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "low",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'Absolutely.' is a reply inside the mayor's one-on-one thanks to the Staff Sergeant (who answers on F at 00:31:48, 00:33:33, 00:33:49, 00:34:07); unlikely to be Jake Hiebert, but too short to confirm."
+  },
+  {
+   "time": "00:32:53",
+   "label": "B",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "low",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'Yep.' is a reply inside the mayor's one-on-one thanks to the Staff Sergeant (who answers on F at 00:31:48, 00:33:33, 00:33:49, 00:34:07); unlikely to be Jake Hiebert, but too short to confirm."
+  },
+  {
+   "time": "00:33:14",
+   "label": "B",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "low",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'Yep.' is a reply inside the mayor's one-on-one thanks to the Staff Sergeant (who answers on F at 00:31:48, 00:33:33, 00:33:49, 00:34:07); unlikely to be Jake Hiebert, but too short to confirm."
+  },
+  {
+   "time": "00:33:56",
+   "label": "B",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "low",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'I know.' is a reply inside the mayor's one-on-one thanks to the Staff Sergeant (who answers on F at 00:31:48, 00:33:33, 00:33:49, 00:34:07); unlikely to be Jake Hiebert, but too short to confirm."
+  },
+  {
+   "time": "00:34:17",
+   "label": "B",
+   "person": "Mike Maxwell",
+   "role": "delegation",
+   "title": "RCMP Staff Sergeant",
+   "confidence": "low",
+   "organization": "RCMP Steinbach Detachment",
+   "reason": "'Thank you.' is a reply inside the mayor's one-on-one thanks to the Staff Sergeant (who answers on F at 00:31:48, 00:33:33, 00:33:49, 00:34:07); unlikely to be Jake Hiebert, but too short to confirm."
+  },
+  {
+   "time": "00:35:22",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Steinbeck's not on it.' quip about the STARS coverage map; speaker cannot be confirmed."
+  },
+  {
+   "time": "00:35:23",
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Oh, well.' short reply to the map quip; too short to confirm."
+  },
+  {
+   "time": "00:37:53",
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Yeah.' inside the mayor's thanks to STARS; too short to confirm."
+  },
+  {
+   "time": "00:42:32",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' splits the City Manager's sentence mid-report; an ASR or diarization artifact, not Jake Hiebert."
+  },
+  {
+   "time": "00:43:00",
+   "label": "B",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' splits the City Manager's report again; an ASR or diarization artifact, not Jake Hiebert."
+  },
+  {
+   "time": "00:45:11",
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'I'm sorry.' falls mid-sentence in Susan Penner's R26-192 remarks (she resumes 'I would say support'); probably her self-correction."
+  },
+  {
+   "time": "00:45:24",
+   "label": "G",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you.' at the end of Susan Penner's remarks, before the chair moves on; probably her sign-off, but cannot be placed."
+  },
+  {
+   "time": "00:47:43",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Reads two paragraphs of the report into the record; the chair later says 'Councillor Hebert read where it talks about benefiting Steinbach and benefiting the [RM]', so the reader is a Hiebert, and Bill Hiebert is letter A."
+  },
+  {
+   "time": "00:49:13",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Okay.' after 'Anything in closing?'; the City Manager is not part of the debate; cannot be placed."
+  },
+  {
+   "time": "00:51:33",
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Second.' for the accounts payable; the chair immediately names 'Councillor Hebert, seconded by Councillor Simmons', and minutes R26-193 record J. Hiebert / J. Siemens."
+  },
+  {
+   "time": "00:52:12",
+   "label": "B",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Director of Corporate Services",
+   "confidence": "high",
+   "reason": "Susan Penner asks 'Mr. Thiessen maybe?' and after the answer says 'as Mr. Thiessen indicated, that is the biggest month'; minutes item 2 lists Director of Corporate Services Adam Thiessen as present."
+  },
+  {
+   "time": "00:56:21",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'Thank you.' after Bill Hiebert's business-licence comment; too short to confirm."
+  },
+  {
+   "time": "00:56:25",
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'No.' short reply to the mayor's remark; too short to confirm."
+  },
+  {
+   "time": "00:57:00",
+   "label": "D",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'Thank you, Alderman Demong. Thank you, Your Worship.' is not the mayor (he would not say 'Your Worship' to himself) and matches nobody present; likely an ASR artifact."
+  },
+  {
+   "time": "00:57:00",
+   "label": "B",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "'I'll introduce the file.' after the chair asked Mr. Warkentin to introduce the subdivision; the City Manager's introduction continues on C at 00:57:01."
+  },
+  {
+   "time": "00:58:06",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Motion to approve.' on the subdivision; minutes R26-196 mover J. Hiebert (seconder B. Hiebert, who is A at 00:58:22 'Nothing further to add'); the chair does not say the name aloud."
+  },
+  {
+   "time": "00:58:09",
+   "label": "C",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "chairs": true,
+   "reason": "'Second by-' is the chair's phrase for naming the seconder, not the City Manager's."
+  },
+  {
+   "time": "00:58:10",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Mover's remarks on the subdivision directly after the motion ('I'll be very short... I see no objection') = R26-196 mover J. Hiebert."
+  },
+  {
+   "time": "00:58:29",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Thank you.' in reply to 'Anything in closing?'; the closing belongs to the mover, J. Hiebert."
+  },
+  {
+   "time": "00:58:55",
+   "label": "C",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "chairs": true,
+   "reason": "'Second by-' is the chair naming the seconder for the adjournment motion."
+  },
+  {
+   "time": "00:27:18",
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer confirmed the voice switches from Jac Siemens to Jake Hiebert here"
+  },
+  {
+   "time": "00:30:39",
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer confirmed (private-security question, not in the minutes)"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:40:40",
+   "label": "A",
+   "text": "I don't necessarily fundraise for extra helipads, but that is a community conversation that",
+   "person": "Madeline Wieler",
+   "role": "delegation",
+   "title": "STARS representative",
+   "organization": "STARS",
+   "confidence": "high",
+   "reason": "Continues the STARS presenter's 00:40:17 answer ('I fundraise for STARS in our mission and our operations.'); minutes item 14.1: Ms. Wieler said STARS focuses on raising funds for their program and a helipad would be a great community conversation. The rest of the turn is Bill Hiebert's follow-up question."
+  },
+  {
+   "time": "00:22:46",
+   "label": "F",
+   "text": "Was it even CSI or",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "human_check": "2026-11-14 reviewer listened",
+   "reason": "reviewer: Siemens asks 'Was it even CSI or'; the Staff Sergeant answers 'GIS'"
+  }
+ ],
+ "summary": "Good quality: all seven council members, the City Manager, the RCMP Staff Sergeant and the STARS presenter are identified, mostly from chair hand-offs and the minutes. Letter B merges Jake Hiebert (base) with Jac Siemens's RCMP questions (00:22:19-00:27:14), Adam Thiessen (00:52:12) and the City Manager (00:57:00), all overridden; Damian Penner (H) is by elimination from Susan Penner; many one-word interjections are marked low or unidentified.",
+ "transcript": "transcripts/2026/2026-09-15.txt"
+}

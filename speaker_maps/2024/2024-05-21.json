@@ -1,0 +1,145 @@
+{
+ "meeting": "2024-05-21",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:01 (minutes item 2: Mayor Earl Funk called the meeting to order), gives the opening to Councillor Jake Hiebert, names movers/seconders and calls every vote, asks Mr. Warkentin to introduce each file.",
+   "notes": "Turn ends carry others' words: 00:17:49 ends with D. Penner's 'No' (comments); 00:30:52 ends with Zwaagstra's 'Thank you, Mr.'; 00:31:55 opens with 'nothing further.'; 00:13:27 opens with J. Hiebert's 'you.' (all split). 'Thank you, Your Worship.' at the end of 00:29:37 is not in the YouTube captions."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair gives the opening to 'Councillor Jake Hiebert' 00:00:01 and B delivers it (minutes item 3: J. Hiebert opened; speaks of his years on the Parole Board); chair 'Councillor Hiebert, seconded by Councillor Penner' for minutes (minutes R24-103 J. Hiebert/D. Penner) -> B 'No comments.'; 00:12:49 B speaks as seconder of the sponsorship policy (minutes R24-105 J. Hiebert seconded); 00:31:44 B speaks as mover of 2nd reading of By-law 2249 (minutes R24-110 J. Hiebert moved).",
+   "notes": "00:29:33 'I have nothing further' is Bill Hiebert (seconder of By-law 2246; pitch 132 Hz, Bill's turns 129-135 Hz, Jake's 103-120 Hz) - overridden. 00:32:02 'Nothing further.' unverified."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' 00:07:03, 00:19:15, 00:25:53, 00:29:37 -> C presents each staff report (minutes item 7: Troy Warkentin, City Manager, introduced the Sponsorship Policy); 00:33:52 answers the hedge question (minutes item 16.1).",
+   "notes": "00:14:06 ends with Siemens' 'I won't' (split); 00:29:31 'could you summarize what' is Damian Penner's joke (override). 'Thank you, Your Worship.' inside 00:07:55 is likely not in the audio."
+  },
+  {
+   "label": "D",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra.' 00:10:32 -> D moves the sponsorship policy (minutes R24-105 M. Zwaagstra moved); J. Hiebert replies 'I agree with Councillor Zweigstra' 00:12:49; chair 'Councillor Zwaagstra.' 00:24:35 -> D speaks on the PTH 12 tender (minutes R24-107 seconder); D moves 1st reading of By-law 2249 00:30:58 (minutes R24-109 M. Zwaagstra moved).",
+   "notes": "Short jokes/interjections: 'What about the underground pipe?', 'This is the best.', 'Hear, hear.', 'They're relit.'"
+  },
+  {
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Stevens' (= Siemens) 00:13:27 -> E asks about the water tower; Zwaagstra replies 'in response to Councillor Siemens' observation' about the water tower 00:16:14 and the mayor quotes 'Councillor Siemens said, this is a growth issue' (E's words); chair 'Councillor Siemens?' 00:21:58 -> E 'I wish to approve' (minutes R24-107 J. Siemens moved) and speaks first on the tender; Zwaagstra 'As Councillor Siemens correctly noted' 00:24:38.",
+   "notes": "'Thank you. Alderman Demong.' inside 00:14:29 is not in the YouTube captions, which run continuously in Siemens' voice through 00:15:19; 'Alderman Demong' is a garble. 'Either way.' 00:21:56 unverified."
+  },
+  {
+   "label": "F",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Susan Penner was excused (minutes R24-104; chair 00:07:03), so 'Councillor Penner' can only be Damian; chair 'Councillor Penner' 00:29:12 -> F 'Motion to approve.' (minutes R24-108 D. Penner moved By-law 2246); chair names 'Councillor Penner' as mover of accounts 00:17:49 -> F 'comments.' (minutes R24-106 D. Penner moved).",
+   "notes": "Question about Keystone Cinema 00:15:28 is cut off where the City Manager answers."
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Hiebert, go ahead' 00:33:10 -> G asks about hedges protruding onto sidewalks (minutes item 16: B. Hiebert requested clarification regarding hedges); chair names 'Councillor Hiebert' mover of business licences 00:32:03 -> G speaks as mover (minutes R24-111 B. Hiebert moved). Pitch 129-135 Hz, distinct from Jake Hiebert (B).",
+   "notes": ""
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:29:31",
+   "label": "C",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "continues Penner's sentence 'Mr. Warkentin explained it far better than I could, so could you summarize what he-'; YouTube captions run it together; the old transcript has it all on Penner's letter"
+  },
+  {
+   "time": "00:29:33",
+   "label": "B",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "seconder's turn after the mover (minutes R24-108: B. Hiebert seconded By-law 2246); pitch 132 Hz matches Bill Hiebert's turns (129-135 Hz) not Jake's (103-120 Hz); the existing map put this turn on Bill Hiebert's letter"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:13:27",
+   "label": "A",
+   "text": "you.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "end of Jake Hiebert's 'Thank you.' (his 00:12:49 turn ends with 'Thank'); captions 'city goes along with this thank you'"
+  },
+  {
+   "time": "00:14:06",
+   "label": "C",
+   "text": "I won't",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of Siemens' next turn 'I won't bring it up at this time'; captions put 'I won't bring it up' at 00:14:29"
+  },
+  {
+   "time": "00:17:49",
+   "label": "A",
+   "text": "No",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of Penner's 'No comments.' (F 00:19:15 'comments.'), mover of accounts per minutes R24-106; captions 'any comments no comments'"
+  },
+  {
+   "time": "00:30:52",
+   "label": "A",
+   "text": "Thank you, Mr.",
+   "occurrence": 2,
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of Zwaagstra's 'Thank you, Mr. Mayor. I'll make a motion for first reading.' (D 00:30:58 begins 'Mayor.'); minutes R24-109 Zwaagstra moved"
+  },
+  {
+   "time": "00:31:55",
+   "label": "A",
+   "text": "nothing further.",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "completes 'I have' at the end of Jake Hiebert's 00:31:44 turn; pitch at 00:31:52 103 Hz matches Jake's turns, not Bill's"
+  }
+ ],
+ "summary": "Clean diarization: seven letters, one per person, all agreeing with AssemblyAI and the existing map. Main uncertainty is which Hiebert says the short 'nothing further' seconder lines (00:29:33, 00:31:52); pitch and minutes used. No public hearing or delegations; one letter writer named in correspondence is withheld.",
+ "transcript": "transcripts/2024/2024-05-21.txt"
+}

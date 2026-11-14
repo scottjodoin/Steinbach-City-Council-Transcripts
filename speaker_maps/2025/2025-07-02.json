@@ -1,0 +1,184 @@
+{
+ "meeting": "2025-07-02",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:05, hands the opening to Deputy Mayor Zwaagstra, names movers/seconders and calls every vote, opens and closes the CU-2025-02 hearing; minutes item 2 and 9: Mayor Earl Funk called the meeting and the hearing to order.",
+   "notes": "Turn 00:12:21 contains the applicant's 'Yep, we're here.' and 'Sure.' (split); turn 00:04:50 contains Siemens' 'Motion to approve.' (split); turn 00:25:33 contains a 'Thank you, Your Worship.' that is not the chair's (split, Unclear; absent from YouTube captions)."
+  },
+  {
+   "label": "B",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair gives the opening to 'Deputy Mayor, Councillor Michael Zwaagstra' -> B 00:00:14 (minutes item 3: M. Zwaagstra opened); 'Councillor Zwaagstra.' 00:07:09 -> B 'Motion to approve.' (minutes R25-137 mover M. Zwaagstra); B motion 00:19:06 on CU-2025-02 matches minutes R25-138 mover; 'Go ahead, Councillor Smith [Zwaagstra]' -> B 00:19:26; C 00:22:09 refers to 'Councillor Zwaagstra' for B's argument. Pitch 98-129 Hz (Zwaagstra measured 104 Hz).",
+   "notes": ""
+  },
+  {
+   "label": "C",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Chair 00:15:47 '...how would you like to proceed? Councillor Penner.' -> C 00:16:31 'Actually, Mr. Mayor, question for administration' (male voice 127-132 Hz, so not Susan Penner); same voice at 00:22:09 (120-125 Hz) speaking right after mover Zwaagstra on CU-2025-02, where the chair had named 'Councillor Penner' as seconder (minutes R25-138 seconder D. Penner). In the old transcript 00:16:29 and 00:22:09 were one letter, separate from the 00:04:49/00:28:55 letter.",
+   "notes": "C merges several men: Daniel Emond 00:12:45 and 00:14:59 (self-ID), Bill Hiebert 00:04:49 and 00:28:55 (overrides). The 'No,' ending 00:16:33 is the City Manager's answer (split)."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' -> D (00:06:14, 00:09:01, 00:26:20); applicant says 'Thanks, Troy'; minutes 9.1 Troy Warkentin, City Manager introduced CU-2025-02; answers questions to administration 00:16:45, 00:17:31, 00:30:35.",
+   "notes": "Turns 00:09:01 and 00:26:20 contain stray 'Thank you, Your Worship.', 'No. No.', 'Okay.', 'Yes, Your Worship.' fragments that are probably other voices or transcription noise (see review)."
+  },
+  {
+   "label": "E",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Female voice 174 Hz at 00:07:56 (Susan Penner measured ~190 Hz; the only woman on council); 00:07:56 is the first comment after the chair named 'Councillor Penner' as seconder of R25-137 (minutes seconder S. Penner); 00:29:41 answers 'Councillor Penner, seconded by Councillor Hiebert. Any comments?' on the excavator licence (minutes R25-140 mover S. Penner).",
+   "notes": ""
+  },
+  {
+   "label": "F",
+   "person": "Mike Fast",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Adult & Teen Challenge / Association for Community Living",
+   "confidence": "high",
+   "evidence": "Self-ID 00:12:36 'Mike Fast, just representing Adult and Teen Challenge and Association for Community Living Steinbach Branch'; Zwaagstra addresses 'Mr. Fast' 00:13:41 -> F answers 00:13:56; minutes 9.2-9.3.",
+   "notes": "'Come on up, Daniel.' 00:12:33 may be the chair (old transcript put it in the mayor's turn); see review."
+  },
+  {
+   "label": "G",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Siemens.' 00:27:50 -> G 'Motion to approve.' 00:27:55 (minutes R25-139 mover J. Siemens); 'Go ahead, Councillor Siemens.' -> G 00:28:00, continued by H 00:28:03 (same speech, 103-106 Hz).",
+   "notes": "G also carries the 00:24:09 CU-2025-02 speech (override, low: possibly Jake Hiebert) and 'Nothing further, thank you.' 00:29:50 (unplaced, left with G). The stray 'Alderman Demong.' inside 00:24:09 is not in the YouTube captions."
+  },
+  {
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "00:28:03 completes Siemens' sentence begun on G at 00:28:00 ('This is a 3rd reading, so we've had— / we've discussed this twice already'), same pitch 103-105 Hz; the old transcript put 00:28:00-00:28:52 and the 00:30:29 / 00:30:44 tree question in one letter (Siemens).",
+   "notes": "00:30:29 question to administration (130 Hz) and 'Aye.' 00:29:18 are less certain; see review."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:04:49",
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'No comments.' answers 'Councillor Hiebert, seconded by Councillor Hebert, any comments?' on the minutes (minutes R25-134: B. Hiebert mover, J. Hiebert seconder); pitch 150 Hz fits Bill Hiebert (~140-160 Hz), not Jake Hiebert (~105 Hz); old transcript put it in the same letter as 00:28:55."
+  },
+  {
+   "time": "00:12:45",
+   "label": "C",
+   "person": "Daniel Emond",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Adult & Teen Challenge of Central Canada",
+   "confidence": "high",
+   "reason": "Self-ID 'And Daniel Emond of ... Teen Challenge of Central Canada'; minutes 9.2 and 9.4."
+  },
+  {
+   "time": "00:14:59",
+   "label": "C",
+   "person": "Daniel Emond",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Adult & Teen Challenge of Central Canada",
+   "confidence": "high",
+   "reason": "Mike Fast hands off ('Ben?' = Dan) and the speaker says 'our program'; minutes 9.4 Mr. Emond confirmed the space is the perfect size and location."
+  },
+  {
+   "time": "00:28:55",
+   "label": "C",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Chair 'Anything further, Councillor Hiebert?' right after naming 'Seconded by Councillor Hiebert' for R25-139 (minutes seconder B. Hiebert); pitch 129 Hz, unlike Jake Hiebert (~105 Hz); old transcript grouped it with 00:04:49."
+  },
+  {
+   "time": "00:24:09",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Chair 'Go ahead, Councillor.' (no name in YouTube captions; old transcript 'Pincott'). Pitch 106-111 Hz fits Jake Hiebert (~103-112) or Siemens (~103-106 here); the old transcript gave this turn its own letter, separate from Siemens'. Damian Penner (old map) seems to have spoken at 00:22:09. Unconfirmed."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:04:50",
+   "label": "A",
+   "text": "Motion to approve.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Chair names 'Councillor Siemens.' and the mover answers (minutes R25-136 mover J. Siemens); old transcript gave 'Move to approve.' its own letter (Siemens')."
+  },
+  {
+   "time": "00:12:21",
+   "label": "A",
+   "text": "Yep, we're here.",
+   "person": "Mike Fast",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Adult & Teen Challenge / Association for Community Living",
+   "confidence": "low",
+   "reason": "Answer from the applicant side to 'Is the applicant here today?'; which representative is unclear."
+  },
+  {
+   "time": "00:12:21",
+   "label": "A",
+   "text": "Sure.",
+   "person": "Mike Fast",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Adult & Teen Challenge / Association for Community Living",
+   "confidence": "low",
+   "reason": "Answer to the chair's 'Do you wish to speak?'; Mike Fast spoke first afterwards."
+  },
+  {
+   "time": "00:16:33",
+   "label": "C",
+   "text": "No,",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "Start of the City Manager's answer 'No, it is— that is the standard...' (YouTube captions: '...or is there another rationale behind that? No, it is')."
+  },
+  {
+   "time": "00:25:33",
+   "label": "A",
+   "text": "Thank you, Your Worship.",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Not the chair's words (addressed to the mayor); not in the YouTube captions, probably mis-transcription."
+  }
+ ],
+ "summary": "Short, clean meeting, but letters C, G and H merge several men: C holds Damian Penner, Bill Hiebert and delegate Daniel Emond; G holds Siemens plus an unnamed 00:24:09 speech (possibly Jake Hiebert). Damian Penner vs Bill vs Jake Hiebert attributions rest on chair hand-offs, mover/seconder order and pitch, and should be checked by ear.",
+ "transcript": "transcripts/2025/2025-07-02.txt"
+}

@@ -1,0 +1,704 @@
+{
+ "meeting": "2025-03-18",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "label": "A",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "00:00:02 calls the meeting to order and hands the opening to Councillor Zwaagstra (minutes items 2-3); names movers/seconders and calls every vote; opens and closes each public hearing and asks 'Mr. Warkentin, could you please introduce this file?' (00:07:07, 00:43:15, 00:47:07, 00:52:12); asks the SED delegation the funding question and proposes meeting after Ottawa (minutes item 29).",
+   "notes": "Merged pieces split off: 'Thank you, Your Worship.' at 00:07:07 (Unclear), applicant 'Yes.' 00:09:46, 'Yes, I do.' 00:21:32 (Resident 5), 'Second.' 00:36:21 (Zwaagstra), 'No, sir.' 00:41:03 (likely mover Siemens), 'Motion to approve.' 00:44:28 (D. Penner) and 01:35:29 (Siemens), applicant reply 00:50:33, 'Yes.' 00:56:18 (applicant) and 01:12:12 (Bezditny). 00:54:26 'Courtney.' is the mayor's 'Thank you, Mr. Warkentin' mis-heard (its 'Thank you, Mr.' sits at the end of C 00:53:11)."
+  },
+  {
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "label": "B",
+   "confidence": "high",
+   "evidence": "Opening handed to 'Councillor Michael Zwaagstra' 00:00:02 -> B 00:00:17 opening (minutes item 3), chair 'Thank you, Councillor Zwaagstra' 00:07:07; 00:43:11 'I'm stepping up for this one ... Conflict of interest' (minutes item 20: M. Zwaagstra excused); 'Councillor Zwaagstra.' -> B 00:51:21 'I'll make a motion to approve' (R25-058 mover M. Zwaagstra); 'Councillor Swaigstra.' -> B 01:34:36 motion to adopt the traffic report (R25-060); 01:37:00 'Councillor Hiebert said it all.' as seconder of building permits (R25-062). Pitch 99-126 Hz on his turns.",
+   "notes": "Merged letter: 00:25:22-00:28:35 (5 turns) are Resident 6 continuing his public-hearing comments; 00:49:38-00:50:38 (4 turns) are the V-2025-05 applicant Vince Loeppky, who self-identifies at 00:49:38 (pitch 95-99 Hz, close to Zwaagstra's, hence the merge)."
+  },
+  {
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "label": "C",
+   "confidence": "high",
+   "evidence": "'Mr. Warkentin, could you please introduce this file?' -> C 00:08:20, 00:43:33, 00:48:16, 00:53:11 (minutes 6.1, 21.1, 24.1, 26.1); 'Mr. Warkentin, is there any highlights' -> C 01:28:23 traffic count report (minutes item 31); answers the mayor's process questions 01:34:11, 01:34:24, 01:38:35.",
+   "notes": "Merged letter: 00:24:44 is Resident 6 self-identifying; 00:30:36 and 00:31:19 are Resident 8; 00:49:54 is the V-2025-05 applicant; 01:32:32 continues Councillor Siemens's traffic comments (pitch 104 Hz, same as his 01:32:22 turn). The mayor's 'Thank you, Mr.' at the end of 00:53:11 is split off."
+  },
+  {
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "label": "D",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Penner.' and 'Motion to approve.' on V-2025-04 (R25-057 mover D. Penner) -> D 00:45:22 speaks first and answers 'Nothing further.' 00:47:06 when the mover is asked for closing; 'Second by Councillor Penner' on the traffic report (R25-060 seconder D. Penner) -> D 01:35:27 'I have nothing further to add.'; 'Motion, Councillor Penner' on Municipal Board Order A-24-297 (R25-065 mover D. Penner) -> D 01:38:59; old map: 'Damien's got a question' before 01:16:42. Pitch 124-134 Hz.",
+   "notes": "Merged letter: 17 turns 00:09:58-00:36:02 are the By-Law 2261 applicant (Resident 1); 00:46:05 and 01:36:39 are Jake Hiebert (overrides). 01:17:26-01:18:09 SED questions kept on D (medium, pitch 126-129 Hz matches his 01:16:42 turn; old map gave them to Bill Hiebert by elimination). 01:38:51 'It's a huge deal.' may be the mayor (old transcript put it on the chair)."
+  },
+  {
+   "person": "Resident 2",
+   "role": "resident",
+   "label": "E",
+   "confidence": "high",
+   "evidence": "00:10:32 introduces herself by first name as the co-applicant, alternating with Resident 1 through the By-Law 2261 presentation and answering again at 00:35:39 (minutes 6.4 and 17: co-applicant present and returned to the podium).",
+   "notes": ""
+  },
+  {
+   "person": "Resident 3",
+   "role": "resident",
+   "label": "F",
+   "confidence": "high",
+   "evidence": "00:16:37 states name and address when the chair asks for comments on By-Law 2261 (minutes item 8: objection, traffic and parking).",
+   "notes": ""
+  },
+  {
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "label": "G",
+   "confidence": "high",
+   "evidence": "Chair 'Councilor Susan Penner.' -> G 00:57:06 'Motion to approve.' and 00:57:10 speech on V-2025-06 (R25-059 mover S. Penner); chair 00:57:19 'I would agree with Councillor Penner. This seems like a reasonable ask, straightforward' echoes G's 'really straightforward request'; 01:37:41 'Nope.' after 'Councilor Susan Penner, seconded by...' business licences (R25-063); 01:39:39 after 'Councillor Susan Penner' on A-24-298(c) (R25-066). Female voice on the council SED questions: 01:12:20 184 Hz, 01:15:58 184, 01:16:10 186, 01:25:39 200, 00:57:10 180, 01:39:39 190 (the only woman on council).",
+   "notes": "Merged letter of several women: 00:19:10 and 00:34:03 are Resident 4; 00:28:48, 00:29:28, 00:30:15 are Resident 7; 00:59:40 is Michelle Bezditny; 01:25:10 continues Christine Beaumont's comments (171 Hz, same as P). The chair's hand-off before 01:12:20 is transcribed 'Councillor Jack.'."
+  },
+  {
+   "person": "Michelle Bezditny",
+   "role": "delegation",
+   "title": "Director of Economic Development",
+   "organization": "Steinbach Economic Development Corporation",
+   "label": "H",
+   "confidence": "high",
+   "evidence": "Introduced by the chair as 'Michelle Vezitny, the director of economic development' 00:57:19 and gives the SED presentation 00:58:18 (minutes 28-28.1); chair 'Well, thank you, Michelle' 01:08:45; answers every council question on RCIP; Christine Beaumont says 'in addition to what Michelle said' 01:23:53. Pitch 172 Hz.",
+   "notes": "Merged letter: 00:22:09 is Resident 5; 00:26:14 Resident 6; 00:29:25 Resident 7; 00:31:14 and 00:31:32 Resident 8; 00:37:32, 00:37:59 and 01:33:18 continue Councillor Siemens (pitch 107/105 Hz); 00:26:05 'Thank you.' unclear."
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "label": "I",
+   "confidence": "high",
+   "evidence": "All six turns 00:25:55-00:28:32 continue the comments Resident 6 began at C 00:24:44 after self-identifying (minutes item 12: support, downtown, tenants without cars, multifamily further down Hanover).",
+   "notes": ""
+  },
+  {
+   "person": "Resident 7",
+   "role": "resident",
+   "label": "J",
+   "confidence": "high",
+   "evidence": "00:28:58 and 00:29:52 continue the comments Resident 7 began at G 00:28:48 after stating name and address (minutes item 13: six-plex in her front yard, similar buildings by 7-Eleven look taller).",
+   "notes": ""
+  },
+  {
+   "person": "Resident 8",
+   "role": "resident",
+   "label": "K",
+   "confidence": "high",
+   "evidence": "00:31:07 continues the comments Resident 8 began at C 00:30:36 after giving his address and name (minutes item 14: busy street, on-street parking).",
+   "notes": ""
+  },
+  {
+   "person": "Resident 9",
+   "role": "resident",
+   "label": "L",
+   "confidence": "high",
+   "evidence": "00:31:33 states her name and that she lives in Blumenort (minutes item 15: starter homes, high-end rentals).",
+   "notes": ""
+  },
+  {
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "label": "M",
+   "confidence": "high",
+   "evidence": "M 00:36:16 'I will make a motion to deny.' (R25-056 mover J. Siemens) and the chair later says 'as Councillor Siemens said, it's about 10 to 15 years too soon' echoing M's 'you're 10 years too early'; M 00:51:57 speaks as seconder after 'Seconded by Councillor Siemens' (R25-058); 'Councillor Siemens.' -> M 01:38:09 'What you said, Mr. Mayor.' on realty tax cancellations (R25-064). Pitch 105-110 Hz.",
+   "notes": "01:18:59 LPN-training question measured 130 Hz (higher than his other turns); kept on M, see review."
+  },
+  {
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "label": "N",
+   "confidence": "high",
+   "evidence": "00:46:39 continues the seconder's speech that began at D 00:46:05 ('council knows that I've been a stickler'); chair named 'Seconded by Councillor Hiebert' on V-2025-04 and R25-057 seconder is J. Hiebert; pitch 105 Hz matches 00:46:05 (111 Hz).",
+   "notes": ""
+  },
+  {
+   "person": "Nic Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Three Way Builders Ltd.",
+   "label": "O",
+   "confidence": "high",
+   "evidence": "00:54:30 'Nick Thiessen, 50 Granite Park Boulevard' after the chair asks for the V-2025-06 applicant; minutes 26.2: Nic Thiessen on behalf of Three Way Builders Ltd.; 00:55:36 answers the chair's trailer question.",
+   "notes": ""
+  },
+  {
+   "person": "Christine Beaumont",
+   "role": "delegation",
+   "title": "SED Board President",
+   "organization": "Steinbach Economic Development Corporation",
+   "label": "P",
+   "confidence": "medium",
+   "evidence": "01:23:53 'in addition to what Michelle said ... that we did as a board' right after Bezditny invited 'Christine and Henry' to chime in (01:20:08); minutes 28 lists Christine Beaumont (President) and Henry Nickel (VP); the voice is a woman's (172 Hz), so not Henry Nickel.",
+   "notes": "01:25:10 on G is the end of this speech ('I just wanted to make that clarification')."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:09:58",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:10:10",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:10:52",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:11:14",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:12:55",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:13:19",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:13:41",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:13:51",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:14:06",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:14:24",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:14:40",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:15:00",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:15:19",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:15:51",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:16:14",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:34:48",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Resident 1",
+   "role": "resident",
+   "time": "00:36:02",
+   "label": "D",
+   "confidence": "high",
+   "reason": "By-Law 2261 applicant: self-identifies at 00:09:58 after the chair asks the applicant to state name and address; alternates with Resident 2 in the presentation and answers questions; minutes 6.4 and 17"
+  },
+  {
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "00:46:05",
+   "label": "D",
+   "confidence": "high",
+   "reason": "speaks after 'Anything further?' as the seconder named by the chair ('Seconded by Councillor Hiebert'; R25-057 seconder J. Hiebert); continues on N 00:46:39; pitch 111 Hz vs Damian Penner's 124 Hz; old map letter T"
+  },
+  {
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "01:36:39",
+   "label": "D",
+   "confidence": "high",
+   "reason": "chair: 'Councillor Hiebert, seconded by Councillor Zwaagstra. Go ahead.' (R25-062 mover J. Hiebert) and Zwaagstra replies 'Councillor Hiebert said it all.'; old map letter T"
+  },
+  {
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "01:17:26",
+   "label": "D",
+   "confidence": "medium",
+   "reason": "new SED question after the chair's 'Okay. Go ahead.'; pitch 129 Hz matches Damian Penner's 01:16:42 turn (134 Hz) and his 00:45:22 turn (124 Hz); no name cue (old map: Bill Hiebert by elimination, low)"
+  },
+  {
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "01:17:39",
+   "label": "D",
+   "confidence": "medium",
+   "reason": "same questioner as 01:17:26 answering 'For RCIP?'"
+  },
+  {
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "01:18:09",
+   "label": "D",
+   "confidence": "medium",
+   "reason": "same questioner as 01:17:26 adding a follow-up; pitch 126 Hz"
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "time": "00:25:22",
+   "label": "B",
+   "confidence": "high",
+   "reason": "continues Resident 6's public-hearing comments (self-identified at C 00:24:44; minutes item 12 content: event centre, tenants without cars, multifamily further down Hanover); Zwaagstra is a councillor at the table"
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "time": "00:26:37",
+   "label": "B",
+   "confidence": "high",
+   "reason": "continues Resident 6's public-hearing comments (self-identified at C 00:24:44; minutes item 12 content: event centre, tenants without cars, multifamily further down Hanover); Zwaagstra is a councillor at the table"
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "time": "00:27:44",
+   "label": "B",
+   "confidence": "high",
+   "reason": "continues Resident 6's public-hearing comments (self-identified at C 00:24:44; minutes item 12 content: event centre, tenants without cars, multifamily further down Hanover); Zwaagstra is a councillor at the table"
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "time": "00:28:01",
+   "label": "B",
+   "confidence": "high",
+   "reason": "continues Resident 6's public-hearing comments (self-identified at C 00:24:44; minutes item 12 content: event centre, tenants without cars, multifamily further down Hanover); Zwaagstra is a councillor at the table"
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "time": "00:28:35",
+   "label": "B",
+   "confidence": "high",
+   "reason": "continues Resident 6's public-hearing comments (self-identified at C 00:24:44; minutes item 12 content: event centre, tenants without cars, multifamily further down Hanover); Zwaagstra is a councillor at the table"
+  },
+  {
+   "person": "Vince Loeppky",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Prairie Ag Contracting Co. Inc.",
+   "time": "00:49:38",
+   "label": "B",
+   "confidence": "high",
+   "reason": "V-2025-05 applicant: 00:49:38 'my name is Vince Lepke. I live in Mitchell' after 'Is the applicant here today?'; minutes 24.2 (Vince Loeppky of Mitchell)"
+  },
+  {
+   "person": "Vince Loeppky",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Prairie Ag Contracting Co. Inc.",
+   "time": "00:49:44",
+   "label": "B",
+   "confidence": "high",
+   "reason": "V-2025-05 applicant: 00:49:38 'my name is Vince Lepke. I live in Mitchell' after 'Is the applicant here today?'; minutes 24.2 (Vince Loeppky of Mitchell)"
+  },
+  {
+   "person": "Vince Loeppky",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Prairie Ag Contracting Co. Inc.",
+   "time": "00:50:26",
+   "label": "B",
+   "confidence": "high",
+   "reason": "V-2025-05 applicant: 00:49:38 'my name is Vince Lepke. I live in Mitchell' after 'Is the applicant here today?'; minutes 24.2 (Vince Loeppky of Mitchell)"
+  },
+  {
+   "person": "Vince Loeppky",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Prairie Ag Contracting Co. Inc.",
+   "time": "00:50:38",
+   "label": "B",
+   "confidence": "high",
+   "reason": "V-2025-05 applicant: 00:49:38 'my name is Vince Lepke. I live in Mitchell' after 'Is the applicant here today?'; minutes 24.2 (Vince Loeppky of Mitchell)"
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "time": "00:24:44",
+   "label": "C",
+   "confidence": "high",
+   "reason": "self-identifies with name and address after the chair's 'Yes, go ahead.'; minutes item 12"
+  },
+  {
+   "person": "Resident 8",
+   "role": "resident",
+   "time": "00:30:36",
+   "label": "C",
+   "confidence": "high",
+   "reason": "gives address and name at the public hearing; minutes item 14"
+  },
+  {
+   "person": "Resident 8",
+   "role": "resident",
+   "time": "00:31:19",
+   "label": "C",
+   "confidence": "high",
+   "reason": "continues Resident 8's congestion comments (minutes item 14)"
+  },
+  {
+   "person": "Vince Loeppky",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Prairie Ag Contracting Co. Inc.",
+   "time": "00:49:54",
+   "label": "C",
+   "confidence": "high",
+   "reason": "continues the V-2025-05 applicant's remarks (spoke with city planning; owns the lots behind = minutes 24.2)"
+  },
+  {
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "01:32:32",
+   "label": "C",
+   "confidence": "medium",
+   "reason": "continues Councillor Siemens's 01:32:22 comment on signal coordination ('one of the biggest complaints that I hear'); pitch 104 Hz = his 105 Hz; old transcript has one Siemens turn 01:32:21-01:33:00"
+  },
+  {
+   "person": "Resident 4",
+   "role": "resident",
+   "time": "00:19:10",
+   "label": "G",
+   "confidence": "high",
+   "reason": "states name and address (right beside the lot); minutes item 9"
+  },
+  {
+   "person": "Resident 4",
+   "role": "resident",
+   "time": "00:34:03",
+   "label": "G",
+   "confidence": "high",
+   "reason": "minutes item 16: Resident 4 returned to the podium to say she supports housing but in a better area; pitch 158 Hz"
+  },
+  {
+   "person": "Resident 7",
+   "role": "resident",
+   "time": "00:28:48",
+   "label": "G",
+   "confidence": "high",
+   "reason": "states name and address on Hanover Street; minutes item 13"
+  },
+  {
+   "person": "Resident 7",
+   "role": "resident",
+   "time": "00:29:28",
+   "label": "G",
+   "confidence": "high",
+   "reason": "continues Resident 7's comments (families with kids); minutes item 13"
+  },
+  {
+   "person": "Resident 7",
+   "role": "resident",
+   "time": "00:30:15",
+   "label": "G",
+   "confidence": "high",
+   "reason": "continues Resident 7's comments (block the backyards); minutes item 13"
+  },
+  {
+   "person": "Michelle Bezditny",
+   "role": "delegation",
+   "title": "Director of Economic Development",
+   "organization": "Steinbach Economic Development Corporation",
+   "time": "00:59:40",
+   "label": "G",
+   "confidence": "high",
+   "reason": "the presenter's own false start; she repeats it at H 00:59:42"
+  },
+  {
+   "person": "Christine Beaumont",
+   "role": "delegation",
+   "title": "SED Board President",
+   "organization": "Steinbach Economic Development Corporation",
+   "time": "01:25:10",
+   "label": "G",
+   "confidence": "medium",
+   "reason": "continuation of Christine Beaumont's 01:23:53 comments on SED reserves ('I just wanted to make that clarification'); pitch 171 Hz = P's 172 Hz"
+  },
+  {
+   "person": "Resident 5",
+   "role": "resident",
+   "time": "00:22:09",
+   "label": "H",
+   "confidence": "high",
+   "reason": "states name and address at the public hearing; minutes item 10; pitch 186 Hz"
+  },
+  {
+   "person": "Unclear",
+   "role": "unknown",
+   "time": "00:26:05",
+   "label": "H",
+   "confidence": "low",
+   "reason": "'Thank you.' in the middle of Resident 6's comments; not the delegation presenter"
+  },
+  {
+   "person": "Resident 6",
+   "role": "resident",
+   "time": "00:26:14",
+   "label": "H",
+   "confidence": "medium",
+   "reason": "'And there's—' inside Resident 6's comments"
+  },
+  {
+   "person": "Resident 7",
+   "role": "resident",
+   "time": "00:29:25",
+   "label": "H",
+   "confidence": "medium",
+   "reason": "sentence inside Resident 7's comments (what six 2-bedroom units would attract)"
+  },
+  {
+   "person": "Resident 8",
+   "role": "resident",
+   "time": "00:31:14",
+   "label": "H",
+   "confidence": "medium",
+   "reason": "'we have a camper ... backing our camper into the driveway' continues Resident 8 (lives across the street)"
+  },
+  {
+   "person": "Resident 8",
+   "role": "resident",
+   "time": "00:31:32",
+   "label": "H",
+   "confidence": "medium",
+   "reason": "'Thank you.' closing Resident 8's comments before the chair's 'Thank you.'"
+  },
+  {
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "00:37:32",
+   "label": "H",
+   "confidence": "high",
+   "reason": "inside Councillor Siemens's speech on his motion to deny (old transcript: one continuous Siemens turn)"
+  },
+  {
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "00:37:59",
+   "label": "H",
+   "confidence": "high",
+   "reason": "continues Councillor Siemens's speech on large downtown lots; pitch 107 Hz"
+  },
+  {
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "01:33:18",
+   "label": "H",
+   "confidence": "high",
+   "reason": "Councillor Siemens on Lund Road, continued at M 01:33:26; old transcript has it on his letter R; pitch 105 Hz"
+  }
+ ],
+ "turn_splits": [
+  {
+   "person": "Unclear",
+   "role": "unknown",
+   "time": "00:07:07",
+   "label": "A",
+   "text": "Thank you, Your Worship.",
+   "confidence": "low",
+   "reason": "does not fit the chair's own introduction of the public hearing; likely a mis-heard fragment"
+  },
+  {
+   "person": "Unclear",
+   "role": "unknown",
+   "time": "00:09:46",
+   "label": "A",
+   "text": "Yes.",
+   "confidence": "low",
+   "reason": "answer to the chair's 'Is the applicant here today? Do you wish to speak?' (an applicant, not the chair)"
+  },
+  {
+   "person": "Resident 5",
+   "role": "resident",
+   "time": "00:21:32",
+   "label": "A",
+   "text": "Yes, I do.",
+   "confidence": "medium",
+   "reason": "answer to the chair's last call for comments; Resident 5 then comes to the podium at 00:22:09"
+  },
+  {
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "00:36:21",
+   "label": "A",
+   "text": "Second.",
+   "confidence": "high",
+   "reason": "chair then says 'Second by Councillor Zwaagstra'; R25-056 seconder M. Zwaagstra"
+  },
+  {
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "00:41:03",
+   "label": "A",
+   "text": "No, sir.",
+   "confidence": "low",
+   "reason": "reply to the chair's 'Anything in closing?' put to the mover (J. Siemens)"
+  },
+  {
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "00:44:28",
+   "label": "A",
+   "text": "Motion to approve.",
+   "confidence": "high",
+   "reason": "chair names 'Councillor Penner'; R25-057 mover D. Penner; old transcript has it on Damian Penner's letter D"
+  },
+  {
+   "person": "Vince Loeppky",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Prairie Ag Contracting Co. Inc.",
+   "time": "00:50:33",
+   "label": "A",
+   "text": "Yeah, we own the 2 on Hanover and then the adjacent—",
+   "confidence": "high",
+   "reason": "applicant's answer to the chair's 'Both adjacent properties you own?' (minutes 24.2)"
+  },
+  {
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "time": "00:53:11",
+   "label": "C",
+   "text": "Thank you, Mr.",
+   "occurrence": 2,
+   "confidence": "high",
+   "reason": "the chair's 'Thank you, Mr. [Warkentin]' that continues as 'Courtney.' on A 00:54:26"
+  },
+  {
+   "person": "Nic Thiessen",
+   "role": "delegation",
+   "title": "Applicant's representative",
+   "organization": "Three Way Builders Ltd.",
+   "time": "00:56:18",
+   "label": "A",
+   "text": "Yes.",
+   "confidence": "medium",
+   "reason": "applicant's answer to the chair's question about the front room for highway tractors"
+  },
+  {
+   "person": "Michelle Bezditny",
+   "role": "delegation",
+   "title": "Director of Economic Development",
+   "organization": "Steinbach Economic Development Corporation",
+   "time": "01:12:12",
+   "label": "A",
+   "text": "Yes.",
+   "confidence": "medium",
+   "reason": "answer to Zwaagstra's question whether RCIP is a factor in the doubled funding request"
+  },
+  {
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "time": "01:35:29",
+   "label": "A",
+   "text": "Motion to approve.",
+   "confidence": "high",
+   "reason": "chair names 'Councillor Siemens.' for accounts; R25-061 mover J. Siemens; old transcript has it on his letter R"
+  }
+ ],
+ "summary": "Heavily merged diarization: residents, applicants and councillors share letters (D = applicant + Damian Penner + Jake Hiebert; G = three women; H = SED director + residents + Siemens), handled with 52 overrides and 11 splits. Check the 01:17-01:19 SED questions (Damian Penner vs Bill Hiebert, Siemens) and the SED board speaker (Christine Beaumont).",
+ "transcript": "transcripts/2025/2025-03-18.txt"
+}

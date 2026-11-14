@@ -1,0 +1,138 @@
+{
+ "meeting": "2023-03-07",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls meeting to order 00:00:08 (minutes item 2: Mayor Earl Funk called the meeting to order), gives the opening to Councillor Jake Hiebert, names movers/seconders and calls every vote; addressed as 'Mr. Mayor' throughout.",
+   "notes": "Turn-boundary slips: 'Mr.' at 00:14:41 (Siemens) and 'Hopefully' at 00:15:41 (Warkentin) overridden; 'Mr.' ending 00:09:16 and 'reading.' opening 00:09:59 split to Warkentin; 'I object.' inside 00:07:27 split as unidentified. 'Second.' inside 00:13:47 and 00:16:44 is likely a councillor but left with the chair."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'I would like to give the opening to Councillor Jake Hiebert' 00:00:08, B delivers the opening 00:00:18 (minutes item 3: Councillor Jake Hiebert opened; chair 'Thank you, Councillor Hiebert' 00:04:13); weed-inspector item: chair 'Seconded by Councilor Hiebert' 00:13:28 and B speaks as seconder 00:13:41 (minutes R23-048 seconder J. Hiebert).",
+   "notes": "Pre-meeting 'compactor.' 00:00:02 overridden to the mayor. 'No comments.' 00:04:55 is a short interjection."
+  },
+  {
+   "label": "C",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Second reading of By-law 2218: chair 'Seconded by Councillor Penner' 00:08:17, then C 00:08:55 'I have no problems seconding the motion' (minutes R23-046 seconder D. Penner); voice pitch of that turn 125 Hz (male), ruling out Susan Penner.",
+   "notes": "Pre-meeting chatter 00:00:05 (172 Hz, mixed voices) overridden to unclear. 'No comments.' 00:05:26 and 00:14:16 are short interjections (143/151 Hz), unverified."
+  },
+  {
+   "label": "D",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' 00:05:26 then D introduces By-law 2218 00:06:18 (minutes 8.1); chair 'Thank you, Mr. Warkentin' 00:09:59; Siemens asks 'Mr. Warkentin' 00:14:43 and D answers 00:14:54 (minutes 13.1).",
+   "notes": "'Thank you. Thank you, Your Worship.' inside 00:06:18 and 'Thank you, Your Worship. Go ahead.' inside 00:10:22 are not in the YouTube captions; probably not in the audio (review)."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Zwaagstra' 00:07:27 then E moves second reading 00:08:15 (minutes R23-046 mover M. Zwaagstra); chair 'Councilor Zwaagstra' 00:12:49 then E moves the weed-inspector resolution 00:13:27 (minutes R23-048 mover M. Zwaagstra)."
+  },
+  {
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Councillor Stevens' (= Siemens) 00:11:21 then F 'Motion to approve' and chair 'Go ahead, Councillor Stevens' 00:11:28 before F's speech (minutes R23-047 mover J. Siemens); F asks Mr. Warkentin about PTH 12 traffic lights 00:14:43 (minutes item 13: J. Siemens requested an update); chair 'Councillor Stevens' 00:15:44 replying to F."
+  },
+  {
+   "label": "G",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Compactor purchase: chair 'Seconded by Councillor Hiebert' 00:11:28, and after the mover speaks the chair asks 'Anything further, Councillor?' and G speaks as seconder 00:12:33 (minutes R23-047 seconder B. Hiebert; attendance line omits Bill Hiebert, a known 2023 minutes issue). G is a different voice cluster from Jake Hiebert (B). G 00:14:18 'Nothing further.' on business licences, also seconded by B. Hiebert (R23-049).",
+   "notes": "Pitch 132 Hz (B/Jake 125 Hz) is not decisive between the two Hieberts."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:00:02",
+   "label": "B",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "Pre-meeting chatter: completes the mayor's 'Landfill compactor.'; the original transcription gave the whole phrase to the mayor."
+  },
+  {
+   "time": "00:00:05",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "Pre-meeting chatter of mixed voices (172 Hz vs Damian Penner 125 Hz); the original transcription split it among three letters."
+  },
+  {
+   "time": "00:14:41",
+   "label": "A",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "'Mr.' begins Siemens's 'Mr. Warkentin, about 6 weeks ago...' (next F turn); the original transcription keeps it in Siemens's turn."
+  },
+  {
+   "time": "00:15:41",
+   "label": "A",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "'Hopefully' begins Warkentin's 'it's just traffic counts.' (next D turn); captions and the original transcription run it on from his answer."
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:07:27",
+   "label": "A",
+   "text": "I object.",
+   "person": "Unidentified",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "A joke interjection after the chair asks for objections; the chair then asks again. Not the chair; speaker unknown (the mayor later says he was ribbed by Councillor Zwaagstra)."
+  },
+  {
+   "time": "00:09:16",
+   "label": "A",
+   "text": "Mr.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "Start of Warkentin's 'Mr. Mayor, that was an error' (next D turn); the original transcription has 'Mr. Mayor' in his turn."
+  },
+  {
+   "time": "00:09:59",
+   "label": "A",
+   "text": "reading.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "medium",
+   "reason": "End of Warkentin's 'before the city may proceed to give third reading.' (previous D turn), as in the original transcription."
+  }
+ ],
+ "summary": "Clean 17-minute meeting; all seven letters identified, only G (Bill Hiebert) at medium. Minor boundary slips fixed by overrides/splits; two 'Your Worship' phrases in the City Manager's turns are likely not in the audio. Susan Penner is present but has no speaking turn of her own.",
+ "transcript": "transcripts/2023/2023-03-07.txt"
+}

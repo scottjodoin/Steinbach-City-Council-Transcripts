@@ -1,0 +1,242 @@
+{
+ "meeting": "2023-09-19",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "E",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:10, opening reading, runs every item, calls votes, hands the floor by name; addressed as 'Mr. Mayor' throughout; minutes item 2: Mayor Earl Funk called the meeting to order.",
+   "notes": "Turn 00:12:27 contains 'Thank you, Alderman Demong. We now move on to the 3rd reading.' which sounds like stray audio (see review). Some councillors' words sit inside his turns (split out)."
+  },
+  {
+   "label": "B",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Susan Penner, go ahead' 00:31:00 -> B Park Road West question 00:31:23 (minutes item 14: Councillor Susan Penner requested an update on Park Road West); 'Councillor Penner, anything further?' 00:08:43 -> B 00:08:46 after building permits seconded by Councillor Penner (minutes R23-189 seconder S. Penner); 'Go ahead, Councillor Penner' 00:20:49 -> B funding question; pitch ~172 Hz (woman) vs K ~119 Hz.",
+   "notes": "Pre-meeting chatter 00:00:00 left on B unverified."
+  },
+  {
+   "label": "K",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Penner? Motion to approve.' 00:29:50 on MSDIP (minutes R23-192 mover D. Penner) -> 'Go ahead, Councillor. Thank you, Mr. Mayor...' continuing into K 00:30:15 substantive; male voice ~119 Hz, B is independently Susan Penner."
+  },
+  {
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Zwaagstra. Second by Councillor Penner. Go ahead.' 00:07:46 -> F building permits (minutes R23-189 mover M. Zwaagstra), and B replies 'further to Councillor Zweigstra's comments' 00:08:46; 'Councillor Zwaagstra.' 00:11:51 -> F 'Make the motion to approve' (minutes R23-190 mover M. Zwaagstra); MSDIP second speaker 00:30:43 (minutes R23-192 seconder M. Zwaagstra); STARS question 00:19:41 after chair's garbled 'Councillor Smith'.",
+   "notes": "'Thank you. Anything?' at the start of 00:30:43 split to the chair."
+  },
+  {
+   "label": "H",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "'Councillor Siemens. Motion to approve. Seconded by Councillor Hiebert. Go ahead.' 00:13:21 -> H substantive on By-law 2229 (minutes R23-191 mover J. Siemens); 'Go ahead, Councillor Stevenson' 00:21:45 (Siemens garble) -> H STARS question; H tells the delegate it was good to work with him at City Council."
+  },
+  {
+   "label": "A",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "'Go ahead, Councillor Healey' 00:25:32 -> A substantive STARS turn (Hiebert variant; the other Hiebert spoke just before at 00:24:43, a different, much deeper voice ~90 Hz vs A ~130 Hz). Which Hiebert: A 'No comment.' 00:07:44 right after 'Councillor Hebert, second by Councillor Zwaagstra' on business licences (minutes R23-188 mover B. Hiebert); A 'No additional comment.' 00:14:06 after 'Anything further, Councillor Eames?' following 'Seconded by Councillor Hiebert' on By-law 2229 (minutes R23-191 seconder B. Hiebert); pitch of those short replies (~130-140 Hz) matches A's long turn. Existing map agrees.",
+   "notes": "Hiebert-vs-Hiebert split rests on short replies to prompts plus voice; AssemblyAI has the Hieberts reversed. A also has pre-meeting chatter 00:00:00-00:00:10 and 'Nothing further, Your Worship.' 00:12:26 (prompt probably meant for seconder D. Penner, but pitch is A-like; left on A)."
+  },
+  {
+   "label": "I",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "Chair 'Councillor Hiebert.' 00:24:37 -> G 00:24:43 'Through you, Mr. Mayor, I'd just like to give a bouquet...' continuing as I 00:24:55 (same deep voice ~90 Hz across G 00:24:43, I 00:24:55 and C 00:25:22); A is the other Hiebert (Bill), so I is Jake by elimination. Existing map put this turn on Jake Hiebert."
+  },
+  {
+   "label": "G",
+   "person": "Darryl Braun",
+   "role": "delegation",
+   "title": "STARS Donor Relations Officer",
+   "organization": "STARS",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:14:32 'I'm Darryl Brown, Donor Relations, Development and Community Engagement Officer for STARS' after chair welcomes the STARS delegation (minutes item 12: Daryl Braun on behalf of S.T.A.R.S.); answers all council questions 00:20:05-00:28:24; addressed as 'Darryl' and 'Mr. Braun'.",
+   "notes": "G merges three voices: City Manager Troy Warkentin (00:10:26, 00:12:54, 00:28:52, 00:31:36) and Jake Hiebert (00:24:43) are overridden. Minutes spell 'Daryl'; transcript 'Darryl'."
+  },
+  {
+   "label": "D",
+   "person": "Colleen Mayer",
+   "role": "delegation",
+   "title": "STARS Director of Fundraising, Manitoba",
+   "organization": "STARS",
+   "confidence": "high",
+   "evidence": "Braun 00:20:05 'I'm going to call on Colleen. She's our director... Colleen, if you wouldn't mind.' -> D 00:20:15 answer on new municipalities (minutes item 12: Collen Mayer, Director of Fundraising in Manitoba; 6 new municipalities).",
+   "notes": "Also pre-meeting chatter 00:00:08 'I don't think I've ever done it once.' left on D, unverified."
+  },
+  {
+   "label": "J",
+   "person": "Adam Thiessen",
+   "role": "staff",
+   "title": "Manager of Corporate Services",
+   "confidence": "high",
+   "evidence": "City Manager 00:28:52 'I will defer this to the city's corporate services manager, Mr. Adam Thiessen.' -> J 00:28:57 MSDIP report; chair 'Thank you, Mr. Thiessen.' 00:29:50; minutes item 2 lists Manager, Corporate Services Adam Thiessen.",
+   "notes": "'Thank you, Your Worship. Okay.' inside his turn is probably not his (see review)."
+  },
+  {
+   "label": "C",
+   "person": "STARS video",
+   "role": "delegation",
+   "title": "Recorded audio from a video",
+   "organization": "STARS",
+   "confidence": "high",
+   "evidence": "Main turn 00:17:51 is the narration of the STARS brand video Braun introduces at 00:17:46 ('I'm just going to play one brief video'); minutes item 12: video presented to Council.",
+   "notes": "Other C turns overridden: 00:00:03 pre-meeting chatter and 00:07:20 'No comment.' (Unclear), 00:25:22 (Jake Hiebert)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:00:03",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "pre-meeting chatter; cannot be the video narration on letter C"
+  },
+  {
+   "time": "00:07:20",
+   "label": "C",
+   "person": "Unclear",
+   "role": "unknown",
+   "confidence": "low",
+   "reason": "'No comment.' after chair named the mover (minutes R23-187: J. Hiebert / J. Siemens); not the video; 1-second pitch ~187 Hz does not match Jake Hiebert's ~90 Hz voice"
+  },
+  {
+   "time": "00:10:26",
+   "label": "G",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "chair 'Mr. Warkentin, could you please introduce this file?' 00:09:03 -> subdivision staff report with 'Recommendation from administration'"
+  },
+  {
+   "time": "00:12:54",
+   "label": "G",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "chair 'Mr. Warkentin, could you please introduce this file?' 00:12:27 -> By-law 2229 staff report"
+  },
+  {
+   "time": "00:24:43",
+   "label": "G",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair 'Councillor Hiebert.' 00:24:37 -> councillor's thanks to Darryl, continuing as I 00:24:55; same ~87-91 Hz voice as I; Bill Hiebert is A"
+  },
+  {
+   "time": "00:25:22",
+   "label": "C",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "end of the councillor's STARS remarks begun at 00:24:43/00:24:55 ('So thank you very much to you and your people'); pitch ~92 Hz matches I"
+  },
+  {
+   "time": "00:28:52",
+   "label": "G",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "chair asks Mr. Warkentin to introduce 9G -> 'I will defer this to the city's corporate services manager, Mr. Adam Thiessen'"
+  },
+  {
+   "time": "00:31:36",
+   "label": "G",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "chair directs Park Road West question to administration; minutes 14.1: City Manager Troy Warkentin provided the Park Road West update"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:12:54",
+   "label": "G",
+   "text": "Council, would you like to proceed?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "chair's usual 'Council, how would you like to proceed?' after the staff recommendation; next turn the chair names the mover"
+  },
+  {
+   "time": "00:13:21",
+   "label": "E",
+   "text": "Motion to approve.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair names 'Councillor Siemens.', the councillor moves, chair names the seconder; minutes R23-191 mover J. Siemens"
+  },
+  {
+   "time": "00:28:25",
+   "label": "E",
+   "text": "Thanks, Mr.",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "reason": "start of the City Manager's reply that continues 'Mayor. I will defer this...' at 00:28:52"
+  },
+  {
+   "time": "00:29:50",
+   "label": "E",
+   "text": "Motion to approve.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "chair asks 'Councillor Penner?', councillor moves; minutes R23-192 mover D. Penner"
+  },
+  {
+   "time": "00:29:50",
+   "label": "E",
+   "text": "Thank you, Mr. Mayor. Yes. We already live in a city that is growing and growing rapidly, and with that, we need to make sure that we are staying on top of our protective services.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "after 'Go ahead, Councillor.' the mover's speech begins and continues on K at 00:30:15"
+  },
+  {
+   "time": "00:30:43",
+   "label": "F",
+   "text": "Thank you. Anything?",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "medium",
+   "reason": "chair's 'Thank you. Anything [further]?' after D. Penner finishes, before the seconder speaks"
+  }
+ ],
+ "summary": "Short meeting (33 min; video ends before minutes items 15-16). Letter G merges the STARS delegate, the City Manager and Jake Hiebert, fixed by overrides; the Hiebert assignment (A = Bill, deep voice = Jake) rests on short replies to mover/seconder prompts and pitch and contradicts AssemblyAI. Several 'Your Worship'/'Alderman Demong' phrases look like stray audio.",
+ "transcript": "transcripts/2023/2023-09-19.txt"
+}

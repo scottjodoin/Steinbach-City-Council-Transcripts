@@ -1,0 +1,675 @@
+{
+ "meeting": "2026-04-07",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order 00:00:00 and gives the opening; runs every motion and vote; closes the council meeting and opens the hearing 00:05:12; addressed as 'Mr. Mayor' throughout; minutes item 2 (Mayor Earl Funk called the meeting to order).",
+   "notes": "Merged: Resident 5's whole public-hearing statement inside 00:35:01 (split); Resident 9's 'That's why I said I born in Paraguay.' 00:59:09 (override); councillors' 'Motion to approve.' 01:18:07 and 01:32:19, 'Nothing further' 01:32:19 and 'Thank you very much, Mr.' 01:40:29 (split); post-adjournment banter 01:48:36 (split). 'You're alive.' 00:00:00 split as Unclear. Unplaced and left: 'Thank you, Your Worship.' 00:12:27, 'Thank you, Mr. Mayor.' 01:01:04, 'Second.' 01:32:19."
+  },
+  {
+   "label": "B",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 00:00:00 'give the opening to Councillor Jake Epp [Hiebert]' then B gives the opening; chair 'Thank you, Councillor Hiebert' 00:04:43; minutes item 3 'Councillor J. Hiebert opened the meeting'. 01:25:57 B speaks after the chair's 'Go ahead' (old map: same timestamp = Jake Hiebert). 00:05:12 'No comments' after J. Hiebert moved the minutes (R26-067); 01:40:26 'No further comment' after the chair names Councillor Hiebert as seconder of the business tax (R26-073 seconder J. Hiebert).",
+   "notes": "B MERGES Jake Hiebert with Jac Siemens: Siemens's questions to the applicant 01:14:39-01:16:31 (he refers back to them at 01:29:33 'I mentioned earlier... the U-turn'), 01:28:26 and 01:47:58 (after 'Councillor Siemens, you had a question?') are overridden. 00:38:59 is the end of Resident 6's speech (overridden). Pitch cannot separate the two (Jake 111-113 Hz, Siemens 103-120 Hz)."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "Chair 'Mr. Warkentin, could you please introduce this file?' 00:05:43 -> C reports on By-law 2273; 'Thank you, Mr. Warkentin' 00:07:40; answers every question put to administration; minutes 6.1/6.2 (Troy Warkentin, City Manager introduced By-Law 2273).",
+   "notes": "01:25:36 is the end of Zwaagstra's debate speech ('I will vote in favour of second reading', overridden); 01:49:09 'Warkentin. Troy, you should turn off the livestream.' is a councillor (overridden, old map Zwaagstra). 'Okay, thank you.' at the end of 01:09:36 is Susan Penner (split). The 'Thank you, Brian. Thank you, Your Worship...' run inside 00:05:49 is probably a transcription artifact."
+  },
+  {
+   "label": "D",
+   "person": "Resident 1",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Answers the chair's 'Is the applicant here today?' and self-identifies with the 498 McKenzie address 00:08:03 (minutes 6.4: the applicant, 498 McKenzie Avenue); the chair invites the applicant back 01:05:05 -> D answers on phasing; councillors' questions to the applicant 01:14:39-01:15:32 -> D answers.",
+   "notes": "D MERGES the applicant with the church delegate Ben Derksen (00:52:37 self-identification, 00:54:44, 00:55:27, 00:56:11, 00:56:57, 00:57:00: overridden), Resident 6's closing 00:52:34, and Jac Siemens (01:16:38, 01:28:18, 01:31:00, 01:31:23, 01:31:39: overridden). Post-adjournment library talk 01:49:29 overridden (low). 'Thank you.' 01:18:06 left with the applicant (unplaced)."
+  },
+  {
+   "label": "E",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Minutes 16.1: Councillor M. Zwaagstra asked whether the church was formally objecting = E 00:55:16-00:56:44; chair 'Councillor Zwaagstra first... Go ahead' 01:38:28 -> Q/E on the tax levy (R26-072 mover M. Zwaagstra); E on building permits 01:36:39 after chair names Councillor Zwaagstra as mover (R26-070); E 01:21:43 debate speech refers to 'Councillor Penner's comments' (the preceding speaker). Pitch 107 Hz, same as Q.",
+   "notes": "E MERGES Zwaagstra with residents: Resident 2 (00:13:06, 00:59:46, 01:00:23, 01:00:28), Resident 8 (00:48:32, 00:50:48), Bill Hiebert's Parkview Crescent comment 01:17:19, and one word 01:29:32 inside Siemens's speech - all overridden."
+  },
+  {
+   "label": "F",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies 00:57:10 (from Paraguay, English not good); chair confirms his 486 McKenzie address 00:57:55; minutes item 17 (486 McKenzie resident questioning costs for streets and fencing); short answers to the chair 00:58:56-01:00:56.",
+   "notes": "F is a catch-all letter. Overridden: Resident 3's whole statement 00:26:59; Zwaagstra 00:55:47, 01:10:16, 01:36:59, 01:38:49; Susan Penner 01:09:25, 01:39:51; Jac Siemens 01:28:45, 01:28:59, 01:29:06, 01:30:00, 01:30:02, 01:30:35."
+  },
+  {
+   "label": "G",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Anything further, Councillor Penner?' 01:37:09 -> G 'Nothing further.' (R26-070 seconder S. Penner); G 01:38:58 'Nothing further.' (R26-072 seconder S. Penner; old map Susan Penner); G 01:40:16 finishes Susan Penner's business-tax remarks begun on M 01:39:45; 01:08:41 'Can I just-' starts M's 01:08:45 question. Pitch 154-172 Hz (female).",
+   "notes": "G MERGES Susan Penner with Resident 4, whose public-hearing statement 00:32:44 is overridden. Pitch on G (154-172 Hz) is lower than M (188-211 Hz); see review."
+  },
+  {
+   "label": "H",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with the 458 McKenzie address 00:36:17 and again 00:51:11; minutes items 12 and 15.",
+   "notes": "The end of his first statement 00:38:59 is on B and his closing line 00:52:34 is on D (both overridden)."
+  },
+  {
+   "label": "I",
+   "person": "Resident 7",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Self-identifies with the 445 McKenzie address 00:39:21; minutes item 13 (no-stopping zone, mailbox, sump pumps, two-storey limit) matches; the applicant later answers this resident's phasing question 01:06:07."
+  },
+  {
+   "label": "J",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Continues Resident 8's statement begun on E 00:48:32 (self-identified with the 534 Wilson Street address); minutes item 14 (support, density pays for infrastructure) matches 00:49:22 and 00:50:50."
+  },
+  {
+   "label": "K",
+   "person": "Ben Derksen",
+   "role": "delegation",
+   "title": "Church board member",
+   "organization": "Steinbach Sommerfeld Church",
+   "confidence": "high",
+   "evidence": "Continues the church delegate's statement begun on D 00:52:37 ('my name is Ben Dirksen, and I'm on the board of the Steinbach [Sommerfeld] Church'); 00:55:49 answers Zwaagstra's 'is the church objecting or not?'; minutes 16 and 16.2 (Ben Derksen, board member, not formally objecting)."
+  },
+  {
+   "label": "L",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "high",
+   "evidence": "Answers the chair's questions to the 486 McKenzie resident 00:58:17-00:59:11 ('I don't know what objecting means'), same exchange as F; minutes 17-17.1."
+  },
+  {
+   "label": "M",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Pitch 188-211 Hz (female; only woman on council). Mayor 01:41:21 'I'm just like Councillor Susan Penner. I wouldn't normally support extra tax' echoes M 01:39:45 'normally I wouldn't approve of a business tax' (R26-073 mover S. Penner); Damian Penner 01:40:32 'I agree with Councillor Penner's comments'; old map O (Susan Penner) at 01:06:37, 01:08:41, 01:39:45, 01:41:05.",
+   "notes": "Post-adjournment 01:49:17 mixes several voices."
+  },
+  {
+   "label": "N",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair 'Go ahead, Councillor Penner' 01:13:45 -> N's question (male voice, 112 Hz); N 01:18:37 speaks as mover right after 'Motion to approve' (R26-068 mover D. Penner) and Zwaagstra 01:21:43 refers to 'Councillor Penner's comments'; N 01:30:42 'Thank you, Councillor Siemens' replying to the friendly amendment; N 01:40:32 'I agree with Councillor Penner's comments' about Susan Penner, so N is the other Penner.",
+   "notes": "Chair's 'Go ahead, Councillor Penner.' 01:13:45 and Siemens's 'Question to administration through you, Mr.' 01:30:42 are split out."
+  },
+  {
+   "label": "O",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Damian Penner 01:30:42 'Thank you, Councillor Siemens' directly after the friendly-amendment request (O 01:30:07 / F 01:30:35); chair 'Councillor Siemens, you had a question?' 01:47:54 (on B); O 01:15:41 completes the sidewalk question to the applicant begun on B 01:15:32; old map A = Jac Siemens for the same stretch.",
+   "notes": "Siemens's 01:28-01:32 debate speech is scattered over B, D, E, F and O."
+  },
+  {
+   "label": "P",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "01:17:16-01:18:06 council comment during the hearing: lives on Parkview Crescent with 200+ apartments at the end of the street; the same self-description at 2024-03-19 01:44:46 is Bill Hiebert in that meeting's existing map (pitch there 138 Hz, here 133 Hz). Damian Penner 01:18:37: 'I figured with Bill- Councillor Hiebert there jumping the gun', i.e. Bill Hiebert had already spoken in support. Bill Hiebert is the only council member not otherwise heard in the debate.",
+   "notes": "P's 'Mr.' 01:17:16 and the start of the comment 01:17:19 is on E (overridden)."
+  },
+  {
+   "label": "Q",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Q 01:22:07 and 01:23:46 continue E's debate speech mid-sentence (same 107 Hz voice); Q 01:38:38 'Thank you, Mr. Mayor' right after the chair's 'Councillor Zwaagstra first... Go ahead'.",
+   "notes": "Post-adjournment 01:49:15 'You don't want this to continue' (old map Zwaagstra)."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:38:59",
+   "label": "B",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "continuation of Resident 6's statement (2008 sewer, 'council should deny this request again'); old map P"
+  },
+  {
+   "time": "01:14:39",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "questions to the applicant on U-turns/mailbox/sidewalk; Siemens refers back to them at 01:29:33 ('I mentioned earlier... U-turn'); O 01:15:41 finishes the 01:15:32 question; old map A = Siemens"
+  },
+  {
+   "time": "01:15:05",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "questions to the applicant on U-turns/mailbox/sidewalk; Siemens refers back to them at 01:29:33 ('I mentioned earlier... U-turn'); O 01:15:41 finishes the 01:15:32 question; old map A = Siemens"
+  },
+  {
+   "time": "01:15:11",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "questions to the applicant on U-turns/mailbox/sidewalk; Siemens refers back to them at 01:29:33 ('I mentioned earlier... U-turn'); O 01:15:41 finishes the 01:15:32 question; old map A = Siemens"
+  },
+  {
+   "time": "01:15:32",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "questions to the applicant on U-turns/mailbox/sidewalk; Siemens refers back to them at 01:29:33 ('I mentioned earlier... U-turn'); O 01:15:41 finishes the 01:15:32 question; old map A = Siemens"
+  },
+  {
+   "time": "01:16:31",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "questions to the applicant on U-turns/mailbox/sidewalk; Siemens refers back to them at 01:29:33 ('I mentioned earlier... U-turn'); O 01:15:41 finishes the 01:15:32 question; old map A = Siemens"
+  },
+  {
+   "time": "01:28:26",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "inside Siemens's debate speech (chair 'Go ahead' 01:28:17, ends with the friendly amendment answered 'Thank you, Councillor Siemens'); old map A"
+  },
+  {
+   "time": "01:47:58",
+   "label": "B",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "chair 'Councillor Siemens, you had a question?' 01:47:54"
+  },
+  {
+   "time": "01:25:36",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "ends Zwaagstra's debate speech begun on E 01:21:43 ('I will vote in favour of second reading'); old map I"
+  },
+  {
+   "time": "01:49:09",
+   "label": "C",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "post-adjournment, completes the 'Mr.' at the end of A 01:48:36; old map I = Zwaagstra, and Q 01:49:15 continues"
+  },
+  {
+   "time": "00:52:34",
+   "label": "D",
+   "person": "Resident 6",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "closing line of Resident 6's 00:51:11 statement; old map P"
+  },
+  {
+   "time": "00:52:37",
+   "label": "D",
+   "person": "Ben Derksen",
+   "role": "delegation",
+   "title": "Church board member",
+   "organization": "Steinbach Sommerfeld Church",
+   "confidence": "high",
+   "reason": "self-identification as church board member; minutes item 16"
+  },
+  {
+   "time": "00:54:44",
+   "label": "D",
+   "person": "Ben Derksen",
+   "role": "delegation",
+   "title": "Church board member",
+   "organization": "Steinbach Sommerfeld Church",
+   "confidence": "high",
+   "reason": "continues the church delegate's statement (sewer backup into church property); minutes item 16"
+  },
+  {
+   "time": "00:55:27",
+   "label": "D",
+   "person": "Ben Derksen",
+   "role": "delegation",
+   "title": "Church board member",
+   "organization": "Steinbach Sommerfeld Church",
+   "confidence": "medium",
+   "reason": "'Yes.' at the podium while Zwaagstra describes the church's letter"
+  },
+  {
+   "time": "00:56:11",
+   "label": "D",
+   "person": "Ben Derksen",
+   "role": "delegation",
+   "title": "Church board member",
+   "organization": "Steinbach Sommerfeld Church",
+   "confidence": "high",
+   "reason": "continues the delegate's answer to Zwaagstra ('we would welcome the people to come to attend to our church'); minutes 16.2"
+  },
+  {
+   "time": "00:56:57",
+   "label": "D",
+   "person": "Ben Derksen",
+   "role": "delegation",
+   "title": "Church board member",
+   "organization": "Steinbach Sommerfeld Church",
+   "confidence": "high",
+   "reason": "answers Zwaagstra: 'things to keep in mind' = minutes 16.2 (not formally objecting)"
+  },
+  {
+   "time": "00:57:00",
+   "label": "D",
+   "person": "Ben Derksen",
+   "role": "delegation",
+   "title": "Church board member",
+   "organization": "Steinbach Sommerfeld Church",
+   "confidence": "medium",
+   "reason": "delegate leaving the podium"
+  },
+  {
+   "time": "01:16:38",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "completes Siemens's 'Further question for administration' 01:16:31 (infill policy question); old map A"
+  },
+  {
+   "time": "01:28:18",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "start of Siemens's debate speech after the chair's 'Go ahead'; old map A 01:28:20"
+  },
+  {
+   "time": "01:31:00",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Siemens pursuing his friendly amendment with administration and Damian Penner, then 'I will vote in favour'; old map A"
+  },
+  {
+   "time": "01:31:23",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Siemens pursuing his friendly amendment with administration and Damian Penner, then 'I will vote in favour'; old map A"
+  },
+  {
+   "time": "01:31:39",
+   "label": "D",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Siemens pursuing his friendly amendment with administration and Damian Penner, then 'I will vote in favour'; old map A"
+  },
+  {
+   "time": "01:49:29",
+   "label": "D",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "low",
+   "reason": "post-adjournment library chat; old map B (mayor) at this time; not the applicant"
+  },
+  {
+   "time": "00:13:06",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with the 474 McKenzie address (00:13:06, 00:59:46) and speaks for his neighbour; minutes items 8 and 17.2"
+  },
+  {
+   "time": "00:59:46",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with the 474 McKenzie address (00:13:06, 00:59:46) and speaks for his neighbour; minutes items 8 and 17.2"
+  },
+  {
+   "time": "01:00:23",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with the 474 McKenzie address (00:13:06, 00:59:46) and speaks for his neighbour; minutes items 8 and 17.2"
+  },
+  {
+   "time": "01:00:28",
+   "label": "E",
+   "person": "Resident 2",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with the 474 McKenzie address (00:13:06, 00:59:46) and speaks for his neighbour; minutes items 8 and 17.2"
+  },
+  {
+   "time": "00:48:32",
+   "label": "E",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with the 534 Wilson Street address; minutes item 14"
+  },
+  {
+   "time": "00:50:48",
+   "label": "E",
+   "person": "Resident 8",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "mid-sentence inside Resident 8's statement (J 00:50:50 continues); old map F"
+  },
+  {
+   "time": "01:17:19",
+   "label": "E",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "start of the Parkview Crescent comment continued by P 01:17:34; see letter P"
+  },
+  {
+   "time": "01:29:32",
+   "label": "E",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "one word mid-sentence in Siemens's speech"
+  },
+  {
+   "time": "00:26:59",
+   "label": "F",
+   "person": "Resident 3",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with the 399 McKenzie address; minutes item 9"
+  },
+  {
+   "time": "00:55:47",
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Zwaagstra's question whether the church is objecting (minutes 16.1); old map I"
+  },
+  {
+   "time": "01:09:25",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "Susan Penner's phasing question continues (M 01:09:32 'And not the others'); old map O"
+  },
+  {
+   "time": "01:10:16",
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "council asks the applicant to address neighbourhood fit; old map I = Zwaagstra"
+  },
+  {
+   "time": "01:28:45",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "inside Siemens's debate speech/friendly amendment, answered 'Thank you, Councillor Siemens' 01:30:42; old map A"
+  },
+  {
+   "time": "01:28:59",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "inside Siemens's debate speech/friendly amendment, answered 'Thank you, Councillor Siemens' 01:30:42; old map A"
+  },
+  {
+   "time": "01:29:06",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "inside Siemens's debate speech/friendly amendment, answered 'Thank you, Councillor Siemens' 01:30:42; old map A"
+  },
+  {
+   "time": "01:30:00",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "inside Siemens's debate speech/friendly amendment, answered 'Thank you, Councillor Siemens' 01:30:42; old map A"
+  },
+  {
+   "time": "01:30:02",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "inside Siemens's debate speech/friendly amendment, answered 'Thank you, Councillor Siemens' 01:30:42; old map A"
+  },
+  {
+   "time": "01:30:35",
+   "label": "F",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "inside Siemens's debate speech/friendly amendment, answered 'Thank you, Councillor Siemens' 01:30:42; old map A"
+  },
+  {
+   "time": "01:36:59",
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues Zwaagstra's building-permit remarks begun on E 01:36:39 (R26-070 mover)"
+  },
+  {
+   "time": "01:38:49",
+   "label": "F",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues Zwaagstra's tax-levy remarks begun on E 01:38:39 (R26-072 mover)"
+  },
+  {
+   "time": "01:39:51",
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues Susan Penner's business-tax remarks between M 01:39:45 and M 01:40:05"
+  },
+  {
+   "time": "00:32:44",
+   "label": "G",
+   "person": "Resident 4",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "self-identifies with the Hespeler Street South address; minutes item 10"
+  },
+  {
+   "time": "00:59:09",
+   "label": "A",
+   "person": "Resident 9",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "'That's why I said I born in Paraguay' - the 486 McKenzie resident repeating his 00:57:10 introduction"
+  }
+ ],
+ "turn_splits": [
+  {
+   "time": "00:00:00",
+   "label": "A",
+   "text": "You're alive.",
+   "person": "Unclear",
+   "role": "unknown",
+   "title": null,
+   "confidence": "low",
+   "reason": "separate voice before the mayor's call to order (old transcript gave it its own letter)"
+  },
+  {
+   "time": "00:35:01",
+   "label": "A",
+   "text": "Yes, my name is [Resident 5]. I live at 524 McKenzie, and I would say pretty much what has already been said, except one thing that really affects me a lot is that the city fails to support the, the, the residents The street that I'm on because in winter when they push the snow up, 3, 4 feet high wall, I have to walk in traffic to get to a crosswalk. When I get to the crosswalk, it's not cleared. Never. And I'd have to walk into traffic again if I want to go for a walk down Hespeler. So, uh, Yeah, and if with more traffic now with this addition, I just don't see how this would work. That's all I have to say.",
+   "person": "Resident 5",
+   "role": "resident",
+   "confidence": "high",
+   "reason": "public-hearing objector at the 524 McKenzie address (minutes item 11); Resident 7 later cites him by surname; the transcript's name is a vocabulary mishearing"
+  },
+  {
+   "time": "01:13:45",
+   "label": "N",
+   "text": "Go ahead, Councillor Penner.",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "confidence": "high",
+   "reason": "the chair handing the floor"
+  },
+  {
+   "time": "01:18:07",
+   "label": "A",
+   "text": "Motion to approve.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "R26-068 mover D. Penner; old transcript gives it to Damian Penner's letter; he then speaks as mover"
+  },
+  {
+   "time": "01:30:42",
+   "label": "N",
+   "text": "Question to administration through you, Mr.",
+   "person": "Jac Siemens",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "Siemens asking about his own amendment, continued on D 01:31:00 'Mayor. Is that possible...'; old map A"
+  },
+  {
+   "time": "01:32:19",
+   "label": "A",
+   "text": "Nothing further, Your Worship.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "the mover's closing remark when the chair asks 'Anything closing?'; old map L = Damian Penner"
+  },
+  {
+   "time": "01:32:19",
+   "label": "A",
+   "text": "Motion to approve.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "said right after the chair names Councillor Zwaagstra for building permits (R26-070 mover M. Zwaagstra)"
+  },
+  {
+   "time": "01:09:36",
+   "label": "C",
+   "text": "Okay, thank you.",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "the questioner (Susan Penner) closing her exchange with the City Manager; old map O"
+  },
+  {
+   "time": "01:40:29",
+   "label": "A",
+   "text": "Thank you very much, Mr.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "reason": "continues on N 01:40:32 'Mayor. I agree with Councillor Penner's comments'"
+  },
+  {
+   "time": "01:48:36",
+   "label": "A",
+   "text": "Well, you get to start the meeting with the gavel, he gets to end it with a click. The gallery tells us when we're done.",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "post-adjournment banter; old transcript put it on Damian Penner's letter"
+  },
+  {
+   "time": "01:48:36",
+   "label": "A",
+   "text": "Mr.",
+   "person": "Michael Zwaagstra",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "reason": "start of 'Mr. Warkentin. Troy, you should turn off the livestream' continued on C 01:49:09; old map Zwaagstra"
+  }
+ ],
+ "summary": "Heavily merged diarization: B (Jake Hiebert + Jac Siemens), D (applicant + church delegate + Siemens), E (Zwaagstra + two residents), F (catch-all: four residents' and three councillors' turns) and G (a resident + Susan Penner) are fixed with overrides; Siemens's 01:28-01:32 speech is spread over five letters. Bill Hiebert (P) is medium; one resident's statement is split out of the mayor's 00:35:01 turn.",
+ "transcript": "transcripts/2026/2026-04-07.txt"
+}
