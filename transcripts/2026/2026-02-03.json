@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I would like to give the opening to Councillor Michael Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you very much, Mr. Mayor. I wanted to share some insights from a book that I just finished reading recently. It's by Joseph LeConte, and it is titled The War for Middle-earth: J.R.R. Tolkien and C.S. Lewis Confront the Gathering Storm, 1933 to 1945. What the book focuses on is the lives and the writings of 2 of the most famous authors who've ever lived, C.S. Lewis and J.R.R. Tolkien. We're probably familiar with many of their works, Lord of the Rings and The Hobbit written by Tolkien, books like The Chronicles of Narnia and Mere Christianity and The Screwtape Letters by C.S. Lewis. And what this book does is it focuses on the impact of both— that both World Wars had on the lives and the writing of these 2 men. We need to remember that when books are written, they're written in a context. And C.S. Lewis and J.R.R. Tolkien, they were in the trenches in World War I. A lot of people don't remember this. They were frontline soldiers. Now, they weren't frontline soldiers in the Second World War, but they were impacted. They were both in England when the bombings were taking place. And I want to read just an excerpt from the book. Just This is sort of pointing out a little bit about the impact that these wars had on these 2 men. Every age has its own outlook on the world, a mixture of clarity and blindness. Yet the moral blindness of the 20th century represented something entirely novel— ideologies that threatened to destroy the foundations of civilized life. Tolkien and Lewis believed that only an outlook rooted in ancient truths could resist it. The only palliative is to keep the clean sea breeze of the centuries blowing through our minds, Lewis wrote, and this can be done only by reading old books. Malcolm Gwete argues that their mastery of the classic texts of the Western tradition accounts for the enduring power of their fictional works. The themes that inspired their imaginary worlds embedded in these ancient resources also defined everyday life for the British people during the nightmare years of 1939 to 1945. Tolkien began writing The Lord of the Rings in December 1937, and despite the ongoing anxieties and terrors of wartime, nearly finished it before the Allied victory in 1945. Its length, over half a million words, allows for a rich mix of compelling personalities, evocative landscapes, invented languages, poetry, ancient histories, all supporting an epic story of moral complexity. In one of Tolkien's summaries of the book's plot, he identified themes that were obviously important to him. Rumours of troubles in the great world outside reached the hobbits, he wrote, especially the rise again of the Enemy. There is the breaking up of the Company and the reappearance of the Black Riders in still more terrible form. There are the politics of the defence of the West, And the machinations of the wizard Saruman, who has turned himself to evil and seeks for domination. There is the apparent disaster of Frodo being struck down by the monstrous spider, yet there remains the figure of Sam and his supreme, plain, dogged, common-sense heroism in aid of his master. The contagion of war, the lust for power, the existence of radical evil, and the courage required to resist it. The catastrophic events of war brought all of these concepts into focus. For his part, Lewis entered a season of astonishing literary creativity. Throughout the war, he labored seemingly nonstop to produce works of both prose and fiction that explained and defended historic Christianity for the modern mind. With a speech from Hitler ringing in his head, he set out to write a diabolical fantasy about the stratagems of the devil to corrupt the human soul. Outraged by a modern grammar book that effectively annihilated the concept of truth, he produced a defense of the moral law as a check against nihilism. Stunned by the humanistic appeal of pseudoscience from authors such as H.G. Wells, he wrote a science fiction thriller that recast the biblical concepts of the Fall, divine grace, and redemption. With Great Britain still enduring bombing raids by the Nazis, he traveled to London to deliver radio talks expounding the core doctrines of the faith. And after taking into his home English children displaced by the Blitz, he conceived of a children's story involving a magical wardrobe, a white witch, and a fearsome lion. So I knew the general context, but I really learned a lot by reading this book and seeing just how much the World Wars impacted the writings and the lives of these 2 men. And it got me thinking about— Yeah. Our own lives and the work that we do here in council. Each of us is molded by things that we've experienced in our own lives. We've all experienced hardships. We've experienced losses. We've gone through difficult things together. About 5 years ago, we went through a global pandemic together, and that shaped us. That impacted us. I didn't enjoy that time. In many ways, that was a miserable couple of years. I don't want to do that again. But we learned a lot through that. We learned about how difficult it can be to preserve relationships in the midst of hardships, in the midst of disagreement. And yet, in many ways, I hope that it's also made us better people, better councillors, knowing that even when you go through something really hard, something that tends to divide, we can still come through it together. And so I think we— it's good for all of us to reflect on the things that we've gone through things that we've experienced, and to remember that it affects the kind of leaders that we are today. And that's something I certainly learned from reading this book. Thank you, Mr. Mayor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=12s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Switzer. Council, we have the, uh, the agenda in front of us, looking for a motion to adopt. Councillor Hiebert, seconded by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. We have the minutes of January 20th, 2026, the regular council meeting on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Siemens— I mean, uh, Councillor Ebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=357s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "The other Jake.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=389s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "The other Jake. Uh, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=390s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=395s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is Thank you, Cari. Are there any— is there any business arising from the minutes? Okay, seeing none, we'll move directly into the public hearing. It's just a little after 7:35. This is 6A conditional use CU-2026-01. This is referring to 119 and 123 Industrial Road. At this time, I will close the council meeting. Closed. We'll open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=396s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor and members of council. The file number and subject property civic address has already been provided. The owner of the property, the owners of the properties are 6831576 Manitoba Ltd. and Reimer Agencies Ltd., and the applicant for the conditional use is Waldo Neusteder. The purpose of the conditional use application is to allow a social services facility to locate on the subject parcels, and as is required under Steinbach Zoning Bylaw 2245, social services facilities are a conditional use in the M-1 light industrial zone. Purpose of this application is for Trailblazers Life Choices and its proposal to locate its operations on the subject properties. Thank you. Notices as are required under the Planning Act have been issued. There is no written correspondence on file. As I mentioned, the application is to relocate an existing operation, which is currently being conducted on both— on several locations on Main Street and PTH 12 North in Steinbach to the subject property. It does not appear that there would be any negative impacts resulting from the approval of this application, as approximately 3 weeks ago under Steinbach Zoning Bylaw 2100, social service facility in the M-1 light industrial zone used to be a permitted use. A recommendation from administration is that council approve the application subject to any new evidence that's provided.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=430s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant present today? Would you like to speak?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=526s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "C",
    "label": "Waldo Neustaedter (Applicant (developer), CU-2026-01)",
    "text": "Yeah, I can speak for a minute here. Hi, Ronald Newstater, 101-32 Brandt Street, Steinbach. So I first met with— I just want to give you a little background of how we got here or whatever, and then we can go from there, I guess, if you have any questions. I first met with Life Trailblazers Life Choices in 2017 when they came to Steinbach and to get established here, and they leased space from us on Main Street. Since then, they have several other locations and they're attempting to consolidate some of their operations here with, with this location. They've experienced exceptional growth as documented in the material I provided to council and provide exceptional service to our region. Their day program supports over 60 individuals and Trailblazers also transports over 100 individuals, be it for their agency and for others. Trailblazers employs over 90 people in Steinbach today, which is— they've just been kind of that quiet, real nice business that we've wanted to see coming to Steinbach that we'd like to see more of. This site was chosen for probably 3 basic reasons. One was for visibility, one was for affordability, and one was for accessibility. So that's why we think it's a really good location for them. Thank you. This— the proposed building will be used as their local corporate office as well as facilitate their day programming needs for some of their clients. The first— the building that we're proposing to build, if we get approval here, would be just right around 5,000 square feet with the ability to add another 7,000 square feet behind it. And we're going to actually be— if we get to build it here, we'll be providing the parking lot that'll be— have enough parking to— for city requirements for the full 12,000 square feet. We'll do that right away. Trailblazers is committed to being a long-term community partner in Steinbach, contributing to inclusive neighborhoods, supporting residents to live, work, volunteer, and participate fully in community life. And it's our hope that you approve this application.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=532s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. It was a good presentation. I just want to ask council if there's Are there any questions for the applicant? Okay. Yes, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=661s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "Through you, Mr. Mayor, Phase 2, when would that be going? I know you're looking at Phase 1 now and you mentioned Phase 2.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=670s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "C",
    "label": "Waldo Neustaedter (Applicant (developer), CU-2026-01)",
    "text": "We're— I mean, if things move forward the way they are right now, we're looking at between 2 and 3 years from today.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=677s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Great. Anything further? Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=684s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "D",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Through you, is the plan to consolidate all of the Steinbach location into this building, or is this in addition?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=690s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "C",
    "label": "Waldo Neustaedter (Applicant (developer), CU-2026-01)",
    "text": "Yeah, not all of them. Like, the transportation part is going to be staying on Highway 12 North for the time being. It's a very suitable location for them there. So this will be mostly corporate and, and their day services that they provide.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=697s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything further? Thank you very much.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=711s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "C",
    "label": "Waldo Neustaedter (Applicant (developer), CU-2026-01)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=717s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Is there anyone here with comments, questions, or objections to this file? I will ask again. Is there anyone here with comments, questions, or objections to this file? Okay, I see none. One more time. Is there anyone here with comments, questions, or objections to this file? Okay, I'm— I see no objections, so, or comments or questions, so I will close the public hearing, open the council meeting. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=718s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make a motion to approve the conditional use.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=758s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=763s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. In conditional uses, obviously, we— the reason it's classified as a conditional use Is we— it's on a case-by-case basis. In this case, this is classified as a social services organization, uh, proposing to locate in the, uh, in an area that's zoned M1 Light Industrial Zone. And, uh, the evidence here I think is quite clear that there is no negative impact on the neighborhood, as evidenced by the fact that staff are not raising any concerns and there is no one here that is objecting. It's obvious that Trailblazers is doing good work in Steinbach. We want that work to continue. Thank you. And I think that the applicant did a good job of outlining some of the benefits of this particular property. So given that no one is raising any concerns and that we appreciate the work being done by Trailblazers, I think it makes sense to approve the conditional use.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=767s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=812s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=813s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you for the presentation. I appreciate what Trailblazers is doing in and for the community of Steinbach, surrounding areas, assisting our most vulnerable people in the community. I was impressed from the— in the presentation where it's employing 90 people. 60 individuals are going to the programs right now, and a further 100 people are being transported. So it's a good economic booster for Steinbach, and I really appreciate more than anything the work that they're doing with vulnerable people. Thank you. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=816s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You. Anything further, Council? Anything in closing? Uh, yes, Council, I do believe this is a good fit for the area. I, I agree for the 3 reasons of, of building here: visibility, affordability, and accessibility. I think it's a— it's an easy place to get to. Um, looking very much forward to the growth that they're going to be having in the, in the next few years. And also, they're becoming a, a big employer in our community. 90, 90 people is That's no small company anymore. That's great. And what they do in our community, helping the people they help, that segment of the population, I just think that that is a great thing. Call for the question. All those in favor? Opposed? That is carried.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=852s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=899s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Okay, council, we have no delegations. We've got reports and recommendations of city manager. We've got 8A. This is a crawler purchase approval. It starts on page 22. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=901s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Item under consideration is the purchase of a solid waste department crawler. That is a unit that is primarily used in the city's landfill site to manage the waste that's brought in. Pricing from 2 vendors was solicited for the replacement of the city's existing unit. The current unit is a 2020 John Deere 755K chassis, and it's reached the end of its useful life. And of the 2 bids received, recommendation is to approve the purchase of the new crawler unit from Brandt Tractor for the gross price of $665,000 less a trade-in allowance of $145,000 for a net price of $520,000 plus the ESF. GST and GST. And recommendation is in accordance with the city's purchasing bylaw and policy, which requires any purchases exceeding $350,000 to be presented to council for approval.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=921s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=997s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1001s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by? Councillor Penner. Go ahead, Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1005s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. Our landfill continues to grow and we need equipment. This is a replacement crawler to move the product around, and it is coming under budget. We have a preliminary budget of $600,000, so it's coming in just under $600,000 when you add the PST and GST to it. So, and",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1010s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "We're able to have a trade-in allowance for a used one, so which is also So it's a new unit that'll give us many more years.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1033s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1043s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1046s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1047s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1050s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I will call for the question. All those in favour? Opposed? That is carried. We have 8B. This is the front load container truck. This is also a purchase approval. It starts on page 26. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1051s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Similar to the crawler, the city also has a front-load container truck that is used for primarily multifamily and commercial sanitation services within Steinbach. Pricing from 3 vendors was solicited for the replacement of the existing 2011 truck. Net pricing was provided from both Commercial Truck Equipment, Superior North America, and Joe Johnson Equipment, with the low bid being from Commercial Truck Equipment. Recommendation is to approve this purchase for a total price of $516,699 plus applicable taxes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1068s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1111s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1119s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1120s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. Similar to Councillor Siemens' comments, this is part of, part of our services that we provide to the— that the city provides to our citizens, and we need working and operational equipment before it gets to the end of its life.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1122s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "And so this replacement for the total of $516,699 Plus PST and GST comes right into the budget of $560,000. So we're right in there and we will have a nice shiny garbage truck for a day.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1138s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1152s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "Yes, thank you, Mr. Mayor. I noticed that this used truck that we have there is 15 years old, so it served us well. And like Councillor Penner said, I'm looking forward to a shiny new garbage truck.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1156s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Michael Zwaagstra) [low]",
    "text": "Hear, hear.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1156s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1169s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Mr. Mayor, through you, could I— a couple of questions for administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1174s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Go",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1177s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Ahead. Are we getting anything for the trade-in?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1178s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Based on the condition of the existing unit, no trade-in has been considered.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1180s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1187s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Nor will it be.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1187s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "There's also upgrades that are required for the tune of $5,280. Is that on top of the $560,000?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1188s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "My understanding is that those upgrades are included in the quoted price.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1197s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1202s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1203s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "No, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1210s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Mayor. Okay. I'll call for the question. All those in favour? Opposed? That is carried. 9A, we've got accounts payable at the back of the book. All had a chance to review, looking for a motion to approve. Councillor Hiebert, seconded by Councillor Siemens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1212s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1235s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. We've got 9B, excavator licenses on page 51. Looking for a motion to approve. Councillor Hiebert. Second by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1236s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1236s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council over the question? All those in favor? Opposed? That is carried. We've got 9C. This is bylaw 2270, debt issue. It's referring to Loewen Boulevard and PTH 12. This is third reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1236s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. Bylaw 2270 was presented to council some time ago for consideration of first and second reading. That is the debenture issue for the city's project to improve the PTH 12 and Loewen Boulevard intersection. Municipal board has now approved the proposed borrowing for $3 million to be repaid over a 5-year period at a rate of 3.83%. Recommendation is for council to give this bylaw third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1274s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much, Mr. Fortin. Uh, council, motion to approve by Councillor Zwaagstra, seconded by Councillor Siemens. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1303s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. As noted, this is, uh, uh, a component of the funding that we needed in order to complete the upgrade to the PTH 12 and Loewen Boulevard intersection. This is a bylaw that had been before us some time ago that we gave first and second reading to, and as a standard with a borrowing bylaw, it then has to get officially ratified by or approved by the municipal board, which they have approved in this case. So now we can give it third reading. Total amount is $3 million. That was the amount that we had authorized, and we of course have to budget under the assumption at the time that the interest rate could be up to 7%. But of course, that's not what we're paying. We're paying 3.83% per year over the 5-year period, which is, which is a very good rate.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1313s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor) [medium]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1357s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Nope. Council, call for the question. All those in favour? Opposed? That is carried. We've got 9D. This is bylaw 2271. This is also a debt issue. This is referring to Southeast Event Centre. This is also third reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1360s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This particular bylaw, as you mentioned, is a proposed debenture issue for funding to complete the construction of the Southeast Event Centre. This borrowing will authorize $2.5 million to be allocated to this project. Municipal board again has reviewed this proposed borrowing bylaw and has approved, and accordingly, council may now give third reading to this bylaw, and it proposes that the $2.5 million to be authorized be repaid over 5 years at a rate of 3.83%.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1385s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1424s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1431s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1432s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. This is the motion to approve the $2.5 million in borrowing to put the final touches onto the events center. Whenever you have a large project such as this, the hardest part is always getting it across the finish line. And the $7.5 million that was originally put out as a debenture was done fairly early in the project. Administration came to us and said that they might need up to $5 million, and everybody sharpened their pencils on the project very well, and we only had to put out a debenture of $2.5 million for a rate of 3.83%. And as this is the last one, we can officially say the event center will be paid off in 5 years, which I don't know of many communities that can say that. So I'd like to officially thank everybody that's been part of this project and to put the this together.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1435s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1484s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "I'll just add I'm very excited about the whole project being done. That's it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1486s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1490s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1494s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Uh, yes, council, this is, uh, this was a substantial project, biggest one that we've ever done in, in, uh, in our— in Steinbach's history. And to have 2 debentures totaling $10 million is That's phenomenal. Thank you. I know Councillor Damian Penner had said that it's paid off in 5 years. There's not too many communities that can say that, but there's also not too many communities can say that they can build a $76 million complex with $10 million worth of debt. And that is definitely a testament to how our city is run, decisions that we've made as council. And the community that came forward with donations for this event centre. So it's a job well done by all people in Steinbach. Call for the question. All those in favour? Opposed? That is carried. 9E, we have subdivision 4451-2022. 85-86. This is by resolution. It starts on page 66. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1494s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This is an application for subdivision that council has seen before. So it is, I guess, in a way, a bit of déjà vu. And council did approve this particular subdivision September of 2022. And under the current legislation, subdivision approvals are in effect for 2 years with an option to extend for a further year to allow applicants time to complete the required conditions for the subdivision. In the case of this particular subdivision, it is reaching the end of its Thank you. We're nearing the end of the eligibility period, and unless council amends the approval and requires a further revision of the existing development agreement to reflect current conditions that are in place today that weren't reflected 3 years ago, the applicant runs the risk of having to reapply and start the subdivision over. By reauthorizing the subdivision approval subject to the execution of a revised development agreement, this would permit some additional time for the applicant to complete the required conditions, and recommendation is for council to make that approval.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1570s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Okay, council, so we're looking for a motion to approve this amending so we can, so we can move forward with the application. provide the applicant with additional time to complete.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1656s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1671s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1675s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a project that has been on our books for quite a while already, but what's been holding up this project has been the Manning Canal, the public reserve that is on either side of this Development, and that is with the provincial government. And we've been working together with them, and it's been taking some time to come up with an agreement. So all this does is it provides opportunity to extend this project without having to reapply. Under our current zoning bylaws, they have to reapply after a certain amount of time, but now we can actually, through this revised development agreement, Then it extends time to— so that the city can come up with an agreement with MTI on how to manage the Manning Canal.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1678s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1729s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1732s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further for council? Call for the question. All those in favour? Opposed? That is carried. Council, we have 9F. This is to appoint a tax sale manager. Revised resolution. It's on page 7. And the resolution is to appoint Donna Zinku, Vice President of Tax Service Inc., or Tyler Burnside, President of Tax Service Inc., as the— to manage the property tax arrears recovery for the City of Steinbach. So council, looking for a motion to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1732s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "So moved.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1732s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Susan Penner, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1732s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1776s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All those in favor? Opposed? That is carried. 9G, this is Manitoba Hydro. This is referring to Parkhill Phase 2C street lighting resolution. So these are 13 streetlights that are being put into the— that have been put into the Phase C2, and we are just approving them. And this— it will increase our annual street lighting costs by $23,868 per year. So motion to approve. Second by Councillor Penner. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1778s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, a couple of comments. I think it's important for us to continue with our streetlight program that we have everywhere else in Steinbach, and this is an agreement with Manitoba Hydro. I do want to point out though that this letter is addressed to the City of Steinbach, but in the body of the letter we're still called the Town of Steinbach. Maybe Manitoba Hydro needs to know that we incorporated as a city in 1996, and— or potentially the writer of this letter has fond memories of the Town of Steinbach. Okay.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1822s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1853s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. It's important for the safety, uh, on roads to have, have additional lighting, and this is something that will do that. And I'm also glad to— that they gave us an annual streetlight cost, because now I have ammo for my kids when they leave the lights on at home.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1854s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "It does significantly increase the—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1868s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Does, does increase our budget.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1871s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything? Call for the question. All those in favor? Opposed? That is carried. Council question period. Are there any questions of council today? Okay, seeing none, we'll move on. Correspondence petitions, we've got 11A, Recovery of Hope. This is referring to workshop sponsorship request. Councillor, would you like to proceed, take his information at this time?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1873s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Please.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1901s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. 11B, we've got Seine-Rat-Rosa Watershed District. This is the minutes of December 16th, 2025 and January 1st, 2026. Council, would you like to proceed, take his information? Yes. And 11C, this is Seine-Rat-Rosa Watershed winter 2026 newsletter. Uh, council, again, um, I, I would recommend we take his information. There's no other business. Looking for a motion to adjourn.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1902s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "So moved.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1902s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? And the next council meeting is Tuesday, February 17th, 2026, at 7:30 PM.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VMdjv7TCdv4&t=1902s"
   }
  ]

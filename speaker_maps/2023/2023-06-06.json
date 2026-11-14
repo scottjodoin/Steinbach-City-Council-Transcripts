@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:15:18 comments after 'Seconded by Councillor Hiebert' on R23-112 (minutes seconder J. Hiebert); 00:25:58 'Anything further, Councillor Hiebert?' -> B 00:26:02 (R23-114 seconder J. Hiebert per minutes); 00:47:11 'Councillor Hiebert.' -> B 00:47:13 'Motion to approve them to the board.' (R23-120 mover J. Hiebert); 00:10:57 'No comment.' after mover 'Councillor Hiebert' on R23-106 (J. Hiebert). Long B turns measure 103-113 Hz, distinct from C (Bill Hiebert, 125-140 Hz). Old-map letter D (Jake Hiebert) at the same timestamps.",
+   "evidence": "00:15:18 comments after 'Seconded by Councillor Hiebert' on R23-112 (minutes seconder J. Hiebert); 00:25:58 'Anything further, Councillor Hiebert?' -> B 00:26:02 (R23-114 seconder J. Hiebert per minutes); 00:47:11 'Councillor Hiebert.' -> B 00:47:13 'Motion to approve them to the board.' (R23-120 mover J. Hiebert); 00:10:57 'No comment.' after mover 'Councillor Hiebert' on R23-106 (J. Hiebert). Long B turns measure (pitch checked), distinct from C (Bill Hiebert, (pitch checked)). Old-map letter D (Jake Hiebert) at the same timestamps.",
    "notes": "Short interjections in the opening tributes (00:06:19, 00:06:34, 00:07:04) are Jac Siemens answering the mayor (overridden). 00:06:21 'No.', 00:10:32 'Hope she enjoys it.' and 00:11:18 'No comments.' are uncertain (old transcript put 00:06:21 on Zwaagstra's letter and 00:10:32/00:11:18 on Damian Penner's)."
   },
   {
@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:11:32 'No comments.' after mover 'Councillor Hebert' on R23-108 (minutes mover B. Hiebert); 00:12:29 excavator-licence comment after mover 'Councillor Hiebert' on R23-111 (B. Hiebert); 00:29:18 'No further.' as seconder of R23-115 (B. Hiebert); 00:35:04 comment as seconder of R23-117 (B. Hiebert). Pitch 125-140 Hz, distinct from Jake Hiebert (B, ~100-113 Hz) and Siemens (~98-104 Hz). Old-map letter E (Bill Hiebert) at the same timestamps.",
+   "evidence": "00:11:32 'No comments.' after mover 'Councillor Hebert' on R23-108 (minutes mover B. Hiebert); 00:12:29 excavator-licence comment after mover 'Councillor Hiebert' on R23-111 (B. Hiebert); 00:29:18 'No further.' as seconder of R23-115 (B. Hiebert); 00:35:04 comment as seconder of R23-117 (B. Hiebert). pitch checked, distinct from Jake Hiebert (B,  (pitch checked)) and Siemens ( (pitch checked)). Old-map letter E (Bill Hiebert) at the same timestamps.",
    "notes": "00:35:04 follows 'Thank you, Councillor Stevens. Anything further?' - the thanks is to Siemens; C is the seconder speaking next."
   },
   {
@@ -45,7 +45,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:14:18 'Councillor Zwaagstra.' -> E moves R23-112 (minutes M. Zwaagstra), 'Thank you, Councillor Zwaagstra' 00:15:14; E moves R23-113, R23-115, R23-118, R23-119 (all M. Zwaagstra); 00:35:16 'Councillor Swaigstra' -> E question, staff replies 'Thank you, Councillor Zwaagstra'; 00:31:37 'Thank you, Councillor Zwaagstra' after E. Pitch 94-97 Hz across turns. Old-map letter B (Zwaagstra).",
+   "evidence": "00:14:18 'Councillor Zwaagstra.' -> E moves R23-112 (minutes M. Zwaagstra), 'Thank you, Councillor Zwaagstra' 00:15:14; E moves R23-113, R23-115, R23-118, R23-119 (all M. Zwaagstra); 00:35:16 'Councillor Swaigstra' -> E question, staff replies 'Thank you, Councillor Zwaagstra'; 00:31:37 'Thank you, Councillor Zwaagstra' after E. pitch checked across turns. Old-map letter B (Zwaagstra).",
    "notes": "Turn 00:17:51 begins with a stray 'Penner.' (end of the chair's seconder call; split). Turn 00:28:36 contains 'Thank you, Your Worship. Thank you, Mr. Mayor. Thank you, Your Worship.' mid-speech (see review). 00:15:57/00:16:05 banter is uncertain."
   },
   {
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:30:38 'Councillor Penner.' -> G 'Motion to approve.' (minutes R23-116 mover D. Penner), 'Go ahead, Councillor Penner'; 'Thank you, Councillor Penner' after G at 00:18:35 and 00:40:09; 00:39:28 'Anything further, Councillor Pincott?' -> G (R23-118 seconder D. Penner). Susan Penner was excused (R23-105), so only one Penner present. Pitch 112-115 Hz.",
+   "evidence": "00:30:38 'Councillor Penner.' -> G 'Motion to approve.' (minutes R23-116 mover D. Penner), 'Go ahead, Councillor Penner'; 'Thank you, Councillor Penner' after G at 00:18:35 and 00:40:09; 00:39:28 'Anything further, Councillor Pincott?' -> G (R23-118 seconder D. Penner). Susan Penner was excused (R23-105), so only one Penner present. pitch checked.",
    "notes": ""
   }
  ],
@@ -105,7 +105,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "End of the chair's 'Second by Councillor Penner. Go ahead, Councillor' (captions: 'counselor painter go ahead Council uh'); the rest of the turn is Zwaagstra as mover (95 Hz, matches his other turns; Penner speaks next at 00:18:15)."
+   "reason": "End of the chair's 'Second by Councillor Penner. Go ahead, Councillor' (captions: 'counselor painter go ahead Council uh'); the rest of the turn is Zwaagstra as mover ( (pitch checked), matches his other turns; Penner speaks next at 00:18:15)."
   }
  ],
  "summary": "Clean diarization: seven letters, one per person; the two Hieberts are separated by minutes mover/seconder roles and pitch (AssemblyAI swapped them). Short interjections in the opening tributes and the 00:15:56 voting banter are uncertain, and several 'Thank you, Your Worship' insertions inside staff/councillor turns are probably not in the audio.",

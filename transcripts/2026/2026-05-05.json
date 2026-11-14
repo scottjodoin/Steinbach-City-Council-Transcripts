@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "Nice to see you. I know, he's a lot more—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone, and I'd like to give the opening to Councillor Susan Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=3s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Across Canada, and really across the country, there's a growing concern that cities and municipalities are sharing. Whether we're talking about water systems, roads, or public facilities, The cost of infrastructure is rising faster than our ability to afford it. If we simply accept that this is just the way it is, then costs will continue to rise at disproportionate rates with no accountability. Rising infrastructure costs are not caused by one single factor, but include things like overregulation, dramatic increase in costs like construction and more complex technology, and the approval process itself. But what can we actually do about it? I think cities and municipalities need to be more assertive in engaging and challenging the higher levels of government on things that are driving up the cost of infrastructure. For example, when it comes to overregulation, we need to respectfully and constructively engage with the province to ask for outcome-based regulation standards that focus on measurable results, not just prescriptive processes. That includes requesting reviews of requirements on major projects, projects like our upcoming water treatment plant, to ensure they are proportionate, evidence-based, and delivering real benefit. The new water treatment facility Steinbach is planning will be the most significant investment the city has ever made. It's exactly the kind of project where costs can escalate quickly based on regulatory requirements. Projected costs of this project have skyrocketed to over $200 million. It is entirely reasonable for us as stewards of our residents' dollars to ask, do the environmental requirements we're being asked to meet produce meaningful and measurable benefits? Are they aligned with the realities of our region and watershed? Is there flexibility in how outcomes can be achieved in a more cost-effective way? It is not reasonable to expect cities and municipalities to blindly follow the regulations that have been handed down to us Without reasonable evidence that increased regulations provide a benefit equal to the additional cost, particularly when these costs are primarily borne by the municipality. The dramatic cost increases in construction and complex technologies are also pushing the cost of infrastructure to unaffordable levels. This means we need to relook at the way we do things. I recently read an article on public transit And how expensive it is to build in North America. It then examined European countries, which are known for their excellent public transit. For example, Italy's transit systems have often been built at significantly lower costs, not because they are unsafe or poorly built, but because they rely more heavily on standardized designs and proven templates. Designs are reused, projects move forward with more consistency. There is a lesson here. We don't always need to reinvent the wheel to do something well. Maybe efficiencies could be attained by having more standardization and using templates from proven projects. Maybe we need to explore ways for infrastructure to be more repeatable, predictable, and less customized so it becomes more affordable. Or when it comes to increasingly complex technology, we can ask the important question: is complexity always better? In some cases it is, but in others, simpler proven systems may achieve the same outcomes at a significantly lower cost. Council can support an approach that prioritizes fit-for-purpose solutions. Years ago, I used to do consulting for businesses and nonprofits. There was one fledgling nonprofit that was spending $1,200 a month on its fundraising software. I asked them why they were using such an expensive system. I was told because it's the best. This system was capable of managing hundreds of thousands of donors, but the nonprofit I was helping had under 1,000 donors. So while the system may have been the best in the market, it was not the best for the organization. As it turns out, there was a $12 a month system that worked way better for them, saving money and increasing efficiency. Again, the best system in the market was not the best solution for them. And finally, the project approval process itself is increasing the cost of projects. We need to advocate for more streamlined, coordinated approvals. Too often timelines are extended not because of the project itself, but because of overlapping reviews, unclear requirements, grant processes, or sequential approvals that could be done in parallel. Time is money in infrastructure, and delays, delays translate directly into higher costs. Our event centre is a prime example of delays in approvals, which ended up adding millions of dollars to the project. More efficient processes will directly impact the bottom line. None of what I've said is about lowering standards or cutting corners. It's about being responsible, about ensuring that the infrastructure we build is not only effective, but affordable, sustainable, and realistic for taxpayers who ultimately pay for them. And that is a role we can and should play. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=12s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us looking for a motion to adopt. Councillor Siemens, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We got the minutes of April 21st, 2026, regular council meeting. On page 1, we've all had a chance to review, looking for a motion to approve. Councillor Jake Hiebert, seconded by Councillor Zwaagstra. Call for the question. All those in favor? Opposed? That is carried. Council, do we have any business arising from the minutes? Okay, seeing none, we've got no public hearings, no delegations, no reports and recommendations. We'll go to 9A. Second. Administration, accounts payable. Also at the back of the book, we've all had a chance to review, looking for a motion to approve. Second. Councillor Hiebert, second by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. We've got 9B, public reserve closing. This is bylaw 2278. This is referring to Parkhill Phase C2, This is our first reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=325s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This bylaw number 2278 is being presented to council for consideration of first reading, and that is to close an existing public reserve within the Parkhill development, and particularly in Phase 2C. The recommendation is being given to help facilitate this next phase of development development for the Parkhill subdivision or residential area. Recommendation from administration is council give this bylaw first reading, and then a public hearing may be scheduled.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=404s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=436s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=441s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=442s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. As noted, this is a, uh, a bylaw, uh, to First reading to allow the public hearing to go ahead, and this would close the public reserve at Parkhill Phase 2C. It's not as big a change as it looks because this is a public reserve that had been opened but left undeveloped. And this will— as part of this, the public reserve is being moved slightly. And so rather than simply close the small portion that's being adjusted, our administration is saying that it's easier to close the entire public reserve and then reopen it. And so that's the procedure that we're following here. But this is a residential development that is planned to go ahead, and that's good.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=445s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. As, as phases of developments occur, the plans do change, and we are not a council that wants to have regulatory red tape. So this is a good opportunity for us to allow that development to change with as",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=488s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "F",
    "label": "Earl Funk (Mayor)",
    "text": "Anything",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=488s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Further for council? Any closing?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=506s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Now I'm really in favor of this. Let's do it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=510s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We'll go directly into 9C, which is road closing, Bylaw 2279. This is again in Parkhill Phase 2C. First reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=512s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. As you mentioned, Bylaw 2279 is also related to the previous Bylaw 2278. However, this particular bylaw is proposing consideration of council for first reading to close both Pacific Bay and Rosebrook Trail. Similar logic in that in order to best facilitate the development that is being planned. It is more efficient to close all of the public roads within the proposed subdivision under this bylaw, and then they will be reopened as part of the new subdivision process. Recommendation is to give this bylaw first reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=534s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=577s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Move first reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=580s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=587s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As the city manager explained, this is connected to the public reserve closing, except this is the road closing. And again, it's a minor change in the overall plan here. And it states here, as it states here, the bylaw is to close the entirety of Pacific Bay and Rosebrook Trail, but the roads will subsequently be opened as part of the next phase of development. And again, it's because of some changes in the plans of the development, it's simpler to proceed this way.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=590s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Penner? Anything further of council? Anything in closing? No. Call for the question. All those in favour? Opposed? That is carried. We have come to council question period. Are there any questions of council? Okay, seeing none, we'll move on to correspondence petition. We've got 11A. This is from the Arm of Ste. Anne. This is an AMM resolution request. It's strengthening oversight for natural resources. It starts on page 14 of our packet. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=619s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. As council has been able to read Through the letter and the attached resolution, the RM of St. Anne has undertaken renewed interest in the proposed silica sand mining project that was originally proposed by C.O. Silica several years ago and has now been resubmitted for consideration by the province. It is asking consideration of council with respect to 2 things. Firstly, whether or not council has interest in reconvening the area municipalities' participation in a joint committee that was established to provide a comprehensive message and position with respect to concerns of the area. With respect to the proposed mining project. Secondly, the RM has also asked if council would consider supporting the enclosed resolution, and at this point, there isn't any specific recommendation from administration other than there appeared to be satisfactory and actually progressive results with participation in the joint committee in the previous process and the submission for the environmental application that was previously submitted by Ceosilica. And should council be interested in proceeding with renewing that participation in that committee, that would be the recommendation of administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=660s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warding. Council, just before I ask for direction. I'm just going to have a couple comments. I have looked at the resolution by the owner of Ste. Anne, and I, as I do want to support our neighboring municipality, I do believe there's, there are quite a few areas of regulation that they're putting in this resolution. And if something were to go forward mining, I think with our province mandate, we'll be one of the strictest. Thank you. Regulatory provinces as far as mining goes. I think it would just add costs again, as we were— as the opening of— Yes. Councillor Susan Penner. So I'm not inclined to do that, but I would— and I'm not as sure either if we wanted to completely reconvene the Joint Action Committee, but council, would you be okay with asking administration Thank you. I was wondering if there was an opportunity to at least reconnect with the municipalities that we were in the joint action committee with to see what their views on some of this is. This is a new application, so I think it has to be looked at with a new lens, and I'm just wondering if just reconnecting and just talking with municipalities that we were once together with in a joint action committee might be wise at this time in reversing— just, you know, just holding our comment at this time. Council, how would you like to proceed?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=775s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I agree.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=870s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Agree? Okay. Okay. Mr. Warkentin, then would you then take council's charge to connect with the municipalities that we are in the joint action committee Just to have— start that conversation, see where everybody's at, and, and, um, and see what information everybody does have on this new plan.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=872s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I can do that, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=893s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. We have 11B. This is the RCMP invitation to participate in the public and police safety framework consultation. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=896s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This is more just information for council. The RCMP Contract Management Committee is Reaching out to all of the various jurisdictions that, that currently receive RCMP policing in Canada. It was more just for information that if there is any interest from the general public to participate in this public consultation, that is just information that's provided for, for them to do so.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=914s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so at this time we'll just take this information, Council. Thank you. There's no other business— other business is 12A, request from SCO and Eden Healthcare Services for formal endorsement. Council, we have a letter here on the desk from Layton Knapp, and we do know that the last time they came to see us at committee meeting, they did make a request for an endorsement letter that they could take to the province. Council, how do you feel about making this endorsement letter?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=956s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Thanks, Ben.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=997s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "To support the project, the bridge on—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=998s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Definitely support, yep.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=998s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. That's exactly what I'd like to do. I think I'd like to send a letter endorsing from council, and then we would— that they could put that in every package and all their funding, everything that they would, all the grant that they would be going after, that letter would then be going along with them showing support for them.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=998s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Should there be a resolution or is a consensus sufficient? Let me check with city council. Because they said formal endorsement, so I'm just—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1023s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Mr. Warkentin, do you want that done by resolution or is just consensus of council at a meeting?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1032s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Consensus is always Good, but resolutions are better.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1037s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, looking for a resolution. Motion to approve, Councillor Susan Penner, seconded by Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1044s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve. Um, just a few comments. This is a project, uh, I know council is very supportive of. There's a couple of reasons. Both Steinbach Community Outreach and Eden Healthcare Services have a great track record in our community for decades. These aren't just new organizations, but we've seen them in action for years and trust them and know that they do good work. Second of all, this is not the first bridge project they're doing, and the first one is showing really good success in terms of helping people who are housing vulnerable, who have mental health challenges, and it's working. People are beginning to graduate, so to speak, out of the housing and become more independent. So I think it's a very effective program, and it only makes sense that we would endorse it and throw our support behind it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1050s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "G",
    "label": "Earl Funk (Mayor)",
    "text": "Anything?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1107s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, Mr. Mayor, thank you. I think this is an important project for Steinbach. As we have been growing as a city, then we also— all aspects of the city are growing, including our homeless population. And this certainly does speak well to the supportive housing needs in Steinbach. Community service— Steinbach Community Outreach has been around for 20, 25 years. Eden Mental Health has been around for longer. They both have a good track record working together with the province and the various departments of the province. And under the mental health and under the homelessness, under the underprivileged and so on. So I think this is very important. It doesn't solve our issues, but it's a step in the right direction, and certainly support it. And by the city endorsing it as part of it as well, I think it'll speak well to the province too that the city is behind it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1107s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Any further comments? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1165s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'm happy to support the resolution as well. As was stated by Councillor Penner and affirmed by Councillor Siemens, These are 2 organizations that have a solid track record, and so we do, we do trust that they know what they're doing. They've proven this. And I just want to point out that in terms of the way that, I mean, the bridge project, the first bridge started, was the province allocating funds and then asking the city to make a decision as to where those funds should be allocated, which organization. And that was a prime example of how something good can happen from government funding, where A need is identified, the government provides funds, the local government then decides which organization is best suited to deal with those, and we got the Bridge, which has been remarkably successful. It happened quickly in a straightforward manner, and I'm optimistic that this will be even better because you have 2 organizations working together. They're targeting, you know, some people who have higher needs, addressing even, you know, more of the issues that we have within Steinbach. And so if the bridge on Third is anything like the initial bridge project, that's good. And the fact that it's going to have even more supports here means it'll be even better. So this is, this is the way to go.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1168s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1238s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "Thank you, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1238s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "H",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "Mayor. I was working at the— I was volunteering at the Pick Up and Walk on Saturday, and I had somebody approach me regarding someone that is in— has got mental issues, is in need of housing, and so on and so forth. And I said there is a project that's possibly on the way, and we have a lot of need for this type of housing. So I think this is a really good thing, and I do support it as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1243s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1265s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1270s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Well, council, you know what? This project will directly address a critical gap in our community. First with homelessness, the frequent hospital visits as well, and emergency demands, emergency service demands, and also giving, giving people in our community quality of life. And these are 2 organizations that have dedicated their time, the time they spend in our community on that. And I'm just really looking forward to that. And I, I do support this. Thank you. And I think we should support this as a council level and get this letter out to them so that they can send that letter along with every grant application knowing that they have local support. Call for the question. All those in favor? Opposed? That is carried. And council, one more thing. I will be appointing Ashley Okay, and looking for a motion to adjourn. Councillor Penner. Seconded by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting, Tuesday, May 19th, 2026, 7:30 PM.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5EOmcGSqEbs&t=1270s"
   }
  ]

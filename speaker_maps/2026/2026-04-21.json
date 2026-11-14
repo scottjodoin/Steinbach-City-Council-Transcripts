@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "calls the meeting to order, runs every hand-off and vote; 'In 2010, I was voted on council' (00:00:03); addressed as 'Mr. Mayor' throughout; minutes: Mayor Earl Funk chaired; pitch ~138 Hz",
+   "evidence": "calls the meeting to order, runs every hand-off and vote; 'In 2010, I was voted on council' (00:00:03); addressed as 'Mr. Mayor' throughout; minutes: Mayor Earl Funk chaired; pitch checked",
    "notes": "Absorbs some short words from others (applicants' 'Yes.', 'Motion to approve.' 00:17:26, 'Nothing.' 01:00:12, 'Yes, that's correct.' 01:00:12, 'Second.' 01:01:11); the clear ones are split."
   },
   {
@@ -18,7 +18,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "introduces every file right after 'Mr. Warkentin, can you please introduce this file?' (00:07:58, 00:16:04, 00:19:30, 00:25:15, 00:28:52, 00:42:51, 00:57:29); chair 'Thank you, Mr. Warkentin' after each; minutes 7.1, 10.1, 13.1, 16.1, 18: Troy Warkentin, City Manager introduced; pitch ~121 Hz",
+   "evidence": "introduces every file right after 'Mr. Warkentin, can you please introduce this file?' (00:07:58, 00:16:04, 00:19:30, 00:25:15, 00:28:52, 00:42:51, 00:57:29); chair 'Thank you, Mr. Warkentin' after each; minutes 7.1, 10.1, 13.1, 16.1, 18: Troy Warkentin, City Manager introduced; pitch checked",
    "notes": "00:11:17 (Zwaagstra's motion) and 00:12:12 (D. Penner as seconder) are overridden. Several 'Thank you, Your Worship.' fragments inside his reports are probably not his words (see review)."
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Go ahead, Councillor Zwaagstra.' 00:11:19 -> D 00:11:24; 'Councillor Zwaagstra.' 00:26:31 -> D motion to defer 00:27:06 (minutes R26-080 M. Zwaagstra mover); 'Go ahead, Councillor Sunyer [Zwaagstra]' 00:38:10 -> D; seconds 'Councillor Hiebert's motion' 01:00:08 after 'Councillor Zwaagstra, go ahead' (minutes R26-090 M. Zwaagstra seconder); G says 'I agree with Councillor Zwaagstra' 00:27:46; pitch ~103 Hz",
+   "evidence": "'Go ahead, Councillor Zwaagstra.' 00:11:19 -> D 00:11:24; 'Councillor Zwaagstra.' 00:26:31 -> D motion to defer 00:27:06 (minutes R26-080 M. Zwaagstra mover); 'Go ahead, Councillor Sunyer [Zwaagstra]' 00:38:10 -> D; seconds 'Councillor Hiebert's motion' 01:00:08 after 'Councillor Zwaagstra, go ahead' (minutes R26-090 M. Zwaagstra seconder); G says 'I agree with Councillor Zwaagstra' 00:27:46; pitch checked",
    "notes": "00:55:01 'Okay.' is a stray label."
   },
   {
@@ -45,7 +45,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Hebert. Motion to approve. Seconded by Councillor Hiebert. Go ahead, Councillor.' 00:17:26 -> E mover speech 00:18:10, and G then says 'Councillor Hiebert has said it all' (minutes R26-078 J. Hiebert mover, B. Hiebert seconder); E speaks as seconder on the Manning Canal MOU 00:32:12 (minutes R26-081 J. Hiebert seconder); E replies as mover of both third readings 00:55:00, 00:57:00 (minutes R26-086, R26-088 J. Hiebert mover); same voice ~107-115 Hz across 00:12:17, 00:18:10, 00:32:12",
+   "evidence": "chair 'Councillor Hebert. Motion to approve. Seconded by Councillor Hiebert. Go ahead, Councillor.' 00:17:26 -> E mover speech 00:18:10, and G then says 'Councillor Hiebert has said it all' (minutes R26-078 J. Hiebert mover, B. Hiebert seconder); E speaks as seconder on the Manning Canal MOU 00:32:12 (minutes R26-081 J. Hiebert seconder); E replies as mover of both third readings 00:55:00, 00:57:00 (minutes R26-086, R26-088 J. Hiebert mover); same voice  (pitch checked) across 00:12:17, 00:18:10, 00:32:12",
    "notes": "E also carries Damian Penner on the subdivision (00:58:49, 00:58:54, 00:59:39) and at 00:54:23; overridden. Identification does not use the recorded vote on R26-077."
   },
   {
@@ -54,7 +54,7 @@
    "role": "resident",
    "title": "Applicant",
    "confidence": "high",
-   "evidence": "self-identifies at 00:17:02 as the V-2026-08 applicant speaking for herself and her husband, after the chair asks the applicant for name and address; minutes 10.3 name the same applicant; woman's voice ~150 Hz"
+   "evidence": "self-identifies at 00:17:02 as the V-2026-08 applicant speaking for herself and her husband, after the chair asks the applicant for name and address; minutes 10.3 name the same applicant; woman's voice  (pitch checked)"
   },
   {
    "label": "G",
@@ -62,7 +62,7 @@
    "role": "staff",
    "title": "Senior Manager, Corporate Services",
    "confidence": "medium",
-   "evidence": "'Mr. Thiessen, could you please give us the highlights' 00:34:57 -> G 'Certainly, yes.' and the DFA report 00:35:03 (minutes 20: Adam Thiessen provided the DFA information); G continues answering the chair's question to Mr. Thiessen 00:36:43-00:38:05; pitch ~122-130 Hz",
+   "evidence": "'Mr. Thiessen, could you please give us the highlights' 00:34:57 -> G 'Certainly, yes.' and the DFA report 00:35:03 (minutes 20: Adam Thiessen provided the DFA information); G continues answering the chair's question to Mr. Thiessen 00:36:43-00:38:05; pitch checked",
    "notes": "G is a merged cluster: it also carries Bill Hiebert (00:18:56, 00:27:46, 00:55:42, 00:59:57) and Damian Penner (00:22:53, 00:53:57, 00:54:02, 00:54:23 'I'd'); all overridden. Thiessen's report is split between G and H turns."
   },
   {
@@ -71,8 +71,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Susan Penner, seconded by Councillor Hiebert. Go ahead.' 00:55:01 -> H 00:55:28 (minutes R26-087 S. Penner mover); H moves CU-2026-04 00:21:53, Manning Canal 00:31:10 and By-law 2275 00:47:25 after 'Councillor Penner' each time (minutes R26-079, R26-081, R26-084 S. Penner mover); woman's voice 168-204 Hz on all speech turns (Damian Penner here ~108-124 Hz)",
-   "notes": "H also carries pieces of Adam Thiessen's DFA answers (00:36:13, 00:37:27, 00:37:36, 00:38:03) and his 01:01:05 reply; overridden (127-138 Hz)."
+   "evidence": "chair 'Councillor Susan Penner, seconded by Councillor Hiebert. Go ahead.' 00:55:01 -> H 00:55:28 (minutes R26-087 S. Penner mover); H moves CU-2026-04 00:21:53, Manning Canal 00:31:10 and By-law 2275 00:47:25 after 'Councillor Penner' each time (minutes R26-079, R26-081, R26-084 S. Penner mover); woman's voice (pitch checked) on all speech turns (Damian Penner here  (pitch checked))",
+   "notes": "H also carries pieces of Adam Thiessen's DFA answers (00:36:13, 00:37:27, 00:37:36, 00:38:03) and his 01:01:05 reply; overridden ( (pitch checked))."
   }
  ],
  "turn_overrides": [
@@ -83,7 +83,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Councillor Zwaagstra.' immediately before; motion to approve V-2026-07 (minutes R26-077 M. Zwaagstra mover); old transcript put it on Zwaagstra's letter; 115 Hz, not the City Manager's report voice"
+   "reason": "chair 'Councillor Zwaagstra.' immediately before; motion to approve V-2026-07 (minutes R26-077 M. Zwaagstra mover); old transcript put it on Zwaagstra's letter; (pitch checked), not the City Manager's report voice"
   },
   {
    "time": "00:12:12",
@@ -128,7 +128,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "seconder's speech on CU-2026-04 refers to 'Councillor Penner' (the mover S. Penner) as someone else (minutes R26-079 D. Penner seconder); 108 Hz man's voice; old map credited it to Damian Penner"
+   "reason": "seconder's speech on CU-2026-04 refers to 'Councillor Penner' (the mover S. Penner) as someone else (minutes R26-079 D. Penner seconder); (pitch checked) man's voice; old map credited it to Damian Penner"
   },
   {
    "time": "00:27:46",
@@ -146,7 +146,7 @@
    "role": "staff",
    "title": "Senior Manager, Corporate Services",
    "confidence": "high",
-   "reason": "continuation of Thiessen's DFA report mid-sentence; 127 Hz man's voice, not Susan Penner; minutes 20 record this content as Thiessen's"
+   "reason": "continuation of Thiessen's DFA report mid-sentence; (pitch checked) man's voice, not Susan Penner; minutes 20 record this content as Thiessen's"
   },
   {
    "time": "00:37:27",
@@ -155,7 +155,7 @@
    "role": "staff",
    "title": "Senior Manager, Corporate Services",
    "confidence": "high",
-   "reason": "answer to the chair's question addressed to 'Mr. Thiessen'; 138 Hz man's voice; old transcript had this whole answer on Thiessen's letter"
+   "reason": "answer to the chair's question addressed to 'Mr. Thiessen'; (pitch checked) man's voice; old transcript had this whole answer on Thiessen's letter"
   },
   {
    "time": "00:37:36",
@@ -173,7 +173,7 @@
    "role": "staff",
    "title": "Senior Manager, Corporate Services",
    "confidence": "high",
-   "reason": "fragment of Thiessen's continuing answer mid-sentence; 128 Hz"
+   "reason": "fragment of Thiessen's continuing answer mid-sentence; (pitch checked)"
   },
   {
    "time": "00:53:57",
@@ -182,7 +182,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "minutes R26-085 D. Penner mover of By-law 2276 second reading, and Damian Penner gives the mover's speech next; but this one-second clip measures 187 Hz, which suggests a woman's voice (Susan Penner?)"
+   "reason": "minutes R26-085 D. Penner mover of By-law 2276 second reading, and Damian Penner gives the mover's speech next; but this one-second clip measures (pitch checked), which suggests a woman's voice (Susan Penner?)"
   },
   {
    "time": "00:54:02",
@@ -191,7 +191,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mover's speech on By-law 2276 after chair 'Councillor Penner ... Go ahead, Councillor' (minutes R26-085 D. Penner mover, M. Zwaagstra seconder); 115 Hz man's voice, so not Susan Penner; old map credited it to Damian Penner"
+   "reason": "mover's speech on By-law 2276 after chair 'Councillor Penner ... Go ahead, Councillor' (minutes R26-085 D. Penner mover, M. Zwaagstra seconder); (pitch checked) man's voice, so not Susan Penner; old map credited it to Damian Penner"
   },
   {
    "time": "00:54:23",
@@ -209,7 +209,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "rest of the mover's closing remark 'I'd be remiss...' (old transcript one Damian Penner turn); 132 Hz, unlike Jake Hiebert's ~110 Hz"
+   "reason": "rest of the mover's closing remark 'I'd be remiss...' (old transcript one Damian Penner turn); (pitch checked), unlike Jake Hiebert's  (pitch checked)"
   },
   {
    "time": "00:55:42",
@@ -236,7 +236,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mover's speech after 'Seconded by Councillor Penner. Go ahead.' (minutes R26-089 D. Penner mover); 124 Hz, higher than Jake Hiebert's turns (~110 Hz); old map credited it to Damian Penner"
+   "reason": "mover's speech after 'Seconded by Councillor Penner. Go ahead.' (minutes R26-089 D. Penner mover); (pitch checked), higher than Jake Hiebert's turns ( (pitch checked)); old map credited it to Damian Penner"
   },
   {
    "time": "00:59:39",
@@ -254,7 +254,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Councilor Bill Hiebert. Move to approve. Second by? Councillor Zwaagstra, go ahead.'; Zwaagstra then says 'Councillor Hiebert has made a compelling case. I'm happy to second his motion' (minutes R26-090 B. Hiebert mover); 154 Hz"
+   "reason": "chair 'Councilor Bill Hiebert. Move to approve. Second by? Councillor Zwaagstra, go ahead.'; Zwaagstra then says 'Councillor Hiebert has made a compelling case. I'm happy to second his motion' (minutes R26-090 B. Hiebert mover); (pitch checked)"
   },
   {
    "time": "01:01:05",
@@ -263,7 +263,7 @@
    "role": "staff",
    "title": "Senior Manager, Corporate Services",
    "confidence": "high",
-   "reason": "answer to the chair's 'Mr. Thiessen, this just gets forwarded...' about the grant installments; 133 Hz man's voice, not Susan Penner; old map credited it to Thiessen"
+   "reason": "answer to the chair's 'Mr. Thiessen, this just gets forwarded...' about the grant installments; (pitch checked) man's voice, not Susan Penner; old map credited it to Thiessen"
   }
  ],
  "turn_splits": [

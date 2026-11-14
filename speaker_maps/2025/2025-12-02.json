@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order (00:00:01), gives the opening to Councillor Damian Penner, runs every agenda item, names movers/seconders matching the minutes (R25-231 S. Penner/B. Hiebert, R25-232 J. Hiebert/J. Siemens) and calls every vote; addressed as 'Mr. Mayor' throughout. Minutes: Mayor Earl Funk called the meeting to order. Pitch ~148-150 Hz (00:05:58, 00:10:35, 00:16:45).",
+   "evidence": "Calls the meeting to order (00:00:01), gives the opening to Councillor Damian Penner, runs every agenda item, names movers/seconders matching the minutes (R25-231 S. Penner/B. Hiebert, R25-232 J. Hiebert/J. Siemens) and calls every vote; addressed as 'Mr. Mayor' throughout. Minutes: Mayor Earl Funk called the meeting to order. pitch checked (00:05:58, 00:10:35, 00:16:45).",
    "notes": "00:15:29 'Oh,' is the City Manager (overridden). His long turns contain short interjections by others ('Second.' and 'So moved.' at 00:03:11; 'That's right.'/'Thank you.' at 00:07:03; 'Further.' at 00:12:39) that cannot be placed; left with the chair, see review."
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'I would like to give the opening to Councillor Damian Penner' (00:00:01), B gives the opening mentioning 'the Penner house', chair replies 'Thank you, Councillor Penner' (00:03:11); minutes item 3: Councillor Damian Penner opened the meeting. Chair names 'Councillor Penner, seconded by Councillor Hiebert. Go ahead.' and B speaks as mover on R25-238 (00:12:00) and R25-241 (00:16:17, 'I'm happy to move the resolution'); minutes: D. Penner mover of both. G at 00:12:26 refers to 'Councillor Damian Penner'. Pitch 124-132 Hz.",
+   "evidence": "Chair: 'I would like to give the opening to Councillor Damian Penner' (00:00:01), B gives the opening mentioning 'the Penner house', chair replies 'Thank you, Councillor Penner' (00:03:11); minutes item 3: Councillor Damian Penner opened the meeting. Chair names 'Councillor Penner, seconded by Councillor Hiebert. Go ahead.' and B speaks as mover on R25-238 (00:12:00) and R25-241 (00:16:17, 'I'm happy to move the resolution'); minutes: D. Penner mover of both. G at 00:12:26 refers to 'Councillor Damian Penner'. pitch checked.",
    "notes": "00:04:57 'Thank you, Mr. Mayor. This' is the City Manager starting the subdivision report (overridden). 'That is.' inside the 00:16:27 turn is the mayor's answer (split)."
   },
   {
@@ -27,7 +27,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this' (00:03:11 end), C reads the subdivision application (00:04:59); chair replies 'Thank you, Mr. Warkentin' (00:05:58). At 00:15:30 C says administration was less than clear and recommends the borrowing resolution; B then says 'Mr. Warkentin must have been looking through the camera' (00:16:17). Minutes: City Manager Troy Warkentin present. Pitch 110-116 Hz.",
+   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this' (00:03:11 end), C reads the subdivision application (00:04:59); chair replies 'Thank you, Mr. Warkentin' (00:05:58). At 00:15:30 C says administration was less than clear and recommends the borrowing resolution; B then says 'Mr. Warkentin must have been looking through the camera' (00:16:17). Minutes: City Manager Troy Warkentin present. pitch checked.",
    "notes": "Also speaks the mislabelled 00:04:57 (B), 00:15:26 (E) and 00:15:29 (A) pieces (overridden)."
   },
   {
@@ -36,8 +36,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'Looking for a resolution. Councillor Zwaagstra.' then D 'Motion to approve.' (00:13:51) and D's substantive turn after 'Go ahead, Councillor' (00:13:55); minutes R25-239 M. Zwaagstra mover. On 9C D says 'I'll make a motion to approve' (00:06:03) and gives the mover's speech (00:06:10); minutes R25-235 M. Zwaagstra mover, D. Penner seconder (chair: 'Second by Councillor Penner'). Pitch 100-103 Hz on both speeches.",
-   "notes": "'Penner.' at the start of 00:06:10 completes the chair's 'Go ahead, Councillor' (split to the mayor). 'Sure.' at the end of 00:15:16 is the mayor's reply (split; original transcript had it on the mayor). 'Yes, Mayor Fund.' (00:17:23) measures 150 Hz, unlike Zwaagstra; left on D, see review."
+   "evidence": "Chair: 'Looking for a resolution. Councillor Zwaagstra.' then D 'Motion to approve.' (00:13:51) and D's substantive turn after 'Go ahead, Councillor' (00:13:55); minutes R25-239 M. Zwaagstra mover. On 9C D says 'I'll make a motion to approve' (00:06:03) and gives the mover's speech (00:06:10); minutes R25-235 M. Zwaagstra mover, D. Penner seconder (chair: 'Second by Councillor Penner'). pitch checked on both speeches.",
+   "notes": "'Penner.' at the start of 00:06:10 completes the chair's 'Go ahead, Councillor' (split to the mayor). 'Sure.' at the end of 00:15:16 is the mayor's reply (split; original transcript had it on the mayor). 'Yes, Mayor Fund.' (00:17:23) measures (pitch checked), unlike Zwaagstra; left on D, see review."
   },
   {
    "label": "E",
@@ -45,8 +45,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'Councillor Susan Penner.' then E 'Motion to approve.' (00:09:03), 'Go ahead, Councillor Susan.' and E's substantive turn (00:09:08); F replies 'I agree with Councillor Susan Penner with everything she said' (00:10:04). Minutes R25-236 S. Penner mover. Pitch 190 Hz (00:09:08).",
-   "notes": "00:15:26 'Mr. Mayor?' measures 107 Hz (a man) and leads into the City Manager's correction; overridden to Troy Warkentin."
+   "evidence": "Chair: 'Councillor Susan Penner.' then E 'Motion to approve.' (00:09:03), 'Go ahead, Councillor Susan.' and E's substantive turn (00:09:08); F replies 'I agree with Councillor Susan Penner with everything she said' (00:10:04). Minutes R25-236 S. Penner mover. pitch checked (00:09:08).",
+   "notes": "00:15:26 'Mr. Mayor?' measures (pitch checked) (a man) and leads into the City Manager's correction; overridden to Troy Warkentin."
   },
   {
    "label": "F",
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "F speaks only in the 'Anything further?' slot right after the mover on the two items whose seconder the chair names as 'Councillor Hiebert' and the minutes give as B. Hiebert: R25-236 (00:10:04, after S. Penner) and R25-239 (00:14:26, after Zwaagstra). Pitch 138-145 Hz fits Bill Hiebert (137-165 Hz in other meetings) and differs from G's ~110 Hz (Jake Hiebert's range). No by-name hand-off or reply, so medium.",
+   "evidence": "F speaks only in the 'Anything further?' slot right after the mover on the two items whose seconder the chair names as 'Councillor Hiebert' and the minutes give as B. Hiebert: R25-236 (00:10:04, after S. Penner) and R25-239 (00:14:26, after Zwaagstra). pitch checked fits Bill Hiebert ( (pitch checked) in other meetings) and differs from G's  (pitch checked) (Jake Hiebert's range). No by-name hand-off or reply, so medium.",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "G's substantive turns fall only on items where the minutes list J. Hiebert: R25-237 library appointment (00:11:12, chair 'Councillor Hiebert. Seconded by Councillor Siemens', minutes J. Hiebert/J. Siemens), R25-238 interim budget (00:12:26, right after mover D. Penner; minutes seconder J. Hiebert) and R25-241 (00:16:43, after mover D. Penner; seconder J. Hiebert). Pitch 108-111 Hz matches Jake Hiebert's ~105-111 Hz elsewhere and differs from F (Bill Hiebert). Jac Siemens (103-120 Hz) cannot be excluded by voice and is seconder on R25-237.",
-   "notes": "Short G lines 'Nothing further, thank you.' (00:16:43, 154 Hz) and 'Please do.' (00:18:01, 174 Hz) do not match G's ~110 Hz; left on G, see review."
+   "evidence": "G's substantive turns fall only on items where the minutes list J. Hiebert: R25-237 library appointment (00:11:12, chair 'Councillor Hiebert. Seconded by Councillor Siemens', minutes J. Hiebert/J. Siemens), R25-238 interim budget (00:12:26, right after mover D. Penner; minutes seconder J. Hiebert) and R25-241 (00:16:43, after mover D. Penner; seconder J. Hiebert). pitch checked matches Jake Hiebert's  (pitch checked) elsewhere and differs from F (Bill Hiebert). Jac Siemens ( (pitch checked)) cannot be excluded by voice and is seconder on R25-237.",
+   "notes": "Short G lines 'Nothing further, thank you.' (00:16:43, (pitch checked)) and 'Please do.' (00:18:01, (pitch checked)) do not match G's  (pitch checked); left on G, see review."
   }
  ],
  "turn_overrides": [
@@ -75,7 +75,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "reason": "Chair has just asked Mr. Warkentin to introduce the file; 'Thank you, Mr. Mayor. This' runs straight into C's 'subdivision application file...'; pitch 119 Hz matches C (116 Hz); the original transcript has this text on the City Manager's letter."
+   "reason": "Chair has just asked Mr. Warkentin to introduce the file; 'Thank you, Mr. Mayor. This' runs straight into C's 'subdivision application file...'; pitch checked matches C ( (pitch checked)); the original transcript has this text on the City Manager's letter."
   },
   {
    "time": "00:15:26",
@@ -84,7 +84,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "reason": "'Mr. Mayor?' measures 107 Hz, a man's voice, not Susan Penner (190 Hz this meeting); matches C (110 Hz), whose correction about page 44 follows immediately."
+   "reason": "'Mr. Mayor?' measures (pitch checked), a man's voice, not Susan Penner ( (pitch checked) this meeting); matches C ( (pitch checked)), whose correction about page 44 follows immediately."
   },
   {
    "time": "00:15:29",
@@ -93,7 +93,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "medium",
-   "reason": "'Oh,' begins C's 'excuse me. Uh, Mr. Mayor' (original transcript: 'Oh, excuse me' on the City Manager's letter); pitch 109 Hz matches C, not the mayor (~150 Hz)."
+   "reason": "'Oh,' begins C's 'excuse me. Uh, Mr. Mayor' (original transcript: 'Oh, excuse me' on the City Manager's letter); pitch checked matches C, not the mayor ( (pitch checked))."
   }
  ],
  "turn_splits": [
@@ -125,9 +125,9 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "Answer to Damian Penner's 'Is that accurate?'; the original transcript has 'That is.' on the mayor's letter, and 00:16:35-00:16:37 measures 148 Hz (mayor ~150) against B's 122-132 Hz."
+   "reason": "Answer to Damian Penner's 'Is that accurate?'; the original transcript has 'That is.' on the mayor's letter, and 00:16:35-00:16:37 measures (pitch checked) (mayor ~150) against B's (pitch checked)."
   }
  ],
- "summary": "Short, clean meeting (18 min); seven letters map one-to-one to council and the City Manager. The two Hieberts are separated by minutes seconder pattern and pitch (F 138-145 Hz = Bill, G ~110 Hz = Jake), medium confidence; Jake vs Siemens for G is not separable by voice. Several short interjections inside the chair's turns and three short G/D lines with mismatched pitch need an ear.",
+ "summary": "Short, clean meeting (18 min); seven letters map one-to-one to council and the City Manager. The two Hieberts are separated by minutes seconder pattern and pitch (F (pitch checked) = Bill, G  (pitch checked) = Jake), medium confidence; Jake vs Siemens for G is not separable by voice. Several short interjections inside the chair's turns and three short G/D lines with mismatched pitch need an ear.",
  "transcript": "transcripts/2025/2025-12-02.txt"
 }

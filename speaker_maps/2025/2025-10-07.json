@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Minutes item 2: Mayor Earl Funk called the meeting to order. A calls to order (00:00:00), gives every hand-off, opens/closes the public hearing and calls every question; speakers address 'Mr. Mayor'. Pitch ~147-152 Hz across 00:05:13, 00:12:54, 00:21:11.",
+   "evidence": "Minutes item 2: Mayor Earl Funk called the meeting to order. A calls to order (00:00:00), gives every hand-off, opens/closes the public hearing and calls every question; speakers address 'Mr. Mayor'. pitch checked across 00:05:13, 00:12:54, 00:21:11.",
    "notes": "Boundary slips: 'Thank you, Mayor.' at the start of 00:16:38 is the end of Zwaagstra's speech; 'Thank you, Mr. Mayor.' at the end of 00:26:01 is a councillor (probably Zwaagstra) taking the floor (both split). The chair's 'Anything further, Council?' sits at the end of H 00:32:29 (split) and his 'Anything further?' is on H 00:18:10 (override)."
   },
   {
@@ -17,7 +17,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "evidence": "00:07:54 self-identifies after the chair asks the applicant to state name and address: lives at 53 Grandview Drive, bought the property September 1. Minutes item 6.3: the owner of 53 Grandview Drive was present and said exactly this. Name transcribed garbled; minutes give the owner's name. Pitch 104 Hz.",
+   "evidence": "00:07:54 self-identifies after the chair asks the applicant to state name and address: lives at 53 Grandview Drive, bought the property September 1. Minutes item 6.3: the owner of 53 Grandview Drive was present and said exactly this. Name transcribed garbled; minutes give the owner's name. pitch checked.",
    "notes": "Merged letter: 00:00:11 is Jac Siemens starting the opening (override); 00:05:42 'No comments.' is a councillor (override, Bill Hiebert medium)."
   },
   {
@@ -26,8 +26,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Minutes item 3: Councillor Jac Siemens opened the meeting; chair hands the opening to 'Councillor Jake Siemens' (00:00:00), C reads it and chair replies 'Thank you, Councillor Siemens' (00:05:13). 00:25:01 after 'Councillor Siemens, is there anything you wanted to add?' C speaks on the library snapshot (163 items per hour, two staff) = minutes item 15. 00:17:41 'Motion to approve' auditor = R25-191 mover J. Siemens (chair then names seconder Hiebert = J. Hiebert). Pitch 99-120 Hz.",
-   "notes": "Merged with Michael Zwaagstra at 00:28:29 and 00:29:26 (overrides). 00:31:49 (MMA acknowledgement, 103 Hz) left with Siemens, but could be Zwaagstra (review)."
+   "evidence": "Minutes item 3: Councillor Jac Siemens opened the meeting; chair hands the opening to 'Councillor Jake Siemens' (00:00:00), C reads it and chair replies 'Thank you, Councillor Siemens' (00:05:13). 00:25:01 after 'Councillor Siemens, is there anything you wanted to add?' C speaks on the library snapshot (163 items per hour, two staff) = minutes item 15. 00:17:41 'Motion to approve' auditor = R25-191 mover J. Siemens (chair then names seconder Hiebert = J. Hiebert). pitch checked.",
+   "notes": "Merged with Michael Zwaagstra at 00:28:29 and 00:29:26 (overrides). 00:31:49 (MMA acknowledgement, (pitch checked)) left with Siemens, but could be Zwaagstra (review)."
   },
   {
    "label": "D",
@@ -43,7 +43,7 @@
    "person": "Resident 2",
    "role": "resident",
    "confidence": "high",
-   "evidence": "00:08:45 self-identifies as the applicant's mother standing in for him, gives her address at 00:09:22 and says she speaks on behalf of the applicant (00:09:30) = minutes item 6.4. Pitch 183 Hz.",
+   "evidence": "00:08:45 self-identifies as the applicant's mother standing in for him, gives her address at 00:09:22 and says she speaks on behalf of the applicant (00:09:30) = minutes item 6.4. pitch checked.",
    "notes": "00:12:53 'Nothing further.' comes after the public hearing closed, in reply to the chair's 'Anything in closing?' (override, low)."
   },
   {
@@ -52,7 +52,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:09:31 chair 'Councillor Penner.' -> F questions administration on the variance; G (Susan Penner, a woman, 184-203 Hz) moves it, so F's 00:11:46 'support the motion' = R25-187 seconder D. Penner. 00:20:15 F speaks second on building permits = R25-192 seconder D. Penner, right after the chair's 'Go ahead, Susan' turn went to G. Pitch 128-139 Hz, in Damian Penner's range, unlike Bill Hiebert (~160) or Jake Hiebert (~110).",
+   "evidence": "00:09:31 chair 'Councillor Penner.' -> F questions administration on the variance; G (Susan Penner, a woman, (pitch checked)) moves it, so F's 00:11:46 'support the motion' = R25-187 seconder D. Penner. 00:20:15 F speaks second on building permits = R25-192 seconder D. Penner, right after the chair's 'Go ahead, Susan' turn went to G. pitch checked, in Damian Penner's range, unlike Bill Hiebert (~160) or Jake Hiebert (~110).",
    "notes": ""
   },
   {
@@ -61,7 +61,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:18:11 chair 'Councillor Penner. Seconded by Councillor Penner as well. Go ahead, Susan.' -> G 00:19:10 (R25-192 mover S. Penner). 00:11:00 'Yes, Councillor Penner.' -> G 'Motion to approve' variance (R25-187 mover S. Penner). 00:28:37/00:29:22 G seconds the MWSB resolution (R25-193 seconder S. Penner). Chair 00:32:49 'follow up on Councillor Susan Penner's comment' about growth stopping = G 00:30:40. Pitch 184-203 Hz (woman).",
+   "evidence": "00:18:11 chair 'Councillor Penner. Seconded by Councillor Penner as well. Go ahead, Susan.' -> G 00:19:10 (R25-192 mover S. Penner). 00:11:00 'Yes, Councillor Penner.' -> G 'Motion to approve' variance (R25-187 mover S. Penner). 00:28:37/00:29:22 G seconds the MWSB resolution (R25-193 seconder S. Penner). Chair 00:32:49 'follow up on Councillor Susan Penner's comment' about growth stopping = G 00:30:40. pitch checked (woman).",
    "notes": "00:16:08 and 00:16:26 are mid-sentence pieces of Zwaagstra's plan-of-works speech (overrides)."
   },
   {
@@ -70,8 +70,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "Never named in a hand-off ('go ahead, councillor'). 00:14:30 'No comments, thank you.' right after the chair names 'Councillor Hiebert' mover of the financial statements = R25-189 mover J. Hiebert. Substantive turns 00:12:18 and 00:32:29 measure 110 and 116 Hz, matching Jake Hiebert's ~104-115 Hz measured in other meetings, not Bill Hiebert's ~155-160 Hz. By elimination the only councillor left besides Bill Hiebert.",
-   "notes": "00:18:10 'Anything further?' (157 Hz) is the chair (override). 00:32:29 ends with the chair's 'Anything further, Council?' (split). 00:14:30 itself measures 144 Hz, higher than H's other turns (review)."
+   "evidence": "Never named in a hand-off ('go ahead, councillor'). 00:14:30 'No comments, thank you.' right after the chair names 'Councillor Hiebert' mover of the financial statements = R25-189 mover J. Hiebert. Substantive turns 00:12:18 and 00:32:29 measure 110 and (pitch checked), matching Jake Hiebert's  (pitch checked) measured in other meetings, not Bill Hiebert's  (pitch checked). By elimination the only councillor left besides Bill Hiebert.",
+   "notes": "00:18:10 'Anything further?' ( (pitch checked)) is the chair (override). 00:32:29 ends with the chair's 'Anything further, Council?' (split). 00:14:30 itself measures (pitch checked), higher than H's other turns (review)."
   },
   {
    "label": "I",
@@ -79,7 +79,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:15:44 chair 'Councillor Zwaagstra.' -> I 'I'll make the motion to approve first reading' = R25-190 mover M. Zwaagstra; chair afterwards 'Thank you, Councillor Zwaagstra' (00:16:38). Pitch 92 Hz.",
+   "evidence": "00:15:44 chair 'Councillor Zwaagstra.' -> I 'I'll make the motion to approve first reading' = R25-190 mover M. Zwaagstra; chair afterwards 'Thank you, Councillor Zwaagstra' (00:16:38). pitch checked.",
    "notes": "His speech is split across I and G (00:16:08, 00:16:26 overridden to him); also on C at 00:28:29 and 00:29:26."
   }
  ],
@@ -100,7 +100,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "mover's reply right after the chair names 'Councillor Hiebert' as mover of the minutes (R25-186 mover B. Hiebert); 163 Hz, matching Bill Hiebert (~160) not Jake Hiebert (~110)"
+   "reason": "mover's reply right after the chair names 'Councillor Hiebert' as mover of the minutes (R25-186 mover B. Hiebert); (pitch checked), matching Bill Hiebert (~160) not Jake Hiebert (~110)"
   },
   {
    "time": "00:12:53",
@@ -109,7 +109,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "answers the chair's 'Anything in closing?', which goes to the mover (R25-187 mover S. Penner); public hearing already closed; same pattern as G 00:21:10; pitch 152 Hz is ambiguous"
+   "reason": "answers the chair's 'Anything in closing?', which goes to the mover (R25-187 mover S. Penner); public hearing already closed; same pattern as G 00:21:10; pitch checked is ambiguous"
   },
   {
    "time": "00:16:08",
@@ -136,7 +136,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "chair's wording, repeated in the next turn; 157 Hz like the chair (~150), not H (~110)"
+   "reason": "chair's wording, repeated in the next turn; (pitch checked) like the chair (~150), not H (~110)"
   },
   {
    "time": "00:28:29",
@@ -145,7 +145,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "moves the MWSB resolution = R25-193 mover M. Zwaagstra; 89 Hz like I"
+   "reason": "moves the MWSB resolution = R25-193 mover M. Zwaagstra; (pitch checked) like I"
   },
   {
    "time": "00:29:26",
@@ -154,7 +154,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mover speaks after the seconder; chair 00:32:49 refers to 'the economic engine that Councillor Switzer [Zwaagstra] talked about' = this turn's 'economic horse ... social cart'; 101 Hz"
+   "reason": "mover speaks after the seconder; chair 00:32:49 refers to 'the economic engine that Councillor Switzer [Zwaagstra] talked about' = this turn's 'economic horse ... social cart'; (pitch checked)"
   }
  ],
  "turn_splits": [

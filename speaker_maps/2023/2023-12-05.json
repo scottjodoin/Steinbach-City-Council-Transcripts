@@ -8,7 +8,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair gives the opening to 'Councillor Michael Zwaagstra' 00:00:07 -> A opening 00:00:20, thanked 'Thank you, Councillor Zwaagstra' 00:04:27 (minutes item 3: M. Zwaagstra opened); A moves the variance 00:10:35 and the chair says 'Go ahead, Councillor Zwaagstra' -> A 00:10:41 (minutes R23-242 mover M. Zwaagstra); chair names 'Councillor Swaigstra' mover of the interim budget, 'Go ahead' -> A 00:14:37 (minutes R23-244 mover M. Zwaagstra). Pitch 90-99 Hz in normal speech.",
+   "evidence": "Chair gives the opening to 'Councillor Michael Zwaagstra' 00:00:07 -> A opening 00:00:20, thanked 'Thank you, Councillor Zwaagstra' 00:04:27 (minutes item 3: M. Zwaagstra opened); A moves the variance 00:10:35 and the chair says 'Go ahead, Councillor Zwaagstra' -> A 00:10:41 (minutes R23-242 mover M. Zwaagstra); chair names 'Councillor Swaigstra' mover of the interim budget, 'Go ahead' -> A 00:14:37 (minutes R23-244 mover M. Zwaagstra). pitch checked in normal speech.",
    "notes": "00:00:01 and 00:00:03 are pre-meeting chatter before the meeting is called to order; the old transcript split these lines differently and the speaker is not certain. 00:20:20 'That was so good.' sat on a separate letter in the old transcript and may be another councillor."
   },
   {
@@ -18,7 +18,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order 00:00:07 (minutes item 2: Mayor Earl Funk called the meeting to order), names movers and calls every vote, opens and closes the public hearing (minutes item 7), hands files to 'Mr. Thiessen'; addressed as 'Mr. Mayor' throughout. Pitch ~131-133 Hz.",
+   "evidence": "Calls the meeting to order 00:00:07 (minutes item 2: Mayor Earl Funk called the meeting to order), names movers and calls every vote, opens and closes the public hearing (minutes item 7), hands files to 'Mr. Thiessen'; addressed as 'Mr. Mayor' throughout. pitch checked.",
    "notes": "Turn-boundary slips handled by splits: 'Thank you, Mr.' at the end of 00:10:08 is Zwaagstra's; 'Yes.' in 00:12:42 is Thiessen answering the chair's question; 'Okay. Oh,' in 00:14:19 is Siemens. 'So moved.' in 00:22:13 may be the mover (Damian Penner) but is left with the chair."
   },
   {
@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair names 'Motion to approve, Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.' -> C 00:18:28 substantive speech on supplementary taxes (minutes R23-246 mover D. Penner); C 00:19:14 'I think I covered it all' answers 'Anything in closing?' as the mover. Only Penner present (S. Penner excused, minutes R23-241). Pitch 123-137 Hz (male, so not Susan Penner).",
+   "evidence": "Chair names 'Motion to approve, Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.' -> C 00:18:28 substantive speech on supplementary taxes (minutes R23-246 mover D. Penner); C 00:19:14 'I think I covered it all' answers 'Anything in closing?' as the mover. Only Penner present (S. Penner excused, minutes R23-241). pitch checked (male, so not Susan Penner).",
    "notes": "Also speaks at 00:14:56 on letter F (overridden)."
   },
   {
@@ -46,7 +46,7 @@
    "title": "Applicant's representative",
    "organization": "10027732 Manitoba Inc.",
    "confidence": "high",
-   "evidence": "Chair asks 'Is the applicant present today?' and for 'name and address' -> E 00:08:02 states his name and Granite Park Boulevard address; minutes 7.2 name him as present to answer questions; speaks for the development ('The first building that we are proposing', 'we want to make a very attractive development here'). Owner/applicant in the minutes is a numbered company, so he is treated as speaking for the developer (same treatment as the 2024-11-19 map). Pitch 91-93 Hz.",
+   "evidence": "Chair asks 'Is the applicant present today?' and for 'name and address' -> E 00:08:02 states his name and Granite Park Boulevard address; minutes 7.2 name him as present to answer questions; speaks for the development ('The first building that we are proposing', 'we want to make a very attractive development here'). Owner/applicant in the minutes is a numbered company, so he is treated as speaking for the developer (same treatment as the 2024-11-19 map). pitch checked.",
    "notes": "00:10:07 'correct?' is the end of the chair's question (overridden)."
   },
   {
@@ -55,8 +55,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Anything further, Councillor Siemens?' -> F 00:11:08 (seconder of R23-242, minutes J. Siemens); F 'Motion to approve.' 00:16:10, chair 'Go ahead, Councillor Singh' -> F 00:16:15 on the RBC borrowing resolution (minutes R23-245 mover J. Siemens); 'Councillor Siemens, seconded by Councillor Zwaagstra. Go ahead, Councillor Siemens.' -> F 00:19:54 on tax cancellations (minutes R23-247 mover J. Siemens). Pitch 103-114 Hz.",
-   "notes": "00:14:56 'I like my toilets to flush' is Damian Penner (overridden). The 00:13:58-00:14:20 question about the $15 million borrowing figure is left with Siemens (pitch 118 Hz fits him; he then moves the borrowing resolution)."
+   "evidence": "'Anything further, Councillor Siemens?' -> F 00:11:08 (seconder of R23-242, minutes J. Siemens); F 'Motion to approve.' 00:16:10, chair 'Go ahead, Councillor Singh' -> F 00:16:15 on the RBC borrowing resolution (minutes R23-245 mover J. Siemens); 'Councillor Siemens, seconded by Councillor Zwaagstra. Go ahead, Councillor Siemens.' -> F 00:19:54 on tax cancellations (minutes R23-247 mover J. Siemens). pitch checked.",
+   "notes": "00:14:56 'I like my toilets to flush' is Damian Penner (overridden). The 00:13:58-00:14:20 question about the $15 million borrowing figure is left with Siemens (pitch checked fits him; he then moves the borrowing resolution)."
   }
  ],
  "turn_overrides": [
@@ -67,7 +67,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Chair hands off 'Anything further, Councillor Penner?' at 00:14:53 to the seconder of R23-244 (minutes: M. Zwaagstra / D. Penner); the old transcript put this turn on Damian Penner's letter; pitch 129 Hz fits Penner (123-137) better than Siemens (103-114)."
+   "reason": "Chair hands off 'Anything further, Councillor Penner?' at 00:14:53 to the seconder of R23-244 (minutes: M. Zwaagstra / D. Penner); the old transcript put this turn on Damian Penner's letter; pitch checked fits Penner (123-137) better than Siemens (103-114)."
   },
   {
    "time": "00:10:07",
@@ -76,7 +76,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "high",
-   "reason": "'correct?' ends the chair's own question ('from 25 feet, correct? I believe.'); the old transcript keeps it in the chair's turn; pitch 154 Hz, far from the applicant's representative (91-93 Hz)."
+   "reason": "'correct?' ends the chair's own question ('from 25 feet, correct? I believe.'); the old transcript keeps it in the chair's turn; pitch checked, far from the applicant's representative ( (pitch checked))."
   }
  ],
  "turn_splits": [

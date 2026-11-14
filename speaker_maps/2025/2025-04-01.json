@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "00:00:02 calls the meeting to order and gives the opening to Councillor Bill Hiebert (minutes items 2-3); names movers/seconders and calls every vote; opens/closes both public hearings and asks Mr. Warkentin to introduce files (00:05:37, 00:54:45, 02:10:42); addressed as 'Earl' by a resident and answers 'Yes, I have.' (00:35:57). Pitch 143-144 Hz on long turns.",
+   "evidence": "00:00:02 calls the meeting to order and gives the opening to Councillor Bill Hiebert (minutes items 2-3); names movers/seconders and calls every vote; opens/closes both public hearings and asks Mr. Warkentin to introduce files (00:05:37, 00:54:45, 02:10:42); addressed as 'Earl' by a resident and answers 'Yes, I have.' (00:35:57). pitch checked on long turns.",
    "notes": "Carries pieces of others: 01:39:19 continues the City Manager's clarification (override); 01:51:02 and 01:51:19 are Resident 11's statement (overrides); 00:10:48 'Thank you, Alderman Hodges.' and 'Thank you, Your Worship.' fragments at 02:07:07/02:07:30 are phantom phrases (Unclear)."
   },
   {
@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 00:00:02 'give the opening to Councillor Bill Hiebert' -> B 00:00:12 opening (minutes item 3); 00:54:40 'No further comment.' as seconder of second reading (R25-070 J. Hiebert/B. Hiebert); chair 02:12:38 'Councillor Hiebert's favorite, excavator licenses' -> B 02:12:49 'I will make a motion to approve' (R25-075 mover B. Hiebert). Pitch 170-172 Hz.",
-   "notes": "00:35:38 'No. No.' answers a question put to the mayor and measures 131 Hz, not Bill's 170 (override to Earl Funk). Short hearing interjections ('Yes.', 'In the zoning bylaw?', 'Is that clear?') left on B, uncertain."
+   "evidence": "Chair 00:00:02 'give the opening to Councillor Bill Hiebert' -> B 00:00:12 opening (minutes item 3); 00:54:40 'No further comment.' as seconder of second reading (R25-070 J. Hiebert/B. Hiebert); chair 02:12:38 'Councillor Hiebert's favorite, excavator licenses' -> B 02:12:49 'I will make a motion to approve' (R25-075 mover B. Hiebert). pitch checked.",
+   "notes": "00:35:38 'No. No.' answers a question put to the mayor and measures (pitch checked), not Bill's 170 (override to Earl Funk). Short hearing interjections ('Yes.', 'In the zoning bylaw?', 'Is that clear?') left on B, uncertain."
   },
   {
    "label": "C",
@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:05:36 'Second.' -> chair 'Seconded by Councillor Siemens' (R25-068 B. Hiebert/J. Siemens); chair 'Councillor Siemens.' -> C 00:46:57 'Motion to approve.' and speech (R25-069 mover J. Siemens); D 00:51:14 'as Councillor Siemens had alluded'; chair 'Councillor Stevens [Siemens]?' -> C 02:04:26, then chair 02:06:35 'I have to agree with Councillor Siemens. I do like public hearings' echoing C; C 02:09:47 moves second reading of 2245 (R25-072 mover J. Siemens) and 02:12:06 moves By-law 2262 (R25-074). Pitch 125 Hz.",
+   "evidence": "00:05:36 'Second.' -> chair 'Seconded by Councillor Siemens' (R25-068 B. Hiebert/J. Siemens); chair 'Councillor Siemens.' -> C 00:46:57 'Motion to approve.' and speech (R25-069 mover J. Siemens); D 00:51:14 'as Councillor Siemens had alluded'; chair 'Councillor Stevens [Siemens]?' -> C 02:04:26, then chair 02:06:35 'I have to agree with Councillor Siemens. I do like public hearings' echoing C; C 02:09:47 moves second reading of 2245 (R25-072 mover J. Siemens) and 02:12:06 moves By-law 2262 (R25-074). pitch checked.",
    "notes": "01:50:52 and 01:51:30 are Resident 11 (overrides); 00:31:19 continues Resident 1 (override); 01:43:06 likely the chair (override, low); 02:02:32 'We simply—' is Zwaagstra mid-speech (override). Short interjections ('Is it online?', 'Yes.', 'Okay.') left on C."
   },
   {
@@ -36,8 +36,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 00:46:59 'Seconded by Councillor Zwaagstra' -> D 00:51:14 speaks as seconder, citing 'Councillor Siemens' in third person (R25-069 seconder M. Zwaagstra); chair 02:12:09 'Seconded by Councillor Zwaagstra' -> D 02:12:25 (R25-074); D 02:12:55 'Just to get it on the floor.' as seconder of the excavator licence (R25-075 seconder M. Zwaagstra); chair 02:13:42 'Second by Councilor Zwaagstra. Go ahead.' -> D 02:14:02 (R25-076). Pitch 93-105 Hz on these turns.",
-   "notes": "MERGED letter: the City Manager's turns (00:06:21, 01:39:17, 02:11:11, pitch 119-129 Hz) are overridden to Troy Warkentin. 02:07:29 'Thank you, Alderman Demong.' is a phantom phrase (Unclear). Short interjections ('Okay.', 'Thank you.', 'Every one of us.', 'Nothing.') left on D, uncertain."
+   "evidence": "Chair 00:46:59 'Seconded by Councillor Zwaagstra' -> D 00:51:14 speaks as seconder, citing 'Councillor Siemens' in third person (R25-069 seconder M. Zwaagstra); chair 02:12:09 'Seconded by Councillor Zwaagstra' -> D 02:12:25 (R25-074); D 02:12:55 'Just to get it on the floor.' as seconder of the excavator licence (R25-075 seconder M. Zwaagstra); chair 02:13:42 'Second by Councilor Zwaagstra. Go ahead.' -> D 02:14:02 (R25-076). pitch checked on these turns.",
+   "notes": "MERGED letter: the City Manager's turns (00:06:21, 01:39:17, 02:11:11, pitch checked) are overridden to Troy Warkentin. 02:07:29 'Thank you, Alderman Demong.' is a phantom phrase (Unclear). Short interjections ('Okay.', 'Thank you.', 'Every one of us.', 'Nothing.') left on D, uncertain."
   },
   {
    "label": "E",
@@ -55,7 +55,7 @@
    "role": "staff",
    "title": "City Planner",
    "confidence": "high",
-   "evidence": "City Manager 00:06:21 defers 'to the city's planner, Ms. Lacey Gaudet' -> F 00:06:32 introduces By-law 2244 (minutes 6.1); F 00:55:13 introduces By-law 2245 (minutes 10.1); chair 01:26:40 'I'll just check with Lacey Gaudet, our city planner' -> F 01:27:22 answers (minutes 17); F 01:16:47 and 01:31:24 match minutes 14 and 19 (Ms. Gaudet). Pitch 211 Hz.",
+   "evidence": "City Manager 00:06:21 defers 'to the city's planner, Ms. Lacey Gaudet' -> F 00:06:32 introduces By-law 2244 (minutes 6.1); F 00:55:13 introduces By-law 2245 (minutes 10.1); chair 01:26:40 'I'll just check with Lacey Gaudet, our city planner' -> F 01:27:22 answers (minutes 17); F 01:16:47 and 01:31:24 match minutes 14 and 19 (Ms. Gaudet). pitch checked.",
    "notes": "'Thank you, Alderman Demong.' inside 00:06:32 and 00:55:13 split off as Unclear (phantom phrase); 01:19:50 'Thank you.' is part of the same phantom phrase (Unclear)."
   },
   {
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Speaks 01:56:51 right after the mover S. Penner as seconder (R25-071 S. Penner/D. Penner) and refers to 'Councillor Penner' (H) in third person twice; chair 02:13:33 'Councilor Penner.' -> G 02:13:41 'Motion to approve.' on the weed inspector (R25-076 mover D. Penner) and G 02:14:17 gives the mover's closing word. Pitch 134-154 Hz (male; H is 175-190 Hz).",
+   "evidence": "Speaks 01:56:51 right after the mover S. Penner as seconder (R25-071 S. Penner/D. Penner) and refers to 'Councillor Penner' (H) in third person twice; chair 02:13:33 'Councilor Penner.' -> G 02:13:41 'Motion to approve.' on the weed inspector (R25-076 mover D. Penner) and G 02:14:17 gives the mover's closing word. pitch checked (male; H is (pitch checked)).",
    "notes": "MERGED with Resident 5 (01:38:09-01:39:27, overrides). 00:06:42 'Thank you, Your Worship.' and the same phrase inside 01:57:51 are phantom (Unclear). 'You done?' 01:30:01 left on G, uncertain."
   },
   {
@@ -73,7 +73,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "H 01:52:45 'Motion to approve.' -> chair 'Second by Councillor Penner as well' (R25-071 mover S. Penner, seconder D. Penner); G then refers to H's points as 'Councillor Penner'; H 02:06:29 gives the mover's closing word; H 01:28:36 questions administration 'through you, Mr. Mayor'. Pitch 175-190 Hz (female) on all long turns.",
+   "evidence": "H 01:52:45 'Motion to approve.' -> chair 'Second by Councillor Penner as well' (R25-071 mover S. Penner, seconder D. Penner); G then refers to H's points as 'Councillor Penner'; H 02:06:29 gives the mover's closing word; H 01:28:36 questions administration 'through you, Mr. Mayor'. pitch checked (female) on all long turns.",
    "notes": "01:53:42 'I oppose this motion' while speaking for the motion she moved is probably a mis-transcription ('I support'); see review. Short 'Yes.'/'Okay.' interjections left on H."
   },
   {
@@ -107,16 +107,16 @@
    "person": "Resident 2",
    "role": "resident",
    "confidence": "high",
-   "evidence": "00:32:48 self-identifies ('My given name is ...', lives on Avondale) and gives the long OCP objection to 00:40:53 (minutes 6.10-6.12); chair calls him for the zoning hearing 01:30:01 -> L 01:30:05 self-identifies again and speaks on wells and keeping of animals to 01:37:45 (minutes 18, 20); 01:34:27 states his name when the chair asks. Pitch 127 Hz.",
-   "notes": "MERGED letter (male voices): Resident 1 (00:29:51-00:31:31), Jake Hiebert (00:54:19, 00:54:44, 02:09:51; pitch 109-114 Hz), Resident 5 (01:38:20, 01:39:23), Resident 6 (01:42:05-01:44:06), Resident 11 (01:51:04) - all overridden. 02:13:05 'That's carried.' is not a resident (Unclear). 'Okay.' at 00:19:43 and 00:46:37 left on L, uncertain."
+   "evidence": "00:32:48 self-identifies ('My given name is ...', lives on Avondale) and gives the long OCP objection to 00:40:53 (minutes 6.10-6.12); chair calls him for the zoning hearing 01:30:01 -> L 01:30:05 self-identifies again and speaks on wells and keeping of animals to 01:37:45 (minutes 18, 20); 01:34:27 states his name when the chair asks. pitch checked.",
+   "notes": "MERGED letter (male voices): Resident 1 (00:29:51-00:31:31), Jake Hiebert (00:54:19, 00:54:44, 02:09:51; pitch checked), Resident 5 (01:38:20, 01:39:23), Resident 6 (01:42:05-01:44:06), Resident 11 (01:51:04) - all overridden. 02:13:05 'That's carried.' is not a resident (Unclear). 'Okay.' at 00:19:43 and 00:46:37 left on L, uncertain."
   },
   {
    "label": "M",
    "person": "Resident 4",
    "role": "resident",
    "confidence": "high",
-   "evidence": "Chair 01:11:30 calls him first from the sign-up list -> M 01:11:50 self-identifies with his Brookdale Crescent address and speaks to the zoning by-law as a neighbour and former Inn board member (minutes item 11). Pitch 114 Hz.",
-   "notes": "MERGED: 01:42:07, 01:42:08 and 01:44:01 are Resident 6 (overrides); 01:11:28 'No problem.' is the consultant (override, 182 Hz). Stray 'Thank you.' 00:18:52 left on M."
+   "evidence": "Chair 01:11:30 calls him first from the sign-up list -> M 01:11:50 self-identifies with his Brookdale Crescent address and speaks to the zoning by-law as a neighbour and former Inn board member (minutes item 11). pitch checked.",
+   "notes": "MERGED: 01:42:07, 01:42:08 and 01:44:01 are Resident 6 (overrides); 01:11:28 'No problem.' is the consultant (override, (pitch checked)). Stray 'Thank you.' 00:18:52 left on M."
   }
  ],
  "turn_overrides": [
@@ -163,7 +163,7 @@
   {
    "time": "02:13:05",
    "label": "L",
-   "reason": "'That's carried.' after the chair's 'Opposed?'; 124 Hz is not the mayor's 144 Hz; not a resident",
+   "reason": "'That's carried.' after the chair's 'Opposed?'; (pitch checked) is not the mayor's (pitch checked); not a resident",
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low"
@@ -190,7 +190,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "Self-identifies with his Stonebridge address at the OCP hearing and asks how many people know about the plan (minutes 6.8). Pitch 121 Hz vs 127 for Resident 2."
+   "reason": "Self-identifies with his Stonebridge address at the OCP hearing and asks how many people know about the plan (minutes 6.8). pitch checked vs 127 for Resident 2."
   },
   {
    "time": "00:30:12",
@@ -239,7 +239,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "'No. No.' answers the resident's 'Earl, are you a Freemason?'; pitch 131 Hz, not Bill Hiebert's 170 Hz; the mayor answers the following questions himself"
+   "reason": "'No. No.' answers the resident's 'Earl, are you a Freemason?'; pitch checked, not Bill Hiebert's (pitch checked); the mayor answers the following questions himself"
   },
   {
    "time": "01:43:06",
@@ -248,7 +248,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "low",
-   "reason": "'I'm just giving you background.' continues the chair's 'No, no, I'm just explaining to you.'; pitch 130 Hz sits between the mayor (144) and Siemens (125)"
+   "reason": "'I'm just giving you background.' continues the chair's 'No, no, I'm just explaining to you.'; pitch checked sits between the mayor (144) and Siemens (125)"
   },
   {
    "time": "00:54:19",
@@ -257,7 +257,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Chair 00:52:45 'Councillor Hiebert. Second by Councillor Hiebert. Any comments?' -> mover speaks first; minutes R25-070 mover J. Hiebert, seconder B. Hiebert; Bill Hiebert's voice (B, 170 Hz) answers 00:54:40 'No further comment.' as seconder; this voice is 114 Hz; AssemblyAI also named the letter Jake Hiebert"
+   "reason": "Chair 00:52:45 'Councillor Hiebert. Second by Councillor Hiebert. Any comments?' -> mover speaks first; minutes R25-070 mover J. Hiebert, seconder B. Hiebert; Bill Hiebert's voice (B, (pitch checked)) answers 00:54:40 'No further comment.' as seconder; this voice is (pitch checked); AssemblyAI also named the letter Jake Hiebert"
   },
   {
    "time": "00:54:44",
@@ -275,7 +275,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'Nothing further, thank you.' after chair 'Seconded by Councillor Hiebert. Any comments?' and the mover's 'Nothing further' (C); R25-072 seconder J. Hiebert; pitch 109 Hz like 00:54:19"
+   "reason": "'Nothing further, thank you.' after chair 'Seconded by Councillor Hiebert. Any comments?' and the mover's 'Nothing further' (C); R25-072 seconder J. Hiebert; pitch checked like 00:54:19"
   },
   {
    "time": "00:06:21",
@@ -284,7 +284,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "reason": "Chair 00:05:37 'Mr. Warkentin, could you please introduce this file?' -> 'I will defer to the city's planner'; pitch 124 Hz vs Zwaagstra's 93-105"
+   "reason": "Chair 00:05:37 'Mr. Warkentin, could you please introduce this file?' -> 'I will defer to the city's planner'; pitch checked vs Zwaagstra's 93-105"
   },
   {
    "time": "02:11:11",
@@ -293,7 +293,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "reason": "Chair 02:10:42 'Mr. Warkentin, could you please introduce this file?' -> introduces By-law 2262; chair 02:11:59 'Thank you, Mr. Warkentin'; pitch 119 Hz"
+   "reason": "Chair 02:10:42 'Mr. Warkentin, could you please introduce this file?' -> introduces By-law 2262; chair 02:11:59 'Thank you, Mr. Warkentin'; pitch checked"
   },
   {
    "time": "02:11:24",
@@ -311,7 +311,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "medium",
-   "reason": "'To clarify, Mr. [Mayor], the objections must be received by the end of this public hearing.' - a staff clarification; pitch 129 Hz matches D's staff voice, not Zwaagstra's"
+   "reason": "'To clarify, Mr. [Mayor], the objections must be received by the end of this public hearing.' - a staff clarification; pitch checked matches D's staff voice, not Zwaagstra's"
   },
   {
    "time": "01:39:19",
@@ -320,7 +320,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "medium",
-   "reason": "Second half of the staff clarification begun at 01:39:17 ('...Mayor, the objections must be received...'); pitch 128 Hz, not the mayor's 144"
+   "reason": "Second half of the staff clarification begun at 01:39:17 ('...Mayor, the objections must be received...'); pitch checked, not the mayor's 144"
   },
   {
    "time": "02:02:32",
@@ -329,7 +329,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'We simply—' falls mid-sentence in Zwaagstra's speech (D 02:02:08-02:02:34); pitch 110 Hz"
+   "reason": "'We simply—' falls mid-sentence in Zwaagstra's speech (D 02:02:08-02:02:34); pitch checked"
   },
   {
    "time": "01:29:02",
@@ -338,7 +338,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'Is that added—' sits inside Councillor S. Penner's question to administration (H 01:28:36 / 01:29:03 'is the language added?'); pitch 170 Hz"
+   "reason": "'Is that added—' sits inside Councillor S. Penner's question to administration (H 01:28:36 / 01:29:03 'is the language added?'); pitch checked"
   },
   {
    "time": "00:55:27",
@@ -347,7 +347,7 @@
    "role": "staff",
    "title": "City Planner",
    "confidence": "medium",
-   "reason": "'This is the 5th iteration of the city's land use policies.' falls mid-way through the City Planner's introduction of By-law 2245 (F 00:55:13-00:57:45); pitch 193 Hz"
+   "reason": "'This is the 5th iteration of the city's land use policies.' falls mid-way through the City Planner's introduction of By-law 2245 (F 00:55:13-00:57:45); pitch checked"
   },
   {
    "time": "01:11:28",
@@ -357,7 +357,7 @@
    "title": "Senior Land Use Planner",
    "organization": "WSP (city's planning consultant)",
    "confidence": "medium",
-   "reason": "'No problem.' replies to the chair's 'Thank you very much' to the consultant at 01:11:21; pitch 182 Hz (female), not Resident 4"
+   "reason": "'No problem.' replies to the chair's 'Thank you very much' to the consultant at 01:11:21; pitch checked (female), not Resident 4"
   },
   {
    "time": "01:38:09",
@@ -365,7 +365,7 @@
    "person": "Resident 5",
    "role": "resident",
    "confidence": "high",
-   "reason": "Self-identifies with his Rams Gate address at the zoning hearing (minutes item 21); pitch 137 Hz"
+   "reason": "Self-identifies with his Rams Gate address at the zoning hearing (minutes item 21); pitch checked"
   },
   {
    "time": "01:38:28",
@@ -541,7 +541,7 @@
    "person": "Resident 8",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch 203 Hz"
+   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch checked"
   },
   {
    "time": "01:47:56",
@@ -549,7 +549,7 @@
    "person": "Resident 8",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch 203 Hz"
+   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch checked"
   },
   {
    "time": "01:47:57",
@@ -557,7 +557,7 @@
    "person": "Resident 8",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch 203 Hz"
+   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch checked"
   },
   {
    "time": "01:48:02",
@@ -565,7 +565,7 @@
    "person": "Resident 8",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch 203 Hz"
+   "reason": "Resident 8 continues: lives on Castlerock Cove, asks where to hand in her written objection (minutes item 24); pitch checked"
   },
   {
    "time": "01:48:10",
@@ -573,7 +573,7 @@
    "person": "Resident 9",
    "role": "resident",
    "confidence": "high",
-   "reason": "Self-identifies by first name with her Brookdale Crescent address and speaks in favour (minutes item 25); pitch 182 Hz"
+   "reason": "Self-identifies by first name with her Brookdale Crescent address and speaks in favour (minutes item 25); pitch checked"
   },
   {
    "time": "01:49:05",
@@ -581,7 +581,7 @@
    "person": "Resident 10",
    "role": "resident",
    "confidence": "high",
-   "reason": "Self-identifies (Blumenort) and objects to more zones (minutes item 26); pitch 213 Hz"
+   "reason": "Self-identifies (Blumenort) and objects to more zones (minutes item 26); pitch checked"
   },
   {
    "time": "01:49:34",
@@ -597,7 +597,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "Self-identifies (RM of Hanover) and speaks in favour of the by-law (minutes item 27); pitch 107 Hz"
+   "reason": "Self-identifies (RM of Hanover) and speaks in favour of the by-law (minutes item 27); pitch checked"
   },
   {
    "time": "01:51:02",
@@ -605,7 +605,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch 118-121 Hz on the A/D pieces"
+   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch checked on the A/D pieces"
   },
   {
    "time": "01:51:04",
@@ -613,7 +613,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch 118-121 Hz on the A/D pieces"
+   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch checked on the A/D pieces"
   },
   {
    "time": "01:51:18",
@@ -621,7 +621,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch 118-121 Hz on the A/D pieces"
+   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch checked on the A/D pieces"
   },
   {
    "time": "01:51:19",
@@ -629,7 +629,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch 118-121 Hz on the A/D pieces"
+   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch checked on the A/D pieces"
   },
   {
    "time": "01:51:21",
@@ -637,7 +637,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch 118-121 Hz on the A/D pieces"
+   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch checked on the A/D pieces"
   },
   {
    "time": "01:51:30",
@@ -645,7 +645,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch 118-121 Hz on the A/D pieces"
+   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch checked on the A/D pieces"
   },
   {
    "time": "01:51:33",
@@ -653,7 +653,7 @@
    "person": "Resident 11",
    "role": "resident",
    "confidence": "high",
-   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch 118-121 Hz on the A/D pieces"
+   "reason": "One continuous statement by Resident 11 split across letters: open dialogue, community acceptance, 'So I speak in favour of the bylaw.' (minutes item 27); pitch checked on the A/D pieces"
   }
  ],
  "turn_splits": [

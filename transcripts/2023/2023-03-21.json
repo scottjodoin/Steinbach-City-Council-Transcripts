@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "I will not say a word.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "You quit?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "It's done.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Done?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "No, it's a good, it's a good start.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this point, I would like to, uh, give the opening to Councillor Damian Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=6s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. Steinbach has gained national accolades as once again Steinbach citizens rose up and donated a median average that tops all metropolitan and census agglomerations. What is most amazing about this is not that Steinbach citizens are some of the most generous individuals in our nation, but the margin by which Steinbach stands out. The national median average for donations of 20— for 2021 was $360. That's national. In Manitoba, that rose up to $550, but in Steinbach, it skyrocketed all the way up to $2,270. That is a staggering 6 times the national average and just over 4 times the provincial average, with nearly 1 in 4 individuals claiming a donation in 2021. Steinbach citizens, you need to give yourselves a pat on the back. While the black and white dollars and cents of Steinbach's generosity can easily be measured through tax filings, there is another area of excellence that I feel Steinbach could easily be top of the nation in, and that is the generosity that our citizens are willing to give in their time. If you think of all the organizations that are able to operate in Steinbach due to their dedicated volunteer base, the list quickly becomes quite long, especially considering the humble size of our city. Steinbach as a city gets part of its identity from the many festivals it hosts every year. All the activities at the Mennonite Heritage Village, Pioneer Days and the parade that's involved, the upcoming IRL Festival, and of course the weekend-long Summer in the City. These events take hundreds, if not thousands, of volunteer hours to be able to pull off. And not only do these events occur, they are done with excellence. If you were to just take the Mennonite Heritage Village and all the displays, activities, tour guides, and other volunteers that keep that museum going, it would add up into thousands of volunteer hours every year. Think of Spring on the Farm, Pioneer Days, and Fall on the Farm, and how it is a bustling area of activity. With plows going, horse rides, and of course my favorite, the team working the vintage threshing machine. To me, generosity is a trait that you see in true leaders and individuals with influence. If you've ever hung around somebody that is stingy, you see it permeate through their everyday life, and they're often miserable to be around. In the inverse, an individual with a generous heart often has joy, exudes an inner peace and selflessness to build up others around them. and the community they live in. Generosity changes your mindset from a place of, what can I do for myself, to what can we all do for each other, and our city shows that at every turn. So why are Steinbach citizens so generous with not only their wallets but also their time? One could say it's due to historically large religious community that calls individuals to a purpose of something greater than themselves. Perhaps it's a culture that has been passed down from generate— Thank you. from parents to future generations. Could even be attributed to events like Steinbach's Pick Up and Walk that intentionally involves entire families coming together and introducing children to a spirit of generosity and volunteerism as early as some of them can walk. Regardless of what the reason is, I am proud of our citizens and our community for their generous hearts and generous actions throughout the year, and I applaud you all. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=14s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=209s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=221s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is approved. Council, we have the minutes of March 7th, 2023, the regular council meeting. They start on page 1. We've all had a chance to review. We're looking for a motion to approve. Councillor Penner, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=221s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=241s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "We'll call for the question. All those in favor? Opposed? That is carried. Council, is there any business arising from the minutes? Okay, seeing none, we are just a few minutes before 7:35, so we'll go down to 9E, this is bylaw 2220, local improvement. It's referring to the fire department ladder truck. It will be— we'll be taking third reading. Starts on page 86. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=241s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor and members of council. Bylaw 2220, The first item on the agenda is a bylaw to authorize the borrowing of money for the eventual purchase of a fire department ladder truck as a local improvement. This bylaw has been reviewed by the Manitoba Municipal Board who has approved this legislation, and as a result, council may give this bylaw third reading. Thank you. of up to $2 million at a maximum interest rate of 8% to be repaid over a 5-year period. Recommendation is for council to give this bylaw third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=284s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warting. Council, how would you like to proceed? Councillor Hiebert?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=324s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=332s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by— All. Councillor Hiebert. Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=333s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I believe this is a good project for the city to undertake and for the fire department. The old fire truck, the ladder truck, is getting old. It's getting expensive to repair, and we want our fire department to have good equipment, not only for their own safety but also for the residents of our community. I think we saw the, the value of our The ladder truck this summer when the Jansen Building burnt, the ladder truck was there spraying water on the building and stuff. So I think it's very good and that's why I'm making the motion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=339s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=377s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=380s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Councillor Stevenson.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=381s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I think it should be further noted that we can place the order for the truck, but it will take a year and a half to 2 years in order for it to get here. This expenditure won't— potentially won't take place for another year and a half to 2 years after purchase, but I agree with the comments made.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=384s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=400s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=402s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, council, this is a very good project to undertake. Yes, and as Councillor Siemens has mentioned, it's custom made, so it's going to take some time to get this this truck made, but it's going to be custom made for what our uses will be. I remember the very first truck that— the first ladder truck we bought in 2010, and that would— that's been used in many, many fires, and it gave the advantage to put our firefighters above the fire, and that was the biggest advantage we had, and they saved many buildings from total loss because of that ladder truck. So now when you look at the, you know, possibly up to $2 million cost, I think it's a fair trade-off because of the buildings it will save, you know, the lives it will save, and how much more effective we'll be at fighting fires with a customized truck. Customized for our fire department. Call for the question. All those in favor? Opposed? That is carried. Okay, council, we are just past 7:35, so we'll move back up to the, uh, number 6, the public hearing. This is the, um, 2023 financial plan. At this time, I will, uh, close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=404s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor and members of council, the administration of the city and particularly our senior manager of finance, Brian Hrehirchuk, have spent countless hours in preparing its annual budget documents, and I will turn it over to Mr. Hrehirchuk to present the city's budget. I'm pleased to present the city's 2023 financial plan and related information for council and for purposes of the public hearing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=501s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "G",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Thank you, Mr. Mayor, members of council. I'm pleased to be presenting the city's 2023 Financial plan to highlight some of the main items that are planned for the year. The annual budget cycle is almost a continuous process. For the 2023 budget year, it started early in 2022. Throughout the process, input is provided by staff, management, and council. The financial plan being presented today is based on the recommendations of council provided at their final review in November. Some of the highlights for 2023 include a municipal mill rate of 13.7 mills, which is a decrease of 2.8% from 2022. Utility rates are expected to increase by an average of 4%, pending approval by the Public Utilities Board. Residential garbage collection rates will increase by 2.7%, while most fees for permits and land use applications will increase by 2.5%. The overall capital program for 2023 is budgeted at $67.3 million. Some of the larger budgeted projects include construction on the event center, the Loewen PTH 12 intersection renewal, Lift Station Number 2 upgrade, as well as the Park Road West upgrade. Overall, projected revenues for 2023 are just over $34.5 million. Similar to other years, property taxes are the city's largest source of revenue, accounting for roughly half of the overall revenue amount. For 2023, there was a property value growth of 10.8%. Commercial properties make up about 25% of the total property values in the city, and with the provincial portioning system, a lower portion of residential property values are subject to property tax than commercial property values. As I mentioned earlier, the property tax rate of 13.7 mills is down 2.8% from From 2022. Roughly half of the municipal revenues are from property taxes. $18 million is to be raised by property taxes in 2023. The city is also required to collect the education and school taxes on behalf of the province and Hanover School Division. As in previous years, this is projected to make up roughly half of the total tax revenue collected by the city. The average market value for a dwelling in Steinbach is roughly $217,000. Based on this and the budgeted municipal mill rate, the average city property tax bill works out to around $111 per month. In addition to regular property taxes, supplementary property taxes are levied on new construction or where there was an addition or improvement to increase the value of the property. This is expected to provide an additional $550,000 in 2023. Federal and provincial operating grants have also been a consistent source of revenue for the city. The provincial per capita tax sharing grant is expected to provide $3 million in 2023, while the federal gas tax grant will provide just over $890,000. One of the main non-tax revenues for the city is from user fees. These are fees paid by those who benefit from the service provided. Some services compete with the open market, but a number of rates may be subsidized for programs to be accessible. Development in Steinbach stayed strong in 2022 with just under $80 million in total permit values. This activity is expected to continue into 2023 and beyond. Now we will look at some of the programs that are funded by these revenues. Overall, the expenses are equal to the projected revenues at just over $34.5 million. Some, some 2023 programs include waste reduction and recycling at just over $1 million. Support for the Jake Epp Public Library at $454,000 and various other programs as listed. Every year, the city provides grants for various organizations throughout the city. In 2023, these grants total almost $1.3 million, the recipients as listed. One of the largest city expenses is that of our employees. The total labor cost, including benefits, for 2023 is budgeted at $10.7 million, or roughly a third of the city's operating budget. Of this total, the aquatic center makes up about 20% of the total labor hours. The largest of any city department. Protective services includes 18 RCMP officers, 49 firefighters, and a community services officer to enforce city bylaws. The total cost of these services is budgeted at $4.6 million for the upcoming year. The city currently has over 140 kilometers of road service— surface. The maintenance for this infrastructure can depend fairly significantly on the weather in any given year, and for 2023 is expected to cost $2.8 million. Solid waste services. We provide both curbside and on-demand pickup services to both residential and commercial properties. The cost of providing these services is expected to reach $3 million for the upcoming year, which is funded by user fees. Our primary recreation facilities include the aquatic centre, arena, A.D. Penner Park, curling rink, and soccer park. as well as various green space and parks around the city. The expected cost of operating and maintaining these facilities is budgeted at $4.6 million for 2023. Both the number of customers serviced by the water and wastewater utility and the length of underground infrastructure network continue to grow. The expected cost to maintain this infrastructure and provide the utility services is expected to be $4.2 million in 2023. In addition to the typical operating expenses that the city regularly incurs, larger projects also require significant funding. Some of this comes from reserve funds that have been saved in previous years, while while other projects will require debt funding. Some of the main projects for the upcoming year include equipment replacement, the event centre construction, and PTH 12 Loewen intersection. The total capital program for the year is expected to be just over $67 million. The city will periodically issue debt in order to add or renew various infrastructure or facilities throughout the city. Each loan will fund a specific project. In 2023, 5 projects have a debt component: the event center construction, lift station number 2 upgrade, the Loewen PTH 12 intersection, fire department ladder truck, and Barkman Avenue renewal. This is expected to create just over $12 million of new debt while $2.1 million of previously issued debt will be paid off. The city continues to use a 5-year amortization term for all of its debt, allowing us to borrow at lower interest rates than if a longer term was used. Our average interest rate for 2023 is just over 2.4%, while the debt balance at the end of the year is expected to be slightly over $14 million. Payments that are required for previously issued debt will total $2.2 million in 2023. Of this amount, $98,000 is interest. Funding for these debt payments is raised through property taxation, and for 2023, $1.8 mils will be required to raise the necessary funds. This equates to just over 13% of the total city tax rate. And finally, a longer-term overview of some of the expected requirements in future years. The 2024 program is currently budgeted at $36.1 million, which includes infrastructure renewal, the continuation of the events centre, and the twinning of a force main. Beyond that, programs of $22.7 million, $26.5 million, And $19.5 million are currently estimated for the following 3 years. That concludes the presentation of the 2023 financial plan. Thank you, members of council. If there are any questions, I can take them now.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=530s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Any questions, council? Thank you for your presentation. It was very good. Is there anyone here with questions, comments, or objections to this file? I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1179s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion to approve the 2023 financial plan.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1220s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1223s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Every year coming up with a budget is obviously a balancing act because there are many needs within the city. Of course, we also need to be mindful of, of our residents' ability to pay. I think that what we've come up with here is a good budget. For this year, the total",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1230s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Budget is about $34— just over $34 million. There's a lot that we are getting for the money that we're spending. We have a lot of infrastructure renewal happening, and this was mentioned during the presentation. So, for example, underground road— underground infrastructure being repaired, road reconstruction. On Barkman Avenue, for example. The upcoming significant improvements to the Loewen and Highway 12 intersection would come to mind as well. And there's a lot of other things too. In terms of recreation, we know that the event centre is the biggest capital project the city's ever done in our history. It's not even close. The second largest project we've ever done is our secondary water treatment plant, and that was only $11 million. Thank you. And I would say that the reason that we're able to do the event centre at all is because of the fact that this council and past councils for many years have been fiscally responsible and have made sure to spend wisely and to keep debt low. And in particular, our 5-year debt policy. We're continuing with that policy even now, that policy that's been in place for 25, 30 years, and it has paid off in a big way over the years because it means that we are not hamstringing future councils with the, uh, with projects. Rather, we're ensuring that everything is paid off within 5 years, and so that way we're always able to do new things. And that's what we're doing. Other things that we're doing in the budget: we are continuing to have 18 RCMP officers, and of course that's a significant expense, but it's important that we ensure that the city is, uh, is safe. We also are investing in our fire departments, both in terms of the number of firefighters, which The number is at about 49 right now. And of course, continuing to ensure that our firefighters, as was noted earlier, are getting the, the newest and some of the best equipment to ensure that they're able to continue to serve the city well. The municipal mill rate is declining slightly by about 2.8%. Of course, it is a reassessment year, and so that complicates, complicates matters. But in the end, I believe this is a fiscally responsible budget. that at the same time is also aggressive in ensuring that we are meeting the needs of Steinbach today and also in the future. And so I'm happy to make the motion to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1251s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, Councillor Hiebert?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1389s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I would just like to thank our financial people and the good job that they're doing in not only preparing our budgets but our everyday expenditures. This is a very comprehensive report and very thorough, and thank you to administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1393s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Any further council? Councillor Siemens. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1411s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "You, Mr. Mayor. I also like this financial plan. I mean, we've been working on it for almost a year, so we have had a lot of input as a council. And the numbers that always strike me is, is what we're responsible for. And as some of these numbers were mentioned, but $140 kilometers of surface roadway. Like, that's a lot of gravel, a lot of asphalt, a lot of maintenance that we have to do on the roadways. Or our water and works, water and wastewater, is over 200 kilometers underground pipe infrastructure. Just to maintain that over the years, we spent a lot of money on our underground infrastructure renewal program, which we continue to do. But the product is getting getting better that we're putting into the ground too as we replace the old product. Hopefully there's a longer lifespan on it. But again, this next year we're projected to spend almost $4 million on underground infrastructure renewals. So there's a lot going into it. And one of the numbers that always surprises me is under Recreation Services, the Aquatic Centre, 86,000 public swims and over 42,000 individual swimming lessons. Like, it's just amazing numbers. That we produce through there. But there's a cost to that. It is a— that facility is a quality of life piece, and plus 260 acres of green space that we mow, that we take care of. So those are a lot of the— some of the numbers. And of course, as mentioned, the event center is— there's a lot of dollars going into that, capital dollars going into that over the next year. But I agree with his financial plan. But also, we have to— Those always sound like big numbers, but We have to also understand what it is that as a city we're responsible for. Thank you, Mr. Mayor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1416s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1522s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1528s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, I too feel this is a very good budget, and I know we've all worked on it. We've discussed this very to the point. Very long meetings we've had discussing this. And we spent weekends on it. And I too thank our administration for putting this all together with us and by our direction. And what I really like about this budget is how it reflects our priorities. 2 of our priorities are infrastructure renewal and expansion and recreation and cultural facility renewals. Thank you. And this budget is loaded with that. And it really shows that these are our commitments. We're committing, we're committing ourselves to today's Steinbach, as Councillor Zwaagstra said, and tomorrow's Steinbach as well. So I'll call for the question. All those in favor? Opposed? That is carried. Okay, council, we will go back to 9F. This is, uh, Bylaw 2022-21, local improvement. It's referring to lift station number 2. Uh, this is the upgrade. We'll do 3— uh, 3rd reading today. Um, it is on— it starts on page 95. Mr. Warkentin, could you please introduce this Yes,",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1528s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Fine. Mr. Mayor, members of council, Council Bylaw 2221 is another local improvement bylaw with respect to a proposal to authorize the borrowing of money to complete the upgrade of lift station number 2, which is located on Loewen Boulevard in Steinbach. The proposal seeks to borrow up to $2 million for the upgrade at a maximum interest rate of 8% repayment over a 5-year term in order for financing of the work. A recommendation from administration, in addition to municipal board approval of said bylaw, is that council give this bylaw third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1622s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1662s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1670s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1671s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is giving third reading to moving ahead with the upgrade of lift station number 2. Obviously, this is a part of our basic infrastructure and we need to make sure that, that we do this upgrade. And so the municipal board has approved this and the necessary borrowing, so we can move ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1673s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Yes, this is very important, and as well as a renewal, it is going to be able to add capacity and help with future development on the east side of Steinbach. So this is something that as a growing city we need to be investing into, as well as to maintain Thank you very",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1691s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Much. Anything further, council? Anything in closing? Council, I'll call for the question. All those in favor? Opposed? That is carried. And then we will take 9G. This is Bylaw 2222, local improvement, referring to Barkman Avenue and Penner Street renewal.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1709s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "This is also third reading, starts on page 104. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1709s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. Bylaw 2222 is another local improvement bylaw proposing to borrow up to $1.12 million for the completion of renewal for Barkman Avenue, Penner Street, and also including city's asphalt overlay. Pardon me, not the asphalt overlay, just the Barkman Avenue and Penner Street renewal. Municipal board has reviewed the city's proposal and has given approval to bylaw 2222, and recommendation from administration is that council give this bylaw third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1739s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warding. Council, would you like to proceed? Councillor Penner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1776s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1781s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1783s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Yes, thank you, Mr. Mayor. So we try and be proactive, or the city tries to be proactive with our infrastructure, uh, which is really our primary responsibility. So whether it's asphalt or underground infrastructure, if we can stay ahead of it and renew it at a regular pace, uh, then it often ends up saving money in the long run, um, as opposed to, you know, letting things get, get too far gone. So this is just a part of our regular infrastructure program, and it happens to be this area of the city this year.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1786s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1817s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "C",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "We have nothing further to add.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1817s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1817s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1824s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Thank you, council. We'll move to Number 8, this is the reports and recommendations of city manager. 8A, 2022 Steinbach annual traffic count program on page 32. Lots of information there. Uh, Mr. Warkentin, would you introduce this file or share some highlights with us?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1825s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I will do that, Mr. Mayor and members of council. Yes, this traffic count report is something that council has seen annually for many years. And this document that starts on page 32 of your agenda package represents that annual review. As you did state, it is quite lengthy. There is significant information in it. Thank you. I just wanted to highlight a few sections and— for council's attention. On page 47, that page refers to the weekday PM peak hour traffic volumes. Again, there's consultants that the city hires to review traffic counts, pick representative segments of days and Representative days, typically in October of each year, to do traffic counts to estimate what the typical daily volumes are. And with respect to general traffic volume trends along PTH 12 North and Brandt Street corridor, generally they found that overall traffic volumes along this stretch have increased slightly compared to the pre-pandemic 2019 counts. Thank you. And overall total traffic volumes have increased significantly as compared to 2021 counts. Comparatively, on the PTH 52 West and Main Street corridor, generally overall total traffic volumes along that area have decreased by approximately 3% as compared to the pre-pandemic 2019 counts, with all but one of the intersections counted since 2019 featuring Yes. Featuring lower traffic volumes. So experience in that section of the city was slightly different. Moving on to page 48, you'll see a table, Table 2.1, that looks at significant signalized and unsignalized intersections and the respective counts. I just want to highlight the intersection with the highest activity, which doesn't come as Yeah. A big surprise is Park Road West with the intersection of PTH 12 at a total estimate of 3,620 vehicles per hour. Comparatively, for the currently unsignalized intersections along either PTH 12 or PTH 52, the street, the intersecting street with the highest counts turned out to be Giesbrecht Street with the highest count for that intersection being 1,800 Okay. Moving forward, page 55 in Section 2.2 gives another look at the overall traffic counts, and this particular table represents information that was gathered from weekday AM peak hour traffic volumes. Typically, traffic counts taken during the AM peak hours Yes. And the afternoon hours tend to be generally lower as activity is not found to be quite as robust as the afternoon hours. Moving further through the report, I'll skip ahead to Section 5 and particularly page 67. These consultants reviewed with respect to traffic signal warrant analysis, and these are particularly related to unsignalized intersections with special analysis determining whether or not these existing unsignalized intersections are good candidates for signalization. They do have a historical table on Table 5.1 on page 67. Beginning in 2021, the analysis at the Giesbrecht Street and 50— PTH 52 West intersection indicated that there was sufficient traffic to warrant signalization. And based on the 2022 analysis found a little bit lower down on the page, Table 5.2, that determination was verified again with a traffic warrant analysis. That was confirmed to be required. Beginning on section— in Section 7 on page 72 and then concluding on page 73 is a summation of traffic counts and trends, general observations related to traffic operations, and then finally a section referring to recommendations. I'll highlight the recommendations. Generally, signals are warranted at the intersection of PTH 52 West and Giesbrecht Street, which was indicated in one of the previous tables. And just background for council's information, this was a particular request that city council dealt with in the fall of 2021, at which time a decision was made to make that formal request of Manitoba Transportation and Infrastructure, and that department is currently reviewing that request. The latest update that administration has received from that office is that budget funding was not available to see that project be completed in 2023. However, it has been scheduled for 2024. The second recommendation for signalized intersections, as noted, refers to the consultant's analysis on PTH 12 North. And particularly what was found is that signal timing changes based on what is currently there could provide some improvements to the critical movements along that stretch. And again, just as background, in January of this year, that was an item that was identified by City Council. And administration has subsequently contacted Manitoba Transportation and Infrastructure to do a further— and request a further review of PTH 12 signalization coordination. My understanding is that office is still undertaking that review and has not yet provided a response to the city. But in all, this— The traffic count report is generally consistent with others that have been presented to the city and to city council before. I'd be happy to answer any other questions council may have.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=1856s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Council, any questions for administration? Yes, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2269s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Through you, so essentially if we want changes or if we notice changes, the city has to request them from the province, or is there proactive— like, are they examining, you know, the movements, or is this really just based on request?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2276s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "If I go back, if you're talking about traffic signalization in particular?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2294s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Yeah, and traffic flow as well.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2299s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Generally, my memory is maybe not quite as accurate as that could be, but I do believe that City Council had invited Manitoba Transportation and Infrastructure to a committee meeting. I believe that was in the spring of 2020. And at that time, that department had completed a review of the coordination of signals along PTH 12 in particular. At that time, based on the review, the advice that was provided by their representative at that time was that Yes. Whether individuals observed that there were concerns about signalization, timing, or coordination, either members of the public or the City of Steinbach could make contact to the department's traffic services department and request, you know, review or changes be made. That was again reviewed by city council, or at least discussed, and that request was again forwarded. So by and large, it is a response to a request or demand by the public, at least since the last review was done in 2020.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2302s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Okay. Because like one of my questions, like I noticed the dates here were at the end of October. However, I mean, this is— and this is not my area of expertise. That's why I kind of find it interesting maybe that we have to bring it up based on observation. But the dates for the end of October, however, Like in December, the traffic backup was like insane, right? Like if you're traveling north to get, you know, it was backed up from Loewen Boulevard to like past A&W. There was some really, and it was happening the other direction too. So it's kind of hard to know when it should be brought up and when we say, okay, this is a problem versus, well, this is just normal. The other question I would have is I know some of the intersections going north where there's not a lot of traffic, is it, is it necessary for those signals to be running non-peak times like in evening, overnight? Because, you know, you often stop when there's no traffic. So I'm just wondering, where does that decision get made? Maybe in non-peak times, can we just, you know, have those lights not operating?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2382s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "That is a fair point. And I believe that was not in an official meeting, but it was asked of me by another councillor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2453s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor) [medium]",
    "text": "Probably you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2466s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I can't recall specifically, but perhaps it was Councillor Siemens. But I then did contact our regional manager of Manitoba Transportation and Infrastructure who advised Based on the department's standard policy, the provincial trunk highways, if there are signals located on them, their department policy is, for instance, not to permit flashing yellows at signalized intersections. And that is a safety protocol that has been designed into their systems. Whether or not a further review or exception can be made because Steinbach is an urban environment, I'm not sure, but the request has been made for that to be considered.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2468s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2518s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, Councillor Hiebert.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2519s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "C",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2519s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "To administration, a similar question to Councillor Susan Penner's.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2523s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "C",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Looking at the traffic count on number 12 Highway on Brandt going south, I'm thinking of the Co-op turnoff, Penfeld turnoff. If you look at the traffic count, the Co-op turnoff gets a lot of time for people to make left turns. The Penfeld turnoff gets a few seconds, about 4 vehicles get to move, and that's max. And the traffic is probably 3 times as high on that turnoff versus the other one. Can that be changed?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2528s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "That would be a great question of Manitoba Transportation. But I can answer that by saying that The department is aware of the concerns, and there are particularly frustrating traffic movements in areas, as you noted in your example, that the department has been informed of those particular concerns. However, the department will be reviewing that on an overall basis. If individual changes with unique circumstances are identified that could be improved, the expectation is that changes would be made accordingly. Okay, thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2554s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? I have one question for Mr. Warkentin. So every year when we do this, you get— you forward this to MTI and with the recommendations. Now, I can't remember, do we normally make a resolution for you? Do you have to have council to do that, or is it consensus? I'm just wondering what gives you the most power to go after the recommendations and actually go and review the traffic signals on PTH 12 North with them so that we can look at some of these issues that have been brought up today?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2598s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Well, I would say that Thank you, Mr. Mayor. That particular matter, through council's earlier request in January of this year, I would say that's been preempted or at least has already been addressed. Typically with this report, council does resolve to adopt the report. And then just as a matter of reciprocal process, as a matter of you know, the relationship that the city has with the department, it is always forwarded to the regional office for their information.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2642s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Well, then I would ask if you would meet with them on the traffic signalization on PTH 12 anyways, then make sure we bring these concerns up as well. I know they're, like you say, the Giesbrecht intersection is scheduled for 2024 in the budget for that. So we know we're getting lights there eventually. But just ongoing that we keep putting on the pressure because we are growing and that means more traffic and that means, you know what, just more problems that will happen on our roads and I think we just, we need to keep working closely with MTI so that we will, we have efficient roadways for our residents and our guests to be driving on. Okay, council, then we're looking for a motion to adopt the traffic study. Councillor Stevens.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2680s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I will make that motion to adopt the traffic studies.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2739s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Stevens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2742s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. First off, I'd like to thank Mr. Warkentin for reading and understanding the report. There is a lot of information in here that It takes a lot to comprehend, and I'm not saying I did. I don't— I think I failed at that. But I did pick at a few different things. One of the things that I did notice was that with Park Road being closed, Acres Drive has more than doubled in traffic. So that also says kudos to the administration who pushed council to get Acres Drive done. Thank you. So that we could— traffic that bypasses uses Park Road as a bypass now could use Acres. So Acres more than doubled in their traffic count on the right turn lane going west out of the north. So I believe that redirected a lot of traffic, and that was kind of the plan, and it has worked. So there's a lot of different things that have— Thank you. I've also noticed on traffic counts they're up a little bit. I've made the same— I kind of figured that out too with the recommendations. The one thing that I would like to comment on is left-hand turns. And since that's the issue here, but the— on page 65, when you look at the Acres Drive and Penfield, there it's— it said for the queue there's 81 and then there's a little 2 note. Yes. And the note is left turn movements is a shared lane and the queue length includes other movements either through or through or right-hand turn lanes, right? So that— and this is under the left-hand turn storage review. So they didn't do a— haven't done a storage review simply on the left-hand turn, which potentially would help us too in our complaint of a short left-hand turn late there. But overall, I appreciate this information. This information is It is ongoing, as we have done it for, I believe, the last 10 years, and it is in a partnership with MTI. And now we pay for it, I believe, but MTI gets the results. Correct. And so, but they use this as well, and it's part of a partnership that we have, and I think we should continue.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2746s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Ebert?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2877s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Mr. Mayor, I'd just like to say I too found this a very comprehensive report. I like the recommendations that were written at the end here, 7.3, and I look forward to administration taking it forward and seeing what the results are going to be.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2880s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2900s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "C",
    "label": "Unidentified (possibly Jac Siemens) [low]",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2900s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. Council, we've got 8B. This is Park Road West Extension Project. This is referring to the tender award. And that starts on page 32. Nope. 76— 74, sorry, 74. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2900s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "C",
    "label": "Unidentified (possibly Troy Warkentin) [low]",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2900s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor and members of council. This is one of two tenders in the agenda package for this evening. This particular tender relates to proposed extension of Park Road West from the western limit of the the current project that's underway initiated by Penko Construction that will include and be completed to just west of the industrial road. Park Road West intersection. The tender for this project closed on March 9th, 2023, with 5 bids received. And the recommendation from the city's project engineer being WSP Canada Inc. is to award the tender to Friesen Hauling Ltd., which was the low bid. Therefore, administration recommends this award be to Friesen Hauling. For the amount of $1,970,097, with the project to, to be initiated later this spring.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2938s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warding. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=2999s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3002s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3005s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "I am very pleased to see this be presented to council tonight. This is a really important project, actually. If we wouldn't If council does approve this, what it would essentially mean is that Park Road West would not be paved all the way to Industrial Road, which is also paved. So you'd have, you know, a piece of Park Road paved, some gravel, and then maybe industrial. So this, this project will connect Park Road West to industrial, all pavement. So hopefully this will be well received by the public. I know I'm sure it will be because we've heard a lot about the fact that that road is gravel. So again, this is an important project to see those 2 roads connected so there's pavement the entire way.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3008s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3055s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Yeah, further to— I agree with everything Councillor Penner said. And further to it, yeah, we work on a developer-driven system. So with that pavement would occur, that is Already under construction. People might be wondering, well, we're already constructing Park Road West, but it would only go up to the Penco building. And this is a testament of where, uh, having healthy reserves is a good— is a great thing for the city to have, because you can leverage when there is construction started. We can piggyback onto that and complete the project to what the fullest design should be without waiting for more development to come down further closer to industrial to extend it all the way there. So this is a good, good way of, again, wisdom from previous councils and this council to be able to get that project all the way to industrial.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3058s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything? Okay, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3104s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I'd like to add that this is concrete, so weight restrictions are not an issue, and this is going to be a great bypass when we do the intersection at number 12 and Loewen Boulevard. So I think it's gonna serve a purpose in a big, big way. Thank you. Thank you.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3110s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3127s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Yeah, what's interesting about a project like this is if we wouldn't do it, we'd probably hear a lot about it, right? That there'd be this piece of gravel. But the fact that we can be proactive and get this done now, I think it's the right decision.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3129s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Yes, Council, I agree with what's been said today. I know personally I've had meetings in my office about this road. There's been many requests to pave this road, and I think we're doing the right thing. There's about 260 meters that is left. We're just going to pave it, or I mean hard surface it all the way to industrial. This is going to give another way to go north in our community. And tie us up into the industrial or the commercial area. I think it's great, and I think it's going to draw a lot of traffic that way. Again, I can appreciate Councillor Hiebert's remarks that when PTH 12 and Loewen Boulevard starts, it will be an alternative route to get to the north end of our commercial district. Thank you. Which I think is very, very important. Call for the question. All those in favor? Aye. Opposed? That is carried. We have 8C. This is Barkman Avenue/Penner Street asphalt overlay. This is the tender award. Council, there was an info packet in your mailbox today, and that is what we'll be working on. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3141s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor, members of council, second tender award under consideration is for a project, proposed project to renew a portion of Barkman Avenue, Penner Street, and also included in this tender is the city's 2023 asphalt overlay program. The tender closed on February 16th, 2023, with 2 bids received. Recommendation by the city's project engineer being AECOM Canada Ltd. is to award the tender to Maple Leaf Construction being the low bid. However, the challenge with this particular project is that the low bid results in total project costs that will exceed the approved funds. Funding as provided for in the city's 2023 budget by just under $700,000. The overage is arising primarily from, from both water and sewer component costs of the project being significantly more costly than were anticipated. In order for the city to be able to, to do the project and While I would say within budget, administration does have some recommendations for revision. Firstly, that the project scope actually exclude the Penner Street portion of the work except for the tie-ins to Barkman Avenue at the existing intersection. This would reduce the anticipated project costs by just over $300,000. The other project under consideration for 2023 is an upgrade to the city's lift station number 2 on Lowland Boulevard, and a revision to that particular scope of that project would be recommended, which would free up additional funding of $265,000 from the city's utility operating fund that may be directed to the Barkman Avenue and Penner Street project. And thirdly, administration would also recommend that further funding of $120,000 for the project be provided by the city's utility reserve fund, and that would cover the remaining funding balance shortfall. If all these things would be considered, then the The recommendation from administration would be to award the contract for the 2023 Barkman Avenue, Penner Street, and asphalt overlay program to Make-Believe Construction being the low bid, less the removal of the Penner Street portion of the project for $3,445,402 plus applicable taxes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3229s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Horgentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3405s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make the motion we approve the tender with the revisions as recommended by administration.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3411s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder for that? Councillor Siemens. Go ahead, Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3416s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a project where the tender amount has come in considerably higher than was anticipated. That does happen sometimes. In this case, the extra amount is $690,000. We do want the— this project to go Go ahead. Obviously, our asphalt overlay, um, in construction program is very important, uh, but we need to do it with, uh, some revisions. And so that would mean, uh, in this case excluding, uh, the Penner Street portion to save just over $300,000, uh, and then, uh, uh, postponing, uh, a portion of the upgrade of Lift Station 2, the— where in terms of the force main components to 2024, and then also taking some extra money out of the utility reserve to cover the remaining amount. And so while it is unfortunate that the tender came in high, we, we do want to move ahead. Our basic infrastructure remains important, and so we need to make these revisions to make sure that we can go ahead with at least the majority of the, the project.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3420s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Stevenson?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3477s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "C",
    "label": "Unidentified (possibly Jac Siemens) [low]",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3477s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing? Call for the question. All those in favour? Opposed? That is carried. Okay, council will move to 9A, accounts payable, the back of the book. Had— we've all had a chance to review. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3477s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3505s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3505s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. We have the 9B, the building permits for February 2023 on page 80. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3506s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "No, not today.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3529s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Call for the question. All those in favor? Opposed? That is carried. 9C, we've got excavator license on page 81, looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3529s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "C",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "It's good to see people wanting",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3529s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "To do business in our community.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3550s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "Hear, hear.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3550s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Oh, you guys, you're hurting my lip. Call for the question. All those in favor? Opposed, that is carried. We've got 9D, Bylaw 2218. This is referring to 60 Acres Drive public reserve closing. This is third reading. We've had this introduced to us several times. This is just third reading of something we've already approved. Mr. Warkentin, is there anything new to add or can we go right into",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3553s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "You may go right into third reading of Bylaw 2218.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3592s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Council, looking for a motion to approve. Councillor Penner, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3595s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "No further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3602s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Let's dive into the vote.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3604s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Oh, for the question, all those in favor? Opposed? That is carried. We've got 9H on page 113. It is our municipal board appointment delegation. There's a resolution on page 113 to be it resolved that City Manager Troy Warkentin and City Planner Lacey Gaudet be delegated to represent the City of Steinbach at the municipal board hearing scheduled for April 12th, 2023. Council, how would you like to move? I would like to support this and, and send them. They're best— they're our best bet to, uh, to represent the city. But council, uh, looking for a motion to approve. Councillor Hiebert, motion to approve. I",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3605s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Will make a motion to approve. Yeah.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3657s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Siemens, any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3659s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "We have, uh, 2 very good people that will represent our city well, and I see no other— no, no other added comments.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3662s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3671s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "They're the best.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3673s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Call for the question. All those in favour? Opposed? That is carried. Are there any questions of council at this time? Okay, seeing none, we'll move on to number 11, correspondence and petitions. We've got 11A, Minister of Municipal Relations, referring to the 2023 available funding. How would you like to proceed? Take as information? Then we've got the 11B, Ministers of Natural Resources and Northern Development, referring to Dutch elm disease management funding on page 22. Take it as information? Okay. And we've got the On 11C, Recreation Manitoba letter of support for grant application. I would like to proceed, take his information at this time. There's no other business. Looking for a motion to adjourn. Second by Councillor Hiebert. Call for the question. All those in favour? That is carried. Next regular council meeting is Tuesday, April 4th, 2024.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=iqHGFgqdhbU&t=3674s"
   }
  ]

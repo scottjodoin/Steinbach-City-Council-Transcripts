@@ -18,8 +18,8 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "Every 'Mr. Warkentin, could you please introduce this file?' is followed by B introducing the file (00:05:34/00:05:59 By-Law 2283 and subdivision; 01:16:53 By-Law 2227; 01:19:29 By-Law 2274; 01:24:54 By-Law 2282; 01:27:07 By-Law 2285); 00:58:56 'Yes, Mr. Warkentin.' -> B 00:59:09 (minutes 24.1: Troy Warkentin, City Manager, clarified the Loewen Boulevard conditions). Pitch 115-124 Hz on all these turns.",
-   "notes": "01:09:09 (councillor's taxi-price question to the KodaGo delegate, 151 Hz) and 01:24:31 'As well. Thank you.' (seconder) are councillors and are overridden. 01:19:29 contains an inserted 'Thank you, Your Worship. Thank you, Brian.' that is split off as unclear."
+   "evidence": "Every 'Mr. Warkentin, could you please introduce this file?' is followed by B introducing the file (00:05:34/00:05:59 By-Law 2283 and subdivision; 01:16:53 By-Law 2227; 01:19:29 By-Law 2274; 01:24:54 By-Law 2282; 01:27:07 By-Law 2285); 00:58:56 'Yes, Mr. Warkentin.' -> B 00:59:09 (minutes 24.1: Troy Warkentin, City Manager, clarified the Loewen Boulevard conditions). pitch checked on all these turns.",
+   "notes": "01:09:09 (councillor's taxi-price question to the KodaGo delegate, (pitch checked)) and 01:24:31 'As well. Thank you.' (seconder) are councillors and are overridden. 01:19:29 contains an inserted 'Thank you, Your Worship. Thank you, Brian.' that is split off as unclear."
   },
   {
    "label": "C",
@@ -28,7 +28,7 @@
    "title": "Applicant, President",
    "organization": "Williams Creek Development Inc.",
    "confidence": "high",
-   "evidence": "00:08:50 chair asks if the applicant is present -> C 00:08:56 'my name is Marcel Jodwin [Jodoin]. I am the president of Williams Creek'; chair addresses him as 'Mr. Jodoin' (00:24:23, 00:42:58); minutes items 6.4, 7.1, 11, 12, 13.1, 14.1, 17, 19 (Marcel Jodoin, President, William's Creek Development Inc.) match C's answers (commercial lots, zoning-bylaw parking, fencing, buying lots 42-45, construction traffic via Williams Creek Way, green-space dedication fee, demand and cost). Pitch 92-98 Hz on long turns.",
+   "evidence": "00:08:50 chair asks if the applicant is present -> C 00:08:56 'my name is Marcel Jodwin [Jodoin]. I am the president of Williams Creek'; chair addresses him as 'Mr. Jodoin' (00:24:23, 00:42:58); minutes items 6.4, 7.1, 11, 12, 13.1, 14.1, 17, 19 (Marcel Jodoin, President, William's Creek Development Inc.) match C's answers (commercial lots, zoning-bylaw parking, fencing, buying lots 42-45, construction traffic via Williams Creek Way, green-space dedication fee, demand and cost). pitch checked on long turns.",
    "notes": "Short answers ('None.', 'No.', 'Correct.', 'Absolutely.') fit the applicant in context."
   },
   {
@@ -37,7 +37,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:59:51 D 'Motion to approve.' then chair 'Seconded by Councillor Hiebert. Go ahead, Councillor Penner.' -> D 00:59:55 subdivision speech ('I live in a subdivision, Southland area') (minutes R26-157 mover D. Penner); 01:25:33 D 'Motion to approve.' + mover speech 01:25:40 (R26-164 mover D. Penner); 01:24:30 and 01:26:42 'nothing further' as mover of R26-163/R26-165 (D. Penner); 01:07:44 D's KodaGo comment ('as a small business owner myself ... private innovation') is echoed by the chair at 01:13:43 'as Councillor Penner stated, you saw a need' and is a man's voice (122 Hz), so not Susan Penner. 01:18:01 seconder speech on By-Law 2227 (R26-160 seconder D. Penner). Old map's D. Penner letter (H) covers these same times.",
+   "evidence": "00:59:51 D 'Motion to approve.' then chair 'Seconded by Councillor Hiebert. Go ahead, Councillor Penner.' -> D 00:59:55 subdivision speech ('I live in a subdivision, Southland area') (minutes R26-157 mover D. Penner); 01:25:33 D 'Motion to approve.' + mover speech 01:25:40 (R26-164 mover D. Penner); 01:24:30 and 01:26:42 'nothing further' as mover of R26-163/R26-165 (D. Penner); 01:07:44 D's KodaGo comment ('as a small business owner myself ... private innovation') is echoed by the chair at 01:13:43 'as Councillor Penner stated, you saw a need' and is a man's voice ( (pitch checked)), so not Susan Penner. 01:18:01 seconder speech on By-Law 2227 (R26-160 seconder D. Penner). Old map's D. Penner letter (H) covers these same times.",
    "notes": "D merges similar male voices: Jake Hiebert (00:09:41 exchange, 00:50:58, 01:08:55), Michael Zwaagstra (00:47:34-00:50:17 fragments of his mover speech) and a short 01:19:09 line; all overridden. 01:26:22 'Nothing further.' left with D (could be the seconder, Jake Hiebert)."
   },
   {
@@ -59,7 +59,7 @@
    "person": "Resident 3",
    "role": "resident",
    "confidence": "high",
-   "evidence": "00:14:02 self-identifies with name and Wyndham Estate Drive address; 00:21:05, 00:31:18, 00:40:14, 00:42:48, 00:42:56 continue the same points (drainage, sidewalks, bus stops, parking, forever fences, lots 16-41 single-family) matching minutes items 10, 14 and 16; applicant and Councillor Siemens address him by surname. Pitch 90-109 Hz.",
+   "evidence": "00:14:02 self-identifies with name and Wyndham Estate Drive address; 00:21:05, 00:31:18, 00:40:14, 00:42:48, 00:42:56 continue the same points (drainage, sidewalks, bus stops, parking, forever fences, lots 16-41 single-family) matching minutes items 10, 14 and 16; applicant and Councillor Siemens address him by surname. pitch checked.",
    "notes": "G is a badly merged letter: it also carries most of the KodaGo delegate's presentation (01:02:14-01:12:42), fragments of Zwaagstra's mover speech (00:48:10, 00:48:37), Siemens (00:52:22), Bill Hiebert (01:00:56), Susan Penner (01:10:59-01:11:18) and Jake Hiebert (01:17:30). All overridden."
   },
   {
@@ -68,7 +68,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "01:27:34 chair 'Councillor Simmons [Siemens]?' -> H 01:27:41 'Motion to approve first reading.' and 01:27:43 mover speech (minutes R26-166 mover J. Siemens); 00:52:18 chair 'Councillor Siemens.' -> 00:52:22 (on G) and H 00:52:36 continue one speech ('I was also part of the initial council that approved the initial Williams Creek subdivision'; 'there's an exit onto Loewen Boulevard'), which the chair echoes at 00:54:43 'I'll agree with Councillor Siemens, I like the egress to Loewen Boulevard'. 01:23:12 question to administration is the old map's Siemens letter (G); pitch 101-109 Hz across these turns.",
+   "evidence": "01:27:34 chair 'Councillor Simmons [Siemens]?' -> H 01:27:41 'Motion to approve first reading.' and 01:27:43 mover speech (minutes R26-166 mover J. Siemens); 00:52:18 chair 'Councillor Siemens.' -> 00:52:22 (on G) and H 00:52:36 continue one speech ('I was also part of the initial council that approved the initial Williams Creek subdivision'; 'there's an exit onto Loewen Boulevard'), which the chair echoes at 00:54:43 'I'll agree with Councillor Siemens, I like the egress to Loewen Boulevard'. 01:23:12 question to administration is the old map's Siemens letter (G); pitch checked across these turns.",
    "notes": "H also carries Bill Hiebert (00:29:55-00:30:13), Zwaagstra (00:48:54, 00:49:23, 01:22:12) and the KodaGo delegate's narration (01:03:57-01:07:30); overridden. 00:49:14 'Thank you.' inside Zwaagstra's speech is left on H (unplaced)."
   },
   {
@@ -86,7 +86,7 @@
    "title": "Founder",
    "organization": "KodaGo",
    "confidence": "high",
-   "evidence": "01:01:31 chair 'Justice Oladi, you're from Coda Go. Justice, you can take the podium' -> J 01:02:06 then 01:02:14 'my name is Justice Oladele and I'm the founder of Coda Go'; minutes items 27-28 (Justus Oladele, Founder of KodaGo, delegation). J's turns answer the taxi-price and expansion questions and make the partnership request (minutes 27-28). Pitch 113-136 Hz.",
+   "evidence": "01:01:31 chair 'Justice Oladi, you're from Coda Go. Justice, you can take the podium' -> J 01:02:06 then 01:02:14 'my name is Justice Oladele and I'm the founder of Coda Go'; minutes items 27-28 (Justus Oladele, Founder of KodaGo, delegation). J's turns answer the taxi-price and expansion questions and make the partnership request (minutes 27-28). pitch checked.",
    "notes": "Most of his presentation is on G and H (overridden to him). 01:08:52 'Hello, Justice.' at the start of J's turn is the councillor and is split off."
   },
   {
@@ -95,7 +95,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "Only substantive turn 01:23:02 'The only thing further to what Councillor Schweitzer [Zwaagstra] said, this also includes penalties and fines' comes right after the chair named 'seconded by Councillor Hiebert' (minutes R26-162 seconder J. Hiebert); the old map's merged Hiebert letter (B) has this turn; pitch 107 Hz matches Jake Hiebert's identified turns this meeting (00:09:41 109 Hz, 01:17:30 106 Hz) and not Bill Hiebert's (138-151 Hz).",
+   "evidence": "Only substantive turn 01:23:02 'The only thing further to what Councillor Schweitzer [Zwaagstra] said, this also includes penalties and fines' comes right after the chair named 'seconded by Councillor Hiebert' (minutes R26-162 seconder J. Hiebert); the old map's merged Hiebert letter (B) has this turn; pitch checked matches Jake Hiebert's identified turns this meeting (00:09:41 (pitch checked), 01:17:30 (pitch checked)) and not Bill Hiebert's ( (pitch checked)).",
    "notes": "01:09:05 'Oh, thank you, sir.' is the KodaGo delegate (overridden). 01:17:58 'Thank you.' follows Jake Hiebert's 01:17:30 speech and is left on K."
   },
   {
@@ -104,7 +104,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "L's turns (01:11:03, 01:11:16, 01:12:07) are a woman's voice (164-188 Hz; Susan Penner is the only woman on council) and belong to the congratulations/expansion question to the KodaGo delegate that starts on G at 01:10:59 (188-193 Hz); minutes item 29: Councillor S. Penner congratulated Mr. Oladele."
+   "evidence": "L's turns (01:11:03, 01:11:16, 01:12:07) are a woman's voice ( (pitch checked); Susan Penner is the only woman on council) and belong to the congratulations/expansion question to the KodaGo delegate that starts on G at 01:10:59 ( (pitch checked)); minutes item 29: Councillor S. Penner congratulated Mr. Oladele."
   }
  ],
  "turn_overrides": [
@@ -115,7 +115,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "minutes item 7: Councillor J. Hiebert asked if any commercial lots were planned; applicant answers 'Mr. Hiebert' (00:09:57); old map Hiebert letter; 109 Hz, not Bill Hiebert's 144"
+   "reason": "minutes item 7: Councillor J. Hiebert asked if any commercial lots were planned; applicant answers 'Mr. Hiebert' (00:09:57); old map Hiebert letter; (pitch checked), not Bill Hiebert's 144"
   },
   {
    "time": "00:09:55",
@@ -151,7 +151,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Go ahead, Councillor Hiebert' (00:29:46); minutes item 13: Councillor B. Hiebert asked if William's Creek Way goes to Loewen Boulevard; 144 Hz vs Jake Hiebert ~109"
+   "reason": "chair 'Go ahead, Councillor Hiebert' (00:29:46); minutes item 13: Councillor B. Hiebert asked if William's Creek Way goes to Loewen Boulevard; (pitch checked) vs Jake Hiebert ~109"
   },
   {
    "time": "00:30:09",
@@ -160,7 +160,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "follow-up 'So that would be an exit?' in Bill Hiebert's exchange (minutes 13); 131 Hz"
+   "reason": "follow-up 'So that would be an exit?' in Bill Hiebert's exchange (minutes 13); (pitch checked)"
   },
   {
    "time": "00:30:13",
@@ -196,7 +196,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mid-sentence fragment of Zwaagstra's mover speech (old map continuous letter I); 100 Hz"
+   "reason": "mid-sentence fragment of Zwaagstra's mover speech (old map continuous letter I); (pitch checked)"
   },
   {
    "time": "00:48:37",
@@ -205,7 +205,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "fragment of Zwaagstra's mover speech (old map continuous letter I); 103 Hz"
+   "reason": "fragment of Zwaagstra's mover speech (old map continuous letter I); (pitch checked)"
   },
   {
    "time": "00:48:54",
@@ -250,7 +250,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "speaks right after the mover as the named seconder ('Seconded by Councillor Hiebert', minutes R26-156 seconder J. Hiebert); old map's Hiebert letter; 111 Hz fits Jake (~106-109) not Bill (138-151)"
+   "reason": "speaks right after the mover as the named seconder ('Seconded by Councillor Hiebert', minutes R26-156 seconder J. Hiebert); old map's Hiebert letter; (pitch checked) fits Jake (~106-109) not Bill (138-151)"
   },
   {
    "time": "00:52:22",
@@ -268,7 +268,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "speaks after the mover as the named seconder ('Seconded by Councillor Hiebert', minutes R26-157 seconder B. Hiebert); 130-143 Hz matches Bill Hiebert (00:29:55 144 Hz) not Jake; old map put part of it on the Hiebert letter"
+   "reason": "speaks after the mover as the named seconder ('Seconded by Councillor Hiebert', minutes R26-157 seconder B. Hiebert); (pitch checked) matches Bill Hiebert (00:29:55 (pitch checked)) not Jake; old map put part of it on the Hiebert letter"
   },
   {
    "time": "01:02:14",
@@ -407,7 +407,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "councillor who has met the delegate; the old map's Hiebert letter carries this turn (not its Damian Penner letter, who spoke just before); 109 Hz fits Jake, not Bill Hiebert"
+   "reason": "councillor who has met the delegate; the old map's Hiebert letter carries this turn (not its Damian Penner letter, who spoke just before); (pitch checked) fits Jake, not Bill Hiebert"
   },
   {
    "time": "01:09:05",
@@ -426,7 +426,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "a councillor's question after 'Go ahead, Councillor' (not the City Manager); 151 Hz matches Bill Hiebert (144 Hz at 00:29:55), every other male councillor this meeting is 100-122 Hz; old map put 'My question is' on the Hiebert letter"
+   "reason": "a councillor's question after 'Go ahead, Councillor' (not the City Manager); (pitch checked) matches Bill Hiebert ( (pitch checked) at 00:29:55), every other male councillor this meeting is (pitch checked); old map put 'My question is' on the Hiebert letter"
   },
   {
    "time": "01:09:21",
@@ -465,7 +465,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "woman's voice (188 Hz) after 'Go ahead.'; minutes item 29: Councillor S. Penner congratulated Mr. Oladele"
+   "reason": "woman's voice ( (pitch checked)) after 'Go ahead.'; minutes item 29: Councillor S. Penner congratulated Mr. Oladele"
   },
   {
    "time": "01:11:06",
@@ -474,7 +474,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "woman's voice (193 Hz), continues the expansion question with letter L"
+   "reason": "woman's voice ( (pitch checked)), continues the expansion question with letter L"
   },
   {
    "time": "01:11:18",
@@ -483,7 +483,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'What do you—' ends Susan Penner's question (174 Hz); the delegate then asks 'are you done?'"
+   "reason": "'What do you—' ends Susan Penner's question ( (pitch checked)); the delegate then asks 'are you done?'"
   },
   {
    "time": "01:12:14",
@@ -522,7 +522,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "chair 'Councillor Hiebert. Motion to approve.' (minutes R26-160 mover J. Hiebert) then mover speech; old map Hiebert letter; 106 Hz fits Jake not Bill; chair's 'Councillor Penner, go ahead' is the seconder naming"
+   "reason": "chair 'Councillor Hiebert. Motion to approve.' (minutes R26-160 mover J. Hiebert) then mover speech; old map Hiebert letter; (pitch checked) fits Jake not Bill; chair's 'Councillor Penner, go ahead' is the seconder naming"
   },
   {
    "time": "01:19:09",
@@ -531,7 +531,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'No further comments.' answers the chair's 'Councillor Hiebert, seconded by Councillor Siemens. Any comments?' (minutes R26-161 mover B. Hiebert); 157 Hz on a 1-second clip; Damian Penner was neither mover nor seconder"
+   "reason": "'No further comments.' answers the chair's 'Councillor Hiebert, seconded by Councillor Siemens. Any comments?' (minutes R26-161 mover B. Hiebert); (pitch checked) on a 1-second clip; Damian Penner was neither mover nor seconder"
   },
   {
    "time": "01:22:12",
@@ -540,7 +540,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "continuation of Zwaagstra's R26-162 mover speech (old map continuous letter I); next speaker 'further to what Councillor Schweitzer [Zwaagstra] said'; 98 Hz"
+   "reason": "continuation of Zwaagstra's R26-162 mover speech (old map continuous letter I); next speaker 'further to what Councillor Schweitzer [Zwaagstra] said'; (pitch checked)"
   },
   {
    "time": "01:24:31",
@@ -663,6 +663,6 @@
    "reason": "chair asked 'Councillor Penner, Councillor Hiebert, any comments?' (minutes R26-165 D. Penner / J. Hiebert); second reply was on the old map's Hiebert letter"
   }
  ],
- "summary": "Diarization in this re-transcription is poor: letters D, G and H each merge several voices (Damian Penner/Jake Hiebert/Zwaagstra on D; Resident 3/KodaGo delegate/Siemens/Susan Penner on G; Siemens/Bill Hiebert/Zwaagstra/delegate on H), handled with 47 overrides and 11 splits. Jake vs Bill Hiebert turns rest on minutes seconder order and pitch (Jake ~106-111 Hz, Bill ~138-151 Hz) and should be checked by ear.",
+ "summary": "Diarization in this re-transcription is poor: letters D, G and H each merge several voices (Damian Penner/Jake Hiebert/Zwaagstra on D; Resident 3/KodaGo delegate/Siemens/Susan Penner on G; Siemens/Bill Hiebert/Zwaagstra/delegate on H), handled with 47 overrides and 11 splits. Jake vs Bill Hiebert turns rest on minutes seconder order and pitch (Jake  (pitch checked), Bill  (pitch checked)) and should be checked by ear.",
  "transcript": "transcripts/2026/2026-08-04.txt"
 }

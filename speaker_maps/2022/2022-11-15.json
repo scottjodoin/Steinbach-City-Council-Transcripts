@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Gives the opening 00:00:16 right after the chair says 'give the opening to Councillor Jake Hiebert' (minutes item 3: Councillor Jake Hiebert opened); thanked 'Thank you, Councillor Hiebert' 00:06:21. Pitch of long turns 109-117 Hz (00:00:16, 00:30:55).",
-   "notes": "Letter merges Damian Penner at 00:38:28 and 00:40:19 (overridden; pitch 126-136 Hz, matching Damian Penner's 131-137 Hz speech at 00:26:37). Short interjections ('No comments.', 'Nothing.', 'Information.', 'Nothing further.') measure ~150-167 Hz and may be another member (Bill Hiebert never gets a letter), but short-turn pitch rises for everyone in this meeting, so they are left on B. 00:00:03 pre-meeting line overridden."
+   "evidence": "Gives the opening 00:00:16 right after the chair says 'give the opening to Councillor Jake Hiebert' (minutes item 3: Councillor Jake Hiebert opened); thanked 'Thank you, Councillor Hiebert' 00:06:21. Pitch of long turns (pitch checked) (00:00:16, 00:30:55).",
+   "notes": "Letter merges Damian Penner at 00:38:28 and 00:40:19 (overridden; pitch checked, matching Damian Penner's (pitch checked) speech at 00:26:37). Short interjections ('No comments.', 'Nothing.', 'Information.', 'Nothing further.') measure  (pitch checked) and may be another member (Bill Hiebert never gets a letter), but short-turn pitch rises for everyone in this meeting, so they are left on B. 00:00:03 pre-meeting line overridden."
   },
   {
    "label": "A",
@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair hand-offs 'Councillor Penner and then Councillor-' 00:18:38 and 'Question, Councillor Penner' 00:20:54 are each followed by an A question; voice pitch 188-203 Hz across 00:16:09, 00:18:45, 00:20:58, 00:28:02 (a woman's voice; Damian Penner speaks at 131-137 Hz at 00:26:37).",
+   "evidence": "Chair hand-offs 'Councillor Penner and then Councillor-' 00:18:38 and 'Question, Councillor Penner' 00:20:54 are each followed by an A question; pitch checked across 00:16:09, 00:18:45, 00:20:58, 00:28:02 (a woman's voice; Damian Penner speaks at (pitch checked) at 00:26:37).",
    "notes": "00:00:00 pre-meeting chatter overridden to Unclear."
   },
   {
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Hand-off 'Councillor Zwaagstra.' 00:22:18 then G moves approval (minutes R22-262 mover M. Zwaagstra); thanked 'Thank you, Councillor Zwaagstra' 00:35:06; building permits mover 00:37:37 (R22-265) and street-naming hand-off 00:42:10 (R22-268 mover) both followed by G; Siemens says 'I agree with Councillor Zwaagstra' 00:24:52. Long-turn pitch 96-106 Hz.",
+   "evidence": "Hand-off 'Councillor Zwaagstra.' 00:22:18 then G moves approval (minutes R22-262 mover M. Zwaagstra); thanked 'Thank you, Councillor Zwaagstra' 00:35:06; building permits mover 00:37:37 (R22-265) and street-naming hand-off 00:42:10 (R22-268 mover) both followed by G; Siemens says 'I agree with Councillor Zwaagstra' 00:24:52. Long-turn pitch checked.",
    "notes": "00:42:30 contains 'Thank you, Your Worship. Thank you.' mid-speech, absent from the older transcript (review)."
   },
   {
@@ -74,7 +74,7 @@
    "title": "Executive Director",
    "organization": "ROC Eastman (Recreation Opportunities for Children)",
    "confidence": "high",
-   "evidence": "The applicant hands over 00:21:30 'best answered by Moni from Rock Eastman'; H self-identifies 00:21:42 'Mooney Loewen, Executive Director with Rocky Spence' (= ROC Eastman); pitch 174 Hz.",
+   "evidence": "The applicant hands over 00:21:30 'best answered by Moni from Rock Eastman'; H self-identifies 00:21:42 'Mooney Loewen, Executive Director with Rocky Spence' (= ROC Eastman); pitch checked.",
    "notes": "00:26:37 is Damian Penner (overridden). Surname spelled 'Loewen' here, 'Lowen' in the older transcript; first name heard as Moni/Mooney - spelling unverified."
   },
   {
@@ -83,7 +83,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Anything further, council? Councillor Penner.' 00:26:33 then I 'Thank you, Mr.' 00:26:36; the speech that follows (I/H/C/D 00:26:36-00:27:58) is one male voice at 131-137 Hz, not Susan Penner (188-203 Hz); existing map gives this whole speech to Damian Penner."
+   "evidence": "Chair 'Anything further, council? Councillor Penner.' 00:26:33 then I 'Thank you, Mr.' 00:26:36; the speech that follows (I/H/C/D 00:26:36-00:27:58) is one male voice at (pitch checked), not Susan Penner ( (pitch checked)); existing map gives this whole speech to Damian Penner."
   }
  ],
  "turn_overrides": [
@@ -93,7 +93,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "pre-meeting chatter before the call to order; pitch 158 Hz, below Susan Penner's 188-203 Hz; the older transcript put it on the mayor's letter"
+   "reason": "pre-meeting chatter before the call to order; pitch checked, below Susan Penner's (pitch checked); the older transcript put it on the mayor's letter"
   },
   {
    "time": "00:00:03",
@@ -102,7 +102,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "low",
-   "reason": "pre-meeting line; the older transcript runs it straight into the mayor's 'Call this meeting to order'; pitch 165 Hz, near the chair's and far from Jake Hiebert's 117 Hz"
+   "reason": "pre-meeting line; the older transcript runs it straight into the mayor's 'Call this meeting to order'; pitch checked, near the chair's and far from Jake Hiebert's (pitch checked)"
   },
   {
    "time": "00:26:37",
@@ -111,7 +111,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "continues I's 'Thank you, Mr.' ('Mayor. We're really getting...') after the chair calls Councillor Penner; male voice 131 Hz; older transcript has it all on one letter"
+   "reason": "continues I's 'Thank you, Mr.' ('Mayor. We're really getting...') after the chair calls Councillor Penner; male voice (pitch checked); older transcript has it all on one letter"
   },
   {
    "time": "00:26:45",
@@ -120,7 +120,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "same speech ('I'm really struggling on this one'); the chair does not debate here; pitch 131-137 Hz like 00:26:37; existing map gives it to Damian Penner"
+   "reason": "same speech ('I'm really struggling on this one'); the chair does not debate here; pitch checked like 00:26:37; existing map gives it to Damian Penner"
   },
   {
    "time": "00:27:10",
@@ -129,7 +129,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "same speech continues ('Change can happen with growth... I trust Mooney'); pitch 137 Hz; existing map Damian Penner"
+   "reason": "same speech continues ('Change can happen with growth... I trust Mooney'); pitch checked; existing map Damian Penner"
   },
   {
    "time": "00:27:37",
@@ -138,7 +138,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "end of the same speech ('I can't agree with the motion as it sits'); pitch 132 Hz vs the City Manager's 112 Hz; existing map Damian Penner"
+   "reason": "end of the same speech ('I can't agree with the motion as it sits'); pitch checked vs the City Manager's (pitch checked); existing map Damian Penner"
   },
   {
    "time": "00:37:18",
@@ -155,7 +155,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "comment after the mover on building permits (minutes R22-265 seconder D. Penner); pitch 136 Hz matches Damian Penner's speech, not Jake Hiebert's 109-117 Hz; existing map Damian Penner"
+   "reason": "comment after the mover on building permits (minutes R22-265 seconder D. Penner); pitch checked matches Damian Penner's speech, not Jake Hiebert's (pitch checked); existing map Damian Penner"
   },
   {
    "time": "00:40:19",
@@ -164,7 +164,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mover's explanation on Board of Revision after chair 'So be it resolved. Second by Councillor Zwaagstra. Go ahead.' (minutes R22-267 mover D. Penner); Zwaagstra replies 'He said it all'; pitch 126 Hz; existing map Damian Penner ('So moved')"
+   "reason": "mover's explanation on Board of Revision after chair 'So be it resolved. Second by Councillor Zwaagstra. Go ahead.' (minutes R22-267 mover D. Penner); Zwaagstra replies 'He said it all'; pitch checked; existing map Damian Penner ('So moved')"
   },
   {
    "time": "00:42:07",

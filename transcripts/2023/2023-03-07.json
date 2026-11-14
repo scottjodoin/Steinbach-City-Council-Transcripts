@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Landfill",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=1s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Compactor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=2s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "The landfill compactor. The compactor? Okay,",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=3s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Unidentified speaker",
    "text": "Deal. Doesn't make any sense. Yep, totally. Oh yeah, totally.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=5s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I would like to give the opening to Councillor Jake Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=8s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. The outdoor rink. It's exciting to hear the beat of the pile driver in Steinbach these days. With the new event centre building in progress, the city has been proactive in building the new outdoor rink to replace the old one that— which was torn down to allow for early preparations. I hear comments from some of the— about the outdoor rink could be used for various age levels practicing, or maybe there could be also some league games being played. Others are quick to jump on this suggestion vehemently that our harsh Manitoba winters could never accommodate such outdoor events. Well, join me in memory lane. When I was around 12 years old, the early 1960s, I lived 2 miles south of Kleefeld next to a school called Hochstadt. We didn't have a skating rink. A couple of my brothers and other boys our age, along with our teacher, Mr. [name withheld], came up with a plan, a proposal to build an outdoor rink. We had an idea and we put it into action. I believe it was [name withheld] who got the school board On board to purchase the boards for the rink. All of the boys chipped in. We dug a number of holes by hand for hydro poles to be erected with strings of electrical lights or electric wires which were attached to 200-watt bulbs that illuminated the rink and the surrounding area. That was so we could retrieve the pucks that went over the boards. For that year or 2 following, we would dress in the school hallway Next to the cloakrooms, put on our skates, and then walk the distance to the rink. A couple of years later, I took the initiative to decide that we should have a rink shack next to the rink, a building wherein we could dress for games and lace up our skates for pleasure skating. I raised in the neighborhood of $40 and bought an old granary from a farmer. Someone volunteered to put the shack— pull the shack to the back of the schoolyard next to the rink. A 45-gallon The oil drum was modified to be the stove with a black stovepipe exiting the roof. The heat experienced from this belly stove was indescribable. At the time, I was refereeing, playing hockey, and enjoying the family atmosphere on other nights on the skating rink, having fun. Our family home was next to the schoolyard, and I remember one winter I was out there every single day. The ice didn't magically flood itself overnight. Using a sled with a large barrel, we got water from the teacherage next door. Councillor Siemens will recall the teacherage as he and his family lived there for several years previously. Not having horses, a couple of the boys would identify as such and pull the sleigh to the rink where several barrels of water were dumped. When it snowed, all the youth chipped in and cleared the ice surface using large heavy metal scrapers And grain shovels. When reminiscing a year or two ago, I was reminded that when another school or a community came to play hockey, the home team would scrape the ice between the first and second period, and the visiting team would scrape the ice between the second and third period. Now back to where I started, 2023, the city's outdoor rink. I think it would be quite feasible and practicable for practices to be experienced on this new rink. The big difference anticipated to be today would be that Zamboni would be scraping the snow and flooding the ice. The new warm-up shack or dressing room have all the amenities needed for the young enthusiasts. Within are the washroom facilities, a gas stove that doesn't require people to go outside and round up some old trees to burn. We had so much fun back then, and I will sput a bit and say times are tough today.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=18s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Thank you, Councillor Hiebert. I think those of us with gray hair or no hair around this table can all remember skating outside, and, uh, and it, and it was fond memories of our childhood. Thank you for that opening. Council, we have the agenda in front of us. Looking for a motion to adopt. Councillor Siemens. Seconded by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. We have the minutes of February 21st, 2023, regular council meeting. Looking for a motion to approve the minutes. Councillor Hiebert. Seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=253s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=295s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That's carried. Is there any business arising from the minutes? Okay, seeing none, we will— it is just a little before 7:35, so we will go to number 9A, accounts payable. These are in the back of the book. We've all had a chance to review them. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=296s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=326s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "All for the question? All those in favor? Opposed? That is carried. And we will, we will take number 9B, financial statements ending December 31st, 2020. This is also at the back of the book. Looking for a motion to approve. Councillor Penner, seconded by Councillor Stevens. Any comments? No. Call for the question. All in favor? That is carried. It is now 7:35, so we will move up to number 6, the public hearing. This is referring to Bylaw 2218 that refers to 60 Acres Drive Public Reserve closing. We will be doing second and third reading today, council. At this time, I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=326s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor, thank you. And members of council, Bylaw 2218 is a proposed bylaw by the City of Steinbach to close public reserve identified as Public Reserve B, Plan 46982, for a parcel of land that's located just south of Acres Drive in Steinbach. The owners of the property, or the owner of the property, And the applicant is the City of Steinbach, and the purpose of the bylaw and the public hearing is to close the public reserve as indicated on the sketch on page 8. Notices as required have been issued. There are— there is no written correspondence on file with respect to the bylaw. Council earlier this winter considered an offer to purchase and— Thank you. Following a request from the neighboring landowner, council did give approval to the sale of this public reserve land subject to bylaw approval to close it, and this public reserve closing will facilitate that. Recommendation of administration is for council to give this bylaw a second reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=378s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Goertzen. Is the applicant here today? Okay. Oh no, we're the applicant, that's correct. Sorry, I thought it was the business that was applying, sorry. Okay, at my finest today, obviously. Okay, is there anyone here with questions, comments, or objections to this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=447s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "I object.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=447s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will now close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=447s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion for second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=495s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=497s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. It's a pretty simple, uh, uh, process here. This involves, uh, closing, uh, Public reserve, a small section of land just south of Acres Drive. And as the city manager explained, the intent here is so that way the majority of it can be sold and consolidated with the land right beside. And so that way that business is able— that property is able to expand. And so I think it makes sense for that to go ahead. And the applicant seems reasonably reputable as well. So I think— Thank you. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=500s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=533s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I don't see any issue with the closing of the public— public reserve to allow— to facilitate the sale of the land. This is land that has not been earmarked as something that is seen as an incredible necessity to the city. However, it is an assistance to a local business to help them expand and improve. So I have no problems seconding the motion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=535s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything in closing? Well, I would— in summary, I would like to say, uh, I'm, I'm, I'm very glad that I got, uh, I got ribbed by Councillor Zwaagstra on this, because if I wouldn't have, I would have thought he didn't notice I did something wrong. So, call for the question. All those in favor? Opposed? That is carried. We will go directly into third reading, looking for a motion to approve. Uh, Councillor Alderman Penner, second by Councillor—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=556s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=556s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mayor, that was an error. Actually, we're only asking for second reading at this time.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=585s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Oh, okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=589s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "The bylaw does need review by the province first and approval before the city may proceed to give third",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=590s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "Reading.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=599s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, sorry, that was— that's in our agenda for third reading, but we will not do that so that it can go to the province and come back to us. Thank you, Mr. Warkentin. We have no delegation. We'll move to number 8A, the reports and recommendations of city manager. This is the landfill compactor purchase. Mr. Warting, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=599s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor and members of council. City of Steinbach in its 20— actually 2022 budget was Go ahead. The 2023 budget had set aside funding for the purchase of a landfill compactor, and the budgeted funds were intended to replace the existing unit that has been in operation at the city's landfill for several years. Administration has been able to source a used and refurbished model, being a 2012 Cat Model 816 compactor. with the company offering it for sale being Marcel Equipment Ltd. for the total price of $385,000 plus taxes, and this includes delivery. 'Cause it's a used machine, the city was unable to proceed with a public tender. Recommendation from administration is council approve the purchase of this unit.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=622s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Bourdin. Council, how would you like to proceed? Councillor Stevens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=681s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=687s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Stevens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=688s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a purchase of a piece of equipment for the landfill. The current one at the landfill is in need of replacing as there's a lot of money needed in repairs on that machine and it is an older machine. So now the request is to purchase a refurbished machine, a used machine, a 2012 machine for $385,000. Our budget for this year for that machine was $425,000, so there it did come in well under budget, which is a good thing. If I remember right from the last time we met with Eldon Waldman, our solid waste department head, he informed us that this is one of the most important pieces of equipment he has at the landfill. It'll take 6 feet of garbage and it'll compact it into 1, 1.5 foot of garbage on the hill, so it saves a lot of space. It removes the air from the garbage and it— and that's exactly what it is. It's a compactor. That's what it's called. So it does a good job and it's a valuable piece of equipment at the landfill.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=691s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Stevens. Anything further, Councillor?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=749s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I'd just like to add that a brand new one would be well over $1.1 million. So to buy a slightly used one makes a lot of sense. And I think this is a good value for the city. That's all.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=753s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=763s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=768s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'll call for the question. All those in favor? Opposed? That is carried. 9C, we've got on page 17, we have a resolution for the weed inspector, the 2023 appointment. This is an item of housekeeping. We do this every year. And the, the resolution is, is to appoint Trevor Schoenberg, our community service officer, as the weed inspector for 2023. Council, how would you like to proceed? Um, Mike, Councillor Zwaagstra.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=769s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make the motion to approve the resolution.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=807s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=808s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. Every year we appoint our community service officer as our weeds inspector. Makes sense to continue doing so.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=811s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=818s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Mr. Schellenberg's been doing this for a couple of years now, and, uh, so I think that's, uh, prudent that he continue.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=821s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything closing? Call for the question. All those in favor? Carried. 9D, we have the business licenses on page 18. Um, just looking for a motion, or, uh, yeah, just looking for a motion A motion to approve the resolution. Councillor Penner. Second. Second by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=827s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=856s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=857s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=858s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Nothing further of council. Call for the question. All those in favor? That is carried. There— we'll move on to number 10, council question period. Are there any questions of council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=859s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Missed business licenses.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=871s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "We just did business licenses. That's",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=872s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "What I voted on. I have a question. Through you to administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=876s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Jac Siemens (Councillor) [medium]",
    "text": "Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=881s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Warkentin, about 6 weeks ago, council asked for a review of the traffic light situation, number 12 North. It appears it hasn't changed yet. Is there any update to provide us?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=883s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "For members of council, I have not received an update from Department of Transportation. At this time, however, I have observed over the last 6 weeks it appears as though there have been traffic counting devices installed at several intersections along PTH 12. My suspicion is that those devices are intended to determine the actual traffic counts to help provide a report that will ultimately be received by the city. But at this point, I don't have a time as to when that could be expected. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=894s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Further questions? Do those devices then show up with bad driving habits?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=932s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I'm not sure what kind of data they collect.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=937s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "Hopefully",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=941s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "It's just traffic counts.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=942s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Stevens, there's some things that can't be fixed. Any other questions of council? Okay, thank you. We'll move on to number 11, correspondence and petitions. We got the St. Rats Rosa Watershed District. We have minutes of December 20th, January 16th, January 23rd, and February 7th. How would you like to proceed? Take this as information? Okay, thank you. And we have 11B, the Province of Manitoba. This is the unconditional grant funding announcement, page 29. Council, how would you like to proceed? Take this as information.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=944s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "It is exciting, sir, that we have that funding, unconditional funding, and that's important for us as an operational unit that we get this funding as it is an addition to our 2023 budget. So it is a good thing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=988s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, it is. It's welcomed at this time when project costs are skyrocketing and It seems to be everyone's looking for money somewhere, and this is just great that the province had extra money and that they decided to give it, disperse it out to the municipalities as a per capita basis. I think that was, that was really good of them to do that, and it's really, really helping us. There's no other business. Looking for a motion to adjourn. Second. Second by Councillor Hiebert. Quick call for the question. All those in favor? That is carried. Next regular council meeting, Tuesday, March 21st, 2023 at 7:30.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=1004s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "There you go, [name withheld].",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=LurftEQ_C7s&t=1051s"
   }
  ]

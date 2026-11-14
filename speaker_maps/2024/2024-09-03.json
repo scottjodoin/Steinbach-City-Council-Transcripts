@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Opening remarks as mayor; runs every motion ('Call for the question', names movers/seconders matching minutes R24-171 to R24-176); addressed as 'Mayor Funk' by the delegate (00:07:32) and 'Mr. Mayor' by councillors (00:14:31, 00:20:56); minutes: Mayor Earl Funk called the meeting to order; voice ~127-140 Hz.",
+   "evidence": "Opening remarks as mayor; runs every motion ('Call for the question', names movers/seconders matching minutes R24-171 to R24-176); addressed as 'Mayor Funk' by the delegate (00:07:32) and 'Mr. Mayor' by councillors (00:14:31, 00:20:56); minutes: Mayor Earl Funk called the meeting to order; voice  (pitch checked).",
    "notes": "Short interjections inside A turns ('Hi.', 'Wow.', 'Thank you.' in the 00:00:00 opening; 'Second.' at 00:06:31 and 00:16:58) are not placed; 'Perfect.' (00:06:31) split to the delegate and 'Yep.' (00:20:12) split as unclear. 'Thank you, Your Worship, for your leadership in' inside 00:22:36 is not in the YouTube captions or the older transcript (likely not in the audio)."
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:21:33: chair hands the floor by name ('Councillor Siemens, before I ask for the call for the question, are there any words you'd like to say?') and B replies with his ERMC priorities; chair answers 'Thank you, Councillor Siemens' (00:22:36); minutes item 13 appoints Councillor Jac Siemens to the ERMC; voice ~104 Hz. 00:16:57 'Nothing further.' follows the accounts motion he moved (minutes R24-174, J. Siemens), pitch 98 Hz.",
+   "evidence": "00:21:33: chair hands the floor by name ('Councillor Siemens, before I ask for the call for the question, are there any words you'd like to say?') and B replies with his ERMC priorities; chair answers 'Thank you, Councillor Siemens' (00:22:36); minutes item 13 appoints Councillor Jac Siemens to the ERMC; voice  (pitch checked). 00:16:57 'Nothing further.' follows the accounts motion he moved (minutes R24-174, J. Siemens), pitch checked.",
    "notes": "Short turns 'No comment.' (00:06:30) and 'Nothing further.' (00:21:21) cannot be placed with confidence: overridden to low."
   },
   {
@@ -28,7 +28,7 @@
    "title": "Donor Relations and Development Officer",
    "organization": "STARS",
    "confidence": "high",
-   "evidence": "Self-identifies at 00:07:32 ('I'm Angel Cuthbertson ... donor relations and development officer at STARS'); chair introduced the STARS delegation just before; minutes item 7 names Angele Cuthbertson, Donor Relations & Development Officer, S.T.A.R.S.; answers the councillor's question at 00:14:50; voice ~160-220 Hz.",
+   "evidence": "Self-identifies at 00:07:32 ('I'm Angel Cuthbertson ... donor relations and development officer at STARS'); chair introduced the STARS delegation just before; minutes item 7 names Angele Cuthbertson, Donor Relations & Development Officer, S.T.A.R.S.; answers the councillor's question at 00:14:50; voice  (pitch checked).",
    "notes": "Name spelled as in the minutes; transcript has 'Angel', chair says 'Angie'/'Anjan'."
   },
   {
@@ -74,7 +74,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "Chair: 'Mr. Warkentin, before we take this information, is there anything you'd like to highlight on this?' and H gives the staff explanation of federal tower regulation (00:18:21); answers the chair's follow-ups on the tower location and whether a motion is needed (00:19:47, 00:20:11); minutes: City Manager Troy Warkentin present; voice ~110-119 Hz.",
+   "evidence": "Chair: 'Mr. Warkentin, before we take this information, is there anything you'd like to highlight on this?' and H gives the staff explanation of federal tower regulation (00:18:21); answers the chair's follow-ups on the tower location and whether a motion is needed (00:19:47, 00:20:11); minutes: City Manager Troy Warkentin present; voice  (pitch checked).",
    "notes": "MERGED letter: the councillor's STARS question (00:14:31, 00:15:48) and part of Zwaagstra's ERMC speech (00:21:13) also carry H; see overrides. '...this is Is there a standard form?' and 'Yes, Your Worship. Okay.' inside 00:18:21 may be someone else's words (not in the captions)."
   },
   {
@@ -83,7 +83,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'Councillor Zwaagstra.' then I: 'I'll make the motion to appoint Councillor Jake Siemens to the committee' (00:20:56); minutes R24-176 mover M. Zwaagstra; continues the mover's speech after 'Go ahead, councilor' (00:21:04); voice ~99-113 Hz."
+   "evidence": "Chair: 'Councillor Zwaagstra.' then I: 'I'll make the motion to appoint Councillor Jake Siemens to the committee' (00:20:56); minutes R24-176 mover M. Zwaagstra; continues the mover's speech after 'Go ahead, councilor' (00:21:04); voice  (pitch checked)."
   }
  ],
  "turn_overrides": [
@@ -94,7 +94,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "A councillor's question to the delegate after the chair's unnamed 'Go ahead, Councilor' (not the City Manager); the older transcript clustered this turn with Zwaagstra's 00:20:56 motion; pitch 94-95 Hz matches Zwaagstra (99-103) better than Warkentin (110-119); no name cue."
+   "reason": "A councillor's question to the delegate after the chair's unnamed 'Go ahead, Councilor' (not the City Manager); the older transcript clustered this turn with Zwaagstra's 00:20:56 motion; pitch checked matches Zwaagstra (99-103) better than Warkentin (110-119); no name cue."
   },
   {
    "time": "00:15:48",
@@ -112,7 +112,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Mid-sentence continuation of Zwaagstra's mover speech between his 00:21:04 and 00:21:17 turns; captions and older transcript run it as one turn by him; pitch 103 Hz like the surrounding I turns."
+   "reason": "Mid-sentence continuation of Zwaagstra's mover speech between his 00:21:04 and 00:21:17 turns; captions and older transcript run it as one turn by him; pitch checked like the surrounding I turns."
   },
   {
    "time": "00:06:30",
@@ -130,7 +130,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'Nothing further.' right after Zwaagstra's mover speech, before the chair turns to Siemens; most likely the mover closing (pitch 94 Hz), but short and the older map thought it the seconder."
+   "reason": "'Nothing further.' right after Zwaagstra's mover speech, before the chair turns to Siemens; most likely the mover closing (pitch checked), but short and the older map thought it the seconder."
   }
  ],
  "turn_splits": [

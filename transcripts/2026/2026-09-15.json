@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "Finally, I want to thank our city administration for the awesome work that you put in to make our city a great place to live. And to our outgoing councillors, Michael Zwaagstra and Jac Siemens, I want to say thank you for serving the city over the last 20 years. Michael, you have inspired me with your knowledge in so many areas and how well you present your views. Wishing you success as you pursue your representation as MLA for the constituency of Steinbach. Jake, I appreciate you as a friend. You have served our community well, promoting active living by pushing for more walking and biking trails. I hope to continue in that and play a part in the same. Thank you also for your great opening stories. Always enjoyed them. Tonight, I want to focus on the change in our city's housing demographic over the years, and I'm going to go back quite a ways to start off with, and I'm going to focus on 20 years. the last 20 years. Talking with my mom recently regarding housing in 1955, when my parents got married, they didn't have a down payment to purchase a house or even build a home. So rent was only available in boarding houses, typically 1 or 2 room house units. The room my parents rented for the first year of their marriage was 12 feet by 12 feet. That's 144 square feet at $15 a month. The rooming house had 5 suites, all sharing 1 bathroom. Population of Steinbach in 1955 was 2,350 people, and the town had only 4 boarding houses. The Reimer brothers, Peter J. Reimer and Jacob J. Reimer, formed Reimer Agency in 1947, today Steinbach Apartments, and in 1958 built a modern, professionally managed housing project that is still in great condition right across the street from the City Hall here at the corner of First Street and Reimer Avenue. Reimer Avenue was justifiably named after a family that had large influence in the growth and prosperity of our area. This included several clans of Reimers, including the Kloss-Reimer family, who had 17 children. Most of them had significant influence in shaping Steinbach in the early years. Over the years, Ryanway Agency has played a key role in apartment— in the apartment business and continued to add to demands of the market. But over the last 20 years, we have added many new players in the multifamily housing market. Since Councillor Zwaagstra and Councillor Siemens were elected to council 20 years ago, Stamic has built 4,437 residential units. That's in the last 20 years. Of those units, 2,236 were single-family homes— single-family including duplex. 2,200 were multifamily over those 20 years. But a major shift has occurred in the last 3 years. We have issued 253 combined single-family duplex units in the last 3 years, and at the same time have issued 755 multifamily units.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=184s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "Apartment units. That's over 1,000 housing units in just 3 years. That's a record, with 75% of multifamily apartments. Before this 3-year period, we were well ahead in the single-family units, but in the last 3 years, like I said, 75% have been multifamily. Talking with people that are currently living in apartments, it seems many have moved here from all over the country Plus other countries. One gentleman, gentleman I talked to came from New Zealand who had a connection with someone here in Steinbach and expressed he loved our community and planned to stay. Retirement is another example of why people move into apartments and convenience to do no, no yard work, no snow removal, giving them the freedom to travel at their will. The demand is obviously there because as they build, it seems to me that they're full in a very short period of time. This change in development is difficult for some people, but growth is a sign of a healthy community.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=185s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=244s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Hiebert. And that was a very good opening for your last one. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Penner, seconded by Councillors Penner. Call for the question. All those in favor? Opposed? That is carried. We have the minutes of September 1st, 2026, regular council meeting starting on page 1. We've all had a chance to review. Looking for a motion to approve. Second by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We have the— there is any business arising from the minutes, council? Okay, seeing none, we will continue. There's no public hearings, although council, there are 2 delegations. Now the delegations are set for 7:45, but we have nothing in front of them and we've just got the one 8 item and then 4 items after that. So I would suggest council, if you're okay with it, that we would just bring the delegations forward now. Okay, so we've got 7A. This is the RCMP. This is our new Staff Sergeant Mike Maxwell, and he's here to present. This is your first time presenting to council, isn't it?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=245s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment) [medium]",
    "text": "It is.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=329s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, well, take the podium, and we've— there was a supplementary package in our mailboxes. And I think Staff Sergeant Maxwell, you'll be speaking from this.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=330s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "E",
    "label": "Unidentified speaker",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=347s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=348s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=348s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So included in the package that I forwarded— first off, Mayor and Council, thanks for having me here this evening. It's a pleasure to be here. Included in the package this evening is a report that I drafted along with some Crime Severity Index information and a mayor report from January 1st, Until today's date for both this year and last. So I'll begin by going through the report that I prepared myself. When I was asked to come today, I was asked to speak about RCMP priorities, how things are going in policing in Steinbach. So that's where we'll begin. Whenever I speak in public about the RCMP, I often get asked about human resources. So that's where I'll begin. Currently, we're in a good— we're in a very good spot when compared to the positions that we hold. The municipal detachment is comprised of 18 positions: myself, 3 corporal supervisors, 2 General Investigations Section investigators, a Traffic Services investigator, and 11 general duty constables. As of September 20th, all of those positions will be filled and functioning. We just have one gentleman who remains off on paternity leave until that date. So he comes back on the 21st, and at that time we'll be fully staffed on the municipal detachment. On the rural side of our detachment, we're fully staffed with one soft vacancy, meaning somebody's not fully available for police work because of injuries or otherwise. So outside of those 2 people, we're fully functional. One of those comes back on the 21st.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=350s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "G",
    "label": "Unidentified (possibly Michael Zwaagstra) [low]",
    "text": "And the other one?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=481s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "And the other person, we're not so sure yet, but they're on the rural side of our detachment. I came here, or I arrived shortly after the beginning of our fiscal year, our reporting year. So in April I showed up. In setting detachment priorities, I was able to meet with the Steinbach Police Advisory Board. I spoke with some of our rural communities. And the priorities that we came up with are road safety, reduction of property crime, intelligence-led policing, and police visibility. I've been doing this job just about 20 years now, and in one way or another, those things are always priorities everywhere I work. Police visibility is definitely a theme that comes up everywhere, so it is a big priority for us. Those are our priorities, but police visibility is always a main focus for the police. For a while, we didn't have our local traffic position fully staffed, but he is back to work full duties, and that position alone goes a long way in police visibility because fully marked police cars, lights and sirens, out driving around stopping cars. Everybody sees them and, and we get good feedback about the work that he does. In addition to that, we have Special Constable Dennis Reddekopp who spends a lot of time working in our schools locally and that's another great avenue for visibility. And thirdly, there's a whole bunch of things, but our third big pillar that we use for police visibility is media releases, social media, Steinbach Online, Carillion, the local CBC. I've done a few interviews now and we get out to the public that way. After that, I went through a history of the last, since 2021, of calls for service, which I found some interesting trends. The municipal calls for service have stayed relatively level. In 2021, we had 6,800 calls for service. To date this year, we have 4,700 calls for service with 3 months to go, so we're about on track. And then all of the years in between, it's been between 6,300 and 6,800, so it stayed relatively the same. Um, in 2021, in our rural detachment, we had 7,100 calls for service in 2021. And that was down to 4,900 calls for service last year, which I found interesting. So we are seeing some decrease in our calls for service on the rural side of our detachment and relatively flat in the municipal over that period of time. A lot of that is driven by traffic. enforcement. So it's not like people are reporting less crime, but it's more less traffic complaints, speeding, stuff like that. It was the biggest reduction that we saw over that period of time. And then after that, I just listed a bunch of media releases, files of interest that we've had in Steinbach and in the rural area. I'm not going to read them all out loud, but we've had a lot of interesting calls since I've arrived and a lot of interesting investigations. Steinbach is the largest city policed by the RCMP in Manitoba, and it's definitely the largest city that I've worked in as an RCMP officer. It brings a lot of interesting work and challenges and meaningful work and meaningful community relations. So to date, it's been a great experience, and I don't expect that'll change. The attachments that I included, I'll start with the— they're called Mayor's Reports. That's the title of them from 2025 and 2026 from January 1st to today's date. There were a few things of note. when I was going through these reports and comparing them side by side. So on page 3 of both reports, you'll see about 3/4 of the way down, Mental Health Act other activities. So in 2025 to date— That report, did it come through?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=482s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Right there.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=788s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "Got it.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=788s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So on page 3, about 3/4 of the way down, there's a line that says Mental Health Act. In 2025, uh, we had 251 of these calls to date, and this year we have 311. So that's a big increase. That's a noted increase year over year. It We're in September. We have 311 of those. That's more than one a day. The police spend a lot of time working with partner agencies for mental health crisis. And then in line with our priorities on the bottom of page 4, For the 2026 report, there's a violation group of Criminal Code, Other Criminal Code, and it talks about breach of recognizance, fail to comply with undertaking, fail to comply with orders. So this is the type of work that we do in an effort to reduce property crimes. So people get released on conditions, and this is us going and following up on people who have conditions, and if they're not abiding by said conditions, it can really— it can result in these kinds of charges. So that is like a part of the heavy lift when it comes to reducing property crime. And most of the report outside of that Um, the numbers were not changes that wouldn't be expected. Um, I did note that from 2025 to 2026, we went from 78 reported break-and-enter files to 91. But that we reduced arsons from 11 to 2. And the last thing that did stick out to me was well-being checks. Well-being checks can be as a result of many things, but normally with the data that we're talking about, Um, we can get many calls about a few people. So we have gotten a number of calls over the year to repeatedly check on the same people. And, um, so it's increased a lot by individual counting stats, but it's a lot of us checking on the same people over and over. So it's just some context for those numbers. And lastly, I have a report about our Crime Severity Index. So what you'll find in here is the Crime Severity Index score for the City of Steinbach, the rural area around Steinbach, Canada, and the province. And basically, the City of Steinbach Crime Severity Index is similar that to the average of Canada. It's lower than the average within Manitoba, and the city is higher than the rural area. And how they account for Crime Severity Index, very basically, is the severity of the punishment for a given crime. So, if somebody gets 6-month probation for assault, and somebody else gets 2 years in prison for assault, it's safe to assume that the person who got 2 years in prison committed a more severe assault than the person who got 6 months of probation. And then that's how they aggregate, aggregate the scores by community, is what are the sentences per crime happening in the community. So it's just some context for the work that the police are doing, the challenges that we face. Following the great opening here, the population is growing, the city's growing. There is a large demand on the police here. That is one thing I've learned very quickly. As I said, we have 11 general duty constables. They're busy, but they're doing a good job. We always strive to do better, but it's been a great place to work and it's been a great experience so far. And yeah, that's my report and I'm open to any questions.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=790s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Well, thank you very much for the great report and all the information that is in here. Some of this we'll have to go over a little bit deeper. But yeah, Councillor, any questions? Go ahead, Councillor Stevenson.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1089s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll start with a comment and then I'll follow up with a question. As the chair of the RCMP Advisory Group, it's been a pleasure for us to get to know you over the time that you've been in Steinbach so far, and we appreciate the enthusiasm that you bring to your position, your passion, and your willingness to just dive right in and keep things going well when they're going well and make changes when changes need to be made. So I can say on behalf of the rest of the committee, we've been impressed by the leadership you've shown so far.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1106s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Mike Maxwell) [low]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1134s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, it is certainly good news that at the moment our detachment numbers are up to where they should be because it has not been that way for the last number of years. And we recognize that, you know, circumstances can change and there'll be reason, you know, that people will get transferred out, the numbers will dip again. But to be at full strength again is a nice change. The question I have is on the topic of traffic enforcement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1135s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Susan Penner) [low]",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1155s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, we're pleased that the traffic officer is back on full duty, but could you just share with us a bit Just about what are some of the challenges with catching some of these offenders, particularly on Main Street? And we know that you're working at it, and, and I was really pleased to see some of the latest media stories about the blitz that happened Friday night, sending the message like, don't go racing on our Main Street here in Steinbach. Could you just sort of summarize just a little bit about some of the things that make it difficult to catch some of these offenders? Because I know that when I talk to people, sometimes people wonder How come more don't get caught more quickly? And I know that there are some, you know, just a variety of challenges that, that your officers face, and maybe you could just talk about that a little bit.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1155s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So the biggest thing is having our traffic services member back to full duties. That is going to have a great impact on the enforcement that we see in downtown. He's a fully municipal member. He spends his time working in the city all the time. Heaven forbid an emergency, but outside of an emergency, he's in the city all the time. A lot of it comes down to the members every day are triaging the work that we do. I have a coworker here that probably everyone in this room knows, Joanne Ryle. She's worked here for a long time. And she remembers the days of 2 members working night shift and driving around all night and the police not getting any calls for service. That's not the Steinbach that we face today. The members are busy, they're working all the time, and it's hard for them to set aside time for proactive patrol. That said, that's why this traffic member is so important because it's a dedicated resource to a very important task. That said, it is a priority of ours. What you saw in the media here probably today or yesterday was a traffic project that we took on late last week, and you're going to see more enforcement like that. Where it is hard It's not every day that the members are so busy that they can't do this work, but they're literally triaging all of the time. So what I've come to recognize is moving forward, we will make targeted plans with designated resources to affect operations to have these kinds of results. instead of counting on somebody to just do it off the side of their desk in between calls for service and in between investigations. So some of the challenges are that, just having dedicated resources, and we're coming up with a plan for that, and, and we're just seeing the beginning— beginnings of it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1196s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Okay, good.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1338s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "H",
    "label": "Unidentified (possibly Damian Penner) [low]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1339s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Through you, Mr. Mayor, again, welcome to Steinbach. I think it's great, and I also appreciated that story about racing on Main Street, as that has been a complaint that I've heard a number of times this Especially on beautiful warm Friday nights. The, uh, about 6 years ago, 8 years ago, we asked for an officer that was hired and it was for undercover work.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1339s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "C",
    "label": "Unidentified speaker",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1363s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "And dedicated, and I can't remember what the acronym was.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1363s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Was it even CSI or",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1366s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "— GIS.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1366s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Yeah, GIS. And so is that still part of what we do? I mean, we wanted an officer, that was a request of council, Specifically for that type of work, is that still ongoing?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1369s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "Yes, so we have 2 of those. Those were the resources that I actually counted on last week as a part of this traffic project. So they're generally like a detective kind of position when you would see from TV shows. They're plainclothes officers, they do thorough investigations. So I took some of their expertise and I deployed it in a different manner to help us get some results in another area. But outside of that, they are doing a lot of good work. So we were talking about how the resources in Steinbach haven't always been exactly what they are now. I would love to say that they'll forever be fully staffed, That's not a reality in, in the world that I work. So one of our GIS positions was vacant for a while as well. We recently brought in a really good police officer to fill that position. He spearheaded our project last week, and we're gonna really start to get some value out of that section.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1382s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "That's good to hear.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1453s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "G",
    "label": "Unidentified (possibly Jac Siemens) [low]",
    "text": "One more?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1456s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Changing totally, and maybe this puts you on the spot a bit because Steinbach, provincially and nationally, e-bikes and e-scooters and that whole thing. I know that we need laws around it. We need to develop some provincial, and, uh, and at some point we're going to put a bylaw in place in Steinbach here too, I'm assuming. Any comment? Are there any issues that you see that you can manage, or does that maybe revert more to our CSOs that we have?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1456s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "This is a really interesting topic, and I don't mind being put on the spot. Um, so of course you just said first and foremost we're going to need laws. That's going to be locally, provincially. Um, and I have an anecdote. So recently in the town where I live, I saw a person a few years elder to me going down the road like really fast on not a scooter but an electric bike. And I saw this guy, I have kids, I saw this guy at the park and I was asking him about the bike and he was telling me about this new electric bike that he had and how fast it is and how awesome it is and fun it is. And I was like, before you got that bike, like when's the last time you rode a bike? And it was like a long time ago. So E-bikes, e-scooters, all of these e-vehicles that we don't currently have legislation for. Like, we have things that look like dirt bikes that have no pedals, but they're, they're e-vehicles. There's a lot of these things coming out, and it is the way of the future. Like, we, we know that, um, but legislation has not caught up. Enforcement strategies have not caught up. They're dangerous. Um, an anecdote that I heard is like, if you wouldn't give your child a dirt bike, they don't— or you wouldn't let your kid go ride a dirt bike without a helmet, then don't let them go ride one of these without a helmet. Like, injuries— we're hearing the stories about the kids showing up in hospital with head injuries and, and serious broken limbs and whatnot. So the first thing that you said is very important. I'm waiting on the laws. But that said, the RCMP— I was talking about triaging calls earlier. So the police are out working on break-and-enters and sexual assaults and domestic violence and impaired driving, and these calls will also come in, and we have to triage everything that we do. So we will be a part of the solution. The CSOs will be a part of the solution. The CSOs, I should have said, actually, they were a great part of our enforcement activity last week. We partnered with the CSOs in that initiative as well. So I see a partnership moving forward with whatever the CSO program tends to look like in the future, like the RCMP and the CSOs can work hand in hand, but definitely a part of that mandate will be enforcing some rules around e-vehicles, whatever those rules may be in the future.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1486s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1634s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Anything? Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1635s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. Welcome to Steinbach.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1638s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "C",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment) [medium]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1640s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Appreciate the report that you gave to us today. Steinbach, of course, is the biggest Staff Sergeant detachment in Manitoba, if I'm correct.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1641s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "It's the largest city.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1649s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Largest staff detachment, I believe, or it was. It may be. I don't know.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1650s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "That's a good question.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1657s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Appreciate it. You've got rural, you've got municipal, you've got Sprague, and you've got Buffalo Point First Nations, right?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1657s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "Right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1664s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "So you've got a large, large area. 80,000 people outside of Steinbach? It's very big. A couple of questions I have. When we first got the GIS positions. One was rural and one was municipal because they work both areas. Are you now saying that they're both under municipal contract?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1664s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "Well, I have this chart right in front of me, and I have not been here a long time, so I don't know all of the history of the positions.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1685s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "But that was the argument at the time because they work rural and municipal, that one was paid by the province, one was paid by the municipality.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1691s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So you have more insight to the RCMP than most.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1702s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1704s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "But they both fall under the same role or the same collator code.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1705s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Okay, that's strange.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1711s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So what I will do is dig deeper on that and I will let you know, but it's been my understanding since I've been here that both of those positions are municipal positions.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1712s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Okay, I appreciate that.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1721s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "No problem.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1722s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "One more question. Today there was a break-in just a couple doors down from my place.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1723s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "Early this morning or later?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1727s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Early this morning. I know the phone. And I appreciate that you say the Steinbach's almost a full complement of— but talking to the members there, one's from Oak Bank and one's from Stonewall, uh, if we're almost a full complement, do we still pay for that double overtime for those 2 guys?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1729s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So that would depend on who they're here to replace. So specifically this week—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1744s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Like, don't— I don't go in specifics, just general terms.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1752s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "General terms, it would depend on who they're here to replace. So it— we literally charge it to the collator of the position person that they're replacing. So some overtime would be billed to the city, some overtime would be billed to the rural municipality's collator depending on who they're here to replace.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1756s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Like today, if we had 2 municipal people working, yeah, and they get called out of town because everybody's Would the overtime have gone to Steinbach or—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1776s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1788s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "You can get back to the main— No, no, no.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1788s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "So the billing of the overtime wouldn't— so as you said, our rural members and our municipal members, they work essentially as one detachment. So the overtime billing wouldn't be divided based on where the calls for service come in, but if I have a municipal member who's away for whatever reason and needs to be replaced, the overtime for the member coming in would be billed to the municipal collator. If it's a rural member who's away and needs to be replaced, it would be billed to the rural collator, but it would not depend on where they're being deployed.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1792s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Good, appreciate that. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1835s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "G",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment) [medium]",
    "text": "No problem.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1837s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1838s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Um, so as you know, we've had a hard time filling our full complement. It sounds like that's being resolved. In the meantime, we've hired private security. Has that been beneficial and helped with some of the smaller— I guess this is specifically theft, construction sites and that type of Do you believe that private security has been beneficial?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1839s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "This is a very anecdotal answer, but yes, I do think that. A lot of deterrence comes from presence. It goes back to what I was talking earlier about visibility, and the security firm, to my knowledge, does a good job at being present in those places that were previously being targeted. So yeah, I do think it provides a good service.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1865s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Council? Okay. Well, Mike— Maxwell, Staff Sergeant Maxwell.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1897s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "You can call me whatever, just not late for dinner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1908s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "We're actually on a first-name basis when we run into each other, but this is a formal meeting, so I apologize.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1910s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "That's okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1917s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Staff Sergeant, I just, yeah, I want to thank you for, for coming out tonight. I want to thank you for what you do for our community, and it has been our pleasure getting to know you as we have, and we've had just incredible discussions with you, and I think, I think there's a lot of pieces to safety in our community. Like, the RCMP is the big piece, but there's other pieces that need to work together with you. And I— and I— and there's even things that the local residents can do to protect themselves.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1918s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Mike Maxwell) [low]",
    "text": "Absolutely.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1954s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "And so I, I think when that all gets done, I think that's when we have the safest community, when we're all working together. And, and one thing that I appreciate about you so much is how you come to the table with your sleeves already rolled up, ready to work.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1954s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Mike Maxwell) [low]",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1973s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "And I just want to thank you for that. And it goes— it's not unnoticed. We notice it at council and we see the good things you're doing. And I drive around town all the time because at any hour of the night I could go take care of my 25,000 or 2,500-pound baby that needs to be changed, my smokehouse, right?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1973s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Mike Maxwell) [low]",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1994s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "So I've been seeing lights in a distance on the street as I've been passing by several times in the last few weeks. So I know your presence is out there. Appreciate it. This is something we've often talked about and you said you were going to deliver and you're doing that. So I do appreciate that very much.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=1995s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "Thanks very much.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2013s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "And thank you again for all this and I'll look into this and I know I do appreciate the fact that as, as residents contact me, I can just send the pictures to you and give you the background and you—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2014s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "Please tell them to call the police.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2029s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Somehow they feel that when they're calling me, they are calling you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2032s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Mike Maxwell) [low]",
    "text": "I know.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2036s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "But I, I too am giving you commitment. I'm working with you. I appreciate it. And that's, that's how we work together. I'm giving you information.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2038s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "F",
    "label": "Mike Maxwell (RCMP Staff Sergeant, RCMP Steinbach Detachment)",
    "text": "Appreciate it.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2047s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you so much for, for never, uh, never turning me away. Always just saying— I mean, it always comes with more questions, of course.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2047s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Mike Maxwell) [low]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2057s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Take care. Okay, Council, we've got a second delegation, and that is 7B. This is STARS, Madeline Wheeler and Tammy Beauregard.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2057s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "All right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2074s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Well, welcome here.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2076s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Thank you so much for having me again, uh, our little annual presentation. Um, thank you so much. So it's been a busy year for STARS in Manitoba and STARS in Steinbach, so we'll do a quick little update today. Uh, this is our year— our fiscal year in review from last year. In Manitoba, we did 1,181 missions. So that's for our entire province that we cover here. We have 6 bases, but we still are the busiest base out of Winnipeg. This is our map where we all cover, but—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2077s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Steinbach's not on it.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2122s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Susan Penner) [low]",
    "text": "Oh, well.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2123s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "We did 47 calls to Steinbach, to the city of Steinbach, but when you think of the, the general area beyond, I believe the number is quite similar as well. Steinbach tends to be one of our top 3 most popular mission destinations, if you will. Very, very busy, growing population, a lot of reason for that. And in the last 14 years, what we've all been able to accomplish through the City of Steinbach support, we're able to do our new Airbus H145 fleet, um, isolate mounts, and then we also partner with rural communities to set up our fuel caches, extending our fuel range across the province. Some recent updates, so this would be within the entire organization, not specific to Steinbach, but shows the work of what STARS does and its capabilities. Last year they did over 1,000 ultrasounds, 370 units of blood, 223 pediatric patients cared for by STARS. So that gives you a little bit of a glimpse of who we're serving, and you could kind of narrow that down as it looks like in your residence. So exciting news, we have, uh, we've set, uh, we're doing an expansion. So our crews have worked out of these Aqua trailers the past 14 years that we've operated out of Manitoba, and by the end of the year our expansion should be complete. So there'll be education labs, sim room, high-fidelity mannequin, and maybe next year you guys can come to our house and visit us there and see, uh, see the impact of STARS and what we're all able to accomplish. So that's it for me, and I'm sure I'll see many of you in November at AMM. Okay, thank you so much for all your support and for the time tonight.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2126s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Well, thank you very much. Um, yeah, great presentation. It's good to get that snapshot once a year of what you've all done in the, in the last year in Steinbach, and We know that you have— STARS has impacted many lives, and when you impact one life, you actually impact the whole family.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2253s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Susan Penner) [low]",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2273s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "And, and I know just before the meeting you told me a few stories, and they were fantastic stories, and, and I love hearing them, like success stories, like when everything— when it works, right?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2274s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2287s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "And, and we got there in time, and we saved a life, and And we saved a family to stay together. And it's been— it's great. And this has been a long time. We've had STARS for many, many years. And not that many years, I think, right, for this area. How many years have you been in Steinbach?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2288s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "We've been— STARS has been in Manitoba 14 years.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2307s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "14 years.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2311s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Yeah. So we would be serving all of Manitobans 14 years ago.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2311s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "So, but you've been in existence for 40?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2317s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Yes, yes, yes. So we started 40 years ago in Alberta, and then we've expanded 6 bases, Western Canada, Calgary, Edmonton, Grand Prairie, Saskatoon, Regina, and Winnipeg. And year after year, Winnipeg seems to be the busiest base, and there's a lot of Manitobans that keep us busy.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2322s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Well, there's lots going on in Manitoba. But yeah, no, I just, again, I just want to say thank you for what you do. Thank you for how you take care of our residents and the residents in our, in the, in the southeast, like, which is a very big area. Yeah, lots of people here. And I'm just going to open it up for questions from council. Are there any questions? Go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2341s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. Thank you for coming again. Yeah. And yes, it was nice meeting you at AMM.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2364s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2370s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Quick question for you. You have 472 recreational incidents. Do you see a rise in the incidents involving e-bikes and e-scooters?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2370s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "I don't know if we see e-scooters, but definitely rural living, farm living, there's recreational vehicles. And if you're going to play hard and have fun, wear a helmet. That would be my 2 cents.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2379s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2395s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead, Councillor Hiebert.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2397s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. Thank you for your report as well and the work that you do. You do save lives with those helicopters, I know that. Is there any talk about ever getting a helipad in Steinbach so that you wouldn't have to go all the way to the airport with ambulance to get transferred there? Is there any chance that there's a possibility of developing something closer to the hospital?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2398s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "That would be a great idea, Councillor. That would be so impactful for the citizens of Steinbach and for the Southeast region. That would save lives when time is of the essence. It would be very impactful. That's not— I fundraise for STARS in our mission and our operations.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2417s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "A",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "I don't necessarily fundraise for extra helipads, but that is a community conversation that",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2440s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "So you wouldn't necessarily be involved in that communication at this point as far as that goes?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2440s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Mm-mm.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2453s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "Okay. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2454s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thanks. Anything further for council? Again, thank you very much for coming. It will be great to see you at AMM.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2455s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2466s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Because we'll be— a few of us will be there and maybe some new councillors as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2467s"
   },
   {
@@ -2007,7 +2007,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2471s"
   },
   {
@@ -2023,7 +2023,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "See what all happens after the election.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2472s"
   },
   {
@@ -2039,7 +2039,7 @@
    "voice": "I",
    "label": "Madeline Wieler (STARS representative, STARS)",
    "text": "Yeah, okay, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2475s"
   },
   {
@@ -2055,7 +2055,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you so much. Good night. Take care. Okay, council, we have got 8A. This is the reports and recommendations from city manager. This is the Arm of Rokerie referring to their development plan and zoning bylaw. The info was to follow. We got it. We received this package We received a number of applications in our mailboxes. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2476s"
   },
   {
@@ -2071,7 +2071,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Pursuant to the requirements of the Planning Act, the Arm of Le Broquerie has recently completed a 5-year review of its development plan and in addition has also proposed amendments to its owning bylaw. A public notice was received by the city recently advising that it intends to hold a public hearing in regards to these 2 planning documents on September 23rd. Administration has reviewed the proposed bylaws, both the development plan and zoning bylaw. The report that is submitted as part of this package does indicate several concerns.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2508s"
   },
   {
@@ -2087,7 +2087,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2552s"
   },
   {
@@ -2103,7 +2103,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Inconsistencies with provincial land use policies, and changes that are significant departures from established standards. And the proposed changes seek to make significant amendments in the development policies, and particularly in what's referred to as the transitional policy areas, as identified in those planning documents. The basis for administration's concerns, as I mentioned, are provided in the attached report.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2553s"
   },
   {
@@ -2119,7 +2119,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2580s"
   },
   {
@@ -2135,7 +2135,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "It is administration's recommendation that city council review that report in detail. I'd be pleased to answer any questions as I'm able. And it's further recommended that city council authorize the city to object to the proposed amendments for each bylaw, with notice of these objections to be filed prior to the public hearing scheduled for September 23rd.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2581s"
   },
   {
@@ -2151,7 +2151,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Workman. Council, are there any questions for administration? Seeing none, council, how would you like to proceed? Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2602s"
   },
   {
@@ -2167,7 +2167,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "I'll make a motion to object.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2616s"
   },
   {
@@ -2183,7 +2183,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Seconded by Councillor Susan Penner. Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2617s"
   },
   {
@@ -2199,7 +2199,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "I make a motion to object on the basis of the transitional zone that Steinbach has had with Lebocquerie and Hanover over the years, and I believe also with St. Anne. anything within our boundaries that there would be a zone that would be safe for development because future— and this is right next to the Deerfield area of Steinbach, and if we were to annex that area in the future, it would not allow us to annex that area to continue growing Steinbach. So on those bases, I would object to this. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2623s"
   },
   {
@@ -2215,7 +2215,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, Councillor Penner? Thank you.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2657s"
   },
   {
@@ -2231,7 +2231,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Obviously, we want to be good neighbors to our neighbors, and we try to do that. But at the end of the day, our responsibility is to look out for Steinbach and our community. And this is something that definitely has concerns when it comes to Steinbach, as Councillor Hiebert mentioned, particularly when it comes to Sorry, when it comes to our transition zone. And that's something we need to be very careful about. And it's not just us as a city who's concerned. If you look at provincial policy, they too would say this is not in accordance with what they recommend or suggest. So although we are the ones formally objecting, this isn't without—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2661s"
   },
   {
@@ -2247,7 +2247,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Susan Penner) [low]",
    "text": "I'm sorry.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2711s"
   },
   {
@@ -2263,7 +2263,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I would say support, maybe they haven't verbally said it, but in terms of documents from the province, this is something that we actually should be objecting to based on even what the province would recommend.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2713s"
   },
   {
@@ -2279,7 +2279,7 @@
    "voice": "G",
    "label": "Unidentified speaker",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2724s"
   },
   {
@@ -2295,7 +2295,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Go ahead, Councillor Bennett.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2724s"
   },
   {
@@ -2311,7 +2311,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank you very much, Mr. Mayor. The reality of a city is we have 2 ways of growth. We have growth up and we have growth out. And there is annexed land for future growth at this time. But having said that, Steinbach is on the cusp of unprecedented— well, not on the cusp, we are in the middle of unprecedented growth. We do not know 20 years from now what that's going to look like. And when you're building properties, the lifespan of those properties is longer than 20 years. So we need to protect the future of the city. Of great concern is that this transition zone with Steinbach and the Brogery was entered into good faith in previous files and previous bylaws and development plans that La Broquerie has had. There's now quite an about-face of wanting to have the potential for, I'll say, extreme densification for a rural area right on the borders of Steinbach. The reason that impacts our growth in the future is there isn't urban services that are going to be going to these properties. These are going to be rurally serviced properties. Those rurally serviced properties are incredibly difficult to later later bring onto urban services. For example, just one thing that administration highlighted was the potential to creation of 2-unit dwellings. So we're talking about rural duplexes being on the border of Steinbach without urban services. A duplex is an urban property, not a rural property. So that right there highlights it, highlights one of the challenges that we're looking at, and we need to be able to in good faith work with our neighbors for the future growth of both of our communities. Just as an anecdotal example, we— our business employs more individuals that aren't from the city. The city businesses and city individuals recognize the value that there is from the residents in other areas, but the other municipalities also have to recognize the future challenges of city that they, they have their services, the majority of their services in as well, where their residents can get their services from. So we need to protect our borders, we need to work well with our neighbors as well, and we both need to mutually see the challenges that we have in the future and understand them together.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2728s"
   },
   {
@@ -2327,7 +2327,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Thank you. Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2859s"
   },
   {
@@ -2343,7 +2343,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Mr. Mayor, if I could, I'd just like to read 2 paragraphs on the report we have here into the minutes, uh, to clarify some of the issues, and it has to do with transitional policy and also the bylaw policy. So if I might read. The proposed LeBrock redevelopment plan seeks to remove transitional policy area, which currently applies to developing current within 2 miles of the City of Steinbach. The city believes that the transitional policy area should be retained as it provides an important planning framework for managing development in the proximity to the city boundaries and helps protect the city's long-term growth and development potential. Maintaining this policy area allows for greater coordination between rural and urban land use. The proposed LeBroker bylaw removes the existing transitional policy area for both the zoning map and the bylaw text. The city believes that the transitional policy should be continued to be identified and recognized in both the zoning bylaw map and the accompanying text. The transitional policy area is an important planning tool that protects the long-term growth and development potential of both the City of Steinbach and the RM of La Broquerie while helping to ensure that future development occurs in a coordinated and orderly manner. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2863s"
   },
   {
@@ -2359,7 +2359,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2943s"
   },
   {
@@ -2375,7 +2375,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2952s"
   },
   {
@@ -2391,7 +2391,7 @@
    "voice": "C",
    "label": "Unidentified speaker",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2953s"
   },
   {
@@ -2407,7 +2407,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Council, you know, being a good neighbour doesn't always mean you're going to say yes. Sometimes no is a good answer for a neighbour to give you as well. And so I think what we need to do here, and it's all been said, but I think we need to We're protecting the future growth of our city and we and the and the orderly growth, and also we want to encourage the RM of of La Broquerie to also grow their urban centers, their development centers. They've got a couple of development centers in their in their in their RM, and they should be focusing on those as well. And that's what the province wants. That's actually. provincial land use policy is to develop around urban centers where services are. And it just, it brings more amenities to one single area. And people want to be around where development is. And I think that's where Councillor Hiebert read where it talks about benefiting Steinbach and benefiting the Arm of the Bow Creek. It benefits NIMAC in the fact that we protect our growth and we protect our opportunity to grow. And, you know, in a couple of items down, we'll be looking at our building permits. And as to what Councillor Penner said, we are going through a time of unprecedented growth, and we don't know when it's going to end or if it's ever going to end. And so we need to make sure that we are saving land for future development. And if one— 'cause once land is developed, it's gone. It can't be developed twice. And no, so whatever you put on there, whether it's a rural setting or an urban setting, it stays that way. It never— it doesn't change. And so that's why I think this is very important that we do object and that we listen to provincial land use Call for the question. All those in favor? Opposed? That is carried. Okay, Council, 9A, we've got accounts payable, back of the book. We've all had a chance to review, looking for a motion to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=2955s"
   },
   {
@@ -2423,7 +2423,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor) [medium]",
    "text": "Second.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3093s"
   },
   {
@@ -2439,7 +2439,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Hiebert, seconded by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. We've got 9B, Building permits. Um, Councillor Penner, motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3095s"
   },
   {
@@ -2455,7 +2455,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3111s"
   },
   {
@@ -2471,7 +2471,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor, uh, um, Councillor Michael Zwaagstra. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3111s"
   },
   {
@@ -2487,7 +2487,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "This has been a— our August was a massive month for residential. Uh, would I be correct through administra— or to administration in assuming that this is a record August in the history of Steinbach, or Mr. Thiessen maybe?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3116s"
   },
   {
@@ -2503,7 +2503,7 @@
    "voice": "B",
    "label": "Adam Thiessen (Director of Corporate Services)",
    "text": "It's a record month for dwelling, uh, dwelling units, period.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3132s"
   },
   {
@@ -2519,7 +2519,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Period. Okay, so there is $25 million in residential, and that's 148 units in just one month. So, um, as Mr. Thiessen indicated, that is the biggest month in Steinbach's history for residential units. Um, that's huge. We also have some more commercial happening, but this But the real story here is residential. So this is very exciting. Again, it speaks to what comments have been made previously in this meeting and to the way our community just continues to grow. So very exciting.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3136s"
   },
   {
@@ -2535,7 +2535,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3173s"
   },
   {
@@ -2551,7 +2551,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Certainly good to see the strong growth within our city continuing. As Councillor Penner noted, the most notable growth in the month of August is residential, mostly multifamily units. 145 individual— or 145 multifamily units constructed during the month of August. And so that puts us year to date at $88.9 million. We'd mentioned the previous time we got building permits that we were likely going to hit $100 million this year. That looks extremely likely that we're going to surpass that. And So, uh, it seems like the years of $100 million building permits per year is becoming standard in Steinbach, and that's good to see because it's important to keep in mind that every home that gets constructed means that there's another place for people who want to live in Steinbach are able to live in Steinbach. And the— whether that's someone, people who are moving here, uh, from elsewhere that want to be here, or whether it's people that have grown up here and now want to have their own home, this is why building permits are so important. for those people so that way they have a place that they can call home in Steinbach as well. So this growth is fantastic.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3176s"
   },
   {
@@ -2567,7 +2567,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3243s"
   },
   {
@@ -2583,7 +2583,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3248s"
   },
   {
@@ -2599,7 +2599,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, I too, I think this has just been just an incredible year. I always thought I was one of the busiest people in Steinbach, but I just don't have any inclination, I do have no desire to be our building permit guys. I don't want to be that busy. And I do, I get to run into them every day, and when I see how busy they are, I just, I feel bad for them. But they're working hard. And our planning, our city planner's working hard, engineers working hard, everybody is working hard to make this happen. And just to highlight, one of these units alone, one building, $12.5 million, 66 units. Like, even the density's getting higher. Like, we're— like, we are really achieving what we did. I remember being on council, early on council, and we changed the OCP to allow infill and to increase density. And, you know, fast forward 12 years, you know, you're seeing now the benefit of working on density and how that's helping our city. And I remember permitting years in the early years where we had $34 million in permits the whole year. We did— we had $27 or just under $28 million in one month. That's the kind of growth we're having now in this city. It's going to take I think it's going to take a really unique council, a really strong council to lead a city that's growing this fast in the future. Call for the question. All those in favor? Opposed? That is carried. Council, we have 9C. We've got business licenses, page 27, looking for a motion to approve. Councillor Hiebert. Second by Councillor Penner. Go ahead, Councillor. Oh no, you— there's probably—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3248s"
   },
   {
@@ -2615,7 +2615,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "There's not much to say, but sorry, sorry, sorry, we're approving. We love it that businesses are applying for licenses.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3375s"
   },
   {
@@ -2631,7 +2631,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3381s"
   },
   {
@@ -2647,7 +2647,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Hear, hear. Normally we don't have a lot of comments about that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3382s"
   },
   {
@@ -2663,7 +2663,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Susan Penner) [low]",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3385s"
   },
   {
@@ -2679,7 +2679,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That's carried. Okay, we've got 9D. This is a subdivision 445-2026-9307. This is referring to 190, 198, 204, and 206 First Street. This is done by resolution tonight. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3386s"
   },
   {
@@ -2695,7 +2695,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This is an application for subdivision being presented for council's consideration. Mayor, you already introduced Thank you, Mr. Mayor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3413s"
   },
   {
@@ -2711,7 +2711,7 @@
    "voice": "D",
    "label": "Unidentified speaker",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3420s"
   },
   {
@@ -2727,7 +2727,7 @@
    "voice": "B",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "I'll introduce the file.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3420s"
   },
   {
@@ -2743,7 +2743,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "It does affect 4 current properties at 190, 198, 204, and 206 First Street. This application seeks to realign the boundary between the subject properties to create one lot for multi-unit residential development and one lot for duplex development from the existing titles. This subject is zoned as C-1, commercial neighborhood, and it's within the transitional planned overlay and the subject is also designated as the transitional district policy area under the city's official community plan. This subject property was also the subject of a conditional use and variance application under files CU-2025-05 and file V-2025-35, both of which council approved in December of last year. These approvals permit the multifamily residential development to proceed. It is recommended that council approve this application subject to a development agreement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3421s"
   },
   {
@@ -2759,7 +2759,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Worthing. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3482s"
   },
   {
@@ -2775,7 +2775,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3486s"
   },
   {
@@ -2791,7 +2791,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Second by—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3489s"
   },
   {
@@ -2807,7 +2807,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "I'll be very short. This appears to be more of an administration matter. consolidating 4 lots into 2. And I see no objection.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3490s"
   },
   {
@@ -2823,7 +2823,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor)",
    "text": "Nothing further to add.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3502s"
   },
   {
@@ -2839,7 +2839,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3505s"
   },
   {
@@ -2855,7 +2855,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3509s"
   },
   {
@@ -2871,7 +2871,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, this is, uh, the subdivision will also increase the multifamily in our, in our central business district. So I would support that. Call for the question. All those in favor? Opposed? That is carried. Are there any questions of council tonight? Seeing none, there's no correspondence, petitions, no other business. Looking for a motion to adjourn.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3510s"
   },
   {
@@ -2887,7 +2887,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Second by—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3535s"
   },
   {
@@ -2903,7 +2903,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. Next regular council meeting is Tuesday, October 6th, 2026, 7:30.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=0VaMYoVGXlE&t=3538s"
   }
  ]

@@ -8,8 +8,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Minutes attendance lists Bill Hiebert; Jake Hiebert absent. 00:05:10 'No comments.' answers the chair's call for comments from the accounts mover (minutes R23-156: B. Hiebert mover). 00:22:54 seconder turn 'I also agree with Councillor Siemens' right after the chair named 'Councillor Hiebert' as seconder (minutes R23-159: B. Hiebert seconder). Voice pitch 132-137 Hz on all three substantive turns (a man, not Susan Penner at 174-186 Hz). 01:12:06: the remaining councillor to speak on By-law 2231 after Zwaagstra, D. Penner and Siemens; chair's 'Councillor Pincott' there is a garble (pitch 137 Hz rules out Susan Penner).",
-   "notes": "Also carries pre-meeting chatter (00:00:00) and a 01:14:27 aside (207 Hz, possibly someone else)."
+   "evidence": "Minutes attendance lists Bill Hiebert; Jake Hiebert absent. 00:05:10 'No comments.' answers the chair's call for comments from the accounts mover (minutes R23-156: B. Hiebert mover). 00:22:54 seconder turn 'I also agree with Councillor Siemens' right after the chair named 'Councillor Hiebert' as seconder (minutes R23-159: B. Hiebert seconder). pitch checked on all three substantive turns (a man, not Susan Penner at (pitch checked)). 01:12:06: the remaining councillor to speak on By-law 2231 after Zwaagstra, D. Penner and Siemens; chair's 'Councillor Pincott' there is a garble (pitch checked rules out Susan Penner).",
+   "notes": "Also carries pre-meeting chatter (00:00:00) and a 01:14:27 aside ( (pitch checked), possibly someone else)."
   },
   {
    "label": "B",
@@ -17,8 +17,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "01:24:33 'Motion to approve' and 01:24:39 'I am very pleased to be moving this motion' on CU-2023-01 (minutes R23-161: S. Penner mover). 00:13:18 seconder speech after 'Anything further, Councillor Pincott [Penner]?' (minutes R23-157: S. Penner seconder). Pitch 174-186 Hz on substantive turns (a woman). 00:58:29 'Just a question through you' is a councillor's question about documenting objections (182 Hz).",
-   "notes": "Merged with residents: 00:43:01 and 00:43:08 are Resident 2 (216 Hz, continues Resident 2's question); 00:53:04 is Resident 6. 00:04:34 'No comments.' measured 140 Hz and 00:12:37 'Second.' 120 Hz (both 1-second turns; may be another councillor)."
+   "evidence": "01:24:33 'Motion to approve' and 01:24:39 'I am very pleased to be moving this motion' on CU-2023-01 (minutes R23-161: S. Penner mover). 00:13:18 seconder speech after 'Anything further, Councillor Pincott [Penner]?' (minutes R23-157: S. Penner seconder). pitch checked on substantive turns (a woman). 00:58:29 'Just a question through you' is a councillor's question about documenting objections ( (pitch checked)).",
+   "notes": "Merged with residents: 00:43:01 and 00:43:08 are Resident 2 ( (pitch checked), continues Resident 2's question); 00:53:04 is Resident 6. 00:04:34 'No comments.' measured (pitch checked) and 00:12:37 'Second.' (pitch checked) (both 1-second turns; may be another councillor)."
   },
   {
    "label": "C",
@@ -28,7 +28,7 @@
    "chairs": true,
    "confidence": "high",
    "evidence": "Calls the meeting to order (00:00:10) and gives the opening to Councillor Siemens; runs all motions and public hearings; minutes item 2: Mayor Earl Funk called the meeting to order; addressed 'Mr. Mayor' throughout.",
-   "notes": "Merged: 01:10:02 is Damian Penner (seconder's speech, 122 Hz vs mayor ~142); 00:57:41 and 00:41:27 are Luke Wiebe. Short answers by others inside chair turns split out (00:08:58, 00:12:14, 00:19:06, 00:22:09, 00:25:39, 00:35:05, 00:43:25)."
+   "notes": "Merged: 01:10:02 is Damian Penner (seconder's speech, (pitch checked) vs mayor ~142); 00:57:41 and 00:41:27 are Luke Wiebe. Short answers by others inside chair turns split out (00:08:58, 00:12:14, 00:19:06, 00:22:09, 00:25:39, 00:35:05, 00:43:25)."
   },
   {
    "label": "D",
@@ -72,8 +72,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:12:39 mover speech after chair 'Councillor Penner? Motion to approve ... Go ahead, Councillor Penner' (minutes R23-157 D. Penner mover); 00:56:19 'I agree with Councillor Zwaagstra', and the chair then agrees 'with Councillor Penner and Councillor Zwaagstra'; 01:10:37 continues the R23-160 seconder speech (minutes D. Penner seconder); 01:19:31 chair 'Councillor Siemens, and then Councillor [Penner]' -> D then H. Pitch 113-128 Hz (a man; Damian Penner range).",
-   "notes": "01:10:01 'Anything further?' is the chair. 01:21:42 measured 138 Hz (short turn); 01:23:00 115 Hz."
+   "evidence": "00:12:39 mover speech after chair 'Councillor Penner? Motion to approve ... Go ahead, Councillor Penner' (minutes R23-157 D. Penner mover); 00:56:19 'I agree with Councillor Zwaagstra', and the chair then agrees 'with Councillor Penner and Councillor Zwaagstra'; 01:10:37 continues the R23-160 seconder speech (minutes D. Penner seconder); 01:19:31 chair 'Councillor Siemens, and then Councillor [Penner]' -> D then H. pitch checked (a man; Damian Penner range).",
+   "notes": "01:10:01 'Anything further?' is the chair. 01:21:42 measured (pitch checked) (short turn); 01:23:00 (pitch checked)."
   },
   {
    "label": "I",
@@ -97,7 +97,7 @@
    "person": "Resident 2",
    "role": "resident",
    "confidence": "high",
-   "evidence": "Self-identifies at 00:42:21 at the By-law 2231 hearing; chair addresses her by name; minutes item 14 (asks how the neighbourhood could trust them to manage a 32-unit complex). Pitch 225 Hz.",
+   "evidence": "Self-identifies at 00:42:21 at the By-law 2231 hearing; chair addresses her by name; minutes item 14 (asks how the neighbourhood could trust them to manage a 32-unit complex). pitch checked.",
    "notes": "Her question continues on B at 00:43:01 and 00:43:08 (overrides)."
   },
   {
@@ -113,7 +113,7 @@
    "person": "Resident 4",
    "role": "resident",
    "confidence": "high",
-   "evidence": "Self-identifies 00:46:13 with a Fourth Street address and presents a petition with 40-plus signatures (minutes item 16). 01:00:16 speaks again after the chair reopens the podium (same voice, 92 vs 95 Hz)."
+   "evidence": "Self-identifies 00:46:13 with a Fourth Street address and presents a petition with 40-plus signatures (minutes item 16). 01:00:16 speaks again after the chair reopens the podium (same voice, 92 vs (pitch checked))."
   },
   {
    "label": "N",
@@ -229,7 +229,7 @@
    "person": "Resident 2",
    "role": "resident",
    "confidence": "high",
-   "reason": "continues Resident 2's question about the Third Street rental (pitch 216 Hz, same as her 00:42:21 turn); captions run it on; minutes item 14"
+   "reason": "continues Resident 2's question about the Third Street rental (pitch checked, same as her 00:42:21 turn); captions run it on; minutes item 14"
   },
   {
    "time": "00:43:08",
@@ -311,7 +311,7 @@
    "person": "Resident 9",
    "role": "resident",
    "confidence": "high",
-   "reason": "'10 feet from our property line' is Resident 9's point in minutes item 24; pitch 211 Hz like her 01:02:20 turn"
+   "reason": "'10 feet from our property line' is Resident 9's point in minutes item 24; pitch checked like her 01:02:20 turn"
   },
   {
    "time": "01:04:58",
@@ -337,7 +337,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "seconder's speech on the R23-160 denial (minutes D. Penner seconder) opening 'Thank you, Mr. Mayor'; continues on H at 01:10:37; pitch 122 Hz vs the mayor's ~142"
+   "reason": "seconder's speech on the R23-160 denial (minutes D. Penner seconder) opening 'Thank you, Mr. Mayor'; continues on H at 01:10:37; pitch checked vs the mayor's ~142"
   }
  ],
  "turn_splits": [

@@ -8,13 +8,14 @@ city's video and its published minutes. These transcripts are a way to search an
 
 - Reports built from this data: <https://steinbachcitycouncilreporting.ca/>
 - How accurate it is: [ACCURACY.md](ACCURACY.md), and in plain language: <https://steinbachcitycouncilreporting.ca/data-accuracy/>
+- Research it with your own AI agent: [AGENT_GUIDE.md](AGENT_GUIDE.md)
 - Found an error? See [CORRECTIONS.md](CORRECTIONS.md) or email steinbachcitycouncilreporting@gmail.com
 
 ## What's here
 
 | Path | What it is |
 |---|---|
-| `meetings.csv` | One row per meeting: date, type, video link, links to the city's minutes/agenda/package where known, whether a transcript is published, its speaker-confidence mix, and the share of substantive lines with high confidence |
+| `meetings.csv` | One row per meeting: date, type, video link, links to the city's minutes/agenda/package where known, whether a transcript is published, its speaker-confidence mix, and the share of statement lines with high confidence |
 | `transcripts/<year>/<id>.txt` | The transcript to read: `[hh:mm:ss] Speaker (Role): what they said` |
 | `transcripts/<year>/<id>.json` | The same transcript as data: one record per line (see below) |
 | `speaker_maps/<year>/<id>.json` | Who each voice in the recording is, with the evidence and a confidence level |
@@ -52,7 +53,7 @@ A meeting `id` is its date (`2026-10-06`), with a suffix when there was more tha
   "lines": [
     {"time": "00:04:17", "seconds": 257, "speaker": "Earl Funk", "possibly": null, "role": "mayor",
      "title": "Mayor", "organization": null, "confidence": "high", "human_checked": false, "voice": "B",
-     "label": "Earl Funk (Mayor)", "text": "...", "substance": "procedural", "video_url": "https://www.youtube.com/watch?v=...&t=257s"}
+     "label": "Earl Funk (Mayor)", "text": "...", "line_type": "procedure", "video_url": "https://www.youtube.com/watch?v=...&t=257s"}
   ]
 }
 ```
@@ -64,7 +65,7 @@ A meeting `id` is its date (`2026-10-06`), with a suffix when there was more tha
 | `role` | `mayor`, `councillor`, `staff`, `delegation` (speaking for an organization or applicant), `resident`, `group` (several people at once), `unknown` |
 | `confidence` | `high`, `medium` or `low` (see [ACCURACY.md](ACCURACY.md)) |
 | `human_checked` | `true` if a person listened to this line and confirmed or corrected the speaker |
-| `substance` | How much the line matters if its speaker is wrong: `substantive` (a question, position, explanation or reply), `procedural` (moving, seconding, calling the vote, handing over the floor) or `minor` ("Thank you.", "Yes."). Set by fixed rules from the words, so approximate. |
+| `line_type` | The form of the line: `statement` (a statement, question, explanation or reply), `procedure` (moving, seconding, calling the vote, handing over the floor) or `short` ("Thank you.", "Yes."). Set by fixed rules from the words, so approximate. It describes form, not the value of what was said: don't use it to compare people. |
 | `voice` | The voice-cluster letter from the transcription service; useful only within one meeting |
 | `video_url` | Opens the video at this line |
 
@@ -90,7 +91,7 @@ A meeting `id` is its date (`2026-10-06`), with a suffix when there was more tha
 - **Quote the video, not just the transcript.** Transcription errors happen. Follow the `video_url` before
   relying on an exact quote, and use the minutes for decisions and votes.
 - **Watch the confidence.** For analysis by speaker, consider using only `high` (and perhaps `medium`) lines.
-  Most uncertain lines are short interjections; `substance` lets you set those aside.
+  Most uncertain lines are short replies (`line_type` `short`).
 - **Cite it** as: *Steinbach City Council meeting transcripts (independent), version <date>, from the City of
   Steinbach's meeting videos.* Versions are listed in [CHANGELOG.md](CHANGELOG.md).
 

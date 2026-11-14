@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "calls meeting to order 00:00:00, calls every motion and vote, opens/closes both public hearings (minutes 2, 7, 15: Mayor Funk); median pitch ~138 Hz",
+   "evidence": "calls meeting to order 00:00:00, calls every motion and vote, opens/closes both public hearings (minutes 2, 7, 15: Mayor Funk); median pitch checked",
    "notes": "'Thank you, Mr. Mayor.' at 00:08:35 and 00:27:23 cannot be the mayor (overridden to Unclear). Calls Thiessen 'Brian' at 01:53:17 (slip)."
   },
   {
@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair gives the opening to 'Councillor Jake Siemens' 00:00:00 and B gives the opening remarks (minutes 3: J. Siemens opened); chair 'Thank you, Councillor Siemens' 00:06:25; hand-off 'Councillor Stevens' 01:45:38 -> B argues against adjourning (minutes R26-059: J. Siemens voted against); Zwaagstra answers 'Councillor Siemens' on B's 1989-agreement point 01:48:54; seconder 'Councillor Siemens' 01:54:34 -> B comments; B says he joined council in 2006 at 00:46:30, as in the opening; pitch ~113 Hz",
-   "notes": "merged with Bill Hiebert at 00:47:54 (pitch 148 Hz, inside Bill Hiebert's turn). 'Could I do just one quick follow-up?' 01:15:46 and 'Approve.' 01:59:20 are probably Zwaagstra's (overridden, low). Short 'Okay.'/'Wow.'/'Thank you.' interjections left on B."
+   "evidence": "chair gives the opening to 'Councillor Jake Siemens' 00:00:00 and B gives the opening remarks (minutes 3: J. Siemens opened); chair 'Thank you, Councillor Siemens' 00:06:25; hand-off 'Councillor Stevens' 01:45:38 -> B argues against adjourning (minutes R26-059: J. Siemens voted against); Zwaagstra answers 'Councillor Siemens' on B's 1989-agreement point 01:48:54; seconder 'Councillor Siemens' 01:54:34 -> B comments; B says he joined council in 2006 at 00:46:30, as in the opening; pitch checked",
+   "notes": "merged with Bill Hiebert at 00:47:54 (pitch checked, inside Bill Hiebert's turn). 'Could I do just one quick follow-up?' 01:15:46 and 'Approve.' 01:59:20 are probably Zwaagstra's (overridden, low). Short 'Okay.'/'Wow.'/'Thank you.' interjections left on B."
   },
   {
    "label": "C",
@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "fire-hall tender: chair 'seconded by Councillor Hiebert. Go ahead, Councillor Penner' 01:57:35, Susan Penner speaks, then C (minutes R26-061: S. Penner / J. Hiebert); adjournment motion: Zwaagstra moves, chair 'Go ahead' 01:43:42 -> C speaks as seconder (minutes R26-059: M. Zwaagstra / J. Hiebert); Susan Penner answers C's footprint request as 'Councillor Hiebert' 01:44:30; pitch 104-107 Hz, clearly not the Bill Hiebert voice (142-154 Hz)",
+   "evidence": "fire-hall tender: chair 'seconded by Councillor Hiebert. Go ahead, Councillor Penner' 01:57:35, Susan Penner speaks, then C (minutes R26-061: S. Penner / J. Hiebert); adjournment motion: Zwaagstra moves, chair 'Go ahead' 01:43:42 -> C speaks as seconder (minutes R26-059: M. Zwaagstra / J. Hiebert); Susan Penner answers C's footprint request as 'Councillor Hiebert' 01:44:30; pitch checked, clearly not the Bill Hiebert voice ( (pitch checked))",
    "notes": "'we haven't—' 01:21:13 is the applicant's (female pitch, overridden)"
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "hand-off 'Go ahead, Councillor Penner' 00:42:23 -> D calls Damian Penner 'the other Councillor Penner'; seconder of the budget (minutes R26-058 D. Penner / S. Penner); fire-hall mover 'Go ahead, Councillor Penner' 01:57:35 (minutes R26-061 S. Penner); chair 'I agree with Councillor Susan Penner' 01:50:46 re D's request to study the 1989 agreement; pitch 182-186 Hz (woman)",
+   "evidence": "hand-off 'Go ahead, Councillor Penner' 00:42:23 -> D calls Damian Penner 'the other Councillor Penner'; seconder of the budget (minutes R26-058 D. Penner / S. Penner); fire-hall mover 'Go ahead, Councillor Penner' 01:57:35 (minutes R26-061 S. Penner); chair 'I agree with Councillor Susan Penner' 01:50:46 re D's request to study the 1989 agreement; pitch checked (woman)",
    "notes": "MERGED with Resident 3 at 01:37:52 (self-identifies; overridden). 'Second.' 00:06:50 may be Siemens (chair names Siemens as seconder) - see review."
   },
   {
@@ -45,8 +45,8 @@
    "role": "staff",
    "title": "Senior Manager, Finance",
    "confidence": "high",
-   "evidence": "chair calls 'Mr. Brian Hrehirchuk, our finance manager' to the podium 00:07:16 -> E presents the 2026 financial plan; Warkentin 'turn it over to Mr. Hrehirchuk' 00:27:23 -> E resumes with debt; chair 'Thank you, Mr. Hrehirchuk' 00:29:41 (minutes 7.1-9.2); pitch 119-132 Hz",
-   "notes": "MERGED with Bill Hiebert: 00:47:52, 00:48:05, 02:00:41 overridden (pitch 142-154 Hz). 'Opposed?' 00:50:00 is the chair's."
+   "evidence": "chair calls 'Mr. Brian Hrehirchuk, our finance manager' to the podium 00:07:16 -> E presents the 2026 financial plan; Warkentin 'turn it over to Mr. Hrehirchuk' 00:27:23 -> E resumes with debt; chair 'Thank you, Mr. Hrehirchuk' 00:29:41 (minutes 7.1-9.2); pitch checked",
+   "notes": "MERGED with Bill Hiebert: 00:47:52, 00:48:05, 02:00:41 overridden (pitch checked). 'Opposed?' 00:50:00 is the chair's."
   },
   {
    "label": "F",
@@ -54,7 +54,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "Hrehirchuk 'pass it over to Troy' 00:16:32 -> F presents flood mitigation (minutes 8); chair 'Mr. Warkentin, could you please introduce this file?' 00:50:40 -> F introduces CU-2026-03 / V-2026-05 (minutes 15.1); 'I will defer to Mr. Thiessen' 01:52:44; pitch ~110 Hz",
+   "evidence": "Hrehirchuk 'pass it over to Troy' 00:16:32 -> F presents flood mitigation (minutes 8); chair 'Mr. Warkentin, could you please introduce this file?' 00:50:40 -> F introduces CU-2026-03 / V-2026-05 (minutes 15.1); 'I will defer to Mr. Thiessen' 01:52:44; pitch checked",
    "notes": "his file report (00:50:40-00:56:22) contains inserted 'Thank you, Your Worship.' / 'Thank you, Alderman Demong.' fragments that are probably not his words or not in the audio - see review"
   },
   {
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "hand-off 'Councillor Zwaagstra' 00:44:47 -> G; 'Councillor Zwaagstra' 01:41:03 -> G moves to adjourn the hearing (minutes R26-059 mover M. Zwaagstra); 'Make the motion to award the tender' 01:54:30 (R26-060 mover M. Zwaagstra); Jake Hiebert cites 'Councillor Zwaagstra asked you a question on how many staff' = G 01:14:36; pitch ~96-104 Hz",
+   "evidence": "hand-off 'Councillor Zwaagstra' 00:44:47 -> G; 'Councillor Zwaagstra' 01:41:03 -> G moves to adjourn the hearing (minutes R26-059 mover M. Zwaagstra); 'Make the motion to award the tender' 01:54:30 (R26-060 mover M. Zwaagstra); Jake Hiebert cites 'Councillor Zwaagstra asked you a question on how many staff' = G 01:14:36; pitch checked",
    "notes": "short 'Thank you.'/'Yes.'/'Hi.' interjections during presentations left on G"
   },
   {
@@ -80,7 +80,7 @@
    "person": "Resident 2",
    "role": "resident",
    "confidence": "high",
-   "evidence": "self-identifies at 01:25:51 when the chair asks the public for comments on CU-2026-03 / V-2026-05; speaks for the neighbouring house; minutes item 17; Resident 3 calls him 'my dad' 01:37:52; pitch ~123 Hz",
+   "evidence": "self-identifies at 01:25:51 when the chair asks the public for comments on CU-2026-03 / V-2026-05; speaks for the neighbouring house; minutes item 17; Resident 3 calls him 'my dad' 01:37:52; pitch checked",
    "notes": "'Thank you.' 00:22:12, 'And finally—' 00:25:48 (Warkentin's), 'I—' 01:08:53 overridden"
   },
   {
@@ -88,7 +88,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "evidence": "self-identifies with address at 00:31:55 after the chair asks the public for comments on the financial plan; minutes item 10 and 12; Warkentin answers her questions by her surname (misspelled) 00:34:45; pitch ~176 Hz",
+   "evidence": "self-identifies with address at 00:31:55 after the chair asks the public for comments on the financial plan; minutes item 10 and 12; Warkentin answers her questions by her surname (misspelled) 00:34:45; pitch checked",
    "notes": "later short interjections 01:11:23, 01:21:14, 01:23:28 (Warkentin's 'In—'), 01:41:55, 01:50:42 overridden"
   },
   {
@@ -98,7 +98,7 @@
    "title": "Director of Housing",
    "organization": "Steinbach Housing Inc.",
    "confidence": "high",
-   "evidence": "self-identifies 01:15:22 'My name is Michael. I'm the Director of Housing for Steinbach Housing' after Nickel says 'Michael knows the parking situation'; 'Can I add something?' 01:19:30 and 01:22:40 -> K continues; minutes 15.4 Michael Obviar; pitch ~140 Hz",
+   "evidence": "self-identifies 01:15:22 'My name is Michael. I'm the Director of Housing for Steinbach Housing' after Nickel says 'Michael knows the parking situation'; 'Can I add something?' 01:19:30 and 01:22:40 -> K continues; minutes 15.4 Michael Obviar; pitch checked",
    "notes": "K collects many short interjections from others: 00:30:54, 00:33:29, 00:33:38, 01:37:30, 01:50:42, 01:53:43 overridden; other 'Thank you.'/'Okay.' during the hearing left on K"
   },
   {
@@ -127,7 +127,7 @@
    "title": "CEO",
    "organization": "Steinbach Housing Inc.",
    "confidence": "medium",
-   "evidence": "Driedger introduces 'Tanis Nicol, who's the CEO of Steinbach Housing' and later hands over 'I don't know if you want to speak to this. I know when Tanis and I went out' 01:12:01 -> N answers for the organization ('our parking lot', 'Michael knows the parking situation'); the third podium speaker after Driedger (M) and Obviar (K) self-identified; woman's voice (190-213 Hz); minutes 15.3 and 19 (Ms. Nickel with Ms. Driedger)",
+   "evidence": "Driedger introduces 'Tanis Nicol, who's the CEO of Steinbach Housing' and later hands over 'I don't know if you want to speak to this. I know when Tanis and I went out' 01:12:01 -> N answers for the organization ('our parking lot', 'Michael knows the parking situation'); the third podium speaker after Driedger (M) and Obviar (K) self-identified; woman's voice ( (pitch checked)); minutes 15.3 and 19 (Ms. Nickel with Ms. Driedger)",
    "notes": "no direct name hand-off to N; identification by elimination among the three applicant speakers"
   }
  ],
@@ -180,7 +180,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "the chair's reply to Resident 1 ('Well, thank you. Those are good questions. I myself am not an engineer'); pitch 147 Hz close to the mayor"
+   "reason": "the chair's reply to Resident 1 ('Well, thank you. Those are good questions. I myself am not an engineer'); pitch checked close to the mayor"
   },
   {
    "time": "00:33:38",
@@ -198,7 +198,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'go ahead, Councillor Hughes' (=Hiebert) 00:47:51; Jake Hiebert is a different voice (C); pitch 154 Hz matches the B. Hiebert business-licence comment at 02:00:41, not Hrehirchuk (119-132 Hz)"
+   "reason": "chair 'go ahead, Councillor Hughes' (=Hiebert) 00:47:51; Jake Hiebert is a different voice (C); pitch checked matches the B. Hiebert business-licence comment at 02:00:41, not Hrehirchuk ( (pitch checked))"
   },
   {
    "time": "00:47:54",
@@ -207,7 +207,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "middle of Bill Hiebert's budget comment (00:47:52-00:48:25); pitch 148 Hz, not Siemens (113 Hz); old transcript had the whole comment as one turn"
+   "reason": "middle of Bill Hiebert's budget comment (00:47:52-00:48:25); pitch checked, not Siemens ( (pitch checked)); old transcript had the whole comment as one turn"
   },
   {
    "time": "00:48:05",
@@ -216,7 +216,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "end of Bill Hiebert's budget comment ('I will support this budget as well'); pitch 150 Hz"
+   "reason": "end of Bill Hiebert's budget comment ('I will support this budget as well'); pitch checked"
   },
   {
    "time": "00:50:00",
@@ -250,7 +250,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'Could I do just one quick follow-up?' - chair says go ahead and Zwaagstra continues his questioning; but pitch 133 Hz matches neither Zwaagstra nor Siemens"
+   "reason": "'Could I do just one quick follow-up?' - chair says go ahead and Zwaagstra continues his questioning; but pitch checked matches neither Zwaagstra nor Siemens"
   },
   {
    "time": "01:21:13",
@@ -260,7 +260,7 @@
    "title": "CEO",
    "organization": "Steinbach Housing Inc.",
    "confidence": "medium",
-   "reason": "'we haven't—' repeats Nickel's 'Um, we haven't—' in answer to Susan Penner; woman's voice (200 Hz)"
+   "reason": "'we haven't—' repeats Nickel's 'Um, we haven't—' in answer to Susan Penner; woman's voice ( (pitch checked))"
   },
   {
    "time": "01:21:14",
@@ -277,7 +277,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "medium",
-   "reason": "'In—' starts the City Manager's sentence 'on the variance file report from the city engineer'; pitch 120 Hz (Warkentin ~110), not Resident 1 (~176)"
+   "reason": "'In—' starts the City Manager's sentence 'on the variance file report from the city engineer'; pitch checked (Warkentin ~110), not Resident 1 (~176)"
   },
   {
    "time": "01:37:30",
@@ -294,7 +294,7 @@
    "person": "Resident 3",
    "role": "resident",
    "confidence": "high",
-   "reason": "self-identifies as the owner of the adjacent property after the chair asks for further public comments; minutes item 18; chair addresses her by name 01:38:54; pitch 168 Hz vs Susan Penner 182-186"
+   "reason": "self-identifies as the owner of the adjacent property after the chair asks for further public comments; minutes item 18; chair addresses her by name 01:38:54; pitch checked vs Susan Penner 182-186"
   },
   {
    "time": "01:38:11",
@@ -302,7 +302,7 @@
    "person": "Resident 3",
    "role": "resident",
    "confidence": "high",
-   "reason": "continuation of Resident 3's design question ('I heard Alison Drejer say...'); minutes item 18; pitch 170 Hz same as 01:37:52"
+   "reason": "continuation of Resident 3's design question ('I heard Alison Drejer say...'); minutes item 18; pitch checked same as 01:37:52"
   },
   {
    "time": "01:41:03",
@@ -344,7 +344,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "'I appreciate your commitment to the community, and senior housing is definitely needed' runs straight into the chair's 'You do a great job of it' 01:50:46; pitch 136 Hz matches the mayor (138)"
+   "reason": "'I appreciate your commitment to the community, and senior housing is definitely needed' runs straight into the chair's 'You do a great job of it' 01:50:46; pitch checked matches the mayor (138)"
   },
   {
    "time": "01:53:43",
@@ -370,7 +370,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Councillor Hebert, second by Councillor Siemens' for business licences (minutes R26-064 mover B. Hiebert) -> comment as mover; pitch 142 Hz, not Hrehirchuk"
+   "reason": "chair 'Councillor Hebert, second by Councillor Siemens' for business licences (minutes R26-064 mover B. Hiebert) -> comment as mover; pitch checked, not Hrehirchuk"
   },
   {
    "time": "02:00:53",

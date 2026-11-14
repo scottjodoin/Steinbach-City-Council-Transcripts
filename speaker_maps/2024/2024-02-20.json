@@ -45,8 +45,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:26:16 chair 'Yes, Councillor Zwaagstra' -> E moves the crosswalk letter motion (minutes R24-040 mover M. Zwaagstra); 00:34:54 chair 'Councillor Zwaagstra ... Go ahead, Councillor' -> E replies, and Damian Penner then says 'Councillor Zwaagstra could convince me' (R24-046 mover M. Zwaagstra); E speaks second as seconder on R24-035, R24-038, R24-043 and R24-044 (minutes seconder M. Zwaagstra each time). Pitch 89-109 Hz.",
-   "notes": "00:28:22 is the delegate (overridden to Resident 1); 00:09:43 'First.' is a higher voice (144 Hz), overridden to Unclear. 00:26:33 contains 'Thank you, Your Worship. Thank you, Alderman Demong. Thank you, Your Worship.' which looks like a transcription artifact."
+   "evidence": "00:26:16 chair 'Yes, Councillor Zwaagstra' -> E moves the crosswalk letter motion (minutes R24-040 mover M. Zwaagstra); 00:34:54 chair 'Councillor Zwaagstra ... Go ahead, Councillor' -> E replies, and Damian Penner then says 'Councillor Zwaagstra could convince me' (R24-046 mover M. Zwaagstra); E speaks second as seconder on R24-035, R24-038, R24-043 and R24-044 (minutes seconder M. Zwaagstra each time). pitch checked.",
+   "notes": "00:28:22 is the delegate (overridden to Resident 1); 00:09:43 'First.' is a higher voice ( (pitch checked)), overridden to Unclear. 00:26:33 contains 'Thank you, Your Worship. Thank you, Alderman Demong. Thank you, Your Worship.' which looks like a transcription artifact."
   },
   {
    "label": "F",
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "First comment as mover on accounts payable 00:10:33 (minutes R24-037 mover J. Hiebert) and on business licences 00:30:54 after chair 'Councillor Hiebert, seconded by Councillor Zwaagstra' (R24-043 mover J. Hiebert); 'Nothing further to add' as mover of By-law 2235 third reading 00:09:57 (R24-036 mover J. Hiebert); 'Nothing further' 00:30:09 as seconder of R24-041 (J. Hiebert). Distinct from Bill Hiebert (J) by pitch (F 103-124 Hz vs J 143-154 Hz).",
+   "evidence": "First comment as mover on accounts payable 00:10:33 (minutes R24-037 mover J. Hiebert) and on business licences 00:30:54 after chair 'Councillor Hiebert, seconded by Councillor Zwaagstra' (R24-043 mover J. Hiebert); 'Nothing further to add' as mover of By-law 2235 third reading 00:09:57 (R24-036 mover J. Hiebert); 'Nothing further' 00:30:09 as seconder of R24-041 (J. Hiebert). Distinct from Bill Hiebert (J) by pitch (F (pitch checked) vs J (pitch checked)).",
    "notes": "00:12:30 question to admin and 00:18:05 question to the delegate rest on the letter only."
   },
   {
@@ -73,8 +73,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:19:40 'moved by Councillor Penner' -> H speaks as mover of R24-039 (minutes mover S. Penner, seconder D. Penner, who then says 'Joining Councillor Penner'); 00:31:18 'Motion to approve' after chair 'Councillor Penner' on building permits (R24-044 mover S. Penner) and the mayor then says 'like Councillor Susan Penner said', echoing H's 'on the heels of'; female voice by pitch (184-186 Hz).",
-   "notes": "Seven turns between 00:22:14 and 00:25:01 carry H but are a male voice (103-129 Hz) continuing the crosswalk delegate's speech: overridden to Resident 1 / Unclear."
+   "evidence": "00:19:40 'moved by Councillor Penner' -> H speaks as mover of R24-039 (minutes mover S. Penner, seconder D. Penner, who then says 'Joining Councillor Penner'); 00:31:18 'Motion to approve' after chair 'Councillor Penner' on building permits (R24-044 mover S. Penner) and the mayor then says 'like Councillor Susan Penner said', echoing H's 'on the heels of'; female voice by pitch ( (pitch checked)).",
+   "notes": "Seven turns between 00:22:14 and 00:25:01 carry H but are a male voice ( (pitch checked)) continuing the crosswalk delegate's speech: overridden to Resident 1 / Unclear."
   },
   {
    "label": "I",
@@ -82,7 +82,7 @@
    "role": "resident",
    "confidence": "high",
    "evidence": "Private citizen delegation on rapid-flashing crosswalk lights: the chair introduces Resident 1 by name at 00:21:01 and greets him at 00:22:14; I answers 'Great to be here' and presents; at 00:25:35 corrects the chair on how to address him (minutes item 15).",
-   "notes": "Pitch 111-128 Hz."
+   "notes": "pitch checked."
   },
   {
    "label": "J",
@@ -90,7 +90,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:26:26 chair 'second by? Councillor Hiebert. Okay, go ahead.' -> after Zwaagstra, J speaks as seconder of R24-040 (minutes seconder B. Hiebert); 00:33:28 first comment as mover on excavator licences (minutes R24-045 mover B. Hiebert, seconder J. Hiebert). Voice distinct from Jake Hiebert (F) by pitch (143-154 Hz).",
+   "evidence": "00:26:26 chair 'second by? Councillor Hiebert. Okay, go ahead.' -> after Zwaagstra, J speaks as seconder of R24-040 (minutes seconder B. Hiebert); 00:33:28 first comment as mover on excavator licences (minutes R24-045 mover B. Hiebert, seconder J. Hiebert). Voice distinct from Jake Hiebert (F) by pitch ( (pitch checked)).",
    "notes": ""
   }
  ],
@@ -110,7 +110,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "short interjection reminding the chair about third reading; pitch 144 Hz is far above Zwaagstra's 89-109 Hz in this meeting"
+   "reason": "short interjection reminding the chair about third reading; pitch checked is far above Zwaagstra's (pitch checked) in this meeting"
   },
   {
    "time": "00:22:14",
@@ -118,7 +118,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "medium",
-   "reason": "reply 'Good evening.' to the chair's 'Good evening' greeting of the delegate; male voice (129 Hz), not Susan Penner (184-186 Hz)"
+   "reason": "reply 'Good evening.' to the chair's 'Good evening' greeting of the delegate; male voice ( (pitch checked)), not Susan Penner ( (pitch checked))"
   },
   {
    "time": "00:22:59",
@@ -126,7 +126,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "continues the delegate's description of the crosswalks (minutes 15); male voice 103 Hz, not Susan Penner"
+   "reason": "continues the delegate's description of the crosswalks (minutes 15); male voice (pitch checked), not Susan Penner"
   },
   {
    "time": "00:23:28",
@@ -134,7 +134,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Thank you.' mid-presentation in a male voice (110 Hz), so not Susan Penner; could be the delegate or a councillor"
+   "reason": "'Thank you.' mid-presentation in a male voice ( (pitch checked)), so not Susan Penner; could be the delegate or a councillor"
   },
   {
    "time": "00:23:43",
@@ -142,7 +142,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "sentence continues into the delegate's next turn ('So what they did in Ste. / Anne and throughout Winnipeg'); male voice 117 Hz"
+   "reason": "sentence continues into the delegate's next turn ('So what they did in Ste. / Anne and throughout Winnipeg'); male voice (pitch checked)"
   },
   {
    "time": "00:23:56",
@@ -150,7 +150,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "delegate's account of the earlier Main Street collision ('shortly after I brought this out'); male voice 118 Hz"
+   "reason": "delegate's account of the earlier Main Street collision ('shortly after I brought this out'); male voice (pitch checked)"
   },
   {
    "time": "00:24:27",
@@ -158,7 +158,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "'I haven't heard back from MTA about their study' - the delegate's own study request (minutes 15.2); male voice 118 Hz"
+   "reason": "'I haven't heard back from MTA about their study' - the delegate's own study request (minutes 15.2); male voice (pitch checked)"
   },
   {
    "time": "00:25:01",
@@ -166,7 +166,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "continues the delegate's sentence about the law office ('pedestrians— drivers yelling'); male voice 111 Hz"
+   "reason": "continues the delegate's sentence about the law office ('pedestrians— drivers yelling'); male voice (pitch checked)"
   },
   {
    "time": "00:28:22",
@@ -174,7 +174,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "the delegate thanking council after his request carried ('older guys like myself too that cross those places'); pitch 127 Hz matches the delegate (128 Hz), not Zwaagstra (89-109 Hz); existing map also had the delegate"
+   "reason": "the delegate thanking council after his request carried ('older guys like myself too that cross those places'); pitch checked matches the delegate ( (pitch checked)), not Zwaagstra ( (pitch checked)); existing map also had the delegate"
   },
   {
    "time": "00:33:32",
@@ -182,7 +182,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Hear, hear.' after a councillor's motion comment is not a City Manager remark; pitch 144 Hz vs Warkentin's 121-125 Hz in this meeting (possibly a Hiebert)"
+   "reason": "'Hear, hear.' after a councillor's motion comment is not a City Manager remark; pitch checked vs Warkentin's (pitch checked) in this meeting (possibly a Hiebert)"
   }
  ],
  "turn_splits": [

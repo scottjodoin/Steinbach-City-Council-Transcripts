@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I would like to give the opening to Councillor Susan Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. As we all regularly hear and are told, we live in a polarized time. I've never lived in a different time, so I don't actually know if this is true or not, but it does make sense to me. At the very least, we are more aware of how polarized we are thanks to our access to 24/7 media and social media, which is unique to our time. We observe how polarizing politics and government can be, and as many people probably experienced at Thanksgiving gatherings this weekend, even families have a difficult time getting along sometimes. Put together people who have different views on something in a room together and watch the sparks fly, sometimes in a good way, as healthy debate is a good thing, but often not in a good way when debate turns personal. In my day job, one of the things I emphasize over and over is how important it is to treat people with respect and not to dehumanize anyone, regardless of different views on things, even something we may be passionate about. It is imperative that we all see each other as human beings before we see each other as anything else. Further, listening to another person's perspective usually helps us see their humanity because Although there are some bad actors in our midst, for the most part, everyone is trying to do what they think is best, even if that is not our own idea of what is best. And the fact of the matter is, if we try to persuade someone to move to our side on something, we need to show them some respect. If I have the courtesy to hear someone else's perspective, they're more likely to have the courtesy to listen to my perspective. I personally like hearing perspectives that are different than mine, even if I don't agree. I usually learn something new and it helps me clarify my own thoughts on what is being discussed. Sometimes my perspective on something changes as the result of a discussion I have with someone. Other times it confirms where I land. But either way, I want the conversation to end with no animosity. Another thing that has stuck with me is how important it is not to be easily offended. I once read that being unoffendable is a sign of maturity. So even if someone else tries to offend us, we have no obligation to take them up on their offer. One thing I've always appreciated about my time on Steinbach City Council is that in spite of our differences, I've never felt disrespected or dehumanized. We represent different perspectives, but overall I felt that council views this as a strength. For the most part, I felt this group is committed to respecting one another even when we disagree. Thank you. It is not personal, helping us to not get sidetracked but focus on making the best decisions for community with the information we have. I would love to see our culture move to a place where we can engage in a way that uplifts rather than tears down, that builds bridges rather than deepens divides. We can disagree without dehumanizing one another, and it's essential that leaders in any sphere of influence model the kind of civility and decency we want to see in our politics, communities, workplaces, families and beyond. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=8s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Zwaagstra, seconded by Councillor Penner. Any comments? Call for the question. All those in favor? Opposed? That is carried. Council, we have the minutes of October 1st, 2024. This is our regular council meeting, starts on page 1. We've all had a chance to review Looking for a motion to approve. Second. Second by Councillor Kiebert. Call for the question. All those in favor? Opposed? That is carried. Okay, we've got the business arising from the minutes. Is there any business arising from the minutes? Okay, seeing none, we'll move on. It is just a little bit before 7:35, so we'll move down to 9, administration, accounts payable, back of the book. We've all had a chance to review that too. Looking for a motion to approve. Councillor Hiebert. Second by Councillor Siemens. Any comments? Call for the question. All those in favor? Opposed? That is carried. And we've got, we'll take 9B, board of revision appointments. That's on page 29. Each year we have a board of revision for those that— the people in our community that are looking at challenging their assessment. And this year we've got— I've appointed Matt Wheeler the presiding officer, Jack Kaler member, and Roy Ence, a member, to represent council on the Board of Revision. Council, I'm just looking for a motion to approve. Second. Councillor Zwaagstra, seconded by Councillor Siemens. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=195s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As noted, the Board of Revision hears appeals regarding tax rates that are charged. I'm glad that we appoint outside people to be on this board. We used to have council members serving as the Board of Revision. And that was always an awkward situation. And so I appreciate the fact that we have people who have real business experience and past council experience, past administration experience, who have some expertise, who can serve in this capacity so that way we don't have the awkward situation of being a board of revision while also being a council member.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=314s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=346s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Jac Siemens) [low]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=346s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Yes, council, I think it's worth This has worked very well since we've done this and taken ourselves off this board, 'cause it's very awkward when we're voting on what someone's paying for their assessment, their taxes, and this board has served us well. These, like you say, they've, like Councillor Spicer said, they've got good experience in many different fields. So call for the question. All those in favor? Opposed? That is carried. Okay, council, we are at 7:35, so we'll move into our public hearing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=346s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Mr. Mayor, I'm going to step out because of a conflict of interest.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=387s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. This is the rezoning bylaw 2250. This is referring to 333 Loewen Boulevard. Council will be doing second reading today. At this time, I would like to close The council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=390s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This particular property is referring to Bylaw 2250, which is a rezoning bylaw for 333 Loewen Boulevard. The owner of the subject property is Steinbach Bible College Inc., with the applicant for Bylaw 2250 being Abe G. Bergen. Purpose of Bylaw 2250 is to rezone the subject property from C4 commercial regional to EI educational institutional to permit for the relocation of the Steinbach Bible College campus. Notices as are required under the Planning Act have been issued. There is no written correspondence on file and comments have not been received from community planning regarding Thank you. for your comments regarding this file. Nevertheless, administration has reviewed the application, and as I mentioned, the project proponent seeks to relocate its existing campus from its current location on PTH 12 North to the subject property. The subject property is also designated commercial policy under the city's official community plan. And under that designation, these areas are intended to provide residents with the necessary services and employment opportunities and for development that combines appropriate complementary uses within a single structure to help create a visually interesting streetscape and to encourage economic diversity. The recommendation from administration is that council give Bylaw 2250 second reading subject to the outcome of the public hearing. public hearing and subject to the execution of a development agreement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=415s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Uh, thank you, Mr. Warkentin. Um, I'd like to ask, is the, uh, applicant here today? Do you wish to speak?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=515s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "E",
    "label": "Dave Reimer (President, Steinbach Bible College)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=523s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, take the podium. Uh, state your name and your address and then continue.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=523s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "E",
    "label": "Dave Reimer (President, Steinbach Bible College)",
    "text": "Okay. Uh, Dave Reimer, president, Steinbach Bible College. I live at 6 Eastwood Drive in Steinbach, and our address, currently SBC address, 50 PTH 12 North.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=528s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=539s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "E",
    "label": "Dave Reimer (President, Steinbach Bible College)",
    "text": "But it's moving. And so I have something to say here, and I appreciate the time that you're taking, and I appreciate what you do in running a beautiful city. Abe Bergen will also have a few words in conclusion here. So for 88 years, Steinbach Bible College has been empowering servant leaders to follow Jesus, serve the church, and engage the world. We send students back to their churches and to their communities in the world To serve there. A quick word about SBC's economic impact in Steinbach. We run a budget of $2.7 million annually, a population of 25 employees and 113 students this year who live in Steinbach instead of elsewhere and buy their entertainment and their food and their cars in Steinbach. Total economic impact or benefit for Steinbach is somewhere beyond $3 million annually. Thank you. And some of our students are staying in Steinbach as well. But the biggest contribution of Steinbach Bible College to the community of Steinbach is the human capital that's developed. We're trained, trained servant leaders serving in our churches and in our businesses that makes Steinbach the beautiful place that it is. So 5 years ago, the combined board of SBC and SCS, Steinbach Bible College, Steinbach Christian School, the grade school, divided the schools into 2 separate organizations. They agreed that when growth necessitated it, SCS would move into SBC spaces and SBC would move elsewhere. SBC— or SCS is experiencing encouraging growth. They need to double their spaces. And so the time has come. SBC will be moving to a new building in 2 years, September 2026. We're excited about this. So our default position right off the hop was to build a new campus building on the back of our current property close to where our dorms are, though SBC has for many years tested the viability of moving elsewhere in Steinbach. But elsewhere doesn't exist on the map. We looked for it. So early this year, the former Steinbach Family Medical Building became available to us through an owner who wanted the mission of Christ to happen in that building and a generous donor. And so suddenly there was an elsewhere for us. The possibility of moving suddenly became real. The Loewen campus quickly and steadily became our preferred option. And so we have marveled at the Lord's provision in this. We think the location is marvelous. It allows us a distinct identity from Steinbach Christian School. It moves us out of an industrial area with complicated access on the wrong side of the freeway. Into, into the heart of Steinbach with access also to housing around. So it puts us right in the— on the beautiful walking path into Steinbach's beautiful green spaces and parks. It puts us closer to the churches we serve and some of their spaces that we can use. It puts us close to RRC Polytech where we have program partnerships. It puts us close to a number of the student service learning opportunities. Like Steinbach Community Outreach, Bridge Park, Bethesda Place, and the hospital, and it's near the Southeast Event Centre as well. So we think the location is just marvelous for a college.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=540s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "F",
    "label": "Abe Bergen (Applicant, Steinbach Bible College)",
    "text": "You're no doubt familiar with 333 Loewen. It's a storied location, and you've entertained a number of proposals for the building. In our due diligence process, we asked Integrity Design to look at the building and look at the needs of the College and match it as best as possible and see if this building would, in fact, be a suitable place. In your packet, you've received a layout of what the— what we— What we'd like to see. We've got a— Conceive the building to be like an administrative wing to the east, a courtyard, a dining room and cafeteria courtyard in the northeast quarter, and then some wing of classrooms, lecture theatre, chapel, and a library. And so we think it's a great use of space. In our due diligence process, we certainly have been in communication with structural engineers, civil engineers, mechanical engineers, architects, and we are confident that the integrity of the building is worth building on. And so we're very pleased with that. We've contracted with Superior Projects To bring the project to fruition. Our design team has really appreciated your engineering staff, your planning staff, and building code compliance folks in answering some of those questions that move it from its current use or its previous use to its proposed use. So we appreciate that. One of the leading questions that has occupied some of our time has been, where do we put dorms? Where do we put students? In a different configuration. And you will take note that above the library and the bridge, the front elevation shows— sorry, the library and the chapel. It shows 2 floors of dorm space. So residences for a good number of students. And then there are a number of apartments nearby. That can serve married students and more independent students as well. So in order to accomplish this and take it from plans to a building project, we need to have the build— the property rezoned from a commercial, C-4, to an educational institutional. Thank you. that would serve all of those needs, and I think that was— that is the request before us, before you, and we ask that you would approve that. Thank you, Mr. Mayor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=736s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Thank you for your presentation. Just any questions from council to the applicant? Go ahead, Councillor Stevenson.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=922s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Through you, Mr. Mayor. Question I have is, number one, first off, thank you for the presentation, and it's a nice building. I always appreciate when people repurpose the buildings in Steinbach, and I'm a little bit familiar with this because I belong to Steinbach Mennonite Church, and so we have a little bit of history with that building as well. So, but, so I appreciate the fact what you're going to do. My question to you is— and I also appreciate the fact that you have more than ample parking on site for what your needs are. But my question to you is, have you talked to any of the neighbors?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=932s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "E",
    "label": "Dave Reimer (President, Steinbach Bible College)",
    "text": "I've had, I would say, 10 conversations with different people, or we have had. So there's— it's interesting, we have— I've had 4 different property owners contact me and say, hey, do you need a place to house students? We have a couple of apartments for rent. We want to build an apartment for you for student housing. Another— somebody else offered to sell me their— sell us their house because they're right across the street. So, and then I've had one neighbor that's, that's very excited about having a college close by. All of— and there's— and then we've had a couple of conversations with people living in houses close by to just to see, just for those conversations. So every one of the conversation has been positive so far. So we were expecting you might have the other, the other set, but our conversations we've had have just been very encouraging. We're thankful for that. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=964s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "F",
    "label": "Abe Bergen (Applicant, Steinbach Bible College)",
    "text": "In addition to that, Crossview, the church that leases the former Mennonite church building, has been very open to collaboration. They have a gymnasium that's typically vacant during the week. Currently, they're sharing a campus with SCS. SPC does not have access to a gymnasium. So this is a good news neighbor. Thank you. And we appreciate their encouragement as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1017s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Good. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1045s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Okay. Thank you very much. You can take a seat. Is there anyone here with comments, questions, or objections to this file? Okay. Seeing none, but I'll— is there anyone here with comments, Questions or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1047s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "H",
    "label": "Susan Penner (Councillor)",
    "text": "Motion",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1087s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "To approve.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1087s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Siemens. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1088s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Well, this is a very exciting project. Thank you. I'm personally very excited about this because what's maybe a lifetime ago, I actually worked at SBC with Abe Bergen, and it was just after the expansion had happened on that campus. And that was an exciting time at that time, and I just think this is a great next step for SBC and of course for SCS as they're growing too, and it's really encouraging when we have people in our community who care so much about students and their commitment to the community in raising essentially what are our student leaders. And I've often heard, and I heard this back when I worked at SBC, that the students they graduate from that school are students that employers want to hire, that churches want to have in their congregations. And I think that's a real testament to the quality of, well, education, but also that faith perspective where they are, you know, raising students of integrity to better serve our community. So I'm very pleased about this project. And quite frankly, I would think the neighborhood would be very pleased as well because going from a, a C-4 to this designation is actually, you know, a real benefit to that area, I think. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1091s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, go ahead, Councillor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1177s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. I too think this is an exciting project for the area. Loewen Boulevard has educational institutions, has churches, it has a variety of different things, and this just adds to that. It's on a major road, so that fits. Like I said, they have enough parking, ample parking for what their needs are. I did talk to some of the neighbours because I live in that area, and I heard no complaints from anybody what the proposed— what the proposal is. And after they had bought it and after the signs went up that who had bought it, I've heard nothing negative at all. I think too that they were— they will be good neighbors, and I think this is good use of city land and/or repurposing existing building. I think that's important and it helps everything. I think all the positive comments have been positive, and I too think I think this would— is a great thing for our community. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1180s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1237s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Thank you,",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1237s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Mr. Mayor. To quote Mr. Reimer, when he presented, this location is marvelous. To the east, we have a church. To the west and to the south, we have residences. We have the senior to the north. I think it's a super fit. Loewen Boulevard is designed in such a fashion that it can take the extra traffic. It's nice to see that this building will be refurbished and that we will have young people involved in quality education at this location. So I'm in favor that this variance go through and building starts.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1241s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1282s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "H",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "Thank you, Mr. Mayor. I think SPC has played a vital part of this community for many, many years, as Mr. Reimer mentioned, and it's— I'm glad to see that we're moving forward. And first of all, this building, it needed something in there, and we've been waiting for this for a long time. And to see SPC moving in there, I think, is very exciting. So I'm totally gung-ho for you guys.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1285s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1309s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1312s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Well, council, I too, as Councillor Penner has said, very excited. I'm excited too. I've never had the opportunity to work with Abe Bergen, but I've known him for many, many years, and he's an outstanding individual, and I'm glad you're working on this project. I've recently got to meet Dave, and Dave, I'm looking forward to a longtime friendship with you as well. But what I think is so great about this is the repurposing of this building. This building's had a lot of history. It's come before us many times, council, for different ideas and different proposals, and that's just the ones that came publicly. The ones where we've had coffee on or— Yeah. Shared a burger over those talks, there were much more, many more of those ideas for this building. And it's so great to see this building being used for the purpose it's being used for at this time. And it's going to be, it's a long journey, it's going to be a big build, but you're going to definitely bring value to the area, to Increase the value to our city, and we're just— we're really looking forward to you and praying for God's guidance and that this will be a blessing for our community for many, many years to come. You've been producing graduates out of that— out of the Steinbach Bible College for longer than I've been alive, and the older I get, the less often I get to say that. Thank you. So this is really, really exciting. Call for the question. All those in favor of second reading? Opposed? That is carried. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1313s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Dave Reimer (President, Steinbach Bible College)",
    "text": "Thank you very much.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1423s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Okay, we can— thank you. Have a great evening.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1425s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Can we do third reading?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1441s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, we have, uh, 9C. This is building permits on page 30. Looking for a motion to approve. Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1443s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "D",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. Uh, I know we often look at the dollar amounts, but I always like to look look at the dwelling units, and we had our year-to-date is 174",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1460s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Dwelling units that have been added. Uh, the best way to counter inflation and cost of living is to balance supply and demand, and there's plenty of demand, and this is helping to increase the supply as well. So I hope to keep on going so that we can help our residents on the cost as much as possible.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1469s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You, anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1487s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. So in September, just over $6.8 million in building permits, and, uh, In this case, the vast majority is residential. And so in the, in the month of September, 8 single and 2-family units, 10 multifamily. So it's good to see more residential being added because we certainly need as much as can be built. So this is good to see.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1488s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1511s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1511s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Well, I have nothing to add other than September was a good month. And we're looking forward to more. We are at just over $60 million year to date for both, with 40, just over $40 million being residential. So residential is, it's on the rise, and that's good because if we're going to have businesses, we need places for our employees to live. Call for the question. All in favor? Opposed? That is carried. Okay, we've got business licenses on page 31. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Siemens. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1511s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1560s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All those in favor? Opposed? That is carried. Okay, council, are there any questions of council today? Okay, seeing none, we've got correspondence, petitions. We've got 11A, the Manitoba Transportation Infrastructure Engineering and Technical Service Division. This is referring to rapid flashing low-level lights at crosswalks. Council, I believe it was in February we made a resolution to send a letter in. And along with Mr. [name withheld], and this is the response. So this is just an update for us, but this is the response that he's been— he has gotten from MIT. So, well, I guess we'll wait and see what comes of this study and— Thank you. Hopefully we'll get some rapid, rapid flashing low-level lights to make those intersections safer. But at this time, we'll take it as information. Okay. And 11B, the Association of Municipalities, this is referring to the 26th Annual Fall Convention. Just take it as information at this time. Okay. There's no other business. Looking for a motion to adjourn. Second. Councillor Siemens, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. The next Tuesday we meet is November 5th. That will be the organization meeting. That will be at 7:00 p.m. And then our next regular",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=CWbXopuWiUQ&t=1561s"
   }
  ]

@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order 00:00:01 (minutes item 2: Mayor Earl Funk called the meeting to order), hands the floor to the opening speaker, names movers/seconders and calls every vote; addressed 'Mr. Mayor' by C, D, E, F. Pitch ~147 Hz steady across turns.",
+   "evidence": "Calls the meeting to order 00:00:01 (minutes item 2: Mayor Earl Funk called the meeting to order), hands the floor to the opening speaker, names movers/seconders and calls every vote; addressed 'Mr. Mayor' by C, D, E, F. pitch checked steady across turns.",
    "notes": "Some short interjections sit inside B's turns ('Second.' 00:04:46, 'Yep.' 00:04:46, 'No, sir.' 00:09:27, 'Second.' 00:12:28) and probably belong to councillors, but who said them cannot be shown, so they are left with the chair."
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'I'd like to give the opening to Councillor Michael Zwaagstra.' 00:00:01 -> C gives the opening 00:00:12 (minutes item 3) and the chair answers 'Thank you, Councillor Zwaagstra.'; 'Councillor Zwaagstra, seconded by Councillor Penner. Go ahead, Councillor.' -> C 00:10:05 as mover of By-law 2197 third reading (minutes R23-018 mover M. Zwaagstra); C 00:07:41 'I agree with Councillor Penner' and the chair replies 'I agree with both Councillor Penner and Councillor Zwaagstra' 00:08:17. Pitch 99-101 Hz.",
+   "evidence": "'I'd like to give the opening to Councillor Michael Zwaagstra.' 00:00:01 -> C gives the opening 00:00:12 (minutes item 3) and the chair answers 'Thank you, Councillor Zwaagstra.'; 'Councillor Zwaagstra, seconded by Councillor Penner. Go ahead, Councillor.' -> C 00:10:05 as mover of By-law 2197 third reading (minutes R23-018 mover M. Zwaagstra); C 00:07:41 'I agree with Councillor Penner' and the chair replies 'I agree with both Councillor Penner and Councillor Zwaagstra' 00:08:17. pitch checked.",
    "notes": "'Hear, hear.' 00:09:23, 'Nope. He convinced me.' 00:11:22 (seconder of R23-019) and 'Nope.' 00:12:28 (seconder of R23-020) are short and consistent."
   },
   {
@@ -27,8 +27,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Susan Penner, seconded by Councillor Zwaagstra. Go ahead.' 00:06:54 -> A 00:06:58 on building permits (minutes R23-016 mover S. Penner) and the chair then thanks 'Councillor Penner and Councillor Zwaagstra'; A 00:12:53 answers 'Any comments?' after 'Councilor Penner ... Seconded by Councilor Hiebert' (minutes R23-021 S. Penner / B. Hiebert); 'Nope.' 00:05:39 after the minutes motion she moved (R23-013); 'Nothing further.' 00:08:16 as mover closing. Pitch 167-194 Hz (woman), so not Damian Penner.",
-   "notes": "00:00:00 'I'd like' is the chair's first words (override). 00:10:28 'No.' measures 137 Hz, not her voice (override to Unclear). 00:14:48 'Nope, nothing further.' measures 144 Hz but she was the seconder of R23-022; left with her and flagged for review."
+   "evidence": "'Councillor Susan Penner, seconded by Councillor Zwaagstra. Go ahead.' 00:06:54 -> A 00:06:58 on building permits (minutes R23-016 mover S. Penner) and the chair then thanks 'Councillor Penner and Councillor Zwaagstra'; A 00:12:53 answers 'Any comments?' after 'Councilor Penner ... Seconded by Councilor Hiebert' (minutes R23-021 S. Penner / B. Hiebert); 'Nope.' 00:05:39 after the minutes motion she moved (R23-013); 'Nothing further.' 00:08:16 as mover closing. pitch checked (woman), so not Damian Penner.",
+   "notes": "00:00:00 'I'd like' is the chair's first words (override). 00:10:28 'No.' measures (pitch checked), not her voice (override to Unclear). 00:14:48 'Nope, nothing further.' measures (pitch checked) but she was the seconder of R23-022; left with her and flagged for review."
   },
   {
    "label": "D",
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "D 00:05:59 'I will, a motion to excuse Councillor Jake Hebert.' and the chair replies 'Okay, Councillor Hebert. Any seconder?' (minutes R23-014 mover B. Hiebert; J. Hiebert was the one excused, so the only Hiebert present); 'Councillor Hiebert, second by Councillor Siemens. Any comments?' -> D 00:09:12 on the business licence (minutes R23-017 mover B. Hiebert); 'Nothing to add.' 00:12:59 as seconder after 'Seconded by Councilor Hiebert' (R23-021). Pitch 139-143 Hz.",
+   "evidence": "D 00:05:59 'I will, a motion to excuse Councillor Jake Hebert.' and the chair replies 'Okay, Councillor Hebert. Any seconder?' (minutes R23-014 mover B. Hiebert; J. Hiebert was the one excused, so the only Hiebert present); 'Councillor Hiebert, second by Councillor Siemens. Any comments?' -> D 00:09:12 on the business licence (minutes R23-017 mover B. Hiebert); 'Nothing to add.' 00:12:59 as seconder after 'Seconded by Councilor Hiebert' (R23-021). pitch checked.",
    "notes": ""
   },
   {
@@ -45,7 +45,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Penner, seconded by Councillor Zwaagstra. Go ahead, Councillor Penner.' -> E 00:11:05 on the designated tax-sale year (minutes R23-019 mover D. Penner) and again -> E 00:12:18 on the tax-sale manager (minutes R23-020 mover D. Penner). Pitch 119-130 Hz (man), so not Susan Penner (A, ~178 Hz).",
+   "evidence": "'Councillor Penner, seconded by Councillor Zwaagstra. Go ahead, Councillor Penner.' -> E 00:11:05 on the designated tax-sale year (minutes R23-019 mover D. Penner) and again -> E 00:12:18 on the tax-sale manager (minutes R23-020 mover D. Penner). pitch checked (man), so not Susan Penner (A,  (pitch checked)).",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "G 00:14:21 'Motion to approve.' and the chair at once names 'Councillor Seaman' [Siemens] as mover (minutes R23-022 mover J. Siemens, seconder S. Penner); G 00:14:26 speaks to the motion as mover ('As administration just informed us') and 00:14:52 'No, sir.' answers 'Anything in closing?'. Pitch of the 00:14:26 speech 98-101 Hz: a man, so not Susan Penner, and lower than Damian Penner (E, 119-130 Hz here); matches Siemens' ~95-113 Hz in other 2023 meetings.",
-   "notes": "Conflict: the chair says 'Go ahead, Councillor Penner.' just before 00:14:26, but the seconder Penner (Susan) is ruled out by pitch; taken as a slip of the tongue. The short turns 00:14:21 and 00:14:52 measure ~140 Hz, less consistent."
+   "evidence": "G 00:14:21 'Motion to approve.' and the chair at once names 'Councillor Seaman' [Siemens] as mover (minutes R23-022 mover J. Siemens, seconder S. Penner); G 00:14:26 speaks to the motion as mover ('As administration just informed us') and 00:14:52 'No, sir.' answers 'Anything in closing?'. Pitch of the 00:14:26 speech (pitch checked): a man, so not Susan Penner, and lower than Damian Penner (E, (pitch checked) here); matches Siemens'  (pitch checked) in other 2023 meetings.",
+   "notes": "Conflict: the chair says 'Go ahead, Councillor Penner.' just before 00:14:26, but the seconder Penner (Susan) is ruled out by pitch; taken as a slip of the tongue. The short turns 00:14:21 and 00:14:52 measure  (pitch checked), less consistent."
   }
  ],
  "turn_overrides": [
@@ -83,7 +83,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'No.' measures ~137 Hz, a man's range, unlike Susan Penner's 167-194 Hz in this meeting; the old map had it on its Siemens letter"
+   "reason": "'No.' measures  (pitch checked), a man's range, unlike Susan Penner's (pitch checked) in this meeting; the old map had it on its Siemens letter"
   }
  ],
  "turn_splits": [],

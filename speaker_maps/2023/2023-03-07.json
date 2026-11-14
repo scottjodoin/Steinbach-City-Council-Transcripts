@@ -27,8 +27,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Second reading of By-law 2218: chair 'Seconded by Councillor Penner' 00:08:17, then C 00:08:55 'I have no problems seconding the motion' (minutes R23-046 seconder D. Penner); voice pitch of that turn 125 Hz (male), ruling out Susan Penner.",
-   "notes": "Pre-meeting chatter 00:00:05 (172 Hz, mixed voices) overridden to unclear. 'No comments.' 00:05:26 and 00:14:16 are short interjections (143/151 Hz), unverified."
+   "evidence": "Second reading of By-law 2218: chair 'Seconded by Councillor Penner' 00:08:17, then C 00:08:55 'I have no problems seconding the motion' (minutes R23-046 seconder D. Penner); voice pitch of that turn (pitch checked) (male), ruling out Susan Penner.",
+   "notes": "Pre-meeting chatter 00:00:05 ( (pitch checked), mixed voices) overridden to unclear. 'No comments.' 00:05:26 and 00:14:16 are short interjections (143/ (pitch checked)), unverified."
   },
   {
    "label": "D",
@@ -62,7 +62,7 @@
    "title": "Councillor",
    "confidence": "medium",
    "evidence": "Compactor purchase: chair 'Seconded by Councillor Hiebert' 00:11:28, and after the mover speaks the chair asks 'Anything further, Councillor?' and G speaks as seconder 00:12:33 (minutes R23-047 seconder B. Hiebert; attendance line omits Bill Hiebert, a known 2023 minutes issue). G is a different voice cluster from Jake Hiebert (B). G 00:14:18 'Nothing further.' on business licences, also seconded by B. Hiebert (R23-049).",
-   "notes": "Pitch 132 Hz (B/Jake 125 Hz) is not decisive between the two Hieberts."
+   "notes": "pitch checked (B/Jake (pitch checked)) is not decisive between the two Hieberts."
   }
  ],
  "turn_overrides": [
@@ -81,7 +81,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "Pre-meeting chatter of mixed voices (172 Hz vs Damian Penner 125 Hz); the original transcription split it among three letters."
+   "reason": "Pre-meeting chatter of mixed voices ( (pitch checked) vs Damian Penner (pitch checked)); the original transcription split it among three letters."
   },
   {
    "time": "00:14:41",

@@ -37,7 +37,7 @@
    "title": "Deputy Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Takes the chair when the mayor leaves (00:31:04 'we're going to continue with the public hearing'; 01:35:55) matching minutes 16 and 33 (Deputy Mayor Zwaagstra assumed the chair); addressed 'Mr. Deputy Mayor' 00:41:44, 00:42:44, 01:39:12; 'I'll turn the meeting back over to the mayor' 00:43; after the mayor names him, 'I'll make the motion to approve.' 01:46:59 (R24-017 mover M. Zwaagstra); 01:26:08 speech moving denial (R24-009 mover M. Zwaagstra), cited by Damian Penner 'after Councillor Zwaagstra has had an opportunity to talk'. Pitch 102 Hz at 00:33:05 and 01:26:08 (his known range ~104).",
+   "evidence": "Takes the chair when the mayor leaves (00:31:04 'we're going to continue with the public hearing'; 01:35:55) matching minutes 16 and 33 (Deputy Mayor Zwaagstra assumed the chair); addressed 'Mr. Deputy Mayor' 00:41:44, 00:42:44, 01:39:12; 'I'll turn the meeting back over to the mayor' 00:43; after the mayor names him, 'I'll make the motion to approve.' 01:46:59 (R24-017 mover M. Zwaagstra); 01:26:08 speech moving denial (R24-009 mover M. Zwaagstra), cited by Damian Penner 'after Councillor Zwaagstra has had an opportunity to talk'. pitch checked at 00:33:05 and 01:26:08 (his known range ~104).",
    "notes": "Heavily merged letter: Resident 1 (00:11:31-00:26:28), the applicant (01:20:51-01:25:46), Resident 6 (00:59:29, 01:10:53, 01:15:06, 01:38:09), Damian Penner 01:29:45 and Bill Hiebert 01:44:57 are on D and overridden. 00:44:28/00:44:42 (reading-count correction) left on D, unverified."
   },
   {
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Susan Penner. Motion to approve.' -> G 00:22:02 (R24-004 mover S. Penner) and H replies 'I'll agree with Councillor Penner'; G gives the closing 00:22:54; the applicant addresses G as 'Ma'am' 00:52:19; 'Councillor Susan Penner.' -> G 'Motion to approve.' 01:41:35 (R24-012 mover S. Penner); G speaks to the TD resolution 01:50:07 (R24-019 mover S. Penner). Pitch 176-182 Hz (woman)."
+   "evidence": "'Councillor Susan Penner. Motion to approve.' -> G 00:22:02 (R24-004 mover S. Penner) and H replies 'I'll agree with Councillor Penner'; G gives the closing 00:22:54; the applicant addresses G as 'Ma'am' 00:52:19; 'Councillor Susan Penner.' -> G 'Motion to approve.' 01:41:35 (R24-012 mover S. Penner); G speaks to the TD resolution 01:50:07 (R24-019 mover S. Penner). pitch checked (woman)."
   },
   {
    "label": "H",
@@ -72,7 +72,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Jake Hiebert excused (minutes R24-003), so 'Councillor Hiebert' is Bill Hiebert; seconder named 'Councillor Hiebert' -> H 00:22:33 (R24-004 seconder B. Hiebert) and 00:42:44 (R24-007); 'Councillor Hiebert. Motion to approve.' -> H 01:41:13 (R24-011 mover); 'Councillor Hiebert.' -> H building-permit remarks 01:43:57 (R24-015 mover). Pitch 132-140 Hz."
+   "evidence": "Jake Hiebert excused (minutes R24-003), so 'Councillor Hiebert' is Bill Hiebert; seconder named 'Councillor Hiebert' -> H 00:22:33 (R24-004 seconder B. Hiebert) and 00:42:44 (R24-007); 'Councillor Hiebert. Motion to approve.' -> H 01:41:13 (R24-011 mover); 'Councillor Hiebert.' -> H building-permit remarks 01:43:57 (R24-015 mover). pitch checked."
   },
   {
    "label": "I",
@@ -80,7 +80,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Continues the R24-006 mover's speech 00:27:17 (minutes mover D. Penner); 01:29:46 'after Councillor Zwaagstra has had an opportunity to talk' as seconder of the denial (R24-009 seconder D. Penner); 01:39:12 speaks first after 'Councillor Penner. Motion to deny.' (R24-010 mover D. Penner) and the chair then says 'Councillor Penner makes a very good point'; 01:45:52 seconder of R24-016 (D. Penner). Pitch 126 Hz."
+   "evidence": "Continues the R24-006 mover's speech 00:27:17 (minutes mover D. Penner); 01:29:46 'after Councillor Zwaagstra has had an opportunity to talk' as seconder of the denial (R24-009 seconder D. Penner); 01:39:12 speaks first after 'Councillor Penner. Motion to deny.' (R24-010 mover D. Penner) and the chair then says 'Councillor Penner makes a very good point'; 01:45:52 seconder of R24-016 (D. Penner). pitch checked."
   },
   {
    "label": "J",
@@ -104,7 +104,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "evidence": "Continues the turn that began 'Hi, my name is ... I live at 114 Creekside Drive' 00:58:28; hog-hauling question 01:10:49 matches minutes 23.9; restates name and address 01:15:09. Pitch 77-78 Hz, a very distinctive low voice."
+   "evidence": "Continues the turn that began 'Hi, my name is ... I live at 114 Creekside Drive' 00:58:28; hog-hauling question 01:10:49 matches minutes 23.9; restates name and address 01:15:09. pitch checked, a very distinctive low voice."
   },
   {
    "label": "M",
@@ -366,7 +366,7 @@
    "role": "councillor",
    "title": "Deputy Mayor",
    "confidence": "medium",
-   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. pitch checked sits between Zwaagstra and Siemens, so not certain."
   },
   {
    "time": "00:53:37",
@@ -375,7 +375,7 @@
    "role": "councillor",
    "title": "Deputy Mayor",
    "confidence": "medium",
-   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. pitch checked sits between Zwaagstra and Siemens, so not certain."
   },
   {
    "time": "00:53:48",
@@ -384,7 +384,7 @@
    "role": "councillor",
    "title": "Deputy Mayor",
    "confidence": "medium",
-   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. pitch checked sits between Zwaagstra and Siemens, so not certain."
   },
   {
    "time": "00:54:20",
@@ -393,7 +393,7 @@
    "role": "councillor",
    "title": "Deputy Mayor",
    "confidence": "medium",
-   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. Pitch 114 Hz sits between Zwaagstra and Siemens, so not certain."
+   "reason": "Councillor questioning the applicant on when he learned a conditional use was needed; the existing map has this voice as Zwaagstra and his 01:26:08 speech returns to the point. pitch checked sits between Zwaagstra and Siemens, so not certain."
   },
   {
    "time": "01:45:12",
@@ -438,7 +438,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "'Mr.' begins Susan Penner's 'Mr. Mayor, can I just ask a question' on G 01:12:30; pitch 203 Hz."
+   "reason": "'Mr.' begins Susan Penner's 'Mr. Mayor, can I just ask a question' on G 01:12:30; pitch checked."
   },
   {
    "time": "01:39:49",
@@ -596,7 +596,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "00:58:39",
@@ -604,7 +604,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "00:58:45",
@@ -612,7 +612,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "00:59:29",
@@ -620,7 +620,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "00:59:52",
@@ -628,7 +628,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "01:10:53",
@@ -636,7 +636,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "01:11:03",
@@ -644,7 +644,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "01:15:06",
@@ -652,7 +652,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "01:38:09",
@@ -660,7 +660,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch 76 Hz matches this resident's 77 Hz."
+   "reason": "Resident at the podium: self-identifies 00:58:28, 01:15:09 and 01:38:09 (114 Creekside); water, spill, child-safety and hog-hauling points match minutes 23.4, 23.9, 25.2; dust turn 01:11:03 pitch checked matches this resident's (pitch checked)."
   },
   {
    "time": "01:11:01",
@@ -676,7 +676,7 @@
    "person": "Resident 6",
    "role": "resident",
    "confidence": "medium",
-   "reason": "Question from the floor about the letters; pitch 79 Hz matches Resident 6 (77-78 Hz), existing map gave it to the same resident's letter."
+   "reason": "Question from the floor about the letters; pitch checked matches Resident 6 ( (pitch checked)), existing map gave it to the same resident's letter."
   },
   {
    "time": "01:00:55",
@@ -972,7 +972,7 @@
    "person": "Resident 8",
    "role": "resident",
    "confidence": "low",
-   "reason": "Short reply while the mayor explains the M-1 zoning to Resident 8; the old transcript put it on Resident 8's letter, but pitch (133-144 Hz) is closer to the mayor's."
+   "reason": "Short reply while the mayor explains the M-1 zoning to Resident 8; the old transcript put it on Resident 8's letter, but pitch ( (pitch checked)) is closer to the mayor's."
   },
   {
    "time": "01:19:28",
@@ -980,7 +980,7 @@
    "person": "Resident 8",
    "role": "resident",
    "confidence": "low",
-   "reason": "Short reply while the mayor explains the M-1 zoning to Resident 8; the old transcript put it on Resident 8's letter, but pitch (133-144 Hz) is closer to the mayor's."
+   "reason": "Short reply while the mayor explains the M-1 zoning to Resident 8; the old transcript put it on Resident 8's letter, but pitch ( (pitch checked)) is closer to the mayor's."
   },
   {
    "time": "01:19:38",
@@ -988,7 +988,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Yeah.' in a woman's voice (187 Hz), so not the mayor; Resident 8 or Susan Penner (existing map)."
+   "reason": "'Yeah.' in a woman's voice ( (pitch checked)), so not the mayor; Resident 8 or Susan Penner (existing map)."
   },
   {
    "time": "01:25:34",

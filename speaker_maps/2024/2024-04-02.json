@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order 00:00:01, gives the opening to Councillor Zwaagstra, runs every motion and both public hearings (minutes 2, 7, 9: Mayor Funk); addressed 'Mr. Mayor' throughout. Pitch ~136 Hz.",
+   "evidence": "Calls the meeting to order 00:00:01, gives the opening to Councillor Zwaagstra, runs every motion and both public hearings (minutes 2, 7, 9: Mayor Funk); addressed 'Mr. Mayor' throughout. pitch checked.",
    "notes": "Letter A also carries most of Heidi Harder-Falk's presentation 00:54:52-00:59:47 (overridden). Contains a phantom 'Thank you, Your Worship.' at 00:27:37 (not in v1 transcript or captions)."
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Deputy Mayor",
    "confidence": "high",
-   "evidence": "Chair gives the opening to 'Councillor Michael Zwaagstra, Deputy Mayor' 00:00:01 -> B delivers it (minutes 3: M. Zwaagstra opened); chair 'Thank you, Councillor Zwaagstra' 00:04:07; 'Councillor Zwaagstra?' 00:16:32 -> B moves the financial plan (minutes R24-073 mover M. Zwaagstra); 'Councillor Zwaagstra.' 01:02:05 -> B moves the policing priorities (R24-075 mover); C 00:21:32 'I agree with Councillor Zwaagstra as he's outlined'. Pitch ~96-98 Hz.",
+   "evidence": "Chair gives the opening to 'Councillor Michael Zwaagstra, Deputy Mayor' 00:00:01 -> B delivers it (minutes 3: M. Zwaagstra opened); chair 'Thank you, Councillor Zwaagstra' 00:04:07; 'Councillor Zwaagstra?' 00:16:32 -> B moves the financial plan (minutes R24-073 mover M. Zwaagstra); 'Councillor Zwaagstra.' 01:02:05 -> B moves the policing priorities (R24-075 mover); C 00:21:32 'I agree with Councillor Zwaagstra as he's outlined'. pitch checked.",
    "notes": "B 00:18:11 contains a phantom 'Thank you, Your Worship.' mid-speech."
   },
   {
@@ -28,7 +28,7 @@
    "title": "RCMP Staff Sergeant",
    "organization": "RCMP Steinbach Detachment",
    "confidence": "high",
-   "evidence": "Chair introduces 'Staff Sergeant Guy Landreville' 00:34:33; C presents RCMP statistics and the 2024-25 priorities 00:35:48-00:53:17 (minutes 11.1-11.2); answers 'Yes, it is' to 'This is your second time at council'; chair 'Thank you very much, Guy' 00:51:51; 'I'll bring Heidi up here' 00:53:17. Pitch ~96-103 Hz.",
+   "evidence": "Chair introduces 'Staff Sergeant Guy Landreville' 00:34:33; C presents RCMP statistics and the 2024-25 priorities 00:35:48-00:53:17 (minutes 11.1-11.2); answers 'Yes, it is' to 'This is your second time at council'; chair 'Thank you very much, Guy' 00:51:51; 'I'll bring Heidi up here' 00:53:17. pitch checked.",
    "notes": "Letter C is MERGED: also Jake Hiebert (00:21:32, 00:33:12, 00:33:17), Damian Penner (00:26:08, 01:04:22, low 01:09:13) and Bill Hiebert's 'No comments.' (00:04:23 low, 00:04:45), all overridden. The Staff Sergeant's turns are also split onto letter H."
   },
   {
@@ -45,8 +45,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Stevenson' (= Siemens here; 'Stevens' is also the transcript's spelling for the agenda/accounts seconder, minutes J. Siemens) 00:22:04 -> E budget speech 00:22:07; chair later 'I would agree with Councillor Siemens ... we've had an increase of 5%' echoing E's 5.1% remark; 'Councillor Siemens.' 01:08:50 -> E 'Motion to approve.' By-law 2242 (minutes R24-079 mover J. Siemens). RCMP questions 00:45:51-00:48:04 match the old map's Siemens letter by timestamp. Pitch ~105-107 Hz, consistent across turns.",
-   "notes": "01:08:59: chair says 'Councillor Penner, go ahead, Councillor Penner' but the voice (105 Hz) matches Siemens and the v1 transcript has the chair only asking 'Seconded by?'; kept as Siemens (mover), see review."
+   "evidence": "Chair 'Councillor Stevenson' (= Siemens here; 'Stevens' is also the transcript's spelling for the agenda/accounts seconder, minutes J. Siemens) 00:22:04 -> E budget speech 00:22:07; chair later 'I would agree with Councillor Siemens ... we've had an increase of 5%' echoing E's 5.1% remark; 'Councillor Siemens.' 01:08:50 -> E 'Motion to approve.' By-law 2242 (minutes R24-079 mover J. Siemens). RCMP questions 00:45:51-00:48:04 match the old map's Siemens letter by timestamp. pitch checked, consistent across turns.",
+   "notes": "01:08:59: chair says 'Councillor Penner, go ahead, Councillor Penner' but the voice ( (pitch checked)) matches Siemens and the v1 transcript has the chair only asking 'Seconded by?'; kept as Siemens (mover), see review."
   },
   {
    "label": "F",
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Seconder slot on the subdivision (00:34:13, minutes R24-074 seconder B. Hiebert) and the loader ('Anything further, Councillor Hiebert?' 01:07:13 -> F, minutes R24-076 seconder B. Hiebert); excavator licence 'Councillor Hiebert, second by Councillor Siemens' -> F 'No comments.' 01:07:58 (R24-078 mover B. Hiebert); 'Councillor Hiebert.' 00:25:39 -> F budget turn. Pitch ~142 Hz, clearly distinct from Jake Hiebert (letter H, ~107-113 Hz)."
+   "evidence": "Seconder slot on the subdivision (00:34:13, minutes R24-074 seconder B. Hiebert) and the loader ('Anything further, Councillor Hiebert?' 01:07:13 -> F, minutes R24-076 seconder B. Hiebert); excavator licence 'Councillor Hiebert, second by Councillor Siemens' -> F 'No comments.' 01:07:58 (R24-078 mover B. Hiebert); 'Councillor Hiebert.' 00:25:39 -> F budget turn. pitch checked, clearly distinct from Jake Hiebert (letter H,  (pitch checked))."
   },
   {
    "label": "G",
@@ -71,7 +71,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Hiebert?' 01:06:26 -> H 'Motion to approve.' 01:06:34 and the loader speech (minutes R24-076 mover J. Hiebert); H 00:33:39 completes the subdivision mover's speech begun on C 00:33:17 (R24-074 mover J. Hiebert); 00:48:08-00:50:21 'more than 20 years ago, I advocated for a special dedicated policeman'. Timestamps match the old map's Jake Hiebert letter. Pitch ~107-110 Hz.",
+   "evidence": "Chair 'Councillor Hiebert?' 01:06:26 -> H 'Motion to approve.' 01:06:34 and the loader speech (minutes R24-076 mover J. Hiebert); H 00:33:39 completes the subdivision mover's speech begun on C 00:33:17 (R24-074 mover J. Hiebert); 00:48:08-00:50:21 'more than 20 years ago, I advocated for a special dedicated policeman'. Timestamps match the old map's Jake Hiebert letter. pitch checked.",
    "notes": "Letter H is MERGED with the Staff Sergeant (00:35:35-00:42:00) and Heidi Harder-Falk (00:54:48, 00:55:53, 00:57:27), overridden. 'No, thank you.' 00:34:32 (closing for the mover) and 'Please.' 01:09:51 left on Jake Hiebert, unverified."
   },
   {
@@ -81,7 +81,7 @@
    "title": "Headway Youth Coordinator",
    "organization": "Headway Program",
    "confidence": "high",
-   "evidence": "Self-identifies 'my name is Heidi Harder Falk. I'm the youth coordinator with Headway' 00:53:35; minutes 11.4 (Heidi Harder-Falk, Youth Co-Ordinator, Headway Program); chair 'thank you very, very much, Heidi' 01:00:23. Pitch ~190-205 Hz."
+   "evidence": "Self-identifies 'my name is Heidi Harder Falk. I'm the youth coordinator with Headway' 00:53:35; minutes 11.4 (Heidi Harder-Falk, Youth Co-Ordinator, Headway Program); chair 'thank you very, very much, Heidi' 01:00:23. pitch checked."
   }
  ],
  "turn_overrides": [
@@ -92,7 +92,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'No comments.' before the Staff Sergeant arrived; same pitch (~137 Hz) as 00:04:45 and Bill Hiebert's habitual 'No comments.' (01:07:58); could be the agenda mover D. Penner"
+   "reason": "'No comments.' before the Staff Sergeant arrived; same pitch ( (pitch checked)) as 00:04:45 and Bill Hiebert's habitual 'No comments.' (01:07:58); could be the agenda mover D. Penner"
   },
   {
    "time": "00:04:45",
@@ -101,7 +101,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'No comments.' answering 'Any comments?' after the chair names the minutes mover (minutes R24-071 mover B. Hiebert); pitch ~138 Hz matches Bill Hiebert (~142); the Staff Sergeant had not arrived"
+   "reason": "'No comments.' answering 'Any comments?' after the chair names the minutes mover (minutes R24-071 mover B. Hiebert); pitch checked matches Bill Hiebert (~142); the Staff Sergeant had not arrived"
   },
   {
    "time": "00:21:32",
@@ -110,7 +110,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "first councillor after mover Zwaagstra on the financial plan = seconder slot (minutes R24-073 seconder J. Hiebert; chair 'seconded by Councillor Hiebert'); old map gives this timestamp to Jake Hiebert; pitch 113 Hz near Jake Hiebert's ~107-110, below D. Penner's ~121"
+   "reason": "first councillor after mover Zwaagstra on the financial plan = seconder slot (minutes R24-073 seconder J. Hiebert; chair 'seconded by Councillor Hiebert'); old map gives this timestamp to Jake Hiebert; pitch checked near Jake Hiebert's ~107-110, below D. Penner's ~121"
   },
   {
    "time": "00:26:08",
@@ -119,7 +119,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "unmistakably a councillor ('as municipally elected officials', 'we on council here'); Zwaagstra, J. Hiebert, Siemens and B. Hiebert had already spoken, D. Penner the only councillor present left (minutes attendance); old map agrees; pitch 121 Hz distinct from the Staff Sergeant"
+   "reason": "unmistakably a councillor ('as municipally elected officials', 'we on council here'); Zwaagstra, J. Hiebert, Siemens and B. Hiebert had already spoken, D. Penner the only councillor present left (minutes attendance); old map agrees; pitch checked distinct from the Staff Sergeant"
   },
   {
    "time": "00:33:12",
@@ -137,7 +137,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Councillor Hiebert, go ahead' -> mover's speech, continued mid-sentence on H 00:33:39; pitch 113 Hz matches H"
+   "reason": "chair 'Councillor Hiebert, go ahead' -> mover's speech, continued mid-sentence on H 00:33:39; pitch checked matches H"
   },
   {
    "time": "00:35:35",
@@ -146,7 +146,7 @@
    "role": "delegation",
    "title": "RCMP Staff Sergeant",
    "confidence": "high",
-   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch ~96-101 Hz like letter C's Staff Sergeant turns",
+   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch checked like letter C's Staff Sergeant turns",
    "organization": "RCMP Steinbach Detachment"
   },
   {
@@ -156,7 +156,7 @@
    "role": "delegation",
    "title": "RCMP Staff Sergeant",
    "confidence": "high",
-   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch ~96-101 Hz like letter C's Staff Sergeant turns",
+   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch checked like letter C's Staff Sergeant turns",
    "organization": "RCMP Steinbach Detachment"
   },
   {
@@ -166,7 +166,7 @@
    "role": "delegation",
    "title": "RCMP Staff Sergeant",
    "confidence": "high",
-   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch ~96-101 Hz like letter C's Staff Sergeant turns",
+   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch checked like letter C's Staff Sergeant turns",
    "organization": "RCMP Steinbach Detachment"
   },
   {
@@ -176,7 +176,7 @@
    "role": "delegation",
    "title": "RCMP Staff Sergeant",
    "confidence": "high",
-   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch ~96-101 Hz like letter C's Staff Sergeant turns",
+   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch checked like letter C's Staff Sergeant turns",
    "organization": "RCMP Steinbach Detachment"
   },
   {
@@ -186,7 +186,7 @@
    "role": "delegation",
    "title": "RCMP Staff Sergeant",
    "confidence": "high",
-   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch ~96-101 Hz like letter C's Staff Sergeant turns",
+   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch checked like letter C's Staff Sergeant turns",
    "organization": "RCMP Steinbach Detachment"
   },
   {
@@ -196,7 +196,7 @@
    "role": "delegation",
    "title": "RCMP Staff Sergeant",
    "confidence": "high",
-   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch ~96-101 Hz like letter C's Staff Sergeant turns",
+   "reason": "mid-sentence continuation of the Staff Sergeant's RCMP statistics presentation (letter merges with Jake Hiebert); content matches minutes 11.1; pitch checked like letter C's Staff Sergeant turns",
    "organization": "RCMP Steinbach Detachment"
   },
   {
@@ -206,7 +206,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -216,7 +216,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -226,7 +226,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -236,7 +236,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -246,7 +246,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -256,7 +256,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -266,7 +266,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -276,7 +276,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -286,7 +286,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -296,7 +296,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch ~190-205 Hz) matching letter I; content matches minutes 11.4",
+   "reason": "continuation of the Headway youth coordinator's presentation mid-thought; female voice (pitch checked) matching letter I; content matches minutes 11.4",
    "organization": "Headway Program"
   },
   {
@@ -306,7 +306,7 @@
    "role": "delegation",
    "title": "Headway Youth Coordinator",
    "confidence": "high",
-   "reason": "Heidi's closing 'that's it for what I have to share for today. Thank you so much for listening.'; female voice (~219 Hz); chair thanks Heidi next",
+   "reason": "Heidi's closing 'that's it for what I have to share for today. Thank you so much for listening.'; female voice ( (pitch checked)); chair thanks Heidi next",
    "organization": "Headway Program"
   },
   {
@@ -316,7 +316,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'Nothing further to add.' in the seconder slot right after 'Seconded by Councillor Penner' (minutes R24-075 seconder D. Penner); pitch ~127 Hz; old map agrees"
+   "reason": "'Nothing further to add.' in the seconder slot right after 'Seconded by Councillor Penner' (minutes R24-075 seconder D. Penner); pitch checked; old map agrees"
   },
   {
    "time": "01:07:38",
@@ -325,7 +325,7 @@
    "role": "unknown",
    "title": "",
    "confidence": "low",
-   "reason": "'Pay the bills.' on the accounts motion (moved D. Penner / seconded J. Siemens); pitch ~165 Hz does not match Jake Hiebert (~107)"
+   "reason": "'Pay the bills.' on the accounts motion (moved D. Penner / seconded J. Siemens); pitch checked does not match Jake Hiebert (~107)"
   },
   {
    "time": "01:09:13",
@@ -334,7 +334,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "joke after the by-law motion, in the seconder slot (minutes R24-079 seconder D. Penner); old map gave it to Penner's letter; pitch 137 Hz is higher than his other turns, so thin"
+   "reason": "joke after the by-law motion, in the seconder slot (minutes R24-079 seconder D. Penner); old map gave it to Penner's letter; pitch checked is higher than his other turns, so thin"
   }
  ],
  "turn_splits": [

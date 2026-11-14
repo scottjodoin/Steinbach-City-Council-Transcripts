@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I would like to give the opening to Councillor Susan Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=9s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. As I was trying to decide what my opening should be today, the only definitive thing I came up with was a case of writer's block. It's not that I don't have anything to say, but it's hard to fix. Inflation or climate change in a 5-minute opening. So I decided to take a different approach and consult my new best friend ChatGPT, uh, to get some inspiration. I entered the prompt, what is positive about Steinbach, Manitoba, uh, to see what it would say, and it actually was pretty good. So I decided I would just read to you what, uh, ChatGPT said about our community. It says Steinbach, Manitoba, a vibrant community, has several positive developments happening. Here are a few examples. Number 1, economic growth. Steinbach has experienced consistent economic growth in recent years. The city has seen an increase in business, including retail stores, restaurants, and services, contributing to job creation and a thriving local economy. This growth provides opportunities for employment and entrepreneurship within the community. Number 2, infrastructure development. The city has invested in infrastructure development to support its growing population and enhance the quality of life for residents. This includes improvements to roads, parks, recreational facilities, and public spaces. Upgrades to infrastructure not only benefit residents but also attract new businesses and contribute to the overall development of the community. Number 3, community engagement. Steinbach is known for its strong sense of community and active citizen engagement. The city hosts various events, festivals, and cultural activities throughout the year, bringing residents together and fostering a sense of belonging. These community-driven initiatives promote social cohesion, celebrate diversity, and create opportunities for residents to connect and contribute. Number 4, healthcare services. The city has a well-established healthcare system with access to medical facilities, clinics and healthcare professionals. The Bethesda Regional Health Centre, along with other healthcare providers, ensures that residents have access to quality medical services, promoting the well-being and health of the community. And 5, volunteerism and philanthropy. Steinbach residents actively engage in volunteer work and philanthropic initiatives. Numerous organizations and community groups provide support and resources to those in need. Through volunteer efforts and charitable contributions, residents demonstrate their commitment to helping others and creating a stronger community. These positive developments highlight the progress and community spirit present in Steinbach, Manitoba. The active involvement of residents, along with local initiatives and investments, contributes to the overall well-being and vitality of the city. As it turns out, ChatGPT is not wrong, or not at least in this case. Steinbach is all these things and more, and my only regret is that I didn't write it myself.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=17s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. That was very good and uncannily accurate.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=193s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Yes, yes, very good.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=200s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Council, we have the agenda in front of us looking for a motion to adopt. Councillor Siemens, seconded by Councillor Hiebert. Any comments? Call for the question. All those in favor? That is carried. Council, we have the minutes of July 4th, 2023, the regular council meeting in front of us. We've all had a chance to review, looking for a motion to approve. Councillor Zwaagstra. Second by Councillor Hiebert. Any comments? Call for the question. All those in favor? Opposed? That is carried. Are there any business arising from the minutes? Okay, seeing none, looking for a motion to excuse Councillor Damian Penner and Councillor Bill Hiebert. Councillor Penner. Second by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Okay, we are just a few minutes before 7:35, so we'll move to administration. 9A, accounts payable. That was in the back of the book. Look, we've all had a chance to review that too. Looking for a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=201s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=276s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Hiebert, second by Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=277s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "No further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=280s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We'll go to 9B, financial statements. This is ending June. 30th, 2023. The back of the book. Looking for a motion to approve. Councillor Penner, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=282s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=310s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Okay, we are now at 7:35, so we will, uh, we'll We'll go to the public hearing. I will close the council meeting, open the public hearing. This is referring to variance V-2023-10, 420 Hespeler Street South. It starts on page 3 on our— in our package. And Mr. Warkentin, would you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=310s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor, and to members of council. Variance application file V-2023-10. Okay. The variance application before council is being applied for by Loewen Henderson Banman Legault LLP with the owner of the property being Summerfeld Mennonite Church of Manitoba. Purpose of the variance application is twofold. Firstly, to permit an overall site area of 5.22 acres where the DR-1 Development Reserve 1 zone requires a minimum site area of 20 acres. And secondly, to permit an overall site width of 264 feet, whereas the DR-1 Development Reserve Zone requires a minimum site width of 600 feet. The property is in process of a boundary realignment with a neighboring property, and this application would be to bring the residual parcel into compliance with the City of Steinbach Zoning Bylaw 2100. Notices pursuant to the Planning Act have been issued. There is no written correspondence on file with respect to the application. As I mentioned, it is arising due to a proposed subdivision and boundary realignment for an abutting property. Comments in the file indicate that there are existing drainage facilities on the site to the rear of the existing parent parcel. And if council is prepared to approve the application, recommendation is that approval be subject to any new evidence that is provided at the hearing. hearing and also subject to updated lot grading plans being required and completed to the satisfaction of the city engineer.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=345s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant present today? Do you wish to speak? You'll have to take the podium because it's all taped. Just state your name and your address and then continue.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=445s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "E",
    "label": "Ernest Schroeder (Applicant's representative, Sommerfeld Mennonite Church of Manitoba)",
    "text": "My name is Ernest Schrader. I am here on behalf of the Summerfelt Church. And yeah, just on the last part there about the water, what was it, drainage, drainage I think you commented on, right? Yeah. That was just barely done last year. We had the whole lot regraded. So I'm not quite sure where that falls in on this, but would that have to be redone?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=461s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "According to the development agreement, there would have to be— the entire drainage plan would have to be approved.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=491s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "If I could refer city council to the report that was prepared by the city engineer on page 5, it is the opinion of the city's engineer that due to the existing Yes. Okay. So the first one is drainage facilities that are present on the existing site and connected with the proposed subdivision that is in process. Because the lots are going to be physically separated, if there are any required revisions to the previously determined drainage plan because the subdivision may result in some changes to drainage patterns, that's why the city would require an updated drainage plan to be provided. That is a standard with all developments and subdivisions within the city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=502s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, so you heard, due to the nature of this whole proposal, you will have to have an updated drainage plan.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=548s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "E",
    "label": "Ernest Schroeder (Applicant's representative, Sommerfeld Mennonite Church of Manitoba)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=557s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Is that everything? Okay. Any questions of council for the applicant? Okay. Is there anyone here with comments, questions, or objections to this file? I will ask again, is there anyone here with comments, questions, or objections to this file? Okay, seeing none, we will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=557s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion to approve the variance.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=594s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder for that?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=597s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Jac Siemens (Councillor)",
    "text": "I can do that.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=597s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Siemens. Go ahead, Councillor Soyer.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=597s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I think this is a fairly straightforward application, and the church is in— there's a boundary realignment here that is taking place. That's in the subdivision, had already been approved by staff, but because of the fact that proposed lot 2 would have a site area of below the minimum for development reserve, Zone, we need to have a variance in order for that to be able to go ahead. The intent of the development reserve is obviously that's land that's set aside that will eventually be rezoned for something else. And so when you're creating brand new parcels and all that, usually you don't want those to be— those to be too small. In this case here, we're talking about an existing property that's realigning its boundaries and making some changes, and staff have raised no concerns. So I see no problem with allowing the variance. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=602s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Stevenson?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=649s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=651s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any further, Councillor? Anything in closing? No. Call for the question. All those in favor? Opposed? That is carried. Okay, Council, now it, it is, uh, just before 7:45, but if, uh, if Council's okay, With it, we can go into our delegations if you're prepared to go a little early. Okay. So we will call up, council, it's a little different than in that, than what's in your agenda. We will have the Steinbach Chamber of Commerce business tax grant. That delegation will come forward first, and then we will have the Steinbach economic development update. So go ahead, come forward. Also, all I ask is you state your name and your address because it's all taped, just for the record.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=651s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Would that be the address of the Steinbach Chamber, I guess? So that would be Christine Beaumont, president of the Steinbach Chamber of Commerce, and that is 284 Reimer Avenue. Good thing I have my entire delegation with me. Thank you so much for having us. We were here in November of last year, and so wanting to come back and just give you some highlights of what's been happening since then and answer any questions that you might have. So we're going to see if this works. There you go. This is a list of our board of directors. So obviously my name's there as the president, and and the rest of our team. And just wanted to highlight that in addition to the board, we have a number of committees as well, including the Business Development Committee, the Member Services Committee, and the Community Relations Committee, who involve another set of volunteers in addition to the group that you see here, some of which in this group are leading some of those committees. This is Susan Penner. Next slide. How about I say that? I wanted to give you a highlight of our staff, and you might have heard in some of the articles on Steinbach Online recently and in the Carillon just how much growth the organization has had in terms of not only the chamber staff but also the Eastman Immigrant Services program that we run, as well as economic development. So 10 years ago, the group would have been a list of 10 individuals, and today I think there's 27 people listed, including a couple of new hires that are to come. So it is a large group, and one of the, one of the big things that I can highlight for the organization is we're currently in a review of our space and our needs for— to accommodate the growth that we're having. And so that's one of the major projects that we've set aside or put together an ad hoc committee to look after reviewing our current space and how we might be able to work with that, or looking at possibly a relocation because we see value in having Eastman Immigrant Services, economic development function, and the Chamber of Commerce all under one roof ideally. Next slide. This is our mission, and I think you've heard us redundantly with our vision of leading growth and connecting people. You can go to the next slide there. A few things that I wanted to highlight just in terms of leading growth, obviously running Steinbach Economic Development, Eastman Immigrant Services, and just advocating on behalf of Steinbach and our business community and having a seat at the table and networking with some of the other organizations at the provincial level. We Take pride in doing that. Staying relevant, having our ear to the ground, and like I said, having a seat at the table. And that was, you know, one of the things, Mr. Mayor, we participated together with Michelle and the Steinbach Medical Center in terms of just brainstorming on recruiting doctors. So not something that's necessarily the chamber's responsibility, but we're happy to be a part of some of those community discussions and playing our part in how we can contribute to some of those things. We've also made an invitation to host Premier Heather Stevenson coming up in August. So we will be hosting a small group of individuals to have a conversation with our existing premier. So we're proud of that. Next slide. In terms of connecting people, I mentioned some of these points already, so I'll just I'd like to invite you to move to the next slide. Our participation in some of our events has been just, since the pandemic, participation has been strong and always increasing. And just highlighting on this page, the big event that was Taste of Steinbach this year, which was extremely successful and I think hit the mark in so many different ways in terms of not only connecting our members, but also bringing people from outside of the community, including some of those organizations that were listed on the previous slide, the Manitoba Business Council, Travel Manitoba, some of the economic development organizations such as ARMED. Many of these are decision makers, influencers outside of our community, and having them come together with us on this, which was a beautiful evening, was great. So showcasing our community as well outside in terms of the media and— Thank you. Bringing together just the community, which was awesome. Next slide. These are some of the events that are coming up. Again, you're familiar with some of them, Burger Days. We've had a number of mixers where we bring together our members, and we're looking forward to having another one this fall, as well as a roundtable mentor event, which is one of our regular events that we have annually. Thank you. I've mentioned this, so I'll just move on to the next slide. This is just to give you some highlights of Eastman Immigrant Services and some of our numbers. I think typically we will report to you on, on the newcomers that we've served to date this year. So just take note that some of these numbers consider that the fiscal year for Eastman Immigrant Services is April to Thank you. So we started serving newcomers in January to March, and so the numbers that you're seeing for 2023 are from April to June of this year. So if we just extrapolate one quarter into 4 quarters, you can see that the numbers of newcomers that we're— that our organization is serving is tremendous. And where are they coming from? There's been a big influx from Ukraine, as well as the Philippines, Mexico, and India are the top 4 countries. Thank you. That we're welcoming into our community. I also wanted to mention that one of the programs within Eastman Immigrant Services that has grown quite a bit is our employment facilitation. And so that's where we connect employers in the community with newcomers, and that's been taking on a Here are some of our events for Eastman Immigrant Services. And you can go to the next slide. Just a few highlights on economic development. Michelle will provide a presentation in a few moments and then in our sort of next delegation. You were kind enough to let both groups attend this evening. So just wanted to I just wanted to highlight that we are very thankful for— actually, Susan, I just wanted to mention, Councillor Susan Penner, at the beginning, your opening statements. I think that was really key and something I really enjoyed listening to that because if that's coming from outside and recognizing what our community has to offer, definitely we recognize that as well and very thankful for what council does in terms of the infrastructure. When we're outside attending events and we're talking to other communities, we come to recognize how good we have it here in Steinbach. So I just wanted to highlight that. And I will also say that we are hosting people from outside the community this week, actually, and I believe some of you will be in attendance. In our economic development group having access to community profiles. So each community has a community profile. Accessing data can be something that can be costly, and so we'll be plugging into a data facilitator and being able to have more data recognized about our community to showcase it to the outside. And so one of the things that we've been working on tremendously in the last number of months has been the vision for economic development. What makes Steinbach special? What makes us stand out in relation to other communities? And you'll hear about that in a few moments. Lastly, we wanted to show you a video that our CRC committee put together. It's a second version of The More for You Here video that you may have seen in the past, which was done a number of years ago. So we've— you're the first really, this is probably the first time outside of the chamber board that we've presented the video. So we hope it's going to work. And if you want to try to launch that, we'll cross our fingers that the private link— Okay. Will allow us to show you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=709s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "Yeah, it's coming up on here. I just have to exit the presentation.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1260s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Get there, and then I'm probably up for time, so I'll let you ask me some questions. That's not the right one. That's it there, isn't it? No, that's. I was worried that would happen. If you can go out of that, yeah, and. Maybe go to the just the chambers, the presentation, the chambers YouTube page.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1266s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1297s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "I wonder if it's there. I was worried this was going to happen.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1298s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "Is it this one?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1300s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "No, that's the old one. You have a stick. If I have a minute, do I still have some? Or would it be on here? Where's the link?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1301s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "There's an HDMI cable just under the, uh, technology. Yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1321s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Okay, let me see if I can My computer wouldn't have access to the internet, would it?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1331s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "Uh, you have Wi-Fi, that could work if you need.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1341s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Okay. Maybe I will let Michelle do her presentation, then we can show you at the end. How about I do that? Okay. Just so I don't waste anybody's time here.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1351s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Just one, any questions for Christine? Council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1371s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "I have a comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1376s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1377s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1378s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "Christine, thank you for the update. I appreciate that. I'm, and I think Councillor Swainstra as well, we remember when there was one staff members sitting in a corner of the Civic Centre here.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1379s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1390s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "Of the chamber. So it has certainly come a long way in the last 16 years. I thought too that the Taste of Steinbach event was very well done. I know how much work went into it with the rain, and— but the whole event was phenomenal. The food was phenomenal, but also the whole thing was very well done. And also some of the mixers that you've held that I've attended Have been very well done as well. So I think you've come a long way in the last 16 years. I'm looking forward to more, and I appreciate enthusiasm that is there. And when I look at the names of staff, the names of the volunteers and so on, they're a lot younger than I am, and that's critical because those are the movers, those are the people that are in our business community today. And you've got— it seems to me that you have them more involved in And that they have been in the past, so that's good. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1391s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1443s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Yes, thank you, Christine. It was a great, great presentation, and it has been a pleasure to get to know you and to work with you on different projects. And I do thank you for your openness when we do come forward and there is corrections to be made. You guys are very open, and I think in the long term, we'll go far. But right now, I think we're definitely going to— we're hitting the right points and we're moving forward. And we all around this board, we sit, everyone around this board sits and they want to project Steinbach in a positive way and make Steinbach better and more positive, and we feel that from your board as well. So it's— we're all working for the same thing, and I feel more and more we're working together.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1443s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "So that's good. I agree. We appreciate your— the partnership a great deal.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1509s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you very much. And then I guess we'll give the podium over to Michelle. I'll give you some time to get the video ready.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1513s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Well, I got your presentation here, and then I'll take a few minutes to try to— I think I'll try to get onto your Wi-Fi after Michelle does her presentation, if that's okay. So this should be it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1527s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "Oh, okay, let's try that again then.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1550s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Oh, that's my—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1556s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "C",
    "label": "Unidentified speaker",
    "text": "Hey, family pictures!",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1559s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "H",
    "label": "Unidentified speaker",
    "text": "That's your home screen.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1561s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "That's my family. Okay, half my family. That's not what we want. Oh, and that might be because Well, do you want to just do the next slide thing? Thank you for your patience.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1562s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "Good evening. It's a pleasure to be here today. Thanks for— oh, my name. Michelle Bizzini, Director of Economic Development. Address is D4, 284 Reimer Avenue. Thank you. So it's great to be here. I'm honored to be in this position. It— as we collaborate together with both our private and our public stakeholders, including the chamber, it's just a very cohesive group and it will fare well for Steinbach well into the future. So the pilot project began— the economic development pilot project began in 2021 and it ends in 2025. I assumed this position full-time in January of 2022. 2023. So I've been in this role for about 6 months. We have an ambitious project. I'm going to share that with you in a little bit. And yeah, having been in this position since January, I'm pleased to report that Steinbach Economic Development Corporation has made significant progress in corporation establishment, defining our area of focus while leveraging Steinbach's competitive advantage. Strengths and opportunities. We are thinking bigger, not in terms of size, but rather ambition, as our status as an economic development agency opens doors to leverage partnerships, funding, including additional expertise and resources to assist companies realize global ambitions while enjoying Steinbach's quality of life. So when we were looking at economic development, economic development is Thank you. As we're clearly defining what it looks like. So in March, approximately, we embarked on this project, which we're going to flow through here very quickly today. It's an asset evaluation project and it ended in May or so. So it highlights some of the action items, some of the implementation plan. We won't have a chance to go through some of that today. Thank you, Amanda, for distributing that. So you'll see that at the end of the deck, and if you have any questions about that, that we can address, but I won't necessarily address some of the key points and some of those action items that have been taking place since January. So in lieu of time, we will slide through this project, and I'll give you a synopsis of where we're headed and how we've come to be where we're at. So ultimately what we did— so what we did is we engaged ROI, so research on investment. So we collected some data. It was global data, market trends, et cetera, et cetera. We also interviewed 22 of our stakeholders, including 8 additional operator interviews. And when we compiled that information, we really wanted to look at that logic stream and analyzed it based on global trends, market research and demand, what Steinbach has to offer, what competitors are doing, what would position Steinbach well into the future, and ultimately what aligns with Steinbach's set of values. Thank you. Some of the deliverables that we highlighted is articulating the stakeholder views, both the public and the private sector, on economic development for Steinbach. We wanted to highlight some of the competitive advantages relating to global— what in the world is that? So some competitive advantages relating to global, national, and provincial trends. We wanted also to identify gaps and barriers to achieving these goals, and what would some of the lead opportunities be. Initially, that area of focus. In addition to leveraging resources from partners such as EDAM, which is Economic Developers Association of Manitoba, ARMED, Rural Manitoba Economic Development, World Trade Centre, et cetera, et cetera. So some of those resource partners that currently exist and specialize in certain areas. And when we were defining economic development, we took a look at economic development as a holistic approach. Economic growth specifically includes, you know, or includes expansion and attracting of business, investment attraction. We're looking at economic development more holistically. So So expanding and attracting businesses, of course, investment attraction. We also believe that it's important to support the quality of life and then develop workforce. So taking a look at that holistic approach is really— will serve Steinbach well into the future, as opposed to just looking at economic growth. So this is that holistic approach that we are— Thank you. That we are seeking. What we learned when we were doing some of these interviews is there's a collective determination. So there's a sense of urgency, I think, in all of us. There's, you know, for some, I don't know, for some progress. We have a very community-minded business community, and not only do they think about themselves, but their primary focus too is also Looking at the community, so that's what we saw as collective determination. We also saw that agribusiness is the foundation. What is Steinbach's best bet? What are we already good at? And the focus is not just necessarily agribusiness, but it also incorporates the ecosystem that supports that sector. We also themes that came out was maintaining the values. Don't build or don't lose on what already makes Steinbach unique. So there was also this general consensus of why Steinbach. So understanding loyalty, work ethic, sense of family values. The workforce, we also heard, is easier to work in Steinbach than outside the community. So as important as understanding of who we are is also understanding of who we are not. That was that maintain values. And I referenced before about thinking bigger beyond our city. Think regionally. This is in terms of ambition. And building consensus and collaboration. In order for economic development to be successful in Steinbach, I mentioned that holistic approach, but it's also going to be a collaboration between us, yourselves at the city, The region and beyond, and understanding what that looks like. We can, as being a welcoming community, and we are better together. Very briefly here, we won't go through all of the SWOT, but we summarize some of the strengths, weaknesses, opportunities, and threats. The strength is there's a new renewed attitude towards Economic development, and agribusiness is the key ecosystem strength. We want to result in goals and objectives being mobilized, so that's one of our strengths. And then, you know, we highlighted a couple of those things here where we need to find some timely solutions to some of our weaknesses that potentially could hold us back, and where some of the gaps exist would be an opportunity as well to incorporate those into our economic development plan. So implications for this strategy. So this is a quick analysis chart that supplies proof points for why we have chosen our recommendation, which we're going to flow through to in a little bit. So prospect within strategy. We're wanting to be intentional. We want to set the Criteria for selections. Targeting investment in partners and workers will be more effective and efficient prospect strategy rather than a scattered and opportunistic approach. We wanted to be task selective, very mindful of said capacity. It's myself working 35 hours a week, so we want to really understand what that looks like. And also we want to be mindful of the 2025 target. We want to leverage the partnerships. We mentioned that before. And agribusiness as a center is Steinbach's best bet. We are already good at this. It also speaks to global demand. Ag globally is leading in demand sectors, so it really speaks to long-term growth. Integration of other sectors, it does not mean, let's say, turning away other opportunities. For example, let's say a biotech company, but it means that So that's all of when we're focusing on agribusiness, that cluster ecosystems can support that. And then reframing our cluster, we've chatted about that already. As we enjoy competitive advantage, attracting investment, workers, creating opportunities for not only the primary sector but the spinoff opportunity of others. So here comes our recommendation. So we're reframing Steinbach's opportunity From agriculture to agribusiness. So our vision of Steinbach Economic Development is to be the center of advanced agribusiness on the Canadian prairies. It is a robust, ambitious vision. It does position Steinbach well into the future. So we're not only looking to the 2025, the end of this pilot project, but we're looking well into the future, 30, 40, 50 years. We mentioned, chatted about the agriculture or the agribusiness ecosystem and then how food processing and manufacturing inputs wholesale trade and distribution. You'll see the starburst chart, how all of this fits into the agribusiness ecosystem. Logistics, how that supports the sector. research and development, et cetera, et cetera. Agribusiness is currently a $3 billion U.S. global industry, and it is growing. Not only is the demand for food growing, but also demand for food that is sustainable, safe, convenient, and available in multiple forms. Steinbach is already delivering on this and can be expanded. Why one cluster? Why agribusiness? That area of focus we chatted about just earlier, so it can facilitate a clear messaging message who we are targeting, who we are targeting. And if in agribusiness, Steinbach is a place you should consider, allow Steinbach or said to narrow the focus to a large cohesive sector creative to multiple effect. It potentially attracts a higher skilled workforce. And it also differentiates us when we're speaking to advanced agribusiness. I know the question was posed, okay, well, how is that different than any other community on the Canadian prairies? So we're really focusing in on what that advanced means. We're processing, defining what that is. It's not only tech, but it can be research and development. It could be government agencies. Thank you. It could be whatever advanced means. And then there's also opportunities for other sectors. So we chatted about our recommendation, and this is our winning strategy, is Steinbach is a center of advanced agribusiness on the Canadian prairies. Here's just a list of where we'll play. Geography, global with initial focus on the Canadian prairies. Product is the agribusiness ecosystem that enables business its growth? How will we win? Laser focus on creating the conditions for advanced agribusiness to grow. And there's a list of those items there. What capabilities will need to be in place? And you can see those up here too. And as importantly, what management systems are required? So having a strong said organization with a streamlined process regarding other agencies and understanding what our roles and Responsibilities are and defining those specifically. So, and here was the action plan we chatted about. And so yeah, this action plan, June to December, and this one then from 2023 to 2025.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=1581s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Thank you very much.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2370s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "You're very welcome.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2376s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Council, are there any questions?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2376s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "I'd just like to—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2379s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2387s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "Mr. Mayor, I'd just like to make a comment. Thank you very much for your presentation, very comprehensive and a lot of detail. Enjoyed the diagrams, easy to follow. And I campaigned 5 years ago on the EDO position and I still advocate I appreciate that. So thank you very much for the work you do.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2388s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "Of course. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2406s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Okay. Well, thank you very much, Michelle. Very good presentation, and I can see you've done a lot of work. And I do thank you for asking Susan, Councillor Penner, and myself to be part of the the plan before it came to be, and I think it developed along, like, quite nicely to the end. And yeah, wishing— looking forward to seeing how this all works out, and I know I've always been— I haven't been in the— in keeping animals alive necessarily, but I've always been in the agribusiness myself.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2407s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "Right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2455s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And so we— once they're grown and mature, something has to happen to them, right?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2455s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "It's true.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2462s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And that's where I come in and, you know, you've written the— well, you come from a family who raised them.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2463s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "That's right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2470s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And I make them edible, right? And so we've worked together and I think this could be a great fit, especially— I got excited when you talked about the food processing because that's what That's what I do and that's what I love to do. That's my gifting. I actually don't go to work. I go to do something I love every day. But thank you very much. We really appreciate this. And this is a great snapshot and lets us know exactly where you've been and what you're doing. And looking forward to hearing more good things.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2470s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "Thank you. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2503s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, let's try the video now.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2509s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Just need to know how we can monitor the Wi-Fi.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2510s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "Password is 225. What is that? 225.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2514s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "H",
    "label": "Michelle Bezditny (Director of Economic Development, Steinbach Economic Development Corporation)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2518s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Christine Beaumont) [low]",
    "text": "Quick, say that again.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2519s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Now the whole planet knows.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2521s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You realize that's on YouTube now.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2525s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I was hoping for password 123. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2543s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "It's not my password. Give it a try.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2564s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "Thank you. Oh, and this is still my family. Oh my goodness. Okay, so it's probably in my display. No one here is, uh— No, I know, uh, it's, it's because of the dis— like, it's only showing— it's projecting my display out there. No, I— oh, I was almost there. Oh, okay, now I just need to hit play. We're getting there, we're getting there.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2611s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "C",
    "label": "Chamber video (Recorded audio from a video, Steinbach Chamber of Commerce)",
    "text": "Steinbach is one of the fastest-growing cities in Manitoba with a vibrant business community and a wealth of locally generated economic activity.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2698s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "F",
    "label": "Chamber video (Recorded audio from a video, Steinbach Chamber of Commerce)",
    "text": "As the economic engine of the Southeast region, manufacturing, technology, and land development have been a catalyst for sustainable growth in and around Steinbach.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2715s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "I",
    "label": "Chamber video (Recorded audio from a video, Steinbach Chamber of Commerce)",
    "text": "The 1874 settlers of Steinbach worked the land and pioneered this community, cultivating our spirit of innovation.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2725s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "H",
    "label": "Chamber video (Recorded audio from a video, Steinbach Chamber of Commerce)",
    "text": "Many industries flourish around our agriculture and transportation sectors as supply chains have established Steinbach as a connection route for Canadian, U.S., and international markets. While the entrepreneurs of yesteryear have built our foundation, the next generation of tech startups and innovative professional services lead the way forward.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2733s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "J",
    "label": "Chamber video (Recorded audio from a video, Steinbach Chamber of Commerce)",
    "text": "We take pride in growing our business while staying committed to surrounding community. Our goal is to create an environment and culture where people want to come and work. We are thankful for our local workforce and the newcomers we welcome, who are an integral part of our success.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2751s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "B",
    "label": "Chamber video (Recorded audio from a video, Steinbach Chamber of Commerce)",
    "text": "Newcomers continue to strengthen our diverse multicultural community.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2774s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "K",
    "label": "Chamber video (Recorded audio from a video, Steinbach Chamber of Commerce)",
    "text": "Skilled workers continue to find opportunities and more reasons to live here. Given our large trade area, diverse workforce, and the benefit of a strong work ethic in the community, There's more for you here.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2783s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "G",
    "label": "Christine Beaumont (Chamber of Commerce President, Steinbach Chamber of Commerce)",
    "text": "There it is. You saw it here first. Thank you so much for your— Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2796s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "That was very good. Thank you. Okay, council, we will continue on 9C. This is business license for, uh, June 2023. It's on page 35 of our, uh, agenda. Pardon?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2822s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "7B?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2854s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "This, this was 7A and 7B done.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2857s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2861s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Together. Now we're— yeah, we'll, we'll continue down to— okay, so 9C, business license. On page 35, looking for a motion to approve. Councillor Zwaagstra. Second by Councillor Hiebert. Any comments? Call for the question. All those in favor? Opposed? That is carried. We have 9D, building permits for June 2023. On page 36, looking for a motion to approve. Councillor Zwaagstra. Second by Councillor Penner. Go ahead, Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2862s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. We have a strong month in regards to development within Steinbach in June. Fairly even balance between residential and commercial/industrial. Total for the month, 8 point— just over $8.2 million. So definitely continues to be a lot of building permits that are being issued in our city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2911s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2930s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2933s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything closing? Yes, council, it's been a great month. We are— for year to date, we're looking at $94.5 million, which is really, really exciting. Again, Commercial's been very strong, just at $4.7 million. So looking like we're going to have a great year. Call for the question. All those in favor? Opposed? That is carried. Got 9D— oh, 9D, 9E is rezoning bylaw 2020 or 2234 referring to 385 Loewen Boulevard. This is first reading. Mr. Warkentin, would you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2934s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. This application for rezoning under Bylaw 2234 is being applied for, for the subject property at 385 Loewen Boulevard. The applicant for Bylaw 2234 is Jack Kaler, care of Bethesda Wellness Inc., with the owner of the property being Steinbach Campus Foundation Inc. The purpose of Bylaw 2234 is to rezone a portion of the subject property, as is shown on the sketch in council's agenda package, to allow for the pending subdivision and development of future healthcare facilities near the Steinbach Family Medical Clinic. With respect to this application, The subject property is designated as institutional under the city's official community plan, and the proposed rezoning from DR-1, Development Reserve 1, to EI, educational and institutional, would align with that designation. Recommendation is for council to give Bylaw 2234 first reading. This would allow public hearing to be scheduled, and that is tentatively— Second. set for August 15th regular meeting of council.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=2980s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Uh, council, how would you like to proceed? Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3057s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3062s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder? Councillor Hiebert? Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3064s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "This allows for a public hearing to be scheduled, so I think it makes sense to begin proceeding forward with this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3067s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3073s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3075s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further for council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3076s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3079s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Are there any— this is council question period. Are there any questions of council? Okay, seeing none, we'll go to 11A. This is correspondence petition, Southern Health-Santé Sud physician recruitment. engagement between the City of Steinbach and Steinbach, or SHSS. Okay, this starts on page 49. Okay, council, this letter that is in the agenda was given to us in May. Since then, I've had the Zoom meeting with Annette and Shannon, and they've come forward and, They've kind of showed us, they did in, they highlighted 3 events that they're looking at doing this year to bring out residents and student doctors. I really feel that we can't do all 3, and we can do all 3, but we can't do all 3 well. So I think the best is to pick one and— Okay. And the best— in my opinion, the best one to pick would be the family medicine resident retreat because they'll be in Steinbach at that time. Now, basically what we need today, they are looking for somewhat of a list of activities to do, and that can all happen and come. I don't want— I don't necessarily want city staff or us to organize any of these, just If we can set it up, it can happen, and then of course we'll have to pay for it. So basically for today, what we need to do is if we can— if we agree on doing the retreat and attending the Saturday events, then basically what we need today is just to set up a budget and give administration— A timeline. direction of where the money will come from so that that will be set. From there, we can start to develop with some ideas on whether, you know, on what we set up for activities and what organizations we use in our community can be done later. But for today, I would like it if we could have some sort of a motion for that, if that is possible. How would you like to proceed, council? Councillor Siemens.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3080s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "I'd like to make a comment, then I'll put a motion forward. Okay. Thank you, Mr. Mayor. I agree with this letter, as there's many people, up to 18,000 people in southern, southeastern Manitoba, but it could be 7,000, 8,000 people in Steinbach that are looking for a doctor currently, according to Find a Doc Manitoba. That includes [name withheld] and myself, as we lost our doctor. Doctors are retiring. We're not having as many doctors moving into Steinbach, and I think it is critical and important that we host this family medical event on September 22nd to 24th of this year. This is not the first time that the City of Steinbach has hosted this event. I believe it was hosted about 10 years ago, roughly, and we were involved then, and it made a difference in attracting doctors. Thank you. Thank you. I'm not sure I have any questions to Steinbach, but it is important that we be part of the solution on bringing doctors, family doctors, to Steinbach. We do have wonderful medical facilities and we are currently under construction with building more, so I think that alone will attract doctors. But we have a great community and we do need to showcase it. We need to show it off in this way. Uh, that we be involved— the, the City of Steinbach be involved with the doctor recruitment, specifically the family medicine resident retreat, September 22nd to 24th, 2023, with a budget of $10,000, up to $10,000, to be taken from our 2023 surplus.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3237s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Is there a seconder for that? Councillor Zwaagstra? Okay, go ahead. I guess you said most of it.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3340s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "I made a lot of comments, but I do think it is critical that the city be involved and that whatever way that council's also involved, that we can some form that we can ask questions. But we've got great facilities to show them, whatever that is, whatever that looks like, whether it's our arts council or our swimming pool We can show them where the arena is going. They can hear it being built. But there's a lot of things that we can showcase on that weekend.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3349s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3379s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I agree with the motion. It is important that we do whatever we can to recruit more doctors to our city. We know this is a significant challenge. And what I like about this, the motion here, is that we're targeting something specific. And in this case, the Family Medicine Resident Retreat. This is a unique opportunity where all of the residents in family medicine in Manitoba will be in Steinbach that weekend. And residents have only a year or two to go before they're going to be full-fledged family doctors. And so we're showcasing Steinbach right at the point that they're making decisions about where they want to practice. And so anything we can do to showcase our city is something that we should take advantage of. And so I fully support support putting this budget in and showcasing your city to the greatest degree we can.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3379s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Council? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3427s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3432s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, uh, Council, in, uh, to, uh, to, uh, Councillor Siemens' statement, yes, and it— last time this came to Steinbach was in 2020— 2012, sorry, 2012 it was. And I do remember Council was involved in it. There was a few things we did, some activities we paid for, and I think it's great for us to partner again that way and pay again. Like, there is a cost to retaining doctors. There is a cost to entertaining these residents, and I think if we do our part, the one year that they did come, I do remember with another councillor, we took them on a bus tour, and that's a good thing too. We get to show them our facilities, and I think we need to offer that kind of service to the organizers of this retreat so that we can do our part to make this a great event for the people that are coming to our community. That's— it's not about what we tell them, but it's They're going to remember how we made them feel. So call for the question. All those in favor? Opposed? Carried. We have 11B, the Manitoba Northwest Ontario Command Royal Canadian Legion support for advertising. Council, would you like to proceed, take it as information? There's no other business. Looking for motion to adjourn.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3433s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "L",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "No, no, just second, Mr. Mayor. Could I ask one question?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3525s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "On page 33 of the document, there's a request for a motion to transfer monies from the city to Chamber of Commerce.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3530s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "L",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Is there a motion required for that?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3541s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "This is back to—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3542s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "That's our grants discussion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3545s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "That's our grants. They're asking for a motion there.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3547s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Well, they can ask, but we decide later.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3549s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3551s"
   },
   {
@@ -2007,7 +2007,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, no, that— at this time we don't.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3552s"
   },
   {
@@ -2023,7 +2023,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Okay, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3555s"
   },
   {
@@ -2039,7 +2039,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, looking for a motion to adjourn. Councillor Switzer, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Next council meeting, uh, regular council meeting is Tuesday, August 1st, 2023,",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=whWh20N19Hs&t=3555s"
   }
  ]

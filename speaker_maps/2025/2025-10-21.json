@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order 00:00:00 and hands the opening to Councillor Zwaagstra; names movers/seconders and calls every vote; asks 'Mr. Warkentin, could you please introduce this file?' 00:42:30/00:48:38/00:51:06; minutes: Mayor Earl Funk called the meeting to order and thanked each delegation. Pitch ~144 Hz.",
+   "evidence": "Calls the meeting to order 00:00:00 and hands the opening to Councillor Zwaagstra; names movers/seconders and calls every vote; asks 'Mr. Warkentin, could you please introduce this file?' 00:42:30/00:48:38/00:51:06; minutes: Mayor Earl Funk called the meeting to order and thanked each delegation. pitch checked.",
    "notes": "Other people's words sit inside A's turns: 00:39:45 ends with the next councillor's 'Thank you, thank you, Mr. Mayor.' (split); 00:41:23 is Damian Penner continuing (override); 00:44:18 and 00:49:17 end with Zwaagstra's 'Thank you, Mr.' (split); 00:52:35 'Nothing, ma'am.' (split); 00:52:03 'That's all. Thank you.' and the 'Thank you, Your Worship.' pieces at 00:46:45 and 00:52:35 are unresolved (review). 'Bye-bye.' 00:11:53 and 'Second.' before 00:55:49 may be others."
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:00:00 chair gives the opening to 'Councillor Michael Zwaagstra' -> B's opening (minutes: Zwaagstra opened); 00:04:19 'Thank you, Councillor Zwaagstra'; 00:44:18 chair 'Councillor Zwaagstra?' -> B moves the subdivision (minutes R25-197 mover M. Zwaagstra), 00:44:33 'Go ahead, Councillor Zwaagstra'; B moves By-law 2266 first reading 00:49:21 (minutes R25-199 mover M. Zwaagstra). Pitch ~98-100 Hz.",
+   "evidence": "00:00:00 chair gives the opening to 'Councillor Michael Zwaagstra' -> B's opening (minutes: Zwaagstra opened); 00:04:19 'Thank you, Councillor Zwaagstra'; 00:44:18 chair 'Councillor Zwaagstra?' -> B moves the subdivision (minutes R25-197 mover M. Zwaagstra), 00:44:33 'Go ahead, Councillor Zwaagstra'; B moves By-law 2266 first reading 00:49:21 (minutes R25-199 mover M. Zwaagstra). pitch checked.",
    "notes": "00:51:42 'Recommendation from administration...' is the City Manager finishing his file introduction (override)."
   },
   {
@@ -28,7 +28,7 @@
    "title": "STARS representative",
    "organization": "STARS air ambulance",
    "confidence": "medium",
-   "evidence": "Opens the STARS delegation 00:05:25 right after the chair welcomes 'Madeline Wheeler and Tammy Beauregard' (minutes item 6: Madeline Wieler & Tammy Beauregard of S.T.A.R.S.); presents slides; invites council to the AMM booth 00:11:47. Woman's voice ~232-239 Hz, distinct from D (~190 Hz). Which of the two she is cannot be settled: minutes say 'Ms. Wieler thanked the City for their continuing support', which fits C's opening thanks, but D also thanks council.",
+   "evidence": "Opens the STARS delegation 00:05:25 right after the chair welcomes 'Madeline Wheeler and Tammy Beauregard' (minutes item 6: Madeline Wieler & Tammy Beauregard of S.T.A.R.S.); presents slides; invites council to the AMM booth 00:11:47. Woman's voice  (pitch checked), distinct from D ( (pitch checked)). Which of the two she is cannot be settled: minutes say 'Ms. Wieler thanked the City for their continuing support', which fits C's opening thanks, but D also thanks council.",
    "notes": "00:45:25 'Like, that is a very huge lot.' (Jake Hiebert) and 00:48:39 'Mayor.' (Troy Warkentin) are mislabels (overrides)."
   },
   {
@@ -38,7 +38,7 @@
    "title": "STARS representative",
    "organization": "STARS air ambulance",
    "confidence": "medium",
-   "evidence": "Second STARS presenter 00:06:47-00:11:44 (donations since 2019, 3,500 people helped, answers council's questions). Woman's voice ~190-193 Hz, distinct from C. Which of the two named presenters is D cannot be settled."
+   "evidence": "Second STARS presenter 00:06:47-00:11:44 (donations since 2019, 3,500 people helped, answers council's questions). Woman's voice  (pitch checked), distinct from C. Which of the two named presenters is D cannot be settled."
   },
   {
    "label": "E",
@@ -46,8 +46,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:47:25 E moves the Board of Revision appointments (minutes R25-198 mover J. Siemens) and comments; chair replies 00:47:50 'thank you, Councillor Siemens'; 00:55:59 'Councillor Siemens will second' -> E speaks 00:58:50 (minutes R25-202 seconder J. Siemens); 00:45:44 subdivision comment and 00:09:38 STARS questions in the same voice (~114-127 Hz).",
-   "notes": "00:42:29 'Paying our bills.' follows the chair naming the accounts mover 'Councillor Hiebert' (minutes R25-196: J. Hiebert) and the old transcript clustered it with Jake Hiebert, so it is overridden low to Jake Hiebert (pitch 119 Hz sits between the two). 00:11:49 'Oh yeah.' is a woman's voice (STARS, override). 00:45:44 contains 'Thank you, Your Worship. Yes, please.' which may be someone else (review)."
+   "evidence": "00:47:25 E moves the Board of Revision appointments (minutes R25-198 mover J. Siemens) and comments; chair replies 00:47:50 'thank you, Councillor Siemens'; 00:55:59 'Councillor Siemens will second' -> E speaks 00:58:50 (minutes R25-202 seconder J. Siemens); 00:45:44 subdivision comment and 00:09:38 STARS questions in the same voice ( (pitch checked)).",
+   "notes": "00:42:29 'Paying our bills.' follows the chair naming the accounts mover 'Councillor Hiebert' (minutes R25-196: J. Hiebert) and the old transcript clustered it with Jake Hiebert, so it is overridden low to Jake Hiebert (pitch checked sits between the two). 00:11:49 'Oh yeah.' is a woman's voice (STARS, override). 00:45:44 contains 'Thank you, Your Worship. Yes, please.' which may be someone else (review)."
   },
   {
    "label": "F",
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:28:45 chair 'Okay, Councillor Penner.' -> G; chair 00:31:03 'I want to echo, uh, Councillor Susan Penner'; 00:51:46 chair 'Councillor Penner.' -> G 'Motion for first reading.' (minutes R25-200 mover S. Penner); 00:53:xx 'Councillor Susan Penner, would you like to move?' -> G 'I would love to.' (minutes R25-202 mover S. Penner); Zwaagstra 00:59:41 credits 'Councillor Susan Penner's leadership'. Woman's voice ~175-195 Hz.",
+   "evidence": "00:28:45 chair 'Okay, Councillor Penner.' -> G; chair 00:31:03 'I want to echo, uh, Councillor Susan Penner'; 00:51:46 chair 'Councillor Penner.' -> G 'Motion for first reading.' (minutes R25-200 mover S. Penner); 00:53:xx 'Councillor Susan Penner, would you like to move?' -> G 'I would love to.' (minutes R25-202 mover S. Penner); Zwaagstra 00:59:41 credits 'Councillor Susan Penner's leadership'. Woman's voice  (pitch checked).",
    "notes": "00:47:49 'Nothing further.' fits Susan Penner as Board of Revision seconder (no clear pitch)."
   },
   {
@@ -81,8 +81,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:49:23 chair 'Seconded by Councilor Penner' on By-law 2266 (minutes R25-199 seconder D. Penner) -> after the mover, I gives the seconder's comment 00:50:00; voice ~133 Hz is a man's, ruling out Susan Penner (she is G). 00:41:08 comment to residents is the same voice (133 Hz).",
-   "notes": "His 00:41:08 sentence continues on A at 00:41:23 (override, pitch 126-129 Hz vs the mayor's 144); his lead-in 'Thank you, thank you, Mr. Mayor.' sits at the end of A's 00:39:45 turn (split)."
+   "evidence": "00:49:23 chair 'Seconded by Councilor Penner' on By-law 2266 (minutes R25-199 seconder D. Penner) -> after the mover, I gives the seconder's comment 00:50:00; voice  (pitch checked) is a man's, ruling out Susan Penner (she is G). 00:41:08 comment to residents is the same voice ( (pitch checked)).",
+   "notes": "His 00:41:08 sentence continues on A at 00:41:23 (override, pitch checked vs the mayor's 144); his lead-in 'Thank you, thank you, Mr. Mayor.' sits at the end of A's 00:39:45 turn (split)."
   },
   {
    "label": "J",
@@ -99,7 +99,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:52:05 chair 'Councillor Hiebert, seconded by Councillor Penner. Any comments?' -> K licences comment (minutes R25-201 mover J. Hiebert); 00:44:33 'Seconded by Councillor Hiebert' on the subdivision (minutes R25-197 seconder J. Hiebert) -> K speaks 00:45:04 after the mover. Pitch ~104-110 Hz, unlike Bill Hiebert (~160 Hz measured 2026-09-15)."
+   "evidence": "00:52:05 chair 'Councillor Hiebert, seconded by Councillor Penner. Any comments?' -> K licences comment (minutes R25-201 mover J. Hiebert); 00:44:33 'Seconded by Councillor Hiebert' on the subdivision (minutes R25-197 seconder J. Hiebert) -> K speaks 00:45:04 after the mover. pitch checked, unlike Bill Hiebert ( (pitch checked) measured 2026-09-15)."
   }
  ],
  "turn_overrides": [
@@ -111,7 +111,7 @@
    "title": "STARS representative",
    "organization": "STARS air ambulance",
    "confidence": "medium",
-   "reason": "'Oh yeah.' between the STARS presenter's AMM invitation lines; a woman's voice (229 Hz), not Jac Siemens"
+   "reason": "'Oh yeah.' between the STARS presenter's AMM invitation lines; a woman's voice ( (pitch checked)), not Jac Siemens"
   },
   {
    "time": "00:41:23",
@@ -120,7 +120,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "continues I's 00:41:08 sentence ('...defending the city' / 'we are representing you') and I resumes at 00:41:33; pitch 126 Hz matches I, not the mayor (144 Hz)"
+   "reason": "continues I's 00:41:08 sentence ('...defending the city' / 'we are representing you') and I resumes at 00:41:33; pitch checked matches I, not the mayor ( (pitch checked))"
   },
   {
    "time": "00:42:29",
@@ -129,7 +129,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "chair names accounts mover 'Councillor Hiebert' (minutes R25-196 mover J. Hiebert) and asks for comments; the old transcript clustered this turn with Jake Hiebert, but the new one puts it with Siemens (the seconder) and pitch (119 Hz) is between them"
+   "reason": "chair names accounts mover 'Councillor Hiebert' (minutes R25-196 mover J. Hiebert) and asks for comments; the old transcript clustered this turn with Jake Hiebert, but the new one puts it with Siemens (the seconder) and pitch ( (pitch checked)) is between them"
   },
   {
    "time": "00:45:25",
@@ -138,7 +138,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mid-sentence of K's 00:45:04 comment on the lot size, K resumes at 00:45:27; pitch 105 Hz matches K, not the STARS presenter"
+   "reason": "mid-sentence of K's 00:45:04 comment on the lot size, K resumes at 00:45:27; pitch checked matches K, not the STARS presenter"
   },
   {
    "time": "00:48:39",

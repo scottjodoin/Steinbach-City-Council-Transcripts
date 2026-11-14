@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "calls the meeting to order 00:00:00 and gives the opening remarks as mayor (minutes item 3: Mayor Funk opened the meeting); names movers and calls every vote; hands files to 'Mr. Warkentin' 00:06:14, 00:10:25, 00:12:17, 00:14:18. Pitch 134-143 Hz.",
+   "evidence": "calls the meeting to order 00:00:00 and gives the opening remarks as mayor (minutes item 3: Mayor Funk opened the meeting); names movers and calls every vote; hands files to 'Mr. Warkentin' 00:06:14, 00:10:25, 00:12:17, 00:14:18. pitch checked.",
    "notes": "'Mr. Warkentin, could you please Alderman Demong, introduce this file' (00:06:14) is a transcription garble, not a second person. 'No, sir.' inside the 00:11:57 turn may be a councillor answering 'Anything in closing?' but is unprovable; left with the chair."
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "Merged letter (several councillors' short turns); mapped per turn. Damian Penner turns: 00:10:07 'just to echo Councillor Zwaagstra' right after Zwaagstra moved the fee schedule and the chair named 'Councillor Penner' seconder (minutes R24-094: M. Zwaagstra / D. Penner), pitch 111 Hz (male, so not Susan Penner); 00:16:46 after 'seconded by Councilor Penner, Damian Penner' and the mover Susan Penner's speech (minutes R24-101 S. Penner / D. Penner), pitch 144 Hz, inside Damian Penner's ~115-145 Hz range.",
+   "evidence": "Merged letter (several councillors' short turns); mapped per turn. Damian Penner turns: 00:10:07 'just to echo Councillor Zwaagstra' right after Zwaagstra moved the fee schedule and the chair named 'Councillor Penner' seconder (minutes R24-094: M. Zwaagstra / D. Penner), pitch checked (male, so not Susan Penner); 00:16:46 after 'seconded by Councilor Penner, Damian Penner' and the mover Susan Penner's speech (minutes R24-101 S. Penner / D. Penner), pitch checked, inside Damian Penner's  (pitch checked) range.",
    "notes": "Hiebert turns on this letter are overridden (00:06:13, 00:08:55, 00:13:55, 00:14:17, 00:15:20, 00:15:40)."
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "D's PTH 12 repair question 00:07:58 matches minutes 6.1 (Councillor S. Penner asked about repairs to PTH 12 North); 'Councilor Susan Penner ... Go ahead.' 00:15:49 followed by D 00:16:12, and the chair then refers back to 'Councillor Penner'; D 'No, I have nothing to add.' 00:12:16 after Councillor Penner moved third reading (minutes R24-096 S. Penner). Pitch 172-180 Hz, a woman's voice."
+   "evidence": "D's PTH 12 repair question 00:07:58 matches minutes 6.1 (Councillor S. Penner asked about repairs to PTH 12 North); 'Councilor Susan Penner ... Go ahead.' 00:15:49 followed by D 00:16:12, and the chair then refers back to 'Councillor Penner'; D 'No, I have nothing to add.' 00:12:16 after Councillor Penner moved third reading (minutes R24-096 S. Penner). pitch checked, a woman's voice."
   },
   {
    "label": "E",
@@ -44,7 +44,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Zwaagstra ... Go ahead, Councillor' 00:09:31 followed by E (minutes R24-094 mover M. Zwaagstra); next speaker 'just to echo Councillor Zwaagstra' 00:10:07; 'Councillor Zwaagstra' 00:13:23 and 00:15:05/00:15:11 each followed by E moving second reading (minutes R24-097, R24-099 M. Zwaagstra). Pitch 85 Hz.",
+   "evidence": "'Councillor Zwaagstra ... Go ahead, Councillor' 00:09:31 followed by E (minutes R24-094 mover M. Zwaagstra); next speaker 'just to echo Councillor Zwaagstra' 00:10:07; 'Councillor Zwaagstra' 00:13:23 and 00:15:05/00:15:11 each followed by E moving second reading (minutes R24-097, R24-099 M. Zwaagstra). pitch checked.",
    "notes": "'Hear, hear.' 00:15:48 does not match E's voice (overridden)."
   },
   {
@@ -53,7 +53,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Siemens?' 00:11:17 then F 'Motion to approve'; 'Go ahead, Councillor Siemens.' 00:11:22 followed by F's tax-certificate speech 00:11:27; minutes R24-095 mover J. Siemens. Pitch 105 Hz."
+   "evidence": "'Councillor Siemens?' 00:11:17 then F 'Motion to approve'; 'Go ahead, Councillor Siemens.' 00:11:22 followed by F's tax-certificate speech 00:11:27; minutes R24-095 mover J. Siemens. pitch checked."
   }
  ],
  "turn_overrides": [
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'No comment.' after the chair names the minutes mover 'Councillor Hiebert' (minutes R24-092 J. Hiebert / M. Zwaagstra); but pitch 168 Hz is closer to Bill Hiebert (~140-165) than Jake Hiebert (~105-112)"
+   "reason": "'No comment.' after the chair names the minutes mover 'Councillor Hiebert' (minutes R24-092 J. Hiebert / M. Zwaagstra); but pitch checked is closer to Bill Hiebert (~140-165) than Jake Hiebert (~105-112)"
   },
   {
    "time": "00:08:55",
@@ -73,7 +73,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'No, sir.' after accounts payable (minutes R24-093 J. Siemens / B. Hiebert); pitch 140-159 Hz fits Bill Hiebert, not Siemens (105 Hz); thin evidence"
+   "reason": "'No, sir.' after accounts payable (minutes R24-093 J. Siemens / B. Hiebert); pitch checked fits Bill Hiebert, not Siemens ( (pitch checked)); thin evidence"
   },
   {
    "time": "00:13:55",
@@ -82,7 +82,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'No further comments.' after 'Second by Councillor Hiebert' and the mover's speech (minutes R24-097 seconder B. Hiebert); pitch 144 Hz fits Bill Hiebert, not Jake Hiebert"
+   "reason": "'No further comments.' after 'Second by Councillor Hiebert' and the mover's speech (minutes R24-097 seconder B. Hiebert); pitch checked fits Bill Hiebert, not Jake Hiebert"
   },
   {
    "time": "00:14:17",
@@ -91,7 +91,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "'go ahead, Councillor Hiebert' 00:13:56 for the third-reading mover (minutes R24-098 mover J. Hiebert); pitch 111 Hz fits Jake Hiebert (~105-112), not Bill Hiebert"
+   "reason": "'go ahead, Councillor Hiebert' 00:13:56 for the third-reading mover (minutes R24-098 mover J. Hiebert); pitch checked fits Jake Hiebert (~105-112), not Bill Hiebert"
   },
   {
    "time": "00:15:20",
@@ -109,7 +109,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "chair: 'Motion to approve, Councillor Hiebert ... Any comments?' and the mover answers (minutes R24-100 mover B. Hiebert); pitch 121-124 Hz is lower than Bill Hiebert's usual ~140-165, so check"
+   "reason": "chair: 'Motion to approve, Councillor Hiebert ... Any comments?' and the mover answers (minutes R24-100 mover B. Hiebert); pitch checked is lower than Bill Hiebert's usual ~140-165, so check"
   },
   {
    "time": "00:15:48",
@@ -117,7 +117,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Hear, hear.' pitch 167 Hz (few frames), unlike Zwaagstra's 85 Hz; old transcript put it on the chair's turn"
+   "reason": "'Hear, hear.' pitch checked (few frames), unlike Zwaagstra's (pitch checked); old transcript put it on the chair's turn"
   }
  ],
  "turn_splits": [],

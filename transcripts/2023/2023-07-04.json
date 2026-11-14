@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "For your memoirs. I'll hold on to them. I look forward to reading them.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "No, I like to call this meeting to order. Welcome here, everyone. And at this time, I would like to give opening to Councillor Damian Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=8s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. This previous week ushered in a season of change for many young adults, with grad ceremonies happening all across the province. Some individuals will be going on to post-secondary school, others may be looking at taking a gap year or two, and some individuals will be choosing to begin a career path working straight out of high school. I'd like to take this moment and speak to the recent graduates. First off, and most importantly, congratulations. Regardless of if you found schooling difficult or if it was just a cakewalk and you went through the routine and received your diploma, you just showed 13 years of dedication to a single routine. In a world where most, where most recent statistics show that an adult worker only stays at a job for an average of 4.9 years, you just invested 13 consecutive years into educating yourself, gaining skills, and getting social foundations that will last you a lifetime. What you got out of your education isn't nearly as important as who you became as a person as you went through your schooling. Once again, congratulations. Secondly, I know firsthand, having employed dozens of graduating individuals and recent graduates over the last decade plus, that you may not know all the answers or have a grand timeline of where you want to be, what you want to do, or how you are going to get there. I have this to say: we were all there before at some stage in our life, and truly, most of us adults still are. You know all those grown-ups that you looked up to and thought knew everything and had all the answers? Well, the truth is they were just trying to figure out their next steps and what they needed to do to get there. The only difference between where you were as you looked up to them and where they were as their mentors is time and experience. Those same adults that looked like they knew what they were doing and were once graduates just like you. Don't worry about it and definitely don't stress out over it. Words of wisdom from Tom Hanks. The future is always uncertain, but we who celebrate what you have done, who celebrate all of your achievements, we are certain for one thing on this day: you will not let us down. Graduates, I have this to say to you. You are the next generation of our community and the future. You will do— you will be the next thinkers, doers, movers, investors, and builders of this fine city. When you look up here at the council table, there are different generations sitting here, but I think we all collectively appreciate that there are different viewpoints and experiences that are valuable to the function of this council. The same will be true for yourself as you enter into a new routine in a new establishment. Do not sell yourself short due to your age or your experience, as you are unique and probably see the world in a different way than someone of my age or of the generations above me. Find something you can be passionate about. This may not necessarily mean landing your dream job with your dream pay before the summer is over, or receiving 2 doc— or receiving your doctorates in performing arts in 2 years. But find something that you can latch onto that excites you about this next stage. It may be finding passion and bringing a smile to people's faces as you interact with them, or challenging yourself to achieve certain targets or projections. It may be a passion to achieve certain grades or complete projects before deadlines. But regardless of what you wake up and find yourself doing, you have to find that reason to be passionate about it. Because if you are, you will find meaning to your life when you achieve your goals. Thank you. Do not get caught in the trap of punching a clock 9 to 5 or just going through the paces to get a degree. Wake up every— each and every morning and find your passion, and in that you will find your life meaningful. There is plenty of opportunity to fail at doing things you do not want to do, so why not try to find success in what you love? So how do you succeed? You have to want to succeed. Pastor and motivational speaker Eric Thomas has a great motivational speech that I often go back and listen to as a reminder and lift me up. I'll leave it to you to find the whole speech, but here is an excerpt that I will end this opening with. When you want to succeed as bad as you want to breathe, then you will be successful. If you ever had an asthma attack before, you're short of breath, you're wheezing. The only thing you're trying to do is get some air. You don't care about no basketball game. You don't care about what's on TV. You don't care about nobody calling you. You don't care about a party. The only thing you care about when you are trying to breathe is to get some fresh air. That's it. Thank you. And when you get to the point where all you want to do is be as successful as bad as you want to breathe, then you will be successful. And I'm here to tell you that, number one, most people say they want to be successful, but they don't want it bad. They just kind of want it. They don't want it worse than they want to party. They don't want it as much as they want to be cool. Most of you don't want success as much as you want to sleep. Some of you want sleep more than you want success. And I'm here to tell you today— Thank you. If you're going to be successful, you gotta be willing to give up sleep. You gotta be willing to work with 3 hours of sleep, 2 hours of sleep if you really wanna be successful. Someday you're gonna have to stay up 3 days in a row because if you go to sleep, you might miss the opportunity to be successful. That's how bad you gotta want it. Thank you, Mr. Mayor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=19s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Let's do this meeting. Yeah. Give",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=319s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Her. Well, now that we're all encouraged, let's go. Thank you, Councillor Penner. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Hiebert, seconded by Councillor Stevens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=324s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=336s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We also have the minutes of June 20th, 2023, the regular council meeting. They start on page 1. We've all had a chance to review, looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=337s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=354s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. Is there any business arising from the minutes? Okay, seeing none, uh, um, we have, uh, a councillor missing today, Susan Penner, uh, looking for a motion to excuse Councillor Penner, seconded by Councillor Zwaagstra. Call for the question. All those in favor? Opposed? That is carried. There are no public hearings, no delegations, and no reports and recommendations of the city manager, so we'll go right into administration. We have 9A, the accounts payable at the back of the book. We've all— again, you've had a chance to review these. Looking for a motion to approve. Councillor Hiebert. Second by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=354s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "No further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=354s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All those in favor? Opposed? That is carried. We've got 9B, the financial statements. These are financial statements ending May 31st, 2023. They're also on the back of the book. Looking for a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=354s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "A",
    "label": "Jac Siemens (Councillor) [medium]",
    "text": "I can do that.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=418s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Siemens, second by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=419s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Jac Siemens) [low]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=425s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. 9C, we've got excavator licenses on page 4. We've got one excavator to approve, M&J Backhoe Services. Looking for a motion to approve. Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=426s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=445s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Siemens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=446s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I can't say I want this to go ahead as much as I want to breathe, but I do want this to go ahead, so we should move ahead with the Excavator license.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=449s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Or sleep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=457s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Or sleep, yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=458s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=459s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=463s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Actually very hard to follow that. Okay. Call for the question. All those in favor? Opposed? That is carried. We have 9D. This is the rezoning bylaw 2230 referring to 84 McKenzie Avenue. Council, this is first reading. It starts on page 5. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=464s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor and members of council. As you mentioned, this is rezoning bylaw 2230 for 84 McKenzie Avenue. Owner of the properties is Newstater Holdings Inc., with the applicant for the rezoning being Waldo Newstater. Purpose of the application is to rezone the subject parcels from DR1, Development Reserve 1, to a mix of RSF, residential single family, RLD, residential low density, and RMD, residential medium density, to allow for the creation of a residential development on the site. Recommendation is for council to give this bylaw first reading. This would allow the bylaw to proceed to a public hearing for later on this summer.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=488s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=533s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=539s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Siemens. Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=541s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a 20-acre piece of land. 12 acres are cultivated and I believe 5 acres are under trees and bush. The applicant, the developer, is interested in dividing this into 70 residential lots consisting of single-family residential low density and residential high density. Obviously, this again, another subdivision that is market-driven. Obviously, the developer is of the opinion that this type of housing is in demand. So giving the first reading to this will allow this application to go for public hearing. So I'm in favor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=544s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Nothing further. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=584s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=590s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9E. This is rezoning bylaw 2231. This is referring to 360, 364, and 268 Third Street. Council, again, this is also for first reading. It starts on page 17 in your package. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=590s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This bylaw 2231 is also a rezoning bylaw for 360 Third Street in Steinbach. It does propose to rezone the subject parcels from RLD, residential low density, to RMD, residential medium density, also to allow for the consolidation of the lots and the construction of a multifamily unit on the site. Which is intended to have multiple units. The— there is a bit of a unique scenario with this particular application in that a portion of the existing lots are already zoned RMD, with only the front 2/3 portion of the proposal of the lots that are identified requiring the rezoning. This land is currently designated residential. under the city's official community plan. Recommendation from administration is to give Bylaw 2231 first reading, and if council does approve first reading, a public hearing would be scheduled for later this summer.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=620s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=681s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make the motion for first reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=688s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=689s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a proposal for first reading to rezone Several properties along Third Street, from low density to medium density. Should be noted that there have been applications in the past for this property that were denied due to concerns from the neighborhood. That's why it's important we we have a public hearing so that we give the developer an opportunity to present their plans and also give neighbors an opportunity to comment. And so obviously, I look forward to the public hearing because that's when we'll get the information we need. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=692s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "You. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=728s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Councillor Zwaagstra covered it all.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=729s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=731s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=735s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Council, call for the question. All those in favour? Opposed? That is carried. Okay, council, we have 9F. This is the RCMP resolution. This is referring to the 2022 24-2025 multi-year financial plan. Starts on page 31. That is the letter which is requiring the motion. But Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=735s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. This multi-year financial plan that has been provided to the city by the RCMP is an annual document that has more recently been submitted for the city's consideration and council's adoption. In that plan, it spells out on a broad basis what the policing plan is and some of the components that are included with it in relation to the RCMP service that is provided to the city of Steinbach. It does also include dialogue and information information related to some systems and overall program components that the RCMP use for policing in Steinbach. Recommendation is for council to approve the adoption of this— or the acceptance of this multi-year financial plan, and then this ratified document can then be forwarded to the RCMP for filing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=766s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=830s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=834s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=836s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As the city manager explained, this is a document that outlines the municipal police services agreement, the multi-year financial plan. Obviously, there's a lot of detail in it. These are— this is a It's a plan that is set at the national level. It provides information about some of the resources the police have. It talks about technology. It lets us know about scheduled salary increases and all that. Obviously, most of this are things that the city does not have any direct control over, but it does provide us with valuable information about the kind of services that we are receiving that we do have accessible to us. And I will say that we are pleased with the the support that we receive from the RCMP, both with— from our previous Staff Sergeant Harold Laninga and our current Staff Sergeant Guy Landreville. It's been going well, and so I certainly think that we should approve this and continue on with receiving services from the RCMP.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=840s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=898s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Yes, it's very important that the individuals that are going to be protecting our community have the best resources available to them, and at the national level, they RCMP are rolling out future investments in terms of their safety as well as technologies. And so this is an outline of what we can expect to be coming to our detachment.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=900s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further of council? Anything in closing? Call for the question. All those in favor? Opposed? That is carried. Thank you. Council, we have 9G. This is bylaw 2216. The OCP amendment is referring to number 6 First Street, 78 PTH 52 West. Council, this is third reading. It starts on page 57. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=918s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Bylaw 2216 is pertaining to a bylaw to amend the city's official community plan for Yes. For a particular property located at 6 First Street and a portion also being contained within 78 PTH 52 West in Steinbach. First and second readings along with a public hearing were completed some time ago. Because it is an official community plan amendment bylaw, this also required ministerial approval, which was provided earlier this year. With that ministerial approval, city council may now proceed to give Bylaw 2216 third reading, and it is so recommended by administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=952s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warding. Council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=995s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1007s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1008s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. This is, uh, to— for the rezoning of the lots on the corner, or in a bit of a pie shape there, of First Street and back onto the side of Swift. This is going to be an opportunity for them to, to see a development of some RMD. And, uh, also, so this is the putting in line into our OCP, uh, the ability for them to be able to do Anything",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1012s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Further?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1039s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. As this has been before council previously, and at that time I objected to the type of building that is going on that property, but what we have here today is not anything to do with the type of building, it's with the rezoning. And so therefore, I'm in favour. I have no objection to the rezoning.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1040s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1063s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor) [medium]",
    "text": "I'll vote against, uh, like I did the last previous 2 meetings, and, uh, on the basis of, uh, this is a change to a, uh, to a central business district. That means they don't have to come to council to get permission to build a building within 2 feet of property line, and I think that is too close to the highway. And I think when we make this change then, and they don't have to come and get approval from Council, I would still think that that building needs a setback in that area. I don't— so on the matter of principle, I voted against the last 2 times. I will vote against on the basis again.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1064s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, Council? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1102s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1108s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Call for the question. All those in favour? Opposed? That is carried. 9H, we've got bylaw 2215 rezoning. This is referring to 6 First Street, and this is also third reading. It's on page 64. That's where it starts. And Mr. Worthington, would you please introduce this bylaw? Thank you, Mr. Mayor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1109s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Bylaw 2215 is a rezoning bylaw also pertaining to the same properties as Bylaw 2216 that council just dealt with. Purpose of this bylaw was to rezone the subject property from RLD, residential low density, to RMD, residential medium density, and that would permit the development of a multifamily building on the site. Thank you. With the approval of the official community plan amendment, this proposed rezoning may proceed. The applicant proposes to build a complex of anywhere between 22 to 24 units on the site once final design is determined. Recommendation from administration is to give this bylaw third reading subject to the execution of a development agreement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1143s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1191s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Move to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1200s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Zwaagstra. Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1202s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Because there is obviously a need for this type of development, I see no reason why, because the other areas that needed to be covered have been covered. We might as well move this from RLD to RMD and then let it move ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1206s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1221s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Nope.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1222s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1223s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1225s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, anything in closing? Call for the question. All those in favor? Opposed? That is carried. We have 9I. This is, uh, subdivision 4451-2022. This is also referring to number 6 First Street, 78 PTH 52 West. This, we're just looking for a resolution for this. It starts on page 73 of our packet. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1228s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This particular application for subdivision file 4451-2022-8794 Thank you. Application 2018-8794 also pertains to the same properties at 6 First Street and a portion of 78 PTH 52 West related to the official community plan and rezoning bylaws just reviewed by council. The application seeks to consolidate an existing lot and a parcel of land to be transferred from the adjoining parcel to enlarge the proposed residential lot. This larger parcel would then become sufficient in size to support the development of a multifamily development on the site. Registered owner of the property is Schinkel Properties with the applicant being Alan Klippenstein. Recommendation from administration is severalfold. Firstly, that approval be provided subject to the following conditions: that minor variance be required Thank you. That the owner enter into a development agreement. Thirdly, that the existing public lane to the rear of the property be closed by bylaw and the residual portion being closed that is not required to subsequently be reopened as a plan of works be consolidated with the abutting property at 78 PTH 52 West. And lastly, that a new plan of works be created by bylaw to be registered in with the subdivision with the plan containing the existing drain as may be required by the city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1265s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1359s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1367s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead, Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1368s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I don't think anything more needs to really be said on this. This is the subdivision aspect of the same property dealing with the These are just the further things that have to be taken care of for this to move ahead. Thank",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1373s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "You. Any further? Anything further of council? I think closing. Call for the question. All those in favour? Opposed? That is carried. Are there any questions of council? Okay, seeing none, we'll move on to number 11, correspondence petitions. 11A, we've got the STARS 2022 Operations Impact Report starting on page 111. Council, how would you like to proceed? Take as information? Okay. And we have the Seine River-Roseau Watershed District minutes for May 15th, May 24th, and May 30th, 2023. That starts on page 122. How would you like to proceed, council? Take as information? Take as information.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1382s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Yes, please.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1434s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "There's no other business. Looking for a motion to adjourn. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting, Tuesday, July 18th, 2023.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=GyfQ-uJwxCM&t=1435s"
   }
  ]

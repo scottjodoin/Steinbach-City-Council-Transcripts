@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. Thanks for coming out tonight. And at this time, I'd like to give the opening to Councillor Susan Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. It seems that in today's political climate, we are discouraged from thinking critically and rather conditioned to see our side as the right side and the other side as the enemy. But the truth is, no political party or politician has a monopoly on truth, wisdom, or morality. Every party or politician, no matter how well-intentioned, has weaknesses If we can't admit when our party or leaders get it wrong, or when ones we don't support get it right, then we aren't truly thinking critically. We're just cheering for a team. That doesn't mean we have to abandon our political beliefs. It means we shouldn't support a party platform or politic— it doesn't mean we shouldn't support a party platform or politician. In fact, we should. But it does mean we should be willing to ask hard questions challenge assumptions, and hold our leaders accountable, even when they're the ones we voted for. Thinking critically about politics means going beyond headlines, partisan talking points, and emotional reactions to engage with issues thoughtfully and objectively. Our allegiance should not come at the cost of supporting or defending every decision that is made. This removes accountability and ends up hurting all of us in the long run. No politician or party is perfect. It's important we hold all leaders accountable, not just the ones on the other side. By thinking critically about politics, we strengthen democracy and ensure that our choices are guided by reason, not just rhetoric. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=10s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Penner, seconded by Councillor Zwaagstra. Call for the question. All those in favor? Opposed? That is carried. Councillor, are there any— we have the minutes of February 18th, 2025, the regular council meeting. Looking for a motion to approve. Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=96s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Actually, point of question here, Mr. Mayor. I believe Councillor Penner was not excused from last week— last meeting.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=120s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "That is my next sticky note.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=127s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Then motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=130s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, motion to approve, seconded by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Is there any business arising from the minutes? Okay, seeing none at this time, I would like to have a motion to excuse Councillor Susan Penner from the February 18th meeting. It was forgotten. And also Councillor Bill Hiebert and Jac Siemens from this March 4th meeting. Motion to approve by Councillor Penner, second by Councillor Zwaagstra. Call for the question. All those in favor? Opposed? That is carried. Yes, Councillor Penner, we did forget to excuse you last week.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=132s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Thanks for drawing attention to it.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=172s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "The challenge is we probably would have forgotten today too, but for Amanda, thank you, Amanda, for saving us from ourselves. Okay, it's 6— oh, it's, yeah, 7:35, so we'll go directly into the public hearings. We have 6A. This is the 2025 financial plan. At this time, we'll close the council meeting, open the public hearing. And Mr. Warkentin, should we call on Mr. Hrarcek?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=175s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "Yes, please.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=175s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=175s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Thank you, Mr. Mayor, members of council. I am pleased to be presenting the city's 2025 financial plan to highlight some of the main items that are planned for the upcoming year. The annual budget cycle is almost a continuous process. For the 2025 budget year, it started early in 2024. Throughout the process, input is provided by staff, management, and council. The financial plan being presented today is based on the recommendations of council provided at their final review in November. Some of the highlights for 2025 include a municipal mill rate of 14.4 mills, which remains the same as 2024. 2025 was, however, a reassessment year, so overall municipal taxes will increase by the same percentage as the assessment increase for each property. Utility rates will increase by an average of 3%. Thank you. While residential garbage collection rates will increase by 4.5%. Fees for permits are up 5%, and land use application fees will increase by 2.5%. The overall capital program for 2025 is budgeted at $36.6 million. Some of the larger budgeted projects include the completion of the event center The Loewen PTH 12 intersection renewal, Park Road West force main twinning, as well as the Millwork Drive sewer replacement. Overall projected revenues for 2025 are just over $42 million. Similar to other years, property taxes are the city's largest source of revenue, accounting for just over half of the overall revenue amount. For 2025, there was a property value growth of 14.9%. Commercial properties make up about 24% of the total property values in the city, and with the provincial portioning system, a lower portion of residential property values are subject to property tax than commercial property values. Thank you. As I mentioned earlier, the property tax rate of 14.4 mills is unchanged from 2024. 54% of budgeted municipal revenues are from property taxes. $22.7 million is to be raised by property taxes in 2025, and $21.6 million of this is via mill rate. The city is also required to collect the education and school taxes on behalf of the province and Hanover School Division. As in previous years, this is projected to make up roughly half of the total tax revenue collected. The average market value for a dwelling in Steinbach is roughly $250,000. Based on this and the budgeted municipal mill rate, the average city property tax bill works out to roughly $135 a month. In addition to regular property taxes, supplementary property taxes are levied on new construction or where there was an addition or improvement to increase the value of the property. This is expected to provide an additional $675,000 in 2025. Federal and provincial operating grants have also been a consistent source of revenue for the city. The provincial per capita tax sharing grant is expected to provide $4.6 million in 2025, while the federal gas tax grant will provide just over $1 million. One of the main non-tax revenues for the city is from user fees. These are fees paid by those who benefit from the service provided. Some services compete with the open market, but a number of the rates are subsidized for programs to be accessible. Development in Steinbach stayed strong in 2024 with just under $105 million in total permit values. This activity is expected to continue into 2025 and beyond. Now we will look at some of the programs that are funded by these revenues. Overall, the expenses are equal to the projected revenues at just over $42 million. Some 2025 programs include waste reduction and recycling at just over $1.1 million, support for the Jake Epp Public Library at $455,000, the beautification program at $286,000, and various other programs as listed. Every year, the city provides grants for various organizations throughout the city. In 2025, these grants total just over $1 million, with the recipients as listed. One of the largest city expenses is that of our employees. The total labor cost, including benefits, for 2025 is budgeted at $12 million, or roughly a third of the city's operating budget. Of this total, the aquatic centre makes up about 19% of the total labour hours, the largest of any city department. Protective services includes RCMP, 47 firefighters and 8 fire trucks, As well as a community services officer to enforce city bylaws. The total cost of these services is budgeted at $5.6 million for the upcoming year. The city currently has almost 145 kilometres of road surface. The maintenance for this infrastructure can depend significantly on the weather in any given year, And for 2025 is expected to cost $3.2 million. Solid waste services. We provide both curbside and on-demand pickup services to both residential and commercial properties. The cost of providing these services is expected to reach $3.3 million for the upcoming year, which is funded by user fees. Thank you. Our primary recreation facilities include the aquatic centre, arena, A.D. Penner Park, curling rink, and soccer park, as well as various green space and parks around the city. The expected cost of operating and maintaining these facilities is budgeted at $5.8 million for 2025. Thank you. Both the number of customers serviced by the water and wastewater utility and the length of the underground infrastructure network continue to grow. The expected cost to maintain this infrastructure and provide the utility services is expected to be $4.7 million in 2025. Thank you. In addition to the typical operating expenses that the city regularly incurs, larger projects also require significant funding. Some of this comes from reserve funds that have been saved in previous years, while other projects will require debt funding. Some of the main projects for the upcoming year include equipment replacement, the Park Road West force main twinning, The completion of the events centre and the PTH 12 Loewen intersection. Total capital program for the year is expected to be just over $36.5 million. The city will periodically issue debt in order to add or renew various infrastructure or facilities throughout the city. Each loan will fund a specific project. In 2025, 4 projects have a debt component: the event centre construction, the Loewen Boulevard PTH 12 intersection, fire department ladder truck, and the force main twinning. This is expected to create $13.25 million of new debt while $2.6 million of previously issued debt will be paid off. The city continues to use a 5-year amortization term for all of its debt. allowing us to borrow at lower interest rates than if a longer term was used. Our average interest rate for 2025 is just over 4%, while the debt balance at the end of the year is expected to be $21.5 million. Payments that are required for previously issued debt will total $3.1 million in 2025. Of this amount, $443,000 is interest. Funding for these debt payments is raised through property taxation, and for 2025, $1.945 mils will be required to raise the necessary funds. This equates to 13.5% of the total city tax rate. And finally, a longer-term overview of some of the expected requirements in future years. The 2025 program is currently budgeted at $36.6 million, which includes infrastructure renewal, the completion of the event center, and the force main twinning. Beyond that, programs of $18.2 million, $58.2 million, and $56.5 million are currently estimated for the following 3 years. That concludes the presentation of the 2025 financial plan. Thank you, members of council. If there are any questions, I can answer them now.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=213s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Brian, for your presentation. Just curious of the— what would be the big-ticket items that are calling for the increase? Because with the assessment increase, most years we will lower the mill rate so that We've often come to a net zero, but in this case, you're recommending we keep it at the mill rate. What are the stressors? What are the big projects that are causing this to happen?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=880s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "So the overall tax increase, again, due to the reassessment, is 14.8%. So that translates to about $2.9 million. The largest items that contribute to that The single largest is the debt payment. It's going up by about $1.35 million. So almost half of that increase is going to fund the additional debt payment. A few of the other larger increases, policing is going up about $400,000. The parks and rec budget overall, including aquatic center, arenas, parks, is going up about $800,000. And then the public works budget is going up by about $300,000, which again is the majority of the increase.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=917s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Thank you. Council, any questions for Brian? Go ahead, Councillor Simpson.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=969s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "I just want to be clear. So 14.8% increase in assessment. And by leaving the mill rate the same, that means there's going to be a property tax increase of 14.8%.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=979s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Not necessarily equally across the board. Property tax revenue will go up by 14.8%.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=994s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "So this is going to be a very significant tax increase.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1000s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Yes. And again, similar to other reassessment years, it's tough to nail down exactly how much of the increased assessment is due to reassessment versus actual growth in the city. Again, based on the historical increases that we've seen for real growth over the past number of years, we're expecting that to be about 3.5%. So yes, the average reassessment increase could potentially be around 11%.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1004s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Okay, that $400,000 for the RCMP you mentioned, why would there be such a significant increase in that line?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1034s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "That's just based on the budget that they provide to us based on the number of officers that they are expecting to have for the year.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1043s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "So who's they?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1052s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "The RCMP.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1053s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "The federal government gives up the budget, so we don't have any say in that in terms of—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1055s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Other than requesting the number of officers that That we want patrolling.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1063s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Is that, is that money going to officers, additional officers, or is that just for like expenses and upgrades?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1069s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "I haven't looked at the policing budget that—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1076s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Okay, so that we don't really have a lot of control over?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1079s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Yes, correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1082s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Okay, $850,000 for Parks and Rec. Now that is including the money that is going to operate the new event center?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1083s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "That's correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1093s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Correctly. Um, I personally— I mean, we talked about this at study session— I personally would like to see that amount in our grants line versus just getting lost, so to speak, in the budget, so we have a clear idea how much that is costing. That doesn't change anything in terms of what we're talking about here today, but I just think it makes more sense that way. So that's just a point maybe for, um, study session. And then if you could just, uh, explain Public Works, What is that $300,000 going to?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1094s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "A big chunk is actually repair and maintenance for the equipment. We've been over budget the last few years, so we bumped up the budget accordingly. And then there is also, because of some of the larger increases to the capital project costs, some project or road projects have been delayed. So there is some more asphalt repair required.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1123s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Okay. Just also, I mentioned the grants. I'd like to see the operating for the event centre in the grants line. I'm also looking at the grants here, and I think we also, in— we could do our study session in July, need to review the Chamber of Commerce grant. Their grant is 0.5, is that correct? 0.5 of business tax for the Chamber of Commerce?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1148s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Yes, it is.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1170s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "When we approve that so that they go up automatically Every year with assessment. I know when I, you know, supported that, the intent was never— the mill rate wasn't nearly as valuable, and my intent was never that they just get an indefinite increase. Just for comparison, the only other chamber I know that gets municipal funding is Winkler, I believe, and they get $65,000. So I feel this $225,000 is way out of line, and I think we need to review that. Again, that's not— it doesn't affect residential property taxes, but it does impact our businesses. So that's something we can review. Um, other than that, um, I think that's all my questions or comments.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1171s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Go ahead, Cole.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1214s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. So just, uh, specifically on the, uh, on the debt management, um, obviously a big driver of this increase is the amount of extra debt that's been taken on. And we have our 5-year debt policy, which of course We pay things off in 5 years, but it also means that the payments are a lot larger. So my question is that it says here that the average interest rate we've been paying for the new— that we're paying for the new debt is 4.03%. If that were to be 10, 15, or 20-year debt, what would likely— what type of change would we expect to see on that average interest rate? Like, I'm assuming the interest rate would be higher the longer the debt amortization goes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1215s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "It is always higher. As to the exact amount, It varies. Again, I don't have the figures with me, but yes, it is generally lower for 5-year interest rates than a longer 10 or 15-year term would be.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1256s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "So then just to follow up, that while on a short-term basis, you know, if we were to stretch those debt payments out on a short term, we could potentially mitigate some of that increase now. Over the long term, if you're taking on the same— if you're doing the same projects, you will ultimately be paying more in taxes If you're paying it off over a longer period of time?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1270s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "D",
    "label": "Brian Hrehirchuk (Senior Manager, Finance)",
    "text": "Correct. You obviously would be not done with any debt payment after 5 years, and it would just be stretched out longer. And yes, you would in the long run be— end up paying more. Yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1290s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1303s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1304s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1305s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any further council? Okay. Thank you, Brian. Okay. Mr. Warkentin, question to you. This— you want us to approve this by motion?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1306s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, unless there are questions from the gallery. But the financial plan, once council is prepared to make a decision, is a simple resolution to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1318s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Are there any questions, comments, or objections to this file? Yes. State your name and address.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1332s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "F",
    "label": "Resident 1",
    "text": "Hello, I'm [Resident 1], 534 Wilson Street. Okay, I have a question relating to the 2025 budget. Focusing on the upkeep of city infrastructure, the 2025 budget package provides a 7-year look forward showing the major capital items that the city is planning to invest in, and I think you saw that in the slide that Brian showed. For a non-expert, it's difficult to analyze how those numbers relate to the actual needs of the city and whether they fall below, hit the mark, Or rise above the rate at which our infrastructure is wearing out. What I can see is our past audited statements, and for the period from 2010 to 2022, the city balance sheet shows the book value of our city's infrastructure has been declining compared to what it originally cost to build. To me, that would indicate that we've not been keeping up. Now, the new event centre, a major capital project, makes it kind of hard to determine what's happening in '23 and '24. But did this trend continue or did it not? So my question is, what are the means and measures that the city uses to ensure that we're not falling behind and that our infrastructure remains strong and functional for the long term? Thank you. Without burdening future generations with avoidable costs?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1349s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, that's a very good question. We do, we do have an inventory of our infrastructure and, and at what level it's at, but I think I will turn that over to administration to answer that question more effectively.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1447s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. I'll try and address it. There's a lot going on in that question. I don't have obviously the detail in front of me. But I would say generally, City Council and the city administration, just for the fact of keeping a long-term capital Yes. I just wanted to clarify the 10-year plan document that you referenced. While the provincial requirement is that it include a 5-year look ahead, the City of Steinbach has tried to maintain anywhere between a 7 and a 10-year look ahead as far as an official document. It's appeared in various formats over the past decades. And the city employs an engineering department of 4 staff, along with the expertise within the city's engineering department, is the ability to analyze models, for example, to, to determine is the city's infrastructure capacity able to maintain existing services to existing built-up areas and also be able to grow and expand to accommodate new service areas that do come up from time to time. And through various mathematical models, that's the best way that the city can use that data that we have, as well as industry averages, to determine, you know, planning for the future, as well as how does the city address the existing infrastructure that's already installed. Thank you. And be able to maintain it. Fortunately, the city of Steinbach, from an organization and from public infrastructure, is a fairly young community. I believe the first sewer and water lines were installed in the late 1950s. Relative to urban centers, many of them across Canada, they have infrastructure systems that are well over 100 years old. Thank you. And certainly the challenges in maintaining those kinds of infrastructure systems are significantly more complex and challenging with that kind of aging. And with that more recent type of infrastructure, the city has been able to take advantage of newer and more resilient materials such as PVC, which tend to have a fairly predictable and longer service life than some of the older materials that used to be used. Other than that, the city has also begun using different models to evaluate its pavement infrastructure, where we have consultants come in to do a review and actually analyze the relative repair index of all the city streets. Go ahead. If I recall correctly, out of a total available points rating of 100, the most recent review of the city's concrete and asphalt streets indicated a rating of 72, which is considered very good, and relative to other communities or other urban centres is above average. I will acknowledge that as the city grows and as its infrastructure ages, there is always a greater and greater challenge to be able to allocate the appropriate financial and professional resources to maintain its infrastructure. Even though the book value of the assets, as you mentioned, appear to be declining on a net basis, again, relative to other comparable cities that the city is aware of, the city's Representative information, and as far as the overall life remaining of the assets that it has installed, again, is above average as compared to other urban jurisdictions. So in a nutshell, I tried to keep it short, but hopefully that's answered your question. Very good, thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1474s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, in a nutshell, I do believe, like, council has always had a high priority on infrastructure renewal and And replacement. And so I think that if you compare it to many cities our size, we're doing fairly well. Like, even if, even if the numbers are showing that the balance sheet is, is declining, one of the— one, one thing I do want to say, we've got as a city, as a council, we have strategic priorities. And for those for 2022 to 2026, for this term, In no apparent order is city relations, enhanced safety, infrastructure renewal and expansion. So that's always there. It's one of our priorities. And also recreation and cultural facility renewal. So, so we are definitely working down that road. Like, we have something going in all of those priorities where we're working on that, as you, as you can see in our city. Okay. And like with enhancing our infrastructure, Highway 12 and Loewen Boulevard, that's one of the— that's a big one. It's a very— it's a $14 million intersection that we're replacing and we're enhancing so it works better and it handles the traffic better. Also the event center, of course, that's part of the recreational renewal. So we are actively We are actually actively pursuing the strategic priorities that we, we set in 2022. So, and then infrastructure renewal is one of those, but thanks for bringing that up. Thank you. Is there anyone else with questions, comments, or objections to this file? I'll ask one more time. Is there anyone else with comments, questions, or objections to this file? Okay, seeing none, I'll close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1733s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make the motion that we approve this budget in principle.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1855s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, second by Councillor Susan Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1858s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. Um, every year, of course, uh, the budget is a balancing act and there are difficult decisions that need to be made. This year is— has been a uniquely challenging budget, and we knew that it was going to be challenging going in. There are a number of items that are obviously significantly impacting our overall expenses. And so we are obviously taking on a lot of infrastructure renewal, as has been listed there. We are having to borrow a significant amount of money. For things such as the Loewen Boulevard, Highway 12 intersection. $3.5 million of that is being borrowed by us. This is a project that we have to do. We're doing it in partnership with the province. If we were not contributing our share, that intersection upgrade would not be happening, and obviously we need to make sure that intersection upgrade happens. We're borrowing $2 million for the fire department ladder truck. Again, we need to make sure that the That our fire department has up-to-date equipment. And I remember when we got the previous ladder truck, that was a long time ago, and these upgrades have to happen. The Forest Main 20 borrowing's at $2.75 million. Of course, we need to make sure that, that we have the necessary water capacity for a growing city. And $5 million of this year's debt is also for the event center. The event center, of course, is the largest project that we've ever done in our history. Total cost when you put it all together is about $74 million, and the city is contributing just over $30 million of that in total. Obviously significant contributions from the private sector and other levels of government, but the city is contributing the largest portion of that $74 million. And so what this does tell us is that the old maxim that growth pays for itself is not true, because obviously if the city was not growing, we wouldn't be having to do a lot of these things. If the city was not growing, we would not be building an event centre. If it was not growing, we wouldn't need to upgrade Highway 12 because the traffic would just stay at the same level. If the city wasn't growing, we wouldn't have to upgrade our water supply capacity in order to deal with— to make sure we have the necessary sewer and water capacity. These are all challenges that come with a growing city. If the city wasn't growing, we wouldn't have to, on a periodic basis, increase the number of RCMP officers. Madam Mayor, And of course, one of the challenges this year is that we're not increasing the total number of officers. But as you've probably read about in the news, because this has gotten a fair bit of coverage, RCMP costs are not controlled by the city. All that we're able to do is we're able to say the number of officers that we wish to have, but the actual amount that, that it costs for them, that's determined in a bargaining process between the federal government and the RCMP union. That's not something the city has direct control over. Control over, and that obviously has been a, has been a point of frustration. There is extra money that's being spent on public works because we have to make sure that we keep up with upgrades within the city. And Parks and Rec, a large part of that increase is because we do have to contribute towards the operating costs of the, of our event center. We have the reality that we've, we have fewer reserves now than we did a couple of years ago, and that's because we made tough choices when the event Centre cost went up, which we knew that was a possibility. But obviously during the pandemic, costs went up a lot in a lot of things in terms of dealing with any kind of construction. And so we had to use those reserves. And that means that when planning a budget, we're not able to access reserves as much because much of that has already been used for the event centre, which means that for necessary infrastructure items, we have to take it out of the— we have to take it out of our— Revenue. It comes out of the operating budget or debt, and of course that impacts taxes. The mill rate that we're taking is being left at the same at $14.4 million, which does mean that there is an overall increase. The property value growth is 14.9%. That's not all tax increase. The growth does pay for some of that. Around 4% or so is typically what we have year over year. Okay. But then obviously the balance, you know, that, that does work out to be a tax increase. And so the debt payments just alone is $1.35 million more than it was last year. And obviously there is no way to paper over that. We can't hide that. That is just the reality. The reason I asked the questions that I did of our financial individual, Brian— Mr. Hrehirchuk, the reason I asked those questions about, well, what if we were to do the boring over a longer period of time, Is that is always an option. We could change the borrowing policy and we could borrow over 10, 15, or 20 years. But here is the harsh reality. If we do that, we can save money in the short term right now on this particular budget, but we will— taxpayers will still pay more for those same projects in the overall term because the interest rate that's being paid is higher. And when you're paying it all off over a longer period of time, Thank you. It's, uh, you just— you are— it does cost more. And plus, you've got the reality that we're burdening future councils with the cost of projects that, uh, that we're taking on now. And so instead of paying something off in 5 years, you're paying it off in 15 or 20 years, which means that you've got less fiscal room to take care of necessary infrastructure projects. And so I don't think that changing that policy would make sense at this point. Yes, right now When we're taking on $13.25 million in new debt and only retiring $2.6 million, that means that we're taking on over $10 million of new debt this year, which means significant debt payments, which is impacting the tax rate. And that is a challenge. But most of the time, in most years, that 5-year borrowing policy, we see the benefits of it. And so— and we are in a much better fiscal situation now, having that policy for the last 30 years plus. Thank you. than if we did not have that policy in place. And so I think it would be short-sighted if we tried to say that, well, we'll try to hide the increase here, we'll just put it, you know, we'll borrow everything over a longer period of time, because that's not fair to our, to our residents, because then that will just end up costing more in the long run. I look at the pro— the programs that we're— that we are spending money on. These are important programs. We are prioritizing infrastructure. Which is the number one priority of any municipality, or at least it should be. No municipality should be cutting infrastructure in order to pay for recreation projects or, you know, other sort of grant programs and such. We are not doing that. I'm very proud of our infrastructure spending and the work that we're doing in terms of the underground infrastructure, fixing our roads. We're going to keep doing that, and we're not going to stop doing that because we're faced with some tough choices. Based on, you know, other projects that we're doing, the events centre being an obvious one, we are not going to put those projects on hold and the necessary maintenance and upgrades because of the fact that we have some significant costs from our new events centre. And so it is a challenging budget, but I believe it is the right path forward. And I don't paper it over. It is difficult, but I think it is the right path to go. So I move— I would support Thank you, Councillor Switzer.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=1864s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I'm not going to reiterate. Councillor Switzer did a good job of summarizing it. But I do want to say that none of us take this lightly. I know myself, I have spent considerable time thinking how, like, what can we do to, you know, lower the mill rate? What can we do so the tax increase is less? But there is not frivolous spending. Thank you. I think it's important to note that in terms of the capital spending in this budget, we're doing it the same way we always do. We run a tight ship, and I know this council, for as long as I've been on council, has just really worked hard to toe the line. And in spite of the tax increase, we are still doing that with this. It is really an adjustment that needs to be made. It's a new normal in terms of the increase. When I think of construction costs And what we were quoted on a lot of projects 5 years ago to when we're at— they actually come to fruition, costs have doubled, tripled, and it's just not feasible that we could continue doing what we're doing with the costs having increased as they have without this tax increase. Again, I just want to reiterate that we genuinely believe this is necessary and we do not take this lightly. Thank you. And it's just something we need to do. And hopefully— the other thing I would just like to point out, I've often thought, you know, maybe when, you know, this is going to be painful for 5 years because we have the rec centre debt payment, but, you know, that's not even half of what the debt payment is going to be. So I can't really blame it on that. And further, even when that debt expires, we've got major projects in terms of like a water treatment facility that's coming down the pipe that's probably going to be no joke, $100 million. This is just kind of the new normal we're operating with in terms of costs and things we need to do for our city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2305s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further, council? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2421s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I just want to first start off with, and this is something that I get asked a lot, and it's this— we're talking about our budget and they say, well, the mill rate didn't go up, so the taxes won't go up. The mill rate is essentially a multiplier on your assessed value of your house. So if the value of your house goes up, even though we hold the mill rate even, it's the multiple— the multiplier is still the same, but the assessed is up. So I just wanted to get that out, out in the public so to understand when, when we say that there's, there's no mill rate increase, that doesn't necessarily mean that your taxes are staying the same. Inversely also, we've, we've worked very hard over the last numerous years to hold the line on no net increases. So We've decreased the mill rate. We've tried to keep that tax burden on the on the individual at at a net even, and the reality is municipal governments are in the service industry. Being in service, you have to ask well what are we going to cut then? And service industry is one of the hardest hit by inflation. Inflation in terms of wages, inflation in terms of product. And so with the service— with us being in service industry and being hit for numerous years, we were able to hold the line. But eventually you see the reserves go to a point where we say this is, this is getting uncomfortable. We need to start— we need to make sure that the future is being built up. And unfortunately, that is where we are. We are at that point today. But to highlight this, within our service industries, we have $22.6 million budgeted out of a $42 million budget. It's a significant amount that's going to services. So you have to ask, do we cut police and fire? Do we cut transportation? Do we cut solid waste? Recreation services? Water? None of these, in my opinion, are on the table to reduce the budgets to because we need to ensure that the quality of life for our individuals is continually getting better as the city grows, not decreasing. With regards to possible solutions of spreading the debt out further, Mr. Hrehirchuk highlighted it that there's $3.1 million in debt payments this year, but $443,000 in interest. That's a significant amount of interest, and that's only on a 5-year amortization. So we need to make sure that we're keeping that— our debts as minimal as possible on as short a term as possible. And so that does then mean when we've come into the stressors of what's gone on in terms of inflation over the last couple years, eventually the egg is going to crack and we're going to have to open it up. Having said that though, part of being able to avoid debt is we are putting 5 Allotting $5 million towards reserves to continue to build those back up to make sure that there is safety and there is a little bit more, more room within the budget to account for these things in the future as well, so that hopefully significant tax increases would never have— won't have to happen, or at least not in the near future, without something being linked directly to large infrastructure. So it is— Thank you. unfortunate. I don't— I'm not happy with it, but I'm also not pleased with the way that a lot of prices have happened over the last, last 2, 3 years. And this is, this is the first time that the resident is seeing it on their property tax bill.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2425s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "So, thank you very much. Anything further, Council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2611s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. As Councillor Zwaagstra has said, this is a challenging budget. And as Councillor Penner said, You know, a lot of thought has gone into council as we review these to know what is in the best interest of the taxpayer, and we consider infrastructure and employees and all these other programs that we're running. So I'd like to thank our administration, our financial board or group, Mr. Hrehirchuk, in presenting this very comprehensive report that is not only complicated but to an extent also understandable by council and also by the taxpayer. So thank you very much for all the work that you've done on that. You know, you've presented the revenue, you presented the expenses, and we can see that our administration is really good at stewards of the taxpayers' money. Thank you. So my hat goes off to our administration and finances. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2614s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2685s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Nope.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2688s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, great comments. Lots have been said and lots of great things have been said. I too, I have a challenge with this budget. Honestly, I don't like tax increases. I don't like them. And we've done very, we've done a great job Most years when there have been assessment and value assessment and increase in assessment, we've brought the mill rate down to net zero. Looking forward to this year, it looks like that's not a possibility with the— all these things that we look at, as Councillor Switzer said, are important. RCMP is important. Public safety is important. Fire trucks, ladder trucks are important. Public works, maintaining our equipment in public works and doing, getting projects done, smaller projects done without debentures is very important too. And I think that's where a lot of these costs are coming from. And of course, the extra, debt that is being occurred through projects that we have done. We've been very aggressive with projects that have to be done as we're growing. We have lots of cars on roads. We've got— we have to upgrade the roads. We have to make sure that they can carry those people to where they need to go. So yes, as much as we— as much as this is difficult, as much as we spend time, I think, The person that's going to be happiest about this meeting is Mr. Horarchuk because he's going to have to— he can stop meeting with me now about this budget. So that is something I've been in his office a few times this week figuring out like where can we go, is there any adjustments, and even though that there is an increase, things are tight all over in every department. They're tight. So there's just, there's just no way of looking at it. Councillor Susan Penner brought something up about the Chamber of Commerce grant, and I think that needs to be relooked at at the next study session. That's a grant that's significant. It keeps growing. That's tied to assessment and growth in business, and that's always growing every year. So I think that's something we need to look at as well. Thank you for bringing that up. Thank you. But council, I will, I will support this, this motion, and I'll call for the question. All those in favor? Opposed? That is carried. Thank you. Okay, council, we'll move on to item B. This is variance 2025-02. This is referring to 268 and 274 Home Street. This is on page 29 of our package. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2688s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. And the variance file V-2025-02, as you noted, for 268 and 274 Home Street, Is being applied for by Kingdom Home Building Inc., with the owners of 268 Home Street being Kingdom Home Building Inc., and the owners of 274 Home Street being [names withheld]. Purpose of the variance application is to permit a maximum height of 4 stories for a multifamily building. Whereas the maximum height pursuant to the City of Steinbach zoning bylaw for the RMD residential medium density zone is 3 stories, the application is arising due to a proposal to have grade-level parking as part of the proposed multifamily development. Notices as are required under the Planning Act were issued. As of just prior to council meeting, there was one letter of correspondence that was received, and the city clerk will distribute copies to council.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2875s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2951s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Other than that, there is no other correspondence on this file.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2953s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2958s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "With respect to the application, this particular proposal was the subject of a rezoning in, in early 2024, and the proposal was to seek council approval to rezone the property from RLD, residential low density, to RMD, residential medium density. That public hearing was held on March 19th, 2024, and ultimately due to the number of Thank you. There were no objections registered at that public hearing. A further public hearing held by the Manitoba Municipal Board was held in August of this year, and evidence presented at the board hearing confirmed that the site would have an underground parking level plus 3 stories for residential units. And pursuant to the application, there is some uncertainty at the time of writing of this report I would like to move that the application be deferred as there was no available information to determine what potentially was, in fact, the intention of the developer and to what degree the proposed 4th story consisting of the parking level of the proposed development was intended to look like. It is recommended that city council request from the proponent to confirm how much of the underground parking is in fact planned to be below grade and how much is planned to be above grade. And subsequent to that, if approval is contemplated by council and council is satisfied with the evidence provided, it is also recommended that any approval be subject to any conditions council feels are appropriate. subject to a development agreement and to any new information that may be provided at this public hearing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=2959s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Okay, at this time, I will close the council meeting, open the public hearing. Is the applicant here today? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3074s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "Good evening, Mr. Mayor and council. Thank you for having me. My name is Luke Wiebe. I live at 3001736E Hirschfeld Road. I represent Kingdom Home Building, and this may be one of the quicker presentations I've ever done.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3087s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "C",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "I have an outline on page 2, a variance request with height difference and conclusion. As Mr. Warkentin alluded, when I sent in my information originally with the hearing, public hearing that we did roughly 1 year ago, I had this, this 3D rendering here, which I still I have in my presentation today.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3103s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "You can see that the parkade, it's underground, but it's not fully underground. That was, that was how I presented it. I asked the, the engineer design consultant what the depth would be because this is for illustration purposes, and he estimated roughly 6.5 feet, 6 feet underground, and then the rest would be above. It's roughly a meter above grade till the main floor height of the First floor of the apartment buildings. So if this was a 3-storey building in the National and Manitoba Building Code, it would still be considered under the building code as a 3-storey building with an underground parkade. However, in your City of Steinbach bylaws, a 3-storey building with parking underground is still considered a 4-storey, whether it's underground or above grade. So that's why I need to apply for a variance for that. Okay. So the building design and style and overall component of the site is not changing. So the purpose of the variance is, as I said, to allow a heated parkade to be constructed under 3 storeys of residential units. So I asked the design consultant to tell me what the height difference would be. He said it's approximately 53 foot 9. This is assuming I didn't do a flat roof, which is still possible. However, if I do a roof similar to this, it would be 53 foot 9 to the highest peak from the side of the building if done with main floor parking, which is on your left, and approximately 47 feet if done partially underground as originally illustrated at the original hearing there, rezoning hearing. So it's a difference of 6 foot 9. I am personally not partial to either. They're both good options. They have pros and cons if you, if you want to know. Okay. Or ask, feel free to. Administration has indicated that the variance to allow a 4th story RMD for parking, which the city has done on several occasions in RMD for a parking garage, is required whether it's a 3-story with parking partially underground or 4-story with main floor parkade. So my request today is that council approve the variance to permit the 4th story for parking and the decision whether partially underground or main level be decided through the development agreement and engineered construction plan submission process. This will allow the engineers, both my own and the city engineers, as well as the design team, the time they require to confirm which options make the most sense for this projected building design. I would like to say that I'm not changing the overall— the design of this project at all. However, we're not required to submit completed construction plans until we get to the development stage, development agreement stage, and construction plan review with your— Your council. engineer department, planner, and building inspectors. So that is why that is something that I can't confirm, because I'm not the, the professional that draws those plans. Any questions?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3127s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Um, are there any questions for the applicant? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3301s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "So just to confirm, you're not increasing units? I think there's a perception maybe that by adding a 4th story, you're adding another level of units. Nope. The number of units stays the same? What you're just requesting is the 6-foot—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3307s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "The number of units, yes. So the number of units, the number of units will— has never been 100% assured yet because it's always dependent on the parking. So whatever our parking with the final construction plan, when I speak with Lacey in the end, when I submit those plans, I'll already know. But that, that's what, that's what will dictate the amount of units. So they will not be different because I'm not adding a level.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3320s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "It's not an extra—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3342s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "No, I'm not going to add an extra It's just still 3 levels. It's just the main floor, like the first floor of rental units there, 'cause there's 3 floors, is now about, on this other plan here, is 6 foot— oh yeah, here we go. So this is kind of if it was 4 out of the ground. So what happened there? Did I lose my other page?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3342s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "I got what I need.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3363s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "Sure, he'll do it. Yeah, okay, thanks. So yeah, yeah, it's 6 foot 9 difference. And like I said, I'm open to doing either option, but I would usually— that's something like the engineer and design consultant would confirm that, what makes the most sense. One of the pros— I did allude to some pros and cons— is that we wouldn't be digging a massive hole if we didn't do it underground. It's more dirt to haul away and more time, right, to dig. But like I said, there's both have the pros and cons as far as from a cost and time construction and all that. But yeah.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3365s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. I do have a question for administration. Is that something like deciding whether the parking is grade level or underground, is that something that will come out in the development agreement or is that something that the developer should have decided here tonight?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3396s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "The opinion of administration is that that is a very specific design question that should only be be decided by and communicated by the developer to council so that council can make a decision whether or not to approve the requested 4th story based on all of the information. That would be a component that would be unusual to be in a development agreement, in my opinion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3417s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay, then in that, in that contents, We will ask you to give us direction whether it will be grade parking or underground parking.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3445s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "So if I'm understanding, you're not, you're not willing to allow me to request to have the option. Is that what you're saying?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3460s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "We're looking at, so that we can make a decision based on the information we have, we need to know, are you going to do grade parking or underground parking? That is the way I understand it from our administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3468s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "Yeah, I would say I'm comfortable with sticking with what I originally presented with it underground if that's— if I'm being forced to decide on one. Just stick with what's originally on the right side of the plan there. Yep.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3483s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so you're, you're going to be— I'm fine with that. You're inclined to go with the original, which was underground?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3495s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "A",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.) [medium]",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3495s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, so the re— the variance request is for the 4th level to be underground parking.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3495s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "A question for administration.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3508s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3511s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. So normally in our packages, there's a recommendation from administration as to whether we should approve or not. Your recommendation indicated that there's some uncertainty here because we don't have the specifics as far as what was being presented. With what the applicant has presented, saying that he is going if this was approved, it would be the underground parking. Based on that information, what is the official recommendation from administration on this variance?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3511s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "That was one component. There was some uncertainty based on the information that administration reviewed from the applicant. Now that the applicant has explicitly stated that the requested variance approval for the 4th story of the subject property Administration is satisfied that that is clear. Therefore, if council is comfortable with that 4th requested store being underground parking, if council chooses to approve, that would be a recommendation of administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3540s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay. Just a follow-up. Thank you, Mr. Mayor. So I know that we've definitely have approved the 3rd requested store being a retail store. Several cases that are somewhat similar as far as allowing for the underground parking. I know that there's been discussion about whether— had we made the decision about changing the zoning bylaw to make these so that the parking would no longer necessarily count as an extra storey, or had we not decided to make that change yet? I know there was some— there's been some discussion around that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3577s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "There was some discussion around that. However, I cannot recall what is the That is not exactly in the city's proposed zoning bylaw. That is something that would be presented for first reading in about a month.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3607s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3619s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, good. We can look at it at that time.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3620s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yeah, that's good.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3622s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, perfect. Okay, so now we know what we're looking at. Thank you very much. Thank you. Mr. Wiebe, is there anyone here with comments, questions, or objections to this file? Okay, go ahead. Take the podium, state your name and address, and then you can continue.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3622s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "I",
    "label": "Resident 2",
    "text": "Hi, Mr. Mayor and council. My name is [Resident 2]. I live 262 Home Street, which is immediately adjacent to where this is planning to be built. First off, there's another couple that would have liked to have been here today. They couldn't. They sent me a message and asked if I could read what they would like to be said. Is it okay if I proceed with that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3644s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3665s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "I",
    "label": "Resident 2",
    "text": "It's from [name withheld].",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3665s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "F",
    "label": "Resident 2",
    "text": "They are of 412 Hospital and they're unable to attend this evening. Thank you for taking time tonight to consider the thoughts and concerns of our families and specifically this region of our community where so many of us have called our homes for years. We understand that a 3-storey building on the corner of Hospital and Home Street is now inevitable, but we want to voice our concerns over this 4-storey project. We care for our neighbors, and this build would greatly affect their homes and privacy.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3670s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "I",
    "label": "Resident 2",
    "text": "Therefore, we do not stand for and cannot support this proposal. We acknowledge a building of this type would be benefit to our community as a whole. However, we do not believe it would— that this is the correct location for it. There are many areas of Steinbach where a project of this size makes sense, but right beside single-family homes is simply not it. Thank you. We understand that there are other large buildings in the area, but not— but no one who lives in this neighbourhood has asked for any of these large buildings, and time and time again, we're being ignored. We hear the reasoning that we need to keep business on Main Street, and that is a benefit to the community, but we are ignoring the fact that business is no longer just on Main Street. Steinbach is growing, and I firmly believe that this project is better suited in your areas Sorry. Near the areas of town where it will blend in and not stand out. We as a city provide— sorry, pride ourselves on our heritage. We keep and preserve our heritage homes. We try our best to maintain our beautiful trees and land. And there's a good chance that one of Steinbach's last enormous heritage trees positioned directly beside the complex will not endure the upheaval during root destruction that this will bring. And lastly, I want to end with the question. What would it take for the council to consider what are— sorry, what we are saying here as a community? We are asked to attend these meetings to voice our concerns and time and time again are ignored. We plead with you now, let our voices be heard, and we ask you to kindly listen to us. At the last meeting, you told us we need to think of others and for the betterment of those around us. City Council, may we ask that of you? Thank you. what you think of our communities and those lives that we vote here. That was from [name withheld].",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3697s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And they're from 412 Hospital.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3803s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "I",
    "label": "Resident 2",
    "text": "412 Hospital, yeah, just the other way down the road. And a few things for myself. I'm too— I'm from 262 Home Street, which is whatever on the map where the grayed out ones where this is happening, directly beside that to the northwest, that would be. Sorry, I'll pull up my thing. For me, it's, it's a community with families, whatever, some of here today, and privacy is a big thing. And I know you can call it in-ground, but 6 feet up is still, I would say, considered something. Um, that would be a whole nother story of people that can look into all of our yards. I have an 11, almost 12-month-old daughter. Who's going to be running around all summer. That doesn't make me feel very comfortable. The reason I wasn't at the original hearing is that's because the evening my wife gave birth. So, um, and another thing is with the way these streets are angled, if the taller this thing gets, I don't see any sunlight going to hit my yard probably until mid-afternoon at this point if, if the structure goes up. And trying to keep nice yards, trying to have families, trying to be outside and stay healthy, I don't see that being a benefit. Thank you. I realize that is most strongly on me, not as a community as a whole, but that for me at least, that's a point still. And another thing is, as our family grows, we had considered the concept of doing renovations and improving our place ourselves, but with stuff like this, it really makes you want to lean back from that and just get out and go somewhere else. And I don't know, those are just a few of my personal concerns. Thank you for your time.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3805s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Is there anyone here with comments, questions, or objections to this file? Okay, take the podium.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3907s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "J",
    "label": "Resident 3",
    "text": "Thank you. Dear Mayor and members of the council, thank you for taking your time to hear what I have to say. My name is [Resident 3] of 243 Home Street. I would like to share some reasons why I'm opposed to this apartment being built as a 4-story building. Number one is that the people beside and across from the apartment building would have no privacy in their yards and homes. And number 2, with the building being an extra story tall, The neighboring yards would most likely have little to no sunlight in their yards due to the building blocking it. Number 3 is that there are also large healthy trees in the area being built on, and they would have to be destroyed to make room for such a large building. And the traffic on my street is already like 60 miles an hour plus, and I'm not really allowed to play in my front yard. Thank you. And with the parking for the apartment, it would most likely speed up the traffic. Thank you for hearing what I have to say.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3928s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "F",
    "label": "Resident 4",
    "text": "And if I could also say a few things. My name is [Resident 4], obviously same residence as my son, 243 Home Street. And so I would also just like to reiterate the points that my neighbor here spoke about. We feel that this building, and this is not a slam against Kingdom Builders or anything like that, we just feel that our neighborhood is probably one of the most least, not the most least, the least appropriate place to have a structure like this. We've been surrounded by construction with the hospital expansion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=3988s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "K",
    "label": "Resident 4",
    "text": "We've been surrounded by construction with the event center, and now it would be more construction with this larger structure. And so, yeah, it does, it does hamper the family lifestyle quite a bit. There are other places in the community that I think would be much better suited for this, just for the location. And I know it's, it's already been approved. Probably nothing that we're going to say here will sway that. But we just want to make sure that our voices are being heard and we're trying to do our due diligence and our civic duty to just voice these things as well. So yeah, thank you guys for your time. Thank you for your consideration, and thank you for hearing us.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4027s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Is there anyone, anyone else here with comments, questions, or objections? Kate, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4071s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "L",
    "label": "Resident 5",
    "text": "Good evening. My name is [Resident 5]. I live at 251 Home Street, and I just wanted to take this opportunity to share, um, my objection to variance V-2025-02. Um, and it is my understanding that it would be prudent to reject this variance application. Um, my family lives near the 268 and 274 Home Street Thank you. Address is, and, um, accepting this proposal would be extremely upsetting and disruptive to our family and the other residents in the area. Um, allowing this additional level of parking in the development would have serious negative consequences for the surrounding neighborhood and nearby residents. Um, as mentioned, immediate concerns would be traffic that comes with the expanded parking structure. Increased vehicles and making it potentially dangerous for pedestrians, cyclists, families in the community. Longer wait times at intersections, higher risk of accidents, and so forth. Another issue would be noise levels. Parking structures are not quiet, and an extra level would mean a steady stream of cars coming and going at all hours, engines revving, car doors slamming, alarms going off, headlights Okay. Flashing, um, and sounds echo and carry in parking areas, which would only amplify these disruptions. Um, the character and aesthetics of our neighborhood would also suffer. Um, from my understanding, the city's bylaws were put in place to maintain balance between residential and commercial development, and a structure exceeding the height limit despite the underground nature would make that area feel more industrial and create an environment that is less welcoming and increase congestion. And then a further concern would be the impact that the expansion could have on the integrity of the surrounding ground and structural stability of nearby buildings. Parking structures and taller developments require deep foundational work, which can cause soil shifting and damage to adjacent properties. Vibrations from construction and long-term vehicle movement in a parking level could also lead to cracks in foundations, weakened support structures, and long-term wear on nearby buildings. The added weight and strain on the land may also lead to increased drainage and erosion issues, creating further risks for homes in proximity. Without a thorough geotechnical assessment, it would be impassable— sorry, irresponsible to allow the structure. Thank you. That could compromise the safety and durability of existing properties. Furthermore, excavation and construction could disturb the root systems of large established trees in the area, which may create additional hazards. When tree roots are damaged, the trees become unstable and pose a falling risk, especially during storms or winds, et cetera. And damaged roots can also lead to tree decay and disease, not only reducing environmental and aesthetic value of the area, but also increasing the likelihood of limbs Thank you. So I do urge you to reject this variance and uphold the principles that keep our city and our neighborhoods enjoyable. Residents of this area should not have to bear the burden of a decision that could prioritize convenience for developers over the quality of life for those who call this area home. So I thank you for your time and consideration and hope that the City Council will make the right decision in preserving the character, safety, Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4088s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Is there anyone here with comments, questions, or objections? I'll ask one more time. Is anyone here with comments, questions, or objections? Okay, seeing none, I will close the public hearing.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4307s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "E",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "I'll let the applicant respond.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4332s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Do you want to respond to any of this?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4333s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "A",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.) [medium]",
    "text": "Sure.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4333s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4333s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "F",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "Just a few points. I mean, I do hear you folks. I, as a developer, it is very difficult doing development downtown. It's something that I know maybe me saying it's dear to me might not mean a lot to everybody.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4336s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "However, I've watched the city. I've grown up downtown just across from the event centre on Reimer Avenue. I think it's the Envision now, or one of those buildings is on that property.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4355s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "F",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "And that's where I grew up riding my bike.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4366s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "And I love downtown myself, and I can see myself one day when my kids move out and when I move out of the country to move back to downtown because I love it. However, I feel like it's often those that want to move downtown that live in all the rental properties that I am so blessed to own.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4368s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "F",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "Those people also have a voice, and I mentioned that before. Yes. They want to live downtown. They want to walk and support businesses downtown.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4386s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "And I know that's not a reason that those that are in the immediate area should just think, oh, it's great to have a big building beside. I understand that is not something that should make them want that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4393s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "F",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "However, you know, those folks want to live there. Change is difficult.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4405s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "And I just want to acknowledge that I do hear the concerns.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4409s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "F",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "We do work with your engineers to ensure that all the necessary steps are taken to safely construct a building, just like anywhere else in town where, where your team does a great job requiring—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4412s"
   },
   {
@@ -2007,7 +2007,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "They put restrictions and requirements on us. So kind of in closing, we're going to ensure we have enough parking. We're going to ensure the, the building is— as I alluded, I was totally fine with just keeping it with exactly as I presented.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4423s"
   },
   {
@@ -2023,7 +2023,7 @@
    "voice": "F",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "However, I apologize we didn't do the variance application at the same time as the original hearing. Thank you. But the— I have not added another story in principle to what I originally presented. It's just, it's just the same as it was before.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4437s"
   },
   {
@@ -2039,7 +2039,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "However, I had to ask for this today instead of doing it last time.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4450s"
   },
   {
@@ -2055,7 +2055,7 @@
    "voice": "F",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "I apologize for that.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4454s"
   },
   {
@@ -2071,7 +2071,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "And then another thing would be just, yeah, the, the timeline is, as I mentioned before, I wasn't planning on starting it last year, probably wouldn't even start this year. I know that's not a huge consolation, but due to the The hospital expansion there, we wanted to wait until that was done. However, I do ask for your consideration in this. There's a lot of people that would love to live in this home building so close to— to make their home so close to the downtown event center, the hospital, professionals, seniors, and even some smaller young families would actually love to live in this place just like they do our other rental properties. So thank you very much.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4456s"
   },
   {
@@ -2087,7 +2087,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, there's a question for you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4490s"
   },
   {
@@ -2103,7 +2103,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. So if the variance is denied, what is the impact on the project? Does it— would it essentially mean building fewer dwelling units in order to deal with the parking requirement?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4493s"
   },
   {
@@ -2119,7 +2119,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "I mean, as far as for me, this is the way I've designed the project, so I would be going back to square one, just a redesign. It's not something I've planned to do at this time.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4503s"
   },
   {
@@ -2135,7 +2135,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "But the question— answer the question, would it In the redesign, would there be less units?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4514s"
   },
   {
@@ -2151,7 +2151,7 @@
    "voice": "A",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.) [medium]",
    "text": "Correct, yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4514s"
   },
   {
@@ -2167,7 +2167,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4523s"
   },
   {
@@ -2183,7 +2183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4524s"
   },
   {
@@ -2199,7 +2199,7 @@
    "voice": "E",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4526s"
   },
   {
@@ -2215,7 +2215,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "A question for the applicant through you, Mr. Mayor. Uh, you had said, and I don't know if it was— I just want to get clarification, uh, because in the presentation that you gave to us, it says partially underground. Uh, when you had said that you would commit, you had said fully underground. I just want to get clarification.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4528s"
   },
   {
@@ -2231,7 +2231,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "Partially underground is the reason it's The reason it's called partially underground is because it's the, the main floor grade. If you look at the doors on the left, that's where your entrance lobby and stairs and elevator would be, which is kind of ground level, maybe a foot above the parking lot. But the actual level of the first grade apartments are about 4 to 5 feet above what the grade level is. So that's why I said partially underground. Okay. So the way it was presented originally, this is the same image that was presented when I did the rezoning. That's how I would commit to doing it. Sounds good.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4544s"
   },
   {
@@ -2247,7 +2247,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you. And follow-up to administration, if I may. Thank you, Mr. Mayor. Mr. Warkentin, if in our— as council, can we make an approval subject to it being partially underground and that be binding?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4573s"
   },
   {
@@ -2263,7 +2263,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Council can set any conditions it chooses. That would be in addition to the typical development agreement. However, if with your permission, Mr. Mayor, now I'm confused only because Councillor Penner, you've raised the point about partially underground. My notes from the discussions prior to the objectors speaking was that the applicant confirmed that the proposed parking be entirely underground. And I'm not quite certain what is actually being proposed.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4590s"
   },
   {
@@ -2279,7 +2279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Well, the information I have from this meeting today and prior discussions with the applicant is that the parking would be partially underground, like 4 feet of the parking would be above grade. And I believe that— I think we have that somewhere else in our community. I think Brookline Terrace is like that. Where it's a little bit further up. So the balconies for the first floor are about, about 4 feet above grade. It's a built-in, it's actually built-in security. Correct. It does.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4631s"
   },
   {
@@ -2295,7 +2295,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "So may I answer that? Yeah, so the reason I said underground, just compared to main level parking. So I used the word underground, partially underground. They're both underground. It's just partially underground as I presented it at the original hearing with the, Does that answer?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4666s"
   },
   {
@@ -2311,7 +2311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "No?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4684s"
   },
   {
@@ -2327,7 +2327,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "It, it maybe. What a further recommendation then that I would have for council is if council is proceeding and wishes to consider approval, I would recommend that council specify exactly to what degree the the underground parking is in fact below grade versus above grade. However council wants to determine, because that appears to be the essence of this particular public hearing, it would provide clarity both to the applicant and also to administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4684s"
   },
   {
@@ -2343,7 +2343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so you're asking on administration is whether we approve or deny, whatever, if we approve, To have a, like a spec of what the underground means.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4723s"
   },
   {
@@ -2359,7 +2359,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "For example.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4736s"
   },
   {
@@ -2375,7 +2375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Fully or 4 feet above grade.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4737s"
   },
   {
@@ -2391,7 +2391,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Either fully or if there's a certain amount in feet or percentage that's above grade so that administration would be able to appropriately evaluate the application or the applicant's proposal once it gets to the design and approval stage.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4739s"
   },
   {
@@ -2407,7 +2407,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Everyone's clear? Yes, go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4758s"
   },
   {
@@ -2423,7 +2423,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. One question to the applicant, just to be totally clear on this issue. Are you telling us today that 47 feet will be the maximum height of this building above grade?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4761s"
   },
   {
@@ -2439,7 +2439,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "As I mentioned on the— for illustration purposes, 3D rendering, yeah, the design consultant— I'm not the designer— the truss manufacturer that builds the roof. They design the truss, not myself. We usually try to design the roof as low as we can do. Actually ends up costing less, but it also is lower and not as steep. It's safer to reshingle. So I'm not at liberty to give the exact. That's why I said it's an estimate. However, the national and Manitoba Building Code allows under Part 9, which could help you with this request by Mr. Warkentin, that I would only be allowed to build 1 meter, it's 1 meter above grade for the parkade. It's still an underground parkade, but it can be 1 meter above under the Part 9 building code. So it's not considered a commercial, I think it's called C3, part— sorry, Part 3 building code. I would be under a Part 9 building code, which is the same as a 3-story apartment that has no parkade if it's within 1 meter or lower.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4775s"
   },
   {
@@ -2455,7 +2455,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "So that would be Potentially the—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4834s"
   },
   {
@@ -2471,7 +2471,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "Yep, just within Part 9 building code.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4837s"
   },
   {
@@ -2487,7 +2487,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Yeah, I would just— Is administration comfortable with that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4839s"
   },
   {
@@ -2503,7 +2503,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Okay. So what you're telling us today, Mr. Mayor, if I could just continue, you're not sure that the building is going to be 47 feet. It could be between 47 and 53?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4844s"
   },
   {
@@ -2519,7 +2519,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "No, I'm confident that because I informed you after being asked to choose one option and just stick with that That it would be, it would be very close to that 47 number that I gave you there. But I'm— it's an estimate because the design consultant, he's not the one who actually designs the trusses. The roof manufacturer, he took all the other dimensions off of other plans, so we know it's very close. But the company that builds the actual roof and designs that, they determine the height, the peak of the height, like the top of the peak, not, not myself or the draftsman. So it'd be close to the 47 feet. Okay. But that's just the peak. That's the level of the actual 3rd level of apartments won't change.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4854s"
   },
   {
@@ -2535,7 +2535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, I'm gonna— okay, I'm gonna stop talking about how high the building's gonna be. I think administration wants us to focus rather on how— how the underground parking. Okay, so that's what we're going to consider now. We're going to— so sure. Are you— is there anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4894s"
   },
   {
@@ -2551,7 +2551,7 @@
    "voice": "H",
    "label": "Luke Wiebe (Applicant (developer), Kingdom Home Building Inc.)",
    "text": "That's it. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4912s"
   },
   {
@@ -2567,7 +2567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Then we will close the Public hearing, open the council meeting. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4913s"
   },
   {
@@ -2583,7 +2583,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "I'll make a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4917s"
   },
   {
@@ -2599,7 +2599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, um, second by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4919s"
   },
   {
@@ -2615,7 +2615,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. As, um, [Resident 4] already mentioned, the projects— there's a project going ahead. It's the, the zoning's already been approved for multifamily, so that, that piece of it's already been decided. Um, the reason I am supporting this is I actually live near Many multifamily buildings. And one in particular, actually 2 that stand out to me are ones with underground parking. Because what the underground parking does is it actually lessens the need for outdoor parking lots. Right. And so it's actually aesthetically more pleasing. There's less vehicles just, you know, sitting on a parking lot in front of a building. So we could say, no, we're not gonna do the underground parking. The project would need to be redeveloped I'm not convinced it would be a project that the neighborhood would be happier with because now you've got all these vehicles actually parking on surface parking. So I really like the multifamily that have the parking under. I think it actually just makes for more aesthetically pleasing. I understand and empathize that the neighborhood again has construction fatigue. That is definitely understandable. But I think When all is said and done, when the event center, when the hospital, this project is done, I actually think it's going to be really, uh, nice family— still family-oriented area that's going to be walkable. And I think they'll still be able to have a good sense of community. But as far as the parking, I'm comfortable with the, um, partially underground parking.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=4924s"
   },
   {
@@ -2631,7 +2631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, anything for—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5017s"
   },
   {
@@ -2647,7 +2647,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. If, if I may just make a friendly amendment just to include subject to underground parking, if you would be Amendable to that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5021s"
   },
   {
@@ -2663,7 +2663,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "What would you like to—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5029s"
   },
   {
@@ -2679,7 +2679,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Just subject to it being underground parking.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5031s"
   },
   {
@@ -2695,7 +2695,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Like, but we just had this discussion, like how administration's wondering how underground. Like, I'm not sure. I don't, I don't know what this, you know, the specs.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5036s"
   },
   {
@@ -2711,7 +2711,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "If as the applicant said that she can go no more above 1 meter above grade than 1 meter above grade.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5048s"
   },
   {
@@ -2727,7 +2727,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "I don't want to— I'm going to defer to—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5054s"
   },
   {
@@ -2743,7 +2743,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, I would like to clarify for council that is pursuant to the Manitoba Building Code. City of Steinbach council can set any conditions it wishes. Right now, the City of Steinbach zoning bylaw, the fact that it is a request for a 4th story is the purpose of the variance application. The applicant has indicated that the 4th story will consist of an underground parking level that will be underground to a certain degree or to no degree. Based on the information that I have in my notes as presented by the applicant, the applicant indicated that he was prepared to place this underground or this parking level fully underground. If there is a different position of council, administration is requesting that council indicate to what degree this level of parking can be above grade.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5057s"
   },
   {
@@ -2759,7 +2759,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "I'm not an engineer or builder or designer. I just don't see how I could comment on to what degree. It's partially underground. I'm personally, I'm comfortable with either of these proposals. I don't know how I would say to what degree it should be underground. Am I understanding this drawing is partially underground?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5115s"
   },
   {
@@ -2775,7 +2775,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Are you agreeable to the 1 meter that was suggested by the applicant, whether that is an afterthought, but that's what the applicant did at the As the podium suggests, 1 metre above grade.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5141s"
   },
   {
@@ -2791,7 +2791,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "I'm not educated or an expert in that. I don't know how— I mean, sure, partially underground. I'm comfortable with partially underground. Councillor Penner, what are your thoughts on this friendly amendment?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5160s"
   },
   {
@@ -2807,7 +2807,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Open for discussion. It actually changes a lot I think the challenge is— I think the challenge is— For me, and I don't want to go too much because we're in, in this, but, uh, then we're not discussing the, the principles of a 4th story being underground versus actually adding a 4th story. So one is this is a principle of something that we're moving towards in our bylaws already, of a 4th story that's underground is— should just be allowed, versus this is now changing the entire dynamic of— it's essentially almost another public hearing, uh, which I voted against last time.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5179s"
   },
   {
@@ -2823,7 +2823,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "So spell out your friendly amendment to me.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5209s"
   },
   {
@@ -2839,7 +2839,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Motion— that the motion is to approve subject to the parking garage be no more than a meter above grade.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5214s"
   },
   {
@@ -2855,7 +2855,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Sure.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5227s"
   },
   {
@@ -2871,7 +2871,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5228s"
   },
   {
@@ -2887,7 +2887,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Fine.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5230s"
   },
   {
@@ -2903,7 +2903,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "All right. Thank you. Thank you, Mr. Mayor. I'm in favor of this motion with the amendment. Due to the fact that this is something that we are working towards, that this doesn't change what was already voted for and approved for by council in terms of the project that is— was presented at that time. It was already approved. Having said that, I do want to greatly send my thanks and appreciation to the community that's come out not only once, but twice in some cases to the municipal board hearing as well. Thank you. It's exhausting being in these meetings sometimes, especially in the gallery and waiting for your turn. So I want to extend my appreciation to that. But this isn't about the project now at this point for my vote to approve. This is about the principle of 4th story underground shouldn't be considered a story.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5230s"
   },
   {
@@ -2919,7 +2919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5278s"
   },
   {
@@ -2935,7 +2935,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I will take a different approach here. I've heard both sides. I think it's important to listen carefully to the applicant and administration and, of course, to the neighbourhood, I'll be voting against the variance. There's a couple of reasons. Obviously, as Councillor Penner had alluded, there was an initial vote on the rezoning itself, and we're not relitigating that right now, but that was a close vote. That was 4-3. I had voted against it because I have concerns— I had concerns at the time about this being rezoned to medium density because I didn't think it would fit into the neighbourhood. Nevertheless— Alderman Carra. The rezoning has been approved. So that is not what is up for debate right now. I cannot relitigate that. However, we do have a variance request, which in most cases I would tend to agree with Councillor Penner that— both Councillor Penners, frankly, on this point— that having an underground or partially underground or 3/4 underground or whatever number we're coming up with here, I'm not really sure, but whatever, having the story be I understand that. Parking as opposed to the residences, when that's at least partially underground, I understand that that's actually a fairly reasonable thing to allow, and then you still have 3 regular stories of residential. Here's my issue. I had concerns with this being rezoned medium density in the first place because I had serious questions as to that level of density increase in that area. By allowing this variance, we're allowing more density, more residential than would otherwise happen. Because if this were denied, yes, the project would need to be redesigned, and inevitably that would mean fewer units. That would mean less impact in the neighbourhood. Potentially even maybe not as many stories. Who knows? Because it would require redesign. In terms of it really would have been better if this variance had been dealt with at the time of the initial application, the rezoning. That's normally— that tends to be what happens here where we have a debate and a vote on the rezoning and on the variance request because normally a project is presented in a more full and complete sense. I appreciate the fact that the applicant has now given us some— a more complete version here in terms of what he is proposing to do. But again, just the very fact that we're sort of going back and forth about, you know, how far underground is it going to be and this sort of thing indicates to me that this thing is not settled. And so if not allowing the variance means that there are fewer residences, less impact to the neighbourhood, and that would mean fewer cars, considering that I had concerns with the rezoning to begin with, I'm not interested in the variance that adds to the problem by having more dwelling units than would otherwise be allowed. Hence, I'll vote against the variance.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5282s"
   },
   {
@@ -2951,7 +2951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5444s"
   },
   {
@@ -2967,7 +2967,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. If council recalls, when the rezoning came up last time, I was against it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5447s"
   },
   {
@@ -2983,7 +2983,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "We heard a number of neighbourhood— it wasn't a usual council meeting where just 2 or 3 neighbours came and objected. We had a large number of people in the area objecting to this building in the area, and I voted against it at that time. And as Councillor Zwaagstra has said, You know, for a number of points that were raised, I agree with what he said. I, again, I can't go along with the motion in this case.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5455s"
   },
   {
@@ -2999,7 +2999,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Any closing?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5485s"
   },
   {
@@ -3015,7 +3015,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Yeah, this is interesting to me. I've been on council for, I think it's 12 or 14 years, something like that now, and in my entire time when we're looking at our official community plan and planning for the downtown, we try and want to increase density in the downtown. We want to keep our downtown vibrant. We want infill multifamily. Everything we've kind of talked about, this project represents. And now when we have a project that represents what we're going for and actually falls in line with those plans, you know, half of council isn't supporting it. And I find that interesting. This project does represent— it is basically a buffer between Thank you. It's single-family and, you know, more commercial with the hospital and event centre there. It allows for walkability, which is something we want. We want more density downtown. It will decrease car usage because people are in walkable distance downtown. So I just think this is— I understand anytime a project like this comes to us in an area where there's single family, it's difficult for the neighborhood. But at the same time, when we're talking about redeveloping the downtown, a project like this is exactly what we're looking for. So I, I'm pleased to support it, and I think it's going to be a good addition and something we, we value in our area downtown there.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5489s"
   },
   {
@@ -3031,7 +3031,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Well, Council, this has been a A bit of a confusing file, one with the developer didn't come with a clear desire of what he wanted to do, but that was dealt with at the meeting. I think that worked out okay. You know, council, we all know that when, up until 3 years ago, we lived in the downtown and we were surrounded by multifamily. Yes. They were all 4 stories. Underground parking, 3 stories up. Yes, it does affect your shade, and— but we adjusted and we bought a bunch of hostas, and they love shade, and we had a beautiful backyard regardless. I think there can be beauty amongst multifamily as well. It worked very well. Thank you. Yeah. Strategic planting of trees, and during summer, we didn't even know there was multifamily behind us 'cause the trees filled it in so nicely. And it does work. You can live harmoniously with multifamily like we're looking for to densify our downtown, and single-family dwellings can live side by side, and it can work very, very nicely. And I know that we, 'cause we did it, we did it for 11 years downtown here. Yeah. It worked very well. The painful part was when the building came in, the thought of the building, that was the worst part. Once it was there, the whole neighborhood would adjust around the building. It worked out very, very nice. We had 3 36-plex around us. And so that was, that's considerably higher than this density. And as far as did we notice traffic, not really. Downtown's always busy. There's always lots of traffic downtown. We didn't notice necessarily extra traffic just because the downtown was like, was being built up. So I will support this. To the motion as was amended. 'Cause I do think this is the long term for this region, this area. I do believe it'll be a lot of institutional, and I think it'll be— there'll be more multifamily in the long term. I mean, you look— I'm looking 15, 20 years down the road. I'm not looking next year, but down the road, this area will be going through a renaissance as the rest of downtown is too. Okay. As you see more and more, the development downtown is— the, the skylight downtown is changing, and, and, uh, and this is part of that change. All for the question? All those in favor? Opposed? That is carried. Okay, we have, uh, 6C. This is variance 2025. This is referring to 430 Rockford Street. At this time, I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5576s"
   },
   {
@@ -3047,7 +3047,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. File— variance file V-2025-03 for 430 Rockford Street. The applicant for the variance is [name withheld] of Smith Neufeld Jodoin LLP. The owners of the property are [names withheld]. Purpose of the variance is threefold. Firstly, to permit a detached accessory building to have a rear yard setback of 4.1 feet, whereas the RR rural residential zone requires a minimum setback of 5 feet. Secondly, to permit a detached accessory building to have a side yard setback of 3.7 feet, whereas the RR rural residential zone requires a minimum setback of 5 feet. Thirdly, to permit a minimum lot width of 70 feet, whereas the minimum lot width of the RR, rural residential zone, is 100 feet. The purpose of this application is to bring this property into compliance in order to facilitate a pending sale. Notices as are required under the Planning Act have been issued. There is no written correspondence on file. Recommendation from The recommendation from administration is for council to approve this variance application.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5775s"
   },
   {
@@ -3063,7 +3063,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant present today? Okay. Seeing no one, is there anyone here with comments, questions, or objections to this file? I see nothing. I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5845s"
   },
   {
@@ -3079,7 +3079,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5875s"
   },
   {
@@ -3095,7 +3095,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5880s"
   },
   {
@@ -3111,7 +3111,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. As, uh, there are no objections here, administration has, uh, recommended that we approve the variance, and the fact that this building has been here for a substantial amount of time and has not negatively negatively affected anybody. I don't see any reason why we cannot approve this variance.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5882s"
   },
   {
@@ -3127,7 +3127,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5896s"
   },
   {
@@ -3143,7 +3143,7 @@
    "voice": "D",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5900s"
   },
   {
@@ -3159,7 +3159,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "I was at this location this morning and had a look, and it's not encroaching on anybody's property, and I understand, you know, in order for the pending sale that this variance goes through, so I don't have an issue with it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5901s"
   },
   {
@@ -3175,7 +3175,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Nothing further. Call for the question. All those in favor? Opposed? That is carried. Okay, council, we've got no delegations, reports, recommendations. We'll move to 9A, accounts payable, back of the book. All had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5915s"
   },
   {
@@ -3191,7 +3191,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5940s"
   },
   {
@@ -3207,7 +3207,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Where's Councillor Hiebert when you need him? We've got excavator licenses. Looking for a motion to approve. Second by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5941s"
   },
   {
@@ -3223,7 +3223,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I can't express this as eloquently as Councillor Bill Hiebert, so I won't even try. I just hope we approve these excavator licenses.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5958s"
   },
   {
@@ -3239,7 +3239,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, I hope so too. Anything No. Call for the question. All those in favor? Opposed? That is carried. Is there any, any questions of council at this time? Okay, seeing none, we'll move to number 11. This is correspondence petitions. We've got the Steinbach Manitoba 55+ Games 2005 Committee request for sponsorship. Council, how would you like to proceed? Take his information? Okay, we've got the Southeast Event Centre Farmers Market. Council, how would you like to proceed?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=5965s"
   },
   {
@@ -3255,7 +3255,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "What do we need to— is this just a motion or resolution or—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6002s"
   },
   {
@@ -3271,7 +3271,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Administration would recommend if council has no concerns that the resolution be approved indicating exactly that to the the applicants or the requesters.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6009s"
   },
   {
@@ -3287,7 +3287,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, make a motion to approve. Second by Councillor Penner. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6022s"
   },
   {
@@ -3303,7 +3303,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Um, I love this idea of having a farmers market downtown at, uh, on the event center parking lot. I'm sure it will be very well received. Uh, there's 2 sides to that. All for, you know, small businesses to be able to sell their products, I think is excellent. And also, I think it's a great service to have in our city for people to be able to go pick up fresh produce and whatever else is offered. So I think this is a great idea, and I think it's just one of the many benefits we'll see to having the event centre downtown.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6028s"
   },
   {
@@ -3319,7 +3319,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6059s"
   },
   {
@@ -3335,7 +3335,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. There's no better way to support local and support Canadian than at a farmers market, and it's a great incubator for local businesses as well. So I think it's appropriate on this dark Tariff Tuesday I hope that we bring some light of how there are local businesses that are wanting to thrive in Steinbach.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6061s"
   },
   {
@@ -3351,7 +3351,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, great. Council, anything further? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6078s"
   },
   {
@@ -3367,7 +3367,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6084s"
   },
   {
@@ -3383,7 +3383,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Council, I agree. I think this is long overdue. I think we've needed a downtown farmers market for many, many years, and I'm excited to see this happen. So call for the question. All those in favor? Opposed? That is carried. We've got, uh, 11C, the Seine River Watershed District minutes of January '21. Council, would you like to proceed, take his information at this time? And we've got the Eastman Regional Municipal Committee South Subcommittee minutes of February 10, 2025. Council, would you like to take his information at this time too? Mm-hmm. There's no other business. Looking for a motion to adjourn. Councillor Penner, seconded by Councillor Mr. Penner, call for the question. All those in favor? Opposed? That is carried. Next regular council meeting is on Tuesday, March 18th, 2025 at 7:30. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=92Ra1Pfu_wg&t=6084s"
   }
  ]

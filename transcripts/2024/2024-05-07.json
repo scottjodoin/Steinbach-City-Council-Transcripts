@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I call this meeting to order. Welcome here, everyone. Well, council, you can see by the jersey I'm wearing tonight what has transpired in the hockey world. As you know, the mayor of Winkler and I always have a wager. Anytime the Pistons and the Flyers go head to head in a series in the playoffs, The losing mayor wears the other mayor's jersey, so it's my turn to wear the jersey. You know what, it started off as a friendly wager, but it turned into being one of the relationships I cherish the most in the political world. I've really come to appreciate Winkler. I've come to appreciate Henry Siemens. We've gotten together with our wives as well, and they seem to hit it off, and that helps. That definitely helps if you want to have a guy friend. It helps if they get along with your wife. But no, we've been able to bounce things off each other many times. We've met at different occasions, and any— at any time I can check my phone and there's a text. Okay. from Henry just with either a question or a comment. And it's been really great to be able to find a lot of similarities in our communities. We're generally, I think we're actually very much sister cities with them. So that's great. But in my opening today, I just wanted to talk about a few things that have been going on. I mean, I just love spring. Like spring, who doesn't? Everything's starting out again. Maybe the yard work I don't like, but other than that, I really enjoy spring, everything greening up. What we just, on Saturday, we just had our pickup and walk. That's one of my favorite days of the year when you see all these people, all the community come together like that and they're wearing the yellow shirt. There's community, there's, They're linked, they're joined together, and they're working on a common goal to make our city beautiful. And they totally did. The city's so nice. Every time I go for a ride or drive somewhere, I'm just, I find myself looking at the side and looking at the boulevards and our drainage ditches and noticing how clean they are and how green they, they look way greener if the garbage is out of the way. Thank you. And last week's Saturday was actually a very special Saturday because there was— we had a grand reopening of Steinbach Bowling Alley and Bistro. And so we— it was very busy 'cause we set off, get everyone going on the pickup and walk, make sure get the barbecuers going with the food, and then— Yeah. From there, I went to the grand opening, and it was just amazing. The hospitality of the Filipino people is incredible. And we— so we had, at 11 o'clock exactly, we started the opening— grand reopening ceremonies. And something— I've been to a lot of grand openings and reopenings, And this was the first time that I can remember they had a pastor there that prayed and prayed a blessing over the opening and their business and their customers. And I thought that was just so, so very neat that they would bring that into their opening. And, and I've always known that, that Filipino are people of faith, but they really live out their faith as well. And, and that was really exciting to see. Then we went inside and I felt like I was at the most fancy Asian buffet. There was so much food. And then they— there was— the tables were set with food, and yet now then they started barbecuing on top of that yet. So then we all had this— there was the Filipino barbecue skewers. They were just incredible. And we had such a fantastic time. But I will say— Cut. I did make a mistake because as I was going through And I was doing my opening there, and I was just flooded with memories of bowling. And you realize that it's been Deluxe Bowl since 1935. We've been bowling there since 19— well, I haven't, but we've been bowling, like Steinbach's been bowling since 1935, and it's been Deluxe Bowl that whole time. So as I'm cutting the ribbon, I officially Proclaimed Deluxe Bowl to be open. And then they all started laughing and they said, no, no, no, it's Steinbach Bowling Alley and Bistro. So we strung up a new ribbon and we did it all over again. That time I got it right. But, you know, they were so forgiving. I felt so bad. I felt horrible. But again, they were so forgiving and they— I said sorry. They laughed and met it with hugs. Wonderful, wonderful people. And I guess that has been the kind of week it's been. So, but it's been, it's been really great to be part of some really fantastic events in the last week and looking forward to many more and looking forward to a very warm and prosperous spring. Council, we have the agenda in front of us, looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We have the minutes of April 16th, uh, 2024, the regular council meeting. They are on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=373s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Is there any business arising from the minutes? Okay, seeing none, we will move to number 8, reports and recommendations from city manager. This is referring to a mess— some information from MIT about Main Street joint repairs. Mr. Warkentin, could you please introduce this file.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=374s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This was not on council's agenda as a particular item, but I just thought I would pass on this information that administration did receive notice from our local office, Manitoba Transportation and Infrastructure, on Monday, just advising that they have planned a concrete joint repair program Okay. For Steinbach's Main Street for this spring and summer with the intention to start the project as of Monday, May 13th. Unfortunately, I don't have any other details as to the duration of the project, but they do indicate that both the eastbound and westbound lanes of Main Street between Brandt Street and Kroeker Avenue will be affected. But I do anticipate that the appropriate notices and other information that's affecting both the businesses and the traveling public will be provided in due course.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=404s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. So this is a good heads up for our motorists to be alert and be aware that there will be some delays.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=466s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "That's right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=474s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=475s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "D",
    "label": "Susan Penner (Councillor)",
    "text": "Mr. Mayor, for you, can I ask a question?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=475s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Sure, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=478s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "D",
    "label": "Susan Penner (Councillor)",
    "text": "Do you have any update as to when Highway 12 will get repairs from MIT? There's some significantly difficult patches on the highway. I'm just wondering what the word is on that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=478s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "I don't have any information that's as good as this email that I'm referring to for Main Street, but I am aware that MTI has also been considering an asphalt overlay program along Brandt Street. And also PTH 12. To what extent and as to when the project might occur, that information we do not have.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=493s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "D",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=516s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Okay. Accounts— we'll move to 9, administration, accounts payable, back of the book. We've all had a chance to review. Looking for a motion to approve. Councillor Siemens. Motion to approve. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=517s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=535s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9B. This is the 2024 fee schedule resolution. Starts on page 4 of our package, council, and it lists all the fees that are there. I would imagine they've been checked by staff and topped up where it's necessary. And now we're just looking for a motion from council to approve these and adopt.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=535s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Actually, just to accept the report.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=569s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Just to accept the report? Okay. So we're looking for a motion to accept, council. Councillor Zwaagstra. Second. Seconded by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=571s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is just a report on our fee schedule. There are a lot of services that the city provides, whether it's the Aquatic Centre or building permits or park rentals. And the point of our fees is obviously recover our costs. And so the— it's an extensive list here, and it's important that we make sure that our fees are updated regularly so that way the city is recovering our costs.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=581s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=605s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. Yeah, just to echo Councillor Zwaagstra, going through these, I mean, you're looking at a lot of the fees that are attached to items are are on a cost recovery or negative. Uh, there's— this isn't a moneymaker for the city. This is a, uh, recovery to provide a service. So yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=607s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything closing? Call for the question. All those in favor? Opposed? That is carried. We have 9C. The— we have the Bylaw 2243. This is the tax certificate fee bylaw. We're going to do second and third reading today. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=625s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Bylaw 2243 was introduced at the last meeting and the first reading was passed by council. This bylaw is to update the tax certificate fees that the city does charge for when those requests come. It has been some time since the fee has been updated and this bylaw will authorize the increase of that fee from $25 to $45. And recommendation is that council give this bylaw second and third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=648s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, how would you like to proceed? Councillor Siemens?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=677s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=682s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=682s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you. This is also an increase in a fee that we charge for tax certificates, usually requested by a lawyer, that contains information about property and all the relevant documents that are registered against the property. And we issue between— usually between 400 and 700 annually. So this is a fee increase, and generally it's requested by the lawyers. So it's time we increase those fees too. It's been 17 years since we did that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=687s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Anything further of council? Anything in closing? No, sir. Call for the question. All those in favour of second reading? Opposed? That is carried. We'll go directly into third reading, looking for a motion. Councillor Penner, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=717s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "D",
    "label": "Susan Penner (Councillor)",
    "text": "No, I have nothing to add.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=736s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? I'll call for the question. All those in favor? Opposed? That is carried. We've got 9D, which is bylaw 2247. This is referring to the 2022 Bylaw 224, Realty Education Tax Levy Bylaw. And this too, council, will be second and third reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=737s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. Bylaw 2247 is the city's 2024 Realty and Education Tax Levy Bylaw. Again, first reading was provided earlier or at an earlier meeting by council. Just in summary, this bylaw does authorize the approval of the city's combined mill rate 14.4 mills for 2024, a mill rate for the provincial ESL levy of 8.128 mills, and the mill rate for the Hanover School Division levy of 12.74 mills to be reflected on the city's tax bills. Recommendation is for council to give this bylaw second and third readings.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=764s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=803s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make the motion for second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=808s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=813s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is our budget, and we had approved this in principle a few weeks ago when this was first presented. We approved first reading just a couple weeks ago as well, so it makes sense that we're also going to approve second reading, and then I have a— I predicted maybe third reading as well. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=815s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=832s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "No further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=835s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Nothing in closing? Call for the question. All those in favor of second reading? Opposed? That is carried. We'll go directly into third reading. Looking for a motion for third reading. Second by? Councillor Siemens. Okay, go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=836s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further to what's already been said.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=857s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Call for the question. All those in favor? Opposed? That is carried. Okay, we got 9E. This is the bylaw 2248. This is the business tax levy bylaw, and we're doing also second and third reading as well as that. Starts on page 18. Uh, Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=858s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. As you noted, bylaw 2248 is the city's 2024 business tax levy bylaw. Uh, Recommendation is for council to approve both second and third readings. This particular bylaw is— has been set with a business tax rate of 0.5%, which is unchanged from last year. Recommendation is for council to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=881s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Council, would you like to proceed? Councillor Zwaagstra.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=905s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make the motion for second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=910s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=911s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "E",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Well, thank you, Mr. Mayor. Last month we approved— I'll skip all that. Let's go with second reading. Let's go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=915s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=920s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. And we'll go directly into third reading. Motion to approve, Councillor Hiebert, seconded by— all right, Councillor Siemens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=922s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "As Councillor Michael Zwaagstra said, we don't need to have any further comment on this. I don't need to have any further comment. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=940s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "E",
    "label": "Unidentified speaker",
    "text": "Hear, hear.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=948s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor of third reading? Opposed? That is carried. We have 9F. We've got building permits for April 2024. It's on page 21. Looks like we've had a good month. Looking for a motion to approve. Councillor Susan Penner, seconded by Councillor Penner, Damian Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=949s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "D",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. It looks like our single and two-family units Are increasing. More than half of the total year's permits taken out have been taken out in the past month. And if you look at the totals, we see what maybe we're more used to, whereas there— we were earlier in the year, we were seeing heavy commercial and hardly any residential, and now we're actually seeing the opposite of that. So it always seems to balance itself out as the year goes on. But yeah, it's good to see so many housing starts. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=972s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=1004s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. 22 more family dwellings is 22 more families, and I look forward to welcoming them to our community.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=1006s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "That sounds good. Anything further, council? Anything closing? Council, yes, this is a, this is a great month. And as, as Councillor Penner did already state, that last year was a year of commercial and industrial. And this year, this month for sure has been all residential. So that's how, that's how we get our averages and that's how they ebb and flow and that's just how it just makes sense in the city. Call for the question. All those in favor? Aye. Opposed? That is carried. Are there any questions of council? Okay, seeing none, we'll move on to correspondence and petitions. We've got one, Seine River Rosa Watershed District minutes for March 19th, 2024, March 21st, 2024, and March 28th, 2024. Council, would you like to proceed, take his information? Okay. We have no other business. Looking for a motion to adjourn. Councillor Hiebert, seconded by Councillor Penner. Call for the question. All in favor? Opposed? That is carried. Next council meeting is Tuesday, May 21st, 2024 at 7:30.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lcMmAtJTiww&t=1013s"
   }
  ]

@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Anything further, Councillor Hiebert?' (00:12:29) to the 2nd-reading seconder of By-law 2268 (minutes R25-246 seconder B. Hiebert) -> B 00:12:34; chair 'Councillor Bill Hiebert, seconded by Councillor Jake Hiebert. Go ahead.' (01:09:34) -> B 01:09:39 (minutes R25-259 mover B. Hiebert); B 'No comments.' 00:05:11 as minutes mover (R25-243), 'No further comment' 00:59:52 as seconder V-2025-36 (R25-250), 'No comment.' 01:00:30 as accounts mover (R25-251), 'Again, just housekeeping.' 01:01:51 as minor-variance mover (R25-253). Pitch 143-155 Hz on council turns, consistent.",
-   "notes": "B also carries the applicant at 00:48:31, 00:48:48, 00:49:15 (pitch 124-128 Hz, content is the developer's) and the chair's 'All further comment?' 01:04:20 - overridden."
+   "evidence": "Chair 'Anything further, Councillor Hiebert?' (00:12:29) to the 2nd-reading seconder of By-law 2268 (minutes R25-246 seconder B. Hiebert) -> B 00:12:34; chair 'Councillor Bill Hiebert, seconded by Councillor Jake Hiebert. Go ahead.' (01:09:34) -> B 01:09:39 (minutes R25-259 mover B. Hiebert); B 'No comments.' 00:05:11 as minutes mover (R25-243), 'No further comment' 00:59:52 as seconder V-2025-36 (R25-250), 'No comment.' 01:00:30 as accounts mover (R25-251), 'Again, just housekeeping.' 01:01:51 as minor-variance mover (R25-253). pitch checked on council turns, consistent.",
+   "notes": "B also carries the applicant at 00:48:31, 00:48:48, 00:49:15 (pitch checked, content is the developer's) and the chair's 'All further comment?' 01:04:20 - overridden."
   },
   {
    "label": "C",
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Zwaagstra.' (01:02:55, 01:05:43) -> D 'Motion to approve.' and speech, minutes movers M. Zwaagstra (R25-254, R25-256); D moves the subdivision (00:08:23, minutes R25-245 M. Zwaagstra) and V-2025-36 (00:58:13, R25-250); B says 'I think Councillor Zwaagstra said it all' right after D (00:59:52); chair 'seconded by Councillor, um, Michael Zwaagstra' (01:09:50) then D speaks as seconder (01:10:42, R25-260). Pitch 95-103 Hz.",
+   "evidence": "Chair 'Councillor Zwaagstra.' (01:02:55, 01:05:43) -> D 'Motion to approve.' and speech, minutes movers M. Zwaagstra (R25-254, R25-256); D moves the subdivision (00:08:23, minutes R25-245 M. Zwaagstra) and V-2025-36 (00:58:13, R25-250); B says 'I think Councillor Zwaagstra said it all' right after D (00:59:52); chair 'seconded by Councillor, um, Michael Zwaagstra' (01:09:50) then D speaks as seconder (01:10:42, R25-260). pitch checked.",
    "notes": "D 00:08:26 ends with the chair's 'Anything further?' (split)."
   },
   {
@@ -45,7 +45,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Penner.' / 'Go ahead, Councillor Penner.' (00:11:14-00:11:58) -> E motion and speech, minutes R25-246 mover S. Penner; same at 00:52:16-00:52:20 (R25-249 mover S. Penner); 'Councillor Susan Penner, seconded by Councillor Jake Hiebert' (01:07:41) -> E 01:08:17 (R25-258); chair 'like Councillor Susan Penner said' (01:06:38) refers to E 01:04:08; Damian Penner excused (R25-244). Pitch 172-182 Hz (female voice).",
+   "evidence": "'Councillor Penner.' / 'Go ahead, Councillor Penner.' (00:11:14-00:11:58) -> E motion and speech, minutes R25-246 mover S. Penner; same at 00:52:16-00:52:20 (R25-249 mover S. Penner); 'Councillor Susan Penner, seconded by Councillor Jake Hiebert' (01:07:41) -> E 01:08:17 (R25-258); chair 'like Councillor Susan Penner said' (01:06:38) refers to E 01:04:08; Damian Penner excused (R25-244). pitch checked (female voice).",
    "notes": "E 00:17:08 'I made the motion. You made the motion already. Yeah.' may mix two voices."
   },
   {
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "F's short council turns match minutes J. Hiebert roles: 'Motion to approve.' 00:20:05 for 3rd reading of By-law 2268 (R25-247 mover J. Hiebert); 'Nothing further, thank you.' as seconder 01:01:17 (R25-252), 01:01:56 (R25-253), 01:03:27 (R25-254); F 01:11:36 'Thank you, Mr.' runs straight into G's 'Mayor. As you indicated...' after the chair names 'Councillor Hiebert' (R25-261 mover J. Hiebert), same pitch (112 Hz) as G 01:11:37. Chair never names him directly at F's turns.",
+   "evidence": "F's short council turns match minutes J. Hiebert roles: 'Motion to approve.' 00:20:05 for 3rd reading of By-law 2268 (R25-247 mover J. Hiebert); 'Nothing further, thank you.' as seconder 01:01:17 (R25-252), 01:01:56 (R25-253), 01:03:27 (R25-254); F 01:11:36 'Thank you, Mr.' runs straight into G's 'Mayor. As you indicated...' after the chair names 'Councillor Hiebert' (R25-261 mover J. Hiebert), same pitch ( (pitch checked)) as G 01:11:37. Chair never names him directly at F's turns.",
    "notes": "Merged letter: also carries Resident 1 at 00:26:57, 00:29:03, 00:35:16 (overridden). Jake Hiebert is split across F and G."
   },
   {
@@ -168,7 +168,7 @@
    "title": "Applicant (developer)",
    "organization": "Neustaedter Holdings Inc.",
    "confidence": "medium",
-   "reason": "'I should have taken that picture too' - the applicant who took the photos; pitch 128 Hz vs Bill Hiebert 143-155 Hz this meeting. Opening words may be Resident 2 (see review)."
+   "reason": "'I should have taken that picture too' - the applicant who took the photos; pitch checked vs Bill Hiebert (pitch checked) this meeting. Opening words may be Resident 2 (see review)."
   },
   {
    "time": "00:48:48",
@@ -178,7 +178,7 @@
    "title": "Applicant (developer)",
    "organization": "Neustaedter Holdings Inc.",
    "confidence": "high",
-   "reason": "'we thought this was the most important one to kind of meet their satisfaction' - the applicant's photo choice; pitch 124 Hz, not Bill Hiebert"
+   "reason": "'we thought this was the most important one to kind of meet their satisfaction' - the applicant's photo choice; pitch checked, not Bill Hiebert"
   },
   {
    "time": "00:49:15",
@@ -188,7 +188,7 @@
    "title": "Applicant (developer)",
    "organization": "Neustaedter Holdings Inc.",
    "confidence": "high",
-   "reason": "replies 'That's correct' to the chair's 'Just a question for you, Mr. Neusteder' and mentions his presentation; pitch 124 Hz"
+   "reason": "replies 'That's correct' to the chair's 'Just a question for you, Mr. Neusteder' and mentions his presentation; pitch checked"
   },
   {
    "time": "01:04:20",

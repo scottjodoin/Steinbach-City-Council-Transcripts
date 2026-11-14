@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Lead with listening, curiosity, and respect, even when we don't all end up on the same page. Good local leadership means approaching each issue with openness and a willingness to understand perspectives different from our own. When we do that, even difficult conversations can lead to better outcomes. At the end of the day, what makes local politics so rewarding is that it is often the most accessible level of democracy. For many residents, City Council is the place where they feel their voice matters most. That places a responsibility on all of us around this table, and those yet to come, to conduct ourselves in a way that builds the trust of those we serve through transparency, civility, and thoughtful decision-making. My hope is that whoever ends up at this table in October will continue to focus on people rather than politics, and on collaboration rather than division. When we keep the long view in mind and remain grounded in the values that have shaped Steinbach, we position our city to grow in a way that benefits us all. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us. Looking for a motion to adopt. Councillor Hiebert, seconded by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. Council, we have the minutes of January 6th, 2026, the regular council meeting on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments? No comments. Call for the question. All those in favor? Opposed? That is carried. Council, are there any business arising from the minutes? Okay, seeing none. We have no public hearings, no delegations. We'll go directly into reports and recommendations of the city manager. We've got 8A. This is the library regionalization. We've got a report in front of us. Mr. Warkentin, would you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=59s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. The report that is before council is quite lengthy. There are a few parts to it. Some of the documents have been provided by Manitoba Public Library Services, and a report or comments at the end of the package has been provided or presented This is a report presented by administration. The overall package is in response to a 2024 proposal from Public Library Services to investigate the feasibility of establishing a regional library in southeastern Manitoba. Council did approve the appointment of 2 members of council to this library working group, and this working group has now completed its work and resulted in the report that is attached. These recommendations and supporting information are for council's consideration to help in making a decision as to whether to proceed with regionalization for Steinbach and area or not. I did also in my report noted that information from the board of the Jake Epp Public Library would be provided and that unfortunately Not available, so is not forming part of this package. And if council feels that is critical to proceeding with any decision, it could table discussion on this matter, or if council chooses, could proceed to move to a decision or a strategy directly at this meeting. If there's any questions from council, I'd be happy to, to answer them if I Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=119s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "You, Mr. Wardney. Council, I'm okay with discussing this at this point. I will ask Councillor Jac Siemens, you are on the library board. Do you have the answer that the library board has given? 'Cause I know they've talked about it, even though those minutes will only come back to us once they've been approved. But are you at liberty to, to reflect what the library board has talked about?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=222s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "There was a discussion at the December 2025 meeting, and it's officially in the minutes. Those minutes will be adopted at the next library board meeting, which will be on January 29th, and be made available to council. But I can speak on behalf of the library board.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=252s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, well, I'm comfortable discussing it if the rest of council is also Okay, Councillor, would you like to proceed?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=267s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "I would like to make a motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=277s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, go ahead, Councillor Siemens.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=278s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. The motion reads, for the City of Steinbach to formally end its participation in the library regionalization process for southeastern Manitoba as currently led by the Public Libraries Services and continue the status quo that the Jake Epp Library continue to operate as they always have.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=280s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder for that? Councillor Ebert, go ahead. Go ahead, Councillor Stevens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=299s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. Explanation: in September 2024, 18 municipalities of southeastern Manitoba were invited to be part of a working group to investigate the possibility of developing a larger regional library system for southeastern Manitoba. 10 municipalities, including Steinbach, agreed to be part of the working group. The working group was facilitated by Public Service— Public Library Services, or PLS, staff led by Megan Hansen and Roger Langlois. The group met 6 times between March and October 2025. The intended outcome was to pursue and develop the development of a regional library system that would support all 110,000 residents of southeastern Manitoba. Each meeting, a different aspect of what a regional library would look like was explored, and it would— and what it would look like for the participating municipalities. In the documents included in the council package, the vision for the library is more thoroughly outlined, including the regional board makeup, the funding formulas that would indicate the financial implications to the participating municipalities. During the different meetings, we heard from and spoke to a number of different regional libraries operating in Manitoba jurisdictions. Each operated differently, and we found out that no new regional library has been formed since the late 1970s. Southeastern Manitoba is the only part of the province that does not currently have a regional library. Majority of the regional libraries were built one community at a time, one library at a time, unlike what is being proposed at this time for southeastern Manitoba. Prior to the working group being formed, dating back as As far back as the early 2000s, Steinbach has been a voice and a supporter for a larger regional library. Many different discussions have been had, including myself being on the library board in 2006-2007. The board dreamt of what a larger regional library might look like to service Steinbach and area. This last regionalization effort was, for the most part, initiated by then Steinbach Council Councillor Bill Hiebert, as he was on— as the Jake Epp Library board sought various places besides the City of Steinbach budget to increase funding. At that time, Councillor Hiebert made a number of presentations to neighboring municipalities to join the Jake Epp Library, which in turn would provide the Jake Epp Library with additional provincial funding. At this time, it is my understanding that the majority of municipalities involved in the working group discussions have said no to the current model being proposed by the PLS. This is an important juncture for the communities to commit to being part of the process moving forward. If we were to continue with the current model, more detailed discussions would be held regarding the structure of the board, funding model options, and firm up what the cost to member municipalities would look like and what the operating agreements would look like. While I make the motion to not continue with the current model, I don't want to completely say no if regionalization discussions come up again. The process has been enlightening for myself and others in the working group. Much work was put in by Megan Hansen, who did much of the legwork, communication, and leading of the discussions. One piece of the regionalization that was changed in early 2023 was the funding formula for regionalization. It used to be that 3 municipalities would be an advantage if they got together as for a regional library by joining forces. That funding model was changed in 2023, where now it is only an advantage with 6 municipalities actually joined together. The board of the Jake Epp Library had many discussions as we worked our way through the working group meetings. The financial models presented, plus the board makeup of one council member and one member at large from each of the participating municipalities were discussed at length, as these 2 pieces alone represented too many unknowns to the board. After the final reports were discussed at the board meeting in December, uh, in 2025, the recommendation to council is to recommend not proceeding with the regionalization initiative at this time. The primary reasons given are Unknown financial implications for the city and the Jake Epp Library, and loss of control or autonomy of the Jake Epp Library board. For those reasons, I make the motion to end this investigation to the library regionalization process as currently proposed by the PLS, but continue the status quo that the Jake Epp Library continue to operate as we always have.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=304s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=589s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. Councillor Siemens has pretty well laid it all out, but I just want to go back to '22 when I was appointed to the Jacob Library board. We had board chair at the time was Jackie Braysky, and we talked about regionalization. It had been talked about over the years and it looked like a really good plan. So myself, Jackie, and Mayor Earl Funk got together and we decided that this is something we should pursue. And so I made contact with all these municipalities and most of the municipalities at the time Seemed somewhat interested, and we met with all the municipalities here. I think it was 19— uh, 2023 at City Hall here, and there was quite a bit of interest. But after realizing, and which Councillor Siemens has talked about, is the formula model— the funding formula has totally changed over in 2023. So with that, and with most of the municipalities having said no at this point, It doesn't make sense to move on, and I totally support, uh, the motion that Councillor Siemens made.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=592s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further of council? Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=655s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. First of all, I do want to express my appreciation for Councillor Bill Hiebert and Councillor Jac Siemens for the work they've done on this. I know this has been a tremendous amount of time that they've spent on this, and just because we're not going ahead with it does not mean That process was a waste. We don't know what we don't know. And this is something— perhaps we've all sat on the library board at one point, but I did as well. And this has just been something that's been talked about my entire time. I've been on council for 15 years as well. So the only way to figure out if that is something we can do or not is to do the work. So just because maybe the outcome isn't what maybe we hoped for or expected, the work needed to be done for us to get to this point. So I support the motion, and I appreciate the work that was done to help us come to this conclusion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=659s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Go ahead, Councillor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=712s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll support the motion as well, and I concur that I appreciate the work and the leadership by Councillor Siemens and Councillor Bill Hiebert on this. The, the work and effort that went into this is significant, and I think it's good that we took the time to, to look into this. It's disappointing that a regional The organization does not work for us. And I think what's particularly noteworthy is that out of the 18 municipalities that were initially part of this, the vast majority have said no before this has even come to us here. And we obviously aren't going to get anywhere close to the 6 municipalities that we would need in order for this to be a financial improvement from what we currently have for the library. It's unfortunate that the funding formula was changed in 2023. And I think it sends a clear message that we need to have a better— basically a better set of rules from the province in order for this type of thing to be feasible. Because obviously, if almost every municipality that was part of this working group that was interested and was looking at and exploring it have all said no independently, clearly there's something wrong with the new formula that's been put in place. If it's, if it's, if it's a system that, that does not work for the vast majority of municipalities. So I am glad that we, we did our due diligence and looked into this, and it doesn't mean that it won't happen at some point in the future, but under the current rules that are set in place, it just does not make sense for us. So I concur with the motion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=716s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=804s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, I'd like to speak to a little bit further that, that I didn't speak to. Of the 10 municipalities that were part of the working group, 8 have indicated that they would not move forward. So there's still 2 others that we have not heard from, and so their councils need to make those decisions. Those are the 2 that are currently building a library. And so I don't— I appreciate the response, but I think we need to leave the door open as well for potential regionalization to help those communities that want to build a library, that are building a library, that will need help. Thank you. Potentially, but just under this specific model that was led by PLS, it doesn't work. And so we need to look at that. The other thing is the municipalities that said no. When I met with 3 different municipalities to have discussions on this particular model, that was part of the working group's role. And, and when we would meet with them, we— they would It's always the same concern. What's the cost and what are we getting for that dollar? So for a municipality, a smaller municipality in southeastern Manitoba that doesn't have a central community like the Armour of Piney, for example, and their residents, and when you put out the number that approximately $10 per capita is what we were talking about, plus the cost of the building, though that's new money that they'd have to come up with. Right. Steinbach is in a position where we already fund the library, we already have that money in place. For another municipality then that has to find $10 per capita for their municipality to be part of this, and yet still not have a physical library in their municipalities, it's a very different way to look at what the obligations are for them. So that, for that reason, a lot of them said no as well. But I think at this time, it does, we need 6 municipalities to make it advantageous, financially advantageous. That's one of the biggest reasons that we took part in this, and it just, uh, it won't work at this time.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=809s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Well, council, um, Councillor Hiebert, as you know, we have been, we have been talking about this since 2020, and I remember this on council right from the start. This has always been and been a concern, and this is always something that's been talked about. I think it was great that we had the working group. I want to thank the working group for what they've done and the information that they've provided for us, and it's helped us make this decision. The fact that we're not going with it right now has, like, I'll just reiterate, doesn't mean it's over. This discussion's not done. Right. Like, when a different time comes, a better funding model comes, a better governance model comes, We can talk about it again. One of the downsides is a majority of the communities have pulled out that were on that working group, and that's unfortunate. So that doesn't leave enough municipalities left for us to get the 6 municipalities that's advantageous. But, Councillor Hiebert, you know, one of the things I've always been concerned with was the funding model, which has always been unknown and been unclear. Right. And somewhat even unfair to other municipalities that have nothing. And the governance. One of the biggest things I never wanted our library to do is to lose our autonomy in this. Mm-hmm. And even some of the municipalities that pulled out, they're pulling out because they might be Francophone communities. They don't want to lose their autonomy either. And this is something that this policy will have to be rewritten and reworked so that there is that availability, that we can actually keep our autonomy and keep operating as we are and yet work cohesively together. But that's something for PLS to keep working on. And as they change and as they rewrite their policies, maybe this becomes a discussion again. It's not— it's no for now, but it's not no forever. Call for the question. All those in favor? Opposed? That's carried. Okay, council, we've got 8B. This is land purchase referring to 148 Hanover Road East on page 63 in your package. Mr. Warkentin, could you please introduce this Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=931s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "You, Mr. Mayor. The subject property has been listed for sale for, to my knowledge, not quite 2 years, and while the city has recognized that there may be opportunities for further consideration, administration did feel that it Thank you. I believe that it was an appropriate opportunity for the city to make an offer to purchase the subject property. While there is no imminent opportunity to incorporate the subject property into the city's landfill operations, and that facility is immediately next door to the west of the subject, in the near term, Recommendation is that this property would provide a good opportunity for general administration use and purposes until such time as this parcel of land is needed for landfill and/or related services. And recommendation from administration is that the city purchase— or that city council authorize the purchase of this particular piece of land for $450,000 from [name withheld] with possession to be on June 18th, 2026.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1082s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1167s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1172s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1174s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is an opportunity to purchase the parcel of land at 148 Hanover Road East. As we know, the City of Steinbach does sometimes make land This is one of those purchases. We, of course, saw many examples of that in the downtown area where for many decades the city was purchasing property for a project that at the time we didn't know what it was. Of course, we now know what it is. It's an event centre. In this case, we have a property that's right by the landfill and we have an opportunity to purchase it. It does create opportunities for future uses in regards to the landfill. And as the city manager had outlined, while there— it would not immediately be used for landfill purposes, it does make sense for the city to acquire it. We know that the city is continuing to grow and that it makes sense to have some expansion opportunities in regards to the landfill and some of the different ways that things there are used. The money that is being used to purchase it comes from the city's environmental reserve fund. from fees and such that have been accumulated from— at the landfill over the years. So this has no impact on the mill rate. And so considering all those things, I think it makes sense to go ahead with the purchase.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1176s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1248s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1250s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "This piece of land that we're talking about is 6.7 acres on the west side of the It's a 6.7-acre parcel that's adjacent to the landfill, and it also has a shop on it that's 5,400 square feet. And when we look at the price for 6.7 acres at the cost that's been suggested, it appears to be on target of what land is selling around the area right now or cheaper. So I think it's a good investment. Mandate of certain number of years left. So to be able to use this for other purposes would be very beneficial.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1252s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything closing? Call for the question. All those in favor? Opposed? That is carried. We'll move into administration. We've got number 9A, accounts payable, back of the book. All had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1296s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1325s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Question, all those in favor? Opposed? That is carried. We've got 9B. This is rezoning bylaw 2266, is referring to 635 and 641 Main Street This will be third reading. Uh, Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1326s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Uh, thank you, Mr. Mayor. This, uh, bylaw, uh, was the subject of a public hearing, uh, of council, uh, earlier in the fall of 2025. Uh, this, uh, was a proposal to rezone the subject property from RLD, residential low density, to RMD, residential medium density, to permit the development of multifamily structure on the site. All of the requirements related to the conditional approval of council have been met. Administration now recommends that Bylaw 2266 may be given third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1347s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you very much. Council, would you like to proceed? Councillor Penner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1381s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1387s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1388s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you. We already discussed this at the public hearing, but I'm really looking forward to this project Thank you. So this is becoming a reality. It's a bit of a new model for Steinbach in terms of having studio suites. It'll be quite affordable and also be a great option, you know, for single people or new couples who just need a small space and want to, you know, get affordable housing. So this is something I don't know that we have in our community right now. So I think it's going to, you know, be a big benefit.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1390s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1422s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "G",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. Yeah, this is to rezone from RLD to residential medium density for creation of 36 units, which is great. There's already been development in the 600 block of Main Street, just off the central business district. And this is really, really nice to see that we're",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1422s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Seeing a little bit of density creep outside of just off— just out of the central business district. As we see more residential, more density come into the peripheral areas, and you'll also see businesses come with it as well, you see a larger, larger area grow. So this increased density just going off of it is going to spur more, as was seen with the 20 units that were at 593, the 6 units at 600 Main Street, and now the 36 units coming up, bringing density a little bit further down Main Street. Which was great to see.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1441s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything— thank you. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1474s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1480s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, council, as was said, this is a great, great plan. You know, yesterday I had the opportunity to meet with Steinbach Community Outreach, and we did talk about this project, and they are excited because this will give affordable housing to some of their clients, right, that this is exactly what our community needs. And it's great to see a developer with their fingers on the pulse of our community and filling a need of— in housing, in exactly what we need. Call for the question. All those in favor? Opposed? That's carried. 9C, designate tax sale year 2023. This is the resolution of council. It's on page 86. Mr. Warkentin, could you please introduce this?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1481s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thanks, Mr. Mayor. This proposed resolution and also the related one that appears on page 87 of council's agenda package is an annual administrative process. Administration does recommend I'd like to recommend for council to approve both resolutions as they relate to the city's ability to actually proceed with tax sales of properties due to nonpayment of taxes if necessary.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1537s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council. So we'll take— we'll do both resolutions. We'll do them one by one. We'll first take the designated tax sale year, and that'll be by resolution for 2022. 2021, um, and for properties in, in 2026. Council, uh, can I have a motion to approve? Councillor Hiebert. Second by Councillor Hiebert. Go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1564s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. As indicated by our administration, this is an administrative procedural, uh, to, uh, for the tax sales of real estate in case people don't pay. So it's administrative, just giving our administration permission to go ahead with it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1593s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Any further?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1613s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "No further comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1615s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We'll go directly onto page 87. This is the to appoint a tax sale manager resolution. So looking for The motion to be it further resolved, City of Steinbach, Donna Zing Qiu, Vice President of Tax Service Inc., be appointed as the tax sale manager for the City of Steinbach. Looking for a motion to approve that. Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1616s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "I will do so.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1650s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Councillor Siemens made the motion, seconded by Councillor Penner. Any comment?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1651s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "No comment, nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1658s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9E, zoning bylaw 2245. This is also third reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1660s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This particular bylaw has been in process for a rather long period of time. So I am pleased in presenting it for council's consideration for third reading. Administration proceeded down the path of updating its zoning bylaw and also its official community plan in 2023. This now is the final step in that process. During the review and approval process for zoning bylaw 2245, The city did hold its required public hearing on April 1st, 2025. However, due to objections that were registered at that time, that prompted the requirement for a further hearing by the Manitoba Municipal Board, for which that hearing was held in fall, and the municipal board did issue its ruling late last year. Which found that it had no concerns with the city zoning bylaw as proposed, and as a result, no recommended or ordered changes were included in its report to the city of Steinbach. And based on that, I am able to recommend that city council give bylaw 2245 3rd reading, and upon which, uh, that being completed, uh, the new zoning bylaw for the City of Steinbach will be enacted.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1675s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Council, looking for a motion for 3rd reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1772s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Make a motion for 3rd reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1779s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1781s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. This has obviously been an extensive process, as it should be. We review our zoning bylaw every 5 Yes. We review our bylaws every 5 years and make changes accordingly. And in this case here, we made a number of changes. The bylaw has been reorganized and actually shortened to make it more readable and user-friendly. There's been some changes in regard— in the central business district, the planned overlay district. Required parking has been reduced by 1/3 for all uses. And again, this is about trying to encourage more development in the central business district and sort of to reduce some of the regulations there. There have been some changes on the map. For example, the Steinbach Arts Council is now designated educational institutional as opposed to open space. The category of emergency residential shelter has been added in to indicate that it is a conditional use, and so on. So these are changes that we have— we've done a lot of work on. We've had the necessary public hearings, and this has now gone to the municipal board, and the municipal board carefully reviewed the zoning bylaw and looked at the objections and concluded that our zoning bylaw is good as it is and that there were no need for— to make any changes to the revisions we had already made. So I'm very happy that we can finally give third reading and have this new zoning bylaw with all the regulations in it in effect as of now.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1787s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1873s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you. No, that's all.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1877s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1879s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1883s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour of third reading? Opposed? That is carried. 9F, we've got excavator licenses on page 105. Looking for a motion to approve. Councillor Penner. Second. Aye. Aye. We won't call for the question. All those in favor? Opposed? That is carried. You're supposed to have a story. 9G, building permits for December 2025. Council, we had a great year. We really did. But it's not just a great year all on its own. This comes— this is a record year. For housing starts, we've got total dwelling units were 365, and I think it was Councillor Penner on Friday we met in my office and you had said 365 days in the year, 365 homes added. Yes. You know, one a day. That is amazing. Another thing we had, we had a record year last year, and the year before, we had a record commercial year with well over 200 million permits. So this is just, this is year after year, this is just laying on another foundation of rapid accelerated growth in our community, and that's what's so exciting. I don't want to take all the highlights out of this, but that's just what I wanted to say. Thank you. As far as we're looking at unprecedented growth over years. When you look at the last 3 years, we're looking at well over $400 million value of permits. That is, that's phenomenal for growth like that in our community. Council, looking for a motion to approve these permits. Councillor Susan Penner. Second by. Councillor Penner, go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=1884s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Well, you did pick out some of the highlights, which is good. Um, so I won't repeat what you said, but what I will say is I notice regularly when people come to Steinbach who haven't been here for a while and they see what's happening, they just inevitably comment like, what on earth? I know I have a sister who visits occasionally and she said it like every time she comes here, it's She can tell that the community's growing. And I know even when we had the Grand Slam of Curling, people who'd never been here before and had kind of only heard about Steinbach and made assumptions, so many of them were blown away by our community. Doctorate recruitment. The mayor and I met with a couple of potential doctors a few months ago, and one of them had said when he heard we were a rural community, like, he thought he was coming to a village. the first time he was coming here, and he drove into Steinbach and he didn't think it would— this could actually be the, the rural place they were talking about. Um, so it just goes to show that our community has really changed and is really— momentum continues to build when it comes to growth. So it's really exciting to be a part of.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2010s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2084s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Yep. You know, this is something that on council we've been— well, we were having our, our heavy years of commercial, we were saying, well, it's ebbs and flows, it's ebbs and flows. You have heavy years of commercial and then it's usually followed by heavy years of residential. And that's the case here in 2025, approximately about 2/3 of the permit value was to residential and 1/3 to the commercial. And you see that ebb and flow of you need to have commercial to then spur residential and vice versa. But the way that the rate that Steinbach's growing here at 365 dwelling units added this last year. Hopefully we'll have a leap year coming up in a couple years, so it'll be at least 366 that year. It's great to see, but we still are in a vacancy pattern where it is— there's very low vacancy. And with seeing about 2/3 of the dwelling units added being multifamily, that's helping to alleviate that as well. Thank you. And I hope to see that there's continued interest in the developers, there's continued fortitude amongst us on council to make sure that we're being— we're working well with developers as well and ensuring that we can get as many homes as are necessary and needed into the community to go forward.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2088s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2166s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2171s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Go for the question. All those in favor? Opposed? That is carried. We have 9H, the municipal board resolution. This is referring to the assessment appeal, Barkman Concrete. That is on page 107. Uh, Mr. Warkentin, is there anything to introduce, or do we just, uh, accept The new amounts and the—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2172s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Well, the municipal board ruled on the assessment that was under appeal by Barkman Concrete, and due to the ruling, which was in shorter terms to reduce the assessed value that was originally set for the property, that has resulted In a tax adjustment, and that's found on page 107 of the agenda package. Recommendation is that as a result of that municipal board order, that council adopt the realty tax adjustment as proposed.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2200s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Council, looking for a motion to adjust the realty tax assessment. Councillor Siemens, seconded by Councillor Hiebert. Go ahead, Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2236s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "D",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. When people aren't happy with their assessed value, they have the right to appeal to the municipal board. And so this was a decision of the municipal board, so it's our obligation to accept the recommendation.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2247s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Nothing further. Okay. Call for the question. All those in favour? Opposed? That is carried. We've got 9i, the 2025 lottery license. On page 112, looking for a motion to approve. Councillor Zwaagstra. Second by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2264s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. We'll take a chance on this one.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2288s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "E",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "No further calls for",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2290s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "The question. All those in favour? Opposed? That is carried. Are there any questions of council tonight? Seeing none, we'll move to correspondence and petitions. We've got 11A, JCAP Library minutes of November 19th, 2025. Council, how would you like to proceed? Take as information. Okay, and we've got 11B, the Manitoba Transportation Infrastructure Emergency Management Organization is referring to the Yes. Disaster financial assistance request. Council, they did send a letter to Mr. Adam Thiessen denying our request for the disaster financial assistance. One of the things looking over this letter, I see the criteria is very vague, council. You know, the 3 criteria is damages from the event are widespread, And affect a large area of number of residents. I actually felt that that happened. Damages from the event are mostly uninsurable, and damages from the event represent a significant financial burden. These are very vague. Council, I'm wondering if you would join me with my resolution asking the province for clarification on On this, like what are— what the thresholds are? What is the— like what can a community get for disaster financial assistance? Or is this just something that isn't funded and you apply? 'Cause we did a lot of work applying for this and a lot of people, residents did a lot of work applying for this and then just to hear no. No. I, like, I, and then to get this vague, you know, these vague criteria, I just, I just, I just can't be happy with that. And council, I just wondered if that is something that you could join in with and make a motion to ask the province for clarification. Yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2294s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "I'll make the motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2431s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Fraser. Okay, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2433s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "As everyone knows, we are property flooded twice the last 25 and 24. And when I look at the points they're talking about in terms of criteria, I would say a wide and large number of residents were impacted. It was hundreds. I would say that event are most in terms of insurance, Countless people have contacted me and said they were not insurable in 2025 because they flooded in 2024. So I would say from what I've been hearing, we would qualify for that point as well. And in terms of damages from the event representing a significant financial burden, I don't know what the province considers a significant financial burden to a homeowner, but the financial burdens were extensive for the people, particularly the people who have flooded twice in 2 years. So I'm happy to support the resolution.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2436s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2495s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I certainly support the resolution, and I think we have a right to get some more information. And, you know, what counts as widespread? What counts as significant financial burden? What's the specific criteria? Is that— is it a percentage of properties? We had hundreds of people that were affected, as has As has been noted. And I'm going to go so far as to say I suspect that there aren't clear criteria. That's why this is so vague and it becomes very subjective. And if that's the case, that is unfortunate. But if the point of this is to be— is for it to be a provincial disaster financial assistance program, then the criteria should be clear and transparent so that people don't go through all this extra work in addition to the damage they're dealing with to file for a program And that we have no idea whether the province is going to approve it because the criteria simply aren't clear. I note the letter has the final paragraph where it says if you require further clarification, contact our office. So yes, we require further clarification, and we can make sure they get their letter in their business hours as well, so that way they can respond. So it is unacceptable, the vagueness of the letter, and I fully support the motion that we need— we need more specificity in what these criteria actually you mean.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2497s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, Council? Yes, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2567s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "As indicated here, the criteria is very vague. Then for the province to come back to us and say we didn't meet their vague criteria with no explanation needs an explanation. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2571s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2585s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor)",
    "text": "Well, thank you very much, Mr. Mayor. And yeah, I think it's our responsibility on Council— this goes towards Councillor Penner's opening this morning— this morning wasn't that long ago— to open up the meeting with regards to we are the individuals that are the closest to our residents, and we as council heard the widespread significant financial impacts to individuals. So it is up to us to now advocate for them because we heard this. It's been 2 years in a row now that the DFA program hasn't come through for our residents. So it's, it's up to us to advocate and to find out what exactly are the criteria, because these individuals came to us as councillors and said, what are you, what are you going to do for us? And we said, we're, we're going to put up the DFA program, administration's going to go through the work, we need you to fill out this information as well. Again, putting on stressors on them when they're in arguably one of, one of the most stressful situations in, in homeownership. And to just have a Thanks, thanks, but no thanks. Twice in a row without any explanation isn't acceptable towards myself or the residents that we represent as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2588s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Anything in closing? Well, thank you, council, for supporting this and going down this road. I do believe that our residents deserve better answers than this. We deserve to have clear criteria and know what we're up against because when I look at these things, I feel they were all met. Everyone I talked to would represent significant financial burden. I believe it was widespread because there were so many people that contacted me. So I felt very widespread and different areas of our community. Okay. And also, were they insurable? I don't exactly understand what that means, but I know a lot of people that could not get insurance because of the second year in a row, right? They couldn't get insurance from last year already. So that is why I want, I want to see clarification. I want this for our residents. I want this for us. So going forward, we know what, we know what the rules are. Thank you. I think we need to know what the criteria is because a lot of work was done and then just to get a no, you know, but like Councillor Switzer said, they're asking us to— if we need more clarification, and I do. I want one. I want more clarification. Thank you. Call for the question. All those in favor? That is carried. There's no other business. Looking for a motion to adjourn. Councillor? Yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2654s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Excuse me, if I could, Mr. Mayor, just as a point of follow-up to that letter, because the way the program works, the DFA office did request the city act as the primary liaison with all property owners for this program. Administration has drafted a letter in response to all of the property owners who did file an application, just to advise of the decision of the province, and it's more just as public information. I just wanted to make sure council was aware of that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2751s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so there'd be a letter going out saying that the FAA is not covering anything.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2785s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "That's correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2790s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, would you put in that letter that we are asking for more clarification?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2790s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "That may already be apparent depending on what the local media chooses to say. Yes, we do, but at this point, because there's no new information related to the further inquiries, all we will do is just communicate the decision of the DFA based on this letter.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2795s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, but once we have criteria, a follow-up letter could be sent?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2815s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "That could, depending on what the outcome is, correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2820s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Okay, moves to adjourn. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That's carried. Uh, next regular council meeting, Tuesday, February 3rd, 2026, 7:30 PM. Thank you.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=j0sxFsy49F4&t=2822s"
   }
  ]

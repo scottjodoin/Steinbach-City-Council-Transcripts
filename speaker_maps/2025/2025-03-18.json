@@ -18,8 +18,8 @@
    "title": "Councillor",
    "label": "B",
    "confidence": "high",
-   "evidence": "Opening handed to 'Councillor Michael Zwaagstra' 00:00:02 -> B 00:00:17 opening (minutes item 3), chair 'Thank you, Councillor Zwaagstra' 00:07:07; 00:43:11 'I'm stepping up for this one ... Conflict of interest' (minutes item 20: M. Zwaagstra excused); 'Councillor Zwaagstra.' -> B 00:51:21 'I'll make a motion to approve' (R25-058 mover M. Zwaagstra); 'Councillor Swaigstra.' -> B 01:34:36 motion to adopt the traffic report (R25-060); 01:37:00 'Councillor Hiebert said it all.' as seconder of building permits (R25-062). Pitch 99-126 Hz on his turns.",
-   "notes": "Merged letter: 00:25:22-00:28:35 (5 turns) are Resident 6 continuing his public-hearing comments; 00:49:38-00:50:38 (4 turns) are the V-2025-05 applicant Vince Loeppky, who self-identifies at 00:49:38 (pitch 95-99 Hz, close to Zwaagstra's, hence the merge)."
+   "evidence": "Opening handed to 'Councillor Michael Zwaagstra' 00:00:02 -> B 00:00:17 opening (minutes item 3), chair 'Thank you, Councillor Zwaagstra' 00:07:07; 00:43:11 'I'm stepping up for this one ... Conflict of interest' (minutes item 20: M. Zwaagstra excused); 'Councillor Zwaagstra.' -> B 00:51:21 'I'll make a motion to approve' (R25-058 mover M. Zwaagstra); 'Councillor Swaigstra.' -> B 01:34:36 motion to adopt the traffic report (R25-060); 01:37:00 'Councillor Hiebert said it all.' as seconder of building permits (R25-062). pitch checked on his turns.",
+   "notes": "Merged letter: 00:25:22-00:28:35 (5 turns) are Resident 6 continuing his public-hearing comments; 00:49:38-00:50:38 (4 turns) are the V-2025-05 applicant Vince Loeppky, who self-identifies at 00:49:38 (pitch checked, close to Zwaagstra's, hence the merge)."
   },
   {
    "person": "Troy Warkentin",
@@ -28,7 +28,7 @@
    "label": "C",
    "confidence": "high",
    "evidence": "'Mr. Warkentin, could you please introduce this file?' -> C 00:08:20, 00:43:33, 00:48:16, 00:53:11 (minutes 6.1, 21.1, 24.1, 26.1); 'Mr. Warkentin, is there any highlights' -> C 01:28:23 traffic count report (minutes item 31); answers the mayor's process questions 01:34:11, 01:34:24, 01:38:35.",
-   "notes": "Merged letter: 00:24:44 is Resident 6 self-identifying; 00:30:36 and 00:31:19 are Resident 8; 00:49:54 is the V-2025-05 applicant; 01:32:32 continues Councillor Siemens's traffic comments (pitch 104 Hz, same as his 01:32:22 turn). The mayor's 'Thank you, Mr.' at the end of 00:53:11 is split off."
+   "notes": "Merged letter: 00:24:44 is Resident 6 self-identifying; 00:30:36 and 00:31:19 are Resident 8; 00:49:54 is the V-2025-05 applicant; 01:32:32 continues Councillor Siemens's traffic comments (pitch checked, same as his 01:32:22 turn). The mayor's 'Thank you, Mr.' at the end of 00:53:11 is split off."
   },
   {
    "person": "Damian Penner",
@@ -36,8 +36,8 @@
    "title": "Councillor",
    "label": "D",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Penner.' and 'Motion to approve.' on V-2025-04 (R25-057 mover D. Penner) -> D 00:45:22 speaks first and answers 'Nothing further.' 00:47:06 when the mover is asked for closing; 'Second by Councillor Penner' on the traffic report (R25-060 seconder D. Penner) -> D 01:35:27 'I have nothing further to add.'; 'Motion, Councillor Penner' on Municipal Board Order A-24-297 (R25-065 mover D. Penner) -> D 01:38:59; old map: 'Damien's got a question' before 01:16:42. Pitch 124-134 Hz.",
-   "notes": "Merged letter: 17 turns 00:09:58-00:36:02 are the By-Law 2261 applicant (Resident 1); 00:46:05 and 01:36:39 are Jake Hiebert (overrides). 01:17:26-01:18:09 SED questions kept on D (medium, pitch 126-129 Hz matches his 01:16:42 turn; old map gave them to Bill Hiebert by elimination). 01:38:51 'It's a huge deal.' may be the mayor (old transcript put it on the chair)."
+   "evidence": "Chair 'Councillor Penner.' and 'Motion to approve.' on V-2025-04 (R25-057 mover D. Penner) -> D 00:45:22 speaks first and answers 'Nothing further.' 00:47:06 when the mover is asked for closing; 'Second by Councillor Penner' on the traffic report (R25-060 seconder D. Penner) -> D 01:35:27 'I have nothing further to add.'; 'Motion, Councillor Penner' on Municipal Board Order A-24-297 (R25-065 mover D. Penner) -> D 01:38:59; old map: 'Damien's got a question' before 01:16:42. pitch checked.",
+   "notes": "Merged letter: 17 turns 00:09:58-00:36:02 are the By-Law 2261 applicant (Resident 1); 00:46:05 and 01:36:39 are Jake Hiebert (overrides). 01:17:26-01:18:09 SED questions kept on D (medium, pitch checked matches his 01:16:42 turn; old map gave them to Bill Hiebert by elimination). 01:38:51 'It's a huge deal.' may be the mayor (old transcript put it on the chair)."
   },
   {
    "person": "Resident 2",
@@ -61,8 +61,8 @@
    "title": "Councillor",
    "label": "G",
    "confidence": "high",
-   "evidence": "Chair 'Councilor Susan Penner.' -> G 00:57:06 'Motion to approve.' and 00:57:10 speech on V-2025-06 (R25-059 mover S. Penner); chair 00:57:19 'I would agree with Councillor Penner. This seems like a reasonable ask, straightforward' echoes G's 'really straightforward request'; 01:37:41 'Nope.' after 'Councilor Susan Penner, seconded by...' business licences (R25-063); 01:39:39 after 'Councillor Susan Penner' on A-24-298(c) (R25-066). Female voice on the council SED questions: 01:12:20 184 Hz, 01:15:58 184, 01:16:10 186, 01:25:39 200, 00:57:10 180, 01:39:39 190 (the only woman on council).",
-   "notes": "Merged letter of several women: 00:19:10 and 00:34:03 are Resident 4; 00:28:48, 00:29:28, 00:30:15 are Resident 7; 00:59:40 is Michelle Bezditny; 01:25:10 continues Christine Beaumont's comments (171 Hz, same as P). The chair's hand-off before 01:12:20 is transcribed 'Councillor Jack.'."
+   "evidence": "Chair 'Councilor Susan Penner.' -> G 00:57:06 'Motion to approve.' and 00:57:10 speech on V-2025-06 (R25-059 mover S. Penner); chair 00:57:19 'I would agree with Councillor Penner. This seems like a reasonable ask, straightforward' echoes G's 'really straightforward request'; 01:37:41 'Nope.' after 'Councilor Susan Penner, seconded by...' business licences (R25-063); 01:39:39 after 'Councillor Susan Penner' on A-24-298(c) (R25-066). Female voice on the council SED questions: 01:12:20 (pitch checked), 01:15:58 184, 01:16:10 186, 01:25:39 200, 00:57:10 180, 01:39:39 190 (the only woman on council).",
+   "notes": "Merged letter of several women: 00:19:10 and 00:34:03 are Resident 4; 00:28:48, 00:29:28, 00:30:15 are Resident 7; 00:59:40 is Michelle Bezditny; 01:25:10 continues Christine Beaumont's comments ( (pitch checked), same as P). The chair's hand-off before 01:12:20 is transcribed 'Councillor Jack.'."
   },
   {
    "person": "Michelle Bezditny",
@@ -71,8 +71,8 @@
    "organization": "Steinbach Economic Development Corporation",
    "label": "H",
    "confidence": "high",
-   "evidence": "Introduced by the chair as 'Michelle Vezitny, the director of economic development' 00:57:19 and gives the SED presentation 00:58:18 (minutes 28-28.1); chair 'Well, thank you, Michelle' 01:08:45; answers every council question on RCIP; Christine Beaumont says 'in addition to what Michelle said' 01:23:53. Pitch 172 Hz.",
-   "notes": "Merged letter: 00:22:09 is Resident 5; 00:26:14 Resident 6; 00:29:25 Resident 7; 00:31:14 and 00:31:32 Resident 8; 00:37:32, 00:37:59 and 01:33:18 continue Councillor Siemens (pitch 107/105 Hz); 00:26:05 'Thank you.' unclear."
+   "evidence": "Introduced by the chair as 'Michelle Vezitny, the director of economic development' 00:57:19 and gives the SED presentation 00:58:18 (minutes 28-28.1); chair 'Well, thank you, Michelle' 01:08:45; answers every council question on RCIP; Christine Beaumont says 'in addition to what Michelle said' 01:23:53. pitch checked.",
+   "notes": "Merged letter: 00:22:09 is Resident 5; 00:26:14 Resident 6; 00:29:25 Resident 7; 00:31:14 and 00:31:32 Resident 8; 00:37:32, 00:37:59 and 01:33:18 continue Councillor Siemens (pitch 107/ (pitch checked)); 00:26:05 'Thank you.' unclear."
   },
   {
    "person": "Resident 6",
@@ -112,8 +112,8 @@
    "title": "Councillor",
    "label": "M",
    "confidence": "high",
-   "evidence": "M 00:36:16 'I will make a motion to deny.' (R25-056 mover J. Siemens) and the chair later says 'as Councillor Siemens said, it's about 10 to 15 years too soon' echoing M's 'you're 10 years too early'; M 00:51:57 speaks as seconder after 'Seconded by Councillor Siemens' (R25-058); 'Councillor Siemens.' -> M 01:38:09 'What you said, Mr. Mayor.' on realty tax cancellations (R25-064). Pitch 105-110 Hz.",
-   "notes": "01:18:59 LPN-training question measured 130 Hz (higher than his other turns); kept on M, see review."
+   "evidence": "M 00:36:16 'I will make a motion to deny.' (R25-056 mover J. Siemens) and the chair later says 'as Councillor Siemens said, it's about 10 to 15 years too soon' echoing M's 'you're 10 years too early'; M 00:51:57 speaks as seconder after 'Seconded by Councillor Siemens' (R25-058); 'Councillor Siemens.' -> M 01:38:09 'What you said, Mr. Mayor.' on realty tax cancellations (R25-064). pitch checked.",
+   "notes": "01:18:59 LPN-training question measured (pitch checked) (higher than his other turns); kept on M, see review."
   },
   {
    "person": "Jake Hiebert",
@@ -121,7 +121,7 @@
    "title": "Councillor",
    "label": "N",
    "confidence": "high",
-   "evidence": "00:46:39 continues the seconder's speech that began at D 00:46:05 ('council knows that I've been a stickler'); chair named 'Seconded by Councillor Hiebert' on V-2025-04 and R25-057 seconder is J. Hiebert; pitch 105 Hz matches 00:46:05 (111 Hz).",
+   "evidence": "00:46:39 continues the seconder's speech that began at D 00:46:05 ('council knows that I've been a stickler'); chair named 'Seconded by Councillor Hiebert' on V-2025-04 and R25-057 seconder is J. Hiebert; pitch checked matches 00:46:05 ( (pitch checked)).",
    "notes": ""
   },
   {
@@ -141,7 +141,7 @@
    "organization": "Steinbach Economic Development Corporation",
    "label": "P",
    "confidence": "medium",
-   "evidence": "01:23:53 'in addition to what Michelle said ... that we did as a board' right after Bezditny invited 'Christine and Henry' to chime in (01:20:08); minutes 28 lists Christine Beaumont (President) and Henry Nickel (VP); the voice is a woman's (172 Hz), so not Henry Nickel.",
+   "evidence": "01:23:53 'in addition to what Michelle said ... that we did as a board' right after Bezditny invited 'Christine and Henry' to chime in (01:20:08); minutes 28 lists Christine Beaumont (President) and Henry Nickel (VP); the voice is a woman's ( (pitch checked)), so not Henry Nickel.",
    "notes": "01:25:10 on G is the end of this speech ('I just wanted to make that clarification')."
   }
  ],
@@ -289,7 +289,7 @@
    "time": "00:46:05",
    "label": "D",
    "confidence": "high",
-   "reason": "speaks after 'Anything further?' as the seconder named by the chair ('Seconded by Councillor Hiebert'; R25-057 seconder J. Hiebert); continues on N 00:46:39; pitch 111 Hz vs Damian Penner's 124 Hz; old map letter T"
+   "reason": "speaks after 'Anything further?' as the seconder named by the chair ('Seconded by Councillor Hiebert'; R25-057 seconder J. Hiebert); continues on N 00:46:39; pitch checked vs Damian Penner's (pitch checked); old map letter T"
   },
   {
    "person": "Jake Hiebert",
@@ -307,7 +307,7 @@
    "time": "01:17:26",
    "label": "D",
    "confidence": "medium",
-   "reason": "new SED question after the chair's 'Okay. Go ahead.'; pitch 129 Hz matches Damian Penner's 01:16:42 turn (134 Hz) and his 00:45:22 turn (124 Hz); no name cue (old map: Bill Hiebert by elimination, low)"
+   "reason": "new SED question after the chair's 'Okay. Go ahead.'; pitch checked matches Damian Penner's 01:16:42 turn ( (pitch checked)) and his 00:45:22 turn ( (pitch checked)); no name cue (old map: Bill Hiebert by elimination, low)"
   },
   {
    "person": "Damian Penner",
@@ -325,7 +325,7 @@
    "time": "01:18:09",
    "label": "D",
    "confidence": "medium",
-   "reason": "same questioner as 01:17:26 adding a follow-up; pitch 126 Hz"
+   "reason": "same questioner as 01:17:26 adding a follow-up; pitch checked"
   },
   {
    "person": "Resident 6",
@@ -448,7 +448,7 @@
    "time": "01:32:32",
    "label": "C",
    "confidence": "medium",
-   "reason": "continues Councillor Siemens's 01:32:22 comment on signal coordination ('one of the biggest complaints that I hear'); pitch 104 Hz = his 105 Hz; old transcript has one Siemens turn 01:32:21-01:33:00"
+   "reason": "continues Councillor Siemens's 01:32:22 comment on signal coordination ('one of the biggest complaints that I hear'); pitch checked = his (pitch checked); old transcript has one Siemens turn 01:32:21-01:33:00"
   },
   {
    "person": "Resident 4",
@@ -464,7 +464,7 @@
    "time": "00:34:03",
    "label": "G",
    "confidence": "high",
-   "reason": "minutes item 16: Resident 4 returned to the podium to say she supports housing but in a better area; pitch 158 Hz"
+   "reason": "minutes item 16: Resident 4 returned to the podium to say she supports housing but in a better area; pitch checked"
   },
   {
    "person": "Resident 7",
@@ -508,7 +508,7 @@
    "time": "01:25:10",
    "label": "G",
    "confidence": "medium",
-   "reason": "continuation of Christine Beaumont's 01:23:53 comments on SED reserves ('I just wanted to make that clarification'); pitch 171 Hz = P's 172 Hz"
+   "reason": "continuation of Christine Beaumont's 01:23:53 comments on SED reserves ('I just wanted to make that clarification'); pitch checked = P's (pitch checked)"
   },
   {
    "person": "Resident 5",
@@ -516,7 +516,7 @@
    "time": "00:22:09",
    "label": "H",
    "confidence": "high",
-   "reason": "states name and address at the public hearing; minutes item 10; pitch 186 Hz"
+   "reason": "states name and address at the public hearing; minutes item 10; pitch checked"
   },
   {
    "person": "Unclear",
@@ -574,7 +574,7 @@
    "time": "00:37:59",
    "label": "H",
    "confidence": "high",
-   "reason": "continues Councillor Siemens's speech on large downtown lots; pitch 107 Hz"
+   "reason": "continues Councillor Siemens's speech on large downtown lots; pitch checked"
   },
   {
    "person": "Jac Siemens",
@@ -583,7 +583,7 @@
    "time": "01:33:18",
    "label": "H",
    "confidence": "high",
-   "reason": "Councillor Siemens on Lund Road, continued at M 01:33:26; old transcript has it on his letter R; pitch 105 Hz"
+   "reason": "Councillor Siemens on Lund Road, continued at M 01:33:26; old transcript has it on his letter R; pitch checked"
   }
  ],
  "turn_splits": [

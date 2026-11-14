@@ -8,7 +8,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Opening remarks (minutes item 3: Councillor Susan Penner opened the meeting), chair replies 'Thank you, Councillor Penner' 00:00:59; 'Councillor Penner.' -> A 'Motion to approve' 00:23:07 (R26-012 mover S. Penner); 'Councillor Susan Penner ... Councillor Penner, go ahead' -> A 00:33:30 (R26-017 mover S. Penner); A 'I'll make the motion' 00:40:31 (R26-020 mover S. Penner); 'I've been on council for 15 years'. Voice pitch 184-229 Hz (woman) on all long turns.",
+   "evidence": "Opening remarks (minutes item 3: Councillor Susan Penner opened the meeting), chair replies 'Thank you, Councillor Penner' 00:00:59; 'Councillor Penner.' -> A 'Motion to approve' 00:23:07 (R26-012 mover S. Penner); 'Councillor Susan Penner ... Councillor Penner, go ahead' -> A 00:33:30 (R26-017 mover S. Penner); A 'I'll make the motion' 00:40:31 (R26-020 mover S. Penner); 'I've been on council for 15 years'. pitch checked (woman) on all long turns.",
    "notes": ""
   },
   {
@@ -45,7 +45,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:09:52: 'when I was appointed to the Jake Epp Library board ... I made contact with all these municipalities' matches Siemens's account that Councillor Bill Hiebert made presentations to neighbouring municipalities, and refers to Councillor Siemens in the third person; 'No comments.' 00:22:05 after AP motion (R26-011 mover B. Hiebert); 'No further comment.' 00:26:55 as seconder (R26-013 seconder B. Hiebert). Pitch 144-165 Hz, distinct from G (104-111 Hz).",
+   "evidence": "00:09:52: 'when I was appointed to the Jake Epp Library board ... I made contact with all these municipalities' matches Siemens's account that Councillor Bill Hiebert made presentations to neighbouring municipalities, and refers to Councillor Siemens in the third person; 'No comments.' 00:22:05 after AP motion (R26-011 mover B. Hiebert); 'No further comment.' 00:26:55 as seconder (R26-013 seconder B. Hiebert). pitch checked, distinct from G ( (pitch checked)).",
    "notes": "'Thank you, Mr. Mayor.' 00:20:50 and 'No further calls for' 00:38:10 overridden."
   },
   {
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Motion to approve' 00:19:32 on land purchase (R26-010 mover M. Zwaagstra); 'Make a motion for 3rd reading' 00:29:39 (R26-015 mover Zwaagstra); 'Councillor Zwaagstra ... Go ahead.' -> F 00:38:08 (R26-019 mover Zwaagstra); chair 00:44:14 'like Councillor Switzer said, ... if we need more clarification' echoes F's 00:41:37 point (R26-020 seconder Zwaagstra). Pitch 96-100 Hz.",
+   "evidence": "'Motion to approve' 00:19:32 on land purchase (R26-010 mover M. Zwaagstra); 'Make a motion for 3rd reading' 00:29:39 (R26-015 mover Zwaagstra); 'Councillor Zwaagstra ... Go ahead.' -> F 00:38:08 (R26-019 mover Zwaagstra); chair 00:44:14 'like Councillor Switzer said, ... if we need more clarification' echoes F's 00:41:37 point (R26-020 seconder Zwaagstra). pitch checked.",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Hebert. Second by Councillor Hebert. Go ahead.' -> G speaks as mover at 00:26:33 (R26-013 mover J. Hiebert); 00:20:52 land comment after 'Seconded by Councillor Hiebert' (R26-010 seconder J. Hiebert); 'No, that's all.' 00:31:17 as seconder of R26-015 (J. Hiebert). Pitch 104-111 Hz, clearly different from Bill Hiebert (E, ~145 Hz).",
-   "notes": "00:42:51 DFA comment is unnamed but same voice (111 Hz). 00:23:42 overridden to Damian Penner."
+   "evidence": "Chair 'Councillor Hebert. Second by Councillor Hebert. Go ahead.' -> G speaks as mover at 00:26:33 (R26-013 mover J. Hiebert); 00:20:52 land comment after 'Seconded by Councillor Hiebert' (R26-010 seconder J. Hiebert); 'No, that's all.' 00:31:17 as seconder of R26-015 (J. Hiebert). pitch checked, clearly different from Bill Hiebert (E,  (pitch checked)).",
+   "notes": "00:42:51 DFA comment is unnamed but same voice ( (pitch checked)). 00:23:42 overridden to Damian Penner."
   },
   {
    "label": "H",
@@ -72,7 +72,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:43:08 refers to 'Councillor Penner's opening' (Susan Penner) so is the other Penner; male pitch 129-134 Hz; 00:34:48 speaks after Susan Penner moved building permits (R26-017 seconder D. Penner); 00:24:01 continues the By-law 2266 seconder's speech (R26-012 seconder D. Penner).",
+   "evidence": "00:43:08 refers to 'Councillor Penner's opening' (Susan Penner) so is the other Penner; male pitch checked; 00:34:48 speaks after Susan Penner moved building permits (R26-017 seconder D. Penner); 00:24:01 continues the By-law 2266 seconder's speech (R26-012 seconder D. Penner).",
    "notes": ""
   }
  ],
@@ -93,7 +93,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Sentence runs straight into H at 00:24:01 ('nice to see that we're / seeing a little bit of density creep'); seconder of R26-012 is D. Penner; pitch 124 Hz vs Jake Hiebert 104-111 Hz; old transcript gave the whole turn to Damian Penner's letter."
+   "reason": "Sentence runs straight into H at 00:24:01 ('nice to see that we're / seeing a little bit of density creep'); seconder of R26-012 is D. Penner; pitch checked vs Jake Hiebert (pitch checked); old transcript gave the whole turn to Damian Penner's letter."
   },
   {
    "time": "00:38:10",

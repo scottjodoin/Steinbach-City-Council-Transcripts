@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "The weather is terrible right now. Couldn't get anywhere.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Like on the bottom it just says cold. Yes, that is true.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=2s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. At this time I'd like to give the opening to Councillor Susan Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=13s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you. It is not uncommon for people to assume things have never been worse in the world. It's an easy assumption to make given that we only know and experience what we are alive for. However, read any history book and it readily becomes apparent that although things aren't perfect now, we are still living in a very good time of human history. One of the biggest influences on people's perspectives on the conditions they see and on the way they see the world has to do with government. If people are happy with government, they are more optimistic about the state of the world. Thank you. If they are not happy with the government, they are pessimistic about the state of the world. I will give you an example. On a recent flight to Toronto, there was a couple and their 3 young children. I got to visiting with the husband, and he said they were on their way home from a vacation. During the course of that conversation, he said that COVID lockdowns were the best things— thing that happened to their family. He was able to work from home, and even after restrictions were lifted, he's been able to keep working from home. He said prior to the lockdowns, he hardly saw his kids. As by the time he got home from work, it was almost their bedtime. He was grateful for how COVID reprioritized his life. On the flip side, I know a former business owner who ended up closing his business during COVID as his business could not withstand the lockdowns. As any business owner knows, this is a devastating decision to have to make given the time, energy, and money that goes into starting and running a business. Same government, 2 very different perspectives. Of course, basing the state of the world on one's own government is a narrow and subjective view given the world The world is a big place with many different governments. Just because things are good in one country does not mean they are good in another. But the point is, governments have a massive impact on the way people see and experience the world. So why do I bring this up on our last meeting before Christmas? I do so because when the birth of Jesus was being foreshadowed in the Book of Isaiah, it says, for unto us a child is born, unto us a son is given, and the government will be on his shoulders. Amen. People have always been longing for better government. When Jesus was born, people were longing for deliverance from the oppressive Roman regime. But Jesus did not overthrow the earthly government, much to the dismay of those who had been waiting for him. Instead, his deliverance came in the form of showing people how to live for his kingdom in the midst of human governments. And that is the beauty of the Christmas message. Christians have the hope of a perfect future government when Jesus establishes his kingdom on earth, but But in the meantime, they can build God's kingdom on earth. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=21s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=21s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Council, we, uh, we have the agenda in front of us, looking for a motion to adopt. Councillor Hiebert, seconded by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=177s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=186s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. Council, the minutes of December 6th, 2022, the regular council meeting, they start on page 1. We've had a, a chance to review Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments? No comments. Call for the question. All those in favor? That is carried. We got number 5, business arising from minutes. Is there any business? Okay, seeing none. Council, we have a councillor missing. He is at his kid's His children's Christmas program. So looking for a motion to approve to excuse Councillor Penner by Councillor Penner, seconded by Councillor Siemens. Call for the question. All those in favor? That is carried. Always. We will move to 9A, administration, 9A. This is accounts payable and back of the book. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=187s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=255s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. We got 9B. There's a financial report ending November 30th, 2022. This is also in the back of the book. Looking for a motion to approve. Councillor Siemens, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=256s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=276s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "All those in favor? That is carried. 9C, building permits, November 2022. This is on page 4 of our agenda. Looking for a motion to approve. Councillor Zwaagstra, second by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=277s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is— these are the building permits up until the end of November. As we can see, it is a strong year so far. In the current month, roughly equal balance between residential and commercial/industrial development, and actually year to date, almost exactly balanced between residential and commercial/industrial. So to the end of November, 77 million total permits. So a very strong year in Steinbach, and this is good to see, and we're looking forward to seeing how the year finishes off when we have the December numbers. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=300s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=331s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=331s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Yes, council, the only thing I'd like to say is how absolutely equal our residential and commercial are. There's, I think there's 200, for the year to date, there's $210,000 between the two. I mean, that is, that's one house maybe. That is, it's incredible how balanced we're going forward and, And how balanced we are, we're progressing and building. Call for the question. All those in favor? Opposed? That is carried. We've got 9D, business licenses, on page 5. Looking for a motion to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=333s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "C",
    "label": "Unidentified speaker",
    "text": "Move.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=333s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Siemens, second by Councillor Hiebert. Any comments? Call for the question. All those in favor? Opposed? That is carried. Got 9E, excavator license. Looking for— that's on page 6. Looking for a motion to approve. Councillor Penner. Seconded by Councillor Hiebert. Any comments? Call for the question. All those in favor? Opposed? That is carried. We've got the, uh, 9F. These are the business tax and '22 small balances Cancellations. Um, we're just looking for a motion to approve the— these, uh, small business cancellations, the small tax cancellations. Councillor Hiebert. Second by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=333s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=430s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. We got 9G, the interim operating budget resolution. It's on page 9, or page 8 on your package. Mr. Warkentin, would you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=432s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "E",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor and members of council, this is an annual resolution that administration requests council's consideration for. This does set the approval for the city's upcoming operating budget year based on interim estimates. It does allow the city to move forward with, uh, with operations, uh, until such time as city council formally adopts the— its 2023 budget recommendation is for council to approve this resolution.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=448s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, we have a resolution on page 8. Looking for a motion to approve. Councillor Zwaagstra, seconded by Siemens. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=480s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. Because I'm in favor of the city continuing to operate during the months of January and February, I strongly recommend we approve this interim operating budget because otherwise we would have to wait until our formal budget is approved and nothing would happen and that would be unfortunate. So I hope I get the rest of support— rest of council's support on this one.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=492s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=512s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Not at all.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=514s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything closing? Call for the question. All those in favour? Any opposed? That is carried. We've got 9H, the RBC borrowing resolution on page 9. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=517s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "E",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This resolution that's presented on page 9 is an annual resolution that the city considers to authorize its operating line of credit with the Royal Bank of Canada, which is the city's primary bank account. One thing to note, typically this annual resolution, the authorization is set at $2 million. In anticipation of the proceeding of the event center project, we are recommending that this amount be increased to $8 million for the coming year. All other components of this annual resolution stay the same. Recommendation is for council to approve. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=533s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Looking for a motion to approve this. Councillor Zwaagstra, seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=577s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a resolution we pass every year. As the city manager noted, the only thing that's different is it's a larger amount because we have large expenses coming up for the event center that have to be addressed.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=587s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=597s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=599s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Okay, council, we got 9I. This is the 2023 council meetings. So just— these are duly noted. These will be the— these will be the nights we'll be meeting. Moving further on to council question period. Are there any questions of council? Okay, seeing none. We've got correspondence petitions. We've got 11A. Ronald McDonald House Charities. This is a funding request. Council, how would you like to proceed? Take it as information. We have no other business. Looking for a motion to adjourn. Councillor Hiebert. Second, Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Our next regular council meeting is Tuesday, January 3rd, 2023 at 7:30 PM.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=xwbUuixeQRM&t=600s"
   }
  ]

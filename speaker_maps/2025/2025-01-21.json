@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "moves subdivision 00:08:38 and building permits 00:26:12 (minutes R25-012 and R25-022 mover S. Penner; chair then names 'Councillor Penner' as seconder = D. Penner); chair: 'smaller lots, as Councillor Penner said' after D's smaller-lots remark; 'Councillor Penner has a question' 00:34:15; voice pitch 170-213 Hz (female)"
+   "evidence": "moves subdivision 00:08:38 and building permits 00:26:12 (minutes R25-012 and R25-022 mover S. Penner; chair then names 'Councillor Penner' as seconder = D. Penner); chair: 'smaller lots, as Councillor Penner said' after D's smaller-lots remark; 'Councillor Penner has a question' 00:34:15; pitch checked (female)"
   },
   {
    "label": "E",
@@ -53,7 +53,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Penner' -> F 'Motion to approve' 00:12:43 for By-law 2260 (minutes R25-014 mover D. Penner); 'Anything further, Councilor Penner?' 00:24:28 -> F (R25-019 seconder D. Penner); chair 'as Councillor Damian Penner said' after F's $77M/$28M figures 00:27:09; pitch 119-132 Hz (male)",
+   "evidence": "'Councillor Penner' -> F 'Motion to approve' 00:12:43 for By-law 2260 (minutes R25-014 mover D. Penner); 'Anything further, Councilor Penner?' 00:24:28 -> F (R25-019 seconder D. Penner); chair 'as Councillor Damian Penner said' after F's $77M/$28M figures 00:27:09; pitch checked (male)",
    "notes": "letter also carries Siemens's 00:16:12 motion and 00:18:28 'No, sir.' and Bill Hiebert's 00:18:01 seconder remarks (overrides); 00:37:44 'Dogs.' after adjournment has no clear voice, left on F"
   },
   {
@@ -90,7 +90,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "chair named 'Councillor Hiebert' as seconder at 00:16:13 and asks 'Anything further, Councillor?'; minutes R25-015 seconder B. Hiebert (J. Hiebert not on this motion); speaker refers to 'Councillor Siemens' so not Siemens; pitch 139-151 Hz vs Damian Penner's 119-132 Hz on F's other turns"
+   "reason": "chair named 'Councillor Hiebert' as seconder at 00:16:13 and asks 'Anything further, Councillor?'; minutes R25-015 seconder B. Hiebert (J. Hiebert not on this motion); speaker refers to 'Councillor Siemens' so not Siemens; pitch checked vs Damian Penner's (pitch checked) on F's other turns"
   },
   {
    "time": "00:18:28",

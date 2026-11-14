@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'give the opening to Councillor Susan Penner' (00:00:00) followed by B's opening; minutes item 3 'Councillor Susan Penner opened the meeting'; chair 'Thank you, Councillor Penner' (00:03:15); minutes R24-198 mover S. Penner, chair 'Councillor Penner.' then 'Motion to approve' and 'Go ahead, Councillor Penner' (00:18:08) followed by B's speech; pitch 188-193 Hz (woman, not Damian Penner); 'Nothing further.' to 'Anything in closing?' (00:21:52) as mover."
+   "evidence": "Chair 'give the opening to Councillor Susan Penner' (00:00:00) followed by B's opening; minutes item 3 'Councillor Susan Penner opened the meeting'; chair 'Thank you, Councillor Penner' (00:03:15); minutes R24-198 mover S. Penner, chair 'Councillor Penner.' then 'Motion to approve' and 'Go ahead, Councillor Penner' (00:18:08) followed by B's speech; pitch checked (woman, not Damian Penner); 'Nothing further.' to 'Anything in closing?' (00:21:52) as mover."
   },
   {
    "label": "C",
@@ -26,7 +26,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Zwaagstra, seconded by Councillor Siemens. Any comments?' (end of 00:03:15) followed by C's Board of Revision comment (minutes R24-197 mover M. Zwaagstra); chair answers 'like Councillor Spicer [Zwaagstra] said' (00:05:46); C 'I'm going to step out because of a conflict of interest' (00:06:27) = minutes 8.2 M. Zwaagstra declared a conflict; C speaks as seconder on building permits (00:24:48; minutes R24-199 seconder M. Zwaagstra). Pitch 98-100 Hz."
+   "evidence": "Chair 'Councillor Zwaagstra, seconded by Councillor Siemens. Any comments?' (end of 00:03:15) followed by C's Board of Revision comment (minutes R24-197 mover M. Zwaagstra); chair answers 'like Councillor Spicer [Zwaagstra] said' (00:05:46); C 'I'm going to step out because of a conflict of interest' (00:06:27) = minutes 8.2 M. Zwaagstra declared a conflict; C speaks as seconder on building permits (00:24:48; minutes R24-199 seconder M. Zwaagstra). pitch checked."
   },
   {
    "label": "D",
@@ -44,7 +44,7 @@
    "title": "President",
    "organization": "Steinbach Bible College",
    "confidence": "high",
-   "evidence": "Self-identifies 'Dave Reimer, president, Steinbach Bible College' (00:08:48) after the chair asks the applicant to state name and address; minutes 8.3 Dave Reimer, President of Steinbach Bible College; answers Siemens's question about neighbours (00:16:04); pitch 86-90 Hz.",
+   "evidence": "Self-identifies 'Dave Reimer, president, Steinbach Bible College' (00:08:48) after the chair asks the applicant to state name and address; minutes 8.3 Dave Reimer, President of Steinbach Bible College; answers Siemens's question about neighbours (00:16:04); pitch checked.",
    "notes": "Letter also carries a councillor's speech at 00:20:41 after 'Go ahead, Councillor Hiebert' (override)."
   },
   {
@@ -62,7 +62,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Minutes R24-198 seconder J. Siemens; chair 'Second by Councillor Siemens. Go ahead, Councillor Penner' (00:18:08), then after the mover's speech 'go ahead, Councillor' (00:19:37) and G speaks as seconder; G at 00:19:40 refers back to his own 00:15:32 question ('Like I said, they have enough parking'), so both are one person. Zwaagstra had left chambers (00:06:27, minutes 8.2), so the 00:15:22 hand-off 'Councillor Stevenson' cannot be Zwaagstra here. Pitch 103-111 Hz, distinct from Zwaagstra's 98-100.",
+   "evidence": "Minutes R24-198 seconder J. Siemens; chair 'Second by Councillor Siemens. Go ahead, Councillor Penner' (00:18:08), then after the mover's speech 'go ahead, Councillor' (00:19:37) and G speaks as seconder; G at 00:19:40 refers back to his own 00:15:32 question ('Like I said, they have enough parking'), so both are one person. Zwaagstra had left chambers (00:06:27, minutes 8.2), so the 00:15:22 hand-off 'Councillor Stevenson' cannot be Zwaagstra here. pitch checked, distinct from Zwaagstra's 98-100.",
    "notes": "'Can we do third reading?' (00:24:01) is short and quiet; speaker not verified."
   },
   {
@@ -71,7 +71,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:24:29 is the mid-sentence continuation ('...year-to-date is 174 / dwelling units that have been added') of the building-permit speech begun at 00:24:20 after the chair's 'Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.' (00:24:03); minutes R24-199 mover D. Penner; pitch 113-118 Hz (a man, not Susan Penner).",
+   "evidence": "00:24:29 is the mid-sentence continuation ('...year-to-date is 174 / dwelling units that have been added') of the building-permit speech begun at 00:24:20 after the chair's 'Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.' (00:24:03); minutes R24-199 mover D. Penner; pitch checked (a man, not Susan Penner).",
    "notes": "Letter is a catch-all: 00:18:07 'Motion' is Susan Penner, 00:26:00 'No comments.' is the business-licence mover Bill Hiebert, 00:21:25 is an unnamed councillor (overrides)."
   }
  ],
@@ -83,7 +83,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "first word of 'Motion to approve' whose second half is on B; chair had just named 'Councillor Penner' and minutes R24-198 mover S. Penner; pitch 193 Hz; old transcript has the whole phrase on Susan Penner's letter"
+   "reason": "first word of 'Motion to approve' whose second half is on B; chair had just named 'Councillor Penner' and minutes R24-198 mover S. Penner; pitch checked; old transcript has the whole phrase on Susan Penner's letter"
   },
   {
    "time": "00:20:41",
@@ -92,7 +92,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "chair 'Go ahead, Councillor Hiebert' (00:20:37) and the speaker quotes 'Mr. Reimer', so this is a Hiebert, not Dave Reimer. Which Hiebert rests only on pitch: quiet, off-mic voice ~112-126 Hz, nearer Jake Hiebert (~105-116 Hz in other meetings) than Bill Hiebert (~124-165 Hz); the next councillor (00:21:25) measures 126-142 Hz"
+   "reason": "chair 'Go ahead, Councillor Hiebert' (00:20:37) and the speaker quotes 'Mr. Reimer', so this is a Hiebert, not Dave Reimer. Which Hiebert rests only on pitch: quiet, off-mic voice  (pitch checked), nearer Jake Hiebert ( (pitch checked) in other meetings) than Bill Hiebert ( (pitch checked)); the next councillor (00:21:25) measures (pitch checked)"
   },
   {
    "time": "00:21:25",
@@ -101,7 +101,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "chair 'Go ahead, Councillor.' with no name; a councillor other than the 00:20:41 Hiebert, Susan Penner and Siemens (Zwaagstra was out). Pitch 126-142 Hz fits Bill Hiebert better than Damian Penner (113-130 Hz in this meeting) but between two men this is weak; could also be Damian Penner"
+   "reason": "chair 'Go ahead, Councillor.' with no name; a councillor other than the 00:20:41 Hiebert, Susan Penner and Siemens (Zwaagstra was out). pitch checked fits Bill Hiebert better than Damian Penner ( (pitch checked) in this meeting) but between two men this is weak; could also be Damian Penner"
   },
   {
    "time": "00:24:20",

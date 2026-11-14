@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I'd like to give the, the opening to Councillor Jake Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. The Parole Board of Canada. The Parole Board of Canada is an independent administrative tribunal that, as part of the Canadian criminal justice system, makes quality conditional release and record suspension decisions, also known as pardons, Clemency recommendations. The Parole Board of Canada contributes to the protection of society by facilitating, as appropriate, the timely reintegration of offenders as law-abiding citizens. Public safety is the paramount and primary consideration of all public— Parole Board decisions. To be a member of the Parole Board, one must apply, successfully complete exams and security, be scrutinized, recommended, and then possibly be appointed by the Public Safety Minister of Canada. Most often in Canada, the Prime Minister is very influential in all these appointments. In short, parole is granted as a conditional release from prisoner sentences. On the other hand, probation allows for an offender to serve their sentence without incarceration. The Parole Board releases a prisoner from prison while a probation parole officer supervises the inmate within the community. Both probation and parole are served in the community. What is conditional release and what is referred to as parole? Conditional release is a blanket term that covers different types of supervised release programs for inmates. These programs allow certain offenders to leave jail before their sentence is complete, or what is referred to as warrant expiry date, then return to the community, usually under strict conditions and supervision. The Parole Board of Canada, of which I was a federal parole board member for 6 years, issues parole to incarcerated prisoners. A prisoner is eligible to apply for parole at 6 months prior to completing 1/3 of their sentence. They may appear before 2 parole board members in person or on a Zoom call, or the parole board may decide to conduct a paper decision where the decision is made by a single board member. Indigenous inmates most often request that a Native Elder perform a smudge prior to the hearing. There are 3 main types of conditional release in Canada, including temporary absence, parole, or statutory release, all of which are granted or denied by the parole board. Inmates may apply for escorted or unescorted absences as the first opportunity to get back into the community for service projects, family matters, or medical reasons. The funeral of a family member is the most common escorted temporary release request. One often hears that a convicted criminal may receive 10, 15, 20, 25 years without parole. This does not mean that they automatically are granted parole at the expiration period. Rather, 6 months prior, the inmate may apply for parole and appear before the parole board. So there's no guarantee when you get 25 years Without parole, that you get out at 25 years. The parole board is empowered to release an individual or decide to delay their freedom privileges to keep them incarcerated till their next eligible parole hearing. Although the parole board decision is binding, a prisoner or lawyer may appeal to the federal court in Ottawa if parole is not granted. At the hearing, the inmate may have a family member, Native elder, lawyer, or other person present. Thank you. Prior to conducting the hearing, the parole board members review a prisoner's file, which may be anywhere from 100 pages to several thousand pages. In assessing whether or not an individual should or should not be granted parole, a number of risk factors are considered, including in particular the index offence, criminal history, social problems, including drugs, alcohol, family violence, gang affiliation, mental issues with medical reports, appropriate treatment for disorders, Relationships, support groups, victims and their statements, institutional behavior, programming, previous release performance, changes and insight, acceptance of responsibility, along with a solid release plan. Attached to parole are a number of conditions imposed by the parole board member, which may include keep the peace and be of good behavior, residence restriction, curfews, no alcohol or illegal drugs, urinalysis, no affiliation with certain persons or gangs, reporting to a parole officer in the community, maintaining a prescription drug regimen, not being in the presence of anybody under 18 years of age, playgrounds, pornographic material, relationships, financial conditions, gambling, vehicles, and attending treatment, immigration, and employment. Parole is also the furthest thing from a guarantee. Many offenders, including those with high security status or lengthy criminal record persons, Designated as dangerous offender may never be granted parole. Everyone except unspecified at time of sentencing is eligible for statutory release or automatic release when they have served 2/3 of their sentence. So in Canada, if you get, uh, whatever, 12 years, automatically at 8 years you are released. Violations of any of the conditions imposed by the board may result in being arrested and reappearing before the board for for revocation or given a second chance returning to the community with further conditions. If parole is not granted or parole is revoked, the Board must conduct another parole review within 2 years of the first hearing. If the inmate's offence involves violence, the next parole hearing may defer for 5 years. In instances where Correctional Canada has grounds to believe that an inmate will commit a serious violent offence, sexual offence, or drug offence while on statutory release, The Parole Board of Canada may deny an inmate statutory release. That's the only time they can be revoked on or not get their statutory release. In assessing risk, I found it easier to determine risk on a murderer than a meth-addicted person or an alcoholic. The present government is reluctant to publish rates of recidivism, so I am unable to give you any statistics. In my time on the Parole Board of Canada, I have seen or interviewed approximately 1,450 prisoners Most of the inmates I granted parole to have been successful and returned to society as law-abiding citizens. The lapel I am proudly wearing today is the insignia and crest of the Parole Board of Canada. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=10s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Hiebert. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Siemens, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Council, we have the minutes of May 7th, 2024, regular council meeting. They start on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=390s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=422s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Councillor, are there any business that arise from the minutes? Okay, seeing none, looking, we have Councillor Susan Penner not here today. Just looking for a motion to excuse. Councillor Hiebert. Second by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. Council, our conditional use has been withdrawn, so we will not be having a public hearing today. There's no delegations. So we'll move down to 8A. This is reports and recommendations from the city manager. It is the sponsorship policy. It starts on page 21. And at this time, Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=423s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This sponsorship policy that is in council's agenda package has been developed by administration as a result of information that was presented to council at committee meeting in February of this year. At that committee meeting, there were several existing community sponsorship policies that were considered and reviewed. And along with the discussion that happened at that meeting, requests and recommendations from council were forwarded to administration, and we have prepared the attached I'd like to bring forward a draft policy for council's consideration. This particular policy covers 2 main factors or components of city operations. One would be facility naming rights, which has not traditionally been a significant component of city's operations. Okay. Increasing popularity of this type of activity occurring in different municipalities and the opportunity of financial revenue generation being present in many communities across Canada, it was seen as a good opportunity for the city to consider. Secondly, it covers sponsorship components, which typically the city has referred to as advertising. There are fairly, or I would say more common examples where traditionally within the Centennial and T.G. Smith rinks, the city has engaged in the practice of selling advertising rights for signage installed at those facilities and to a lesser extent at some of the other facilities like the soccer park and the baseball diamonds in Steinbach. Overall, the policy is fairly brief. But it does provide a general overview and framework for the city to follow so that if there are ever any questions relating to sponsorships and/or naming rights for city facilities, that the city has a guiding document to follow. Recommendation from administration is that subject to council discussion, discussion and consideration, council might— may either approve the policy as drafted, approve the policy with amendments, or if it so chooses, may refer this policy back to administration for further study.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=475s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Wardine. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=632s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I will make the motion to approve the sponsorship policy as presented.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=638s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Is there a seconder? Councillor Hiebert, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=643s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. As the city manager had explained, this is, uh, it's becoming increasingly common in municipality for city assets, facilities to be, um, open to naming rights and, uh, sponsor recognition. Uh, this is a way to generate additional revenue, and, uh, obviously as a municipality, uh, we certainly are interested in, um, in new ways of getting revenue because obviously our costs continue to Thank you. And so the policy here is short, and yet it's also very clear. There's 2 categories of sponsorship categories. One is naming rights, and that's of course where the facility itself receives the name of the sponsor. And then the second is sponsor recognition, where essentially advertising rights within there. The city has full discretion in regards to who we allow to sponsor. It's very clear about The types of business activities and products that we will not have named after. So for example, tobacco, cannabis, harmful substances and such. Our policy specifically excludes that. The length of time of sponsorship is at the discretion of the city. And so again, the idea here is to look at, are there ways to get additional revenue for our operating costs? And we We look on the last page there on Appendix A, a list of city assets that may be sponsored or named. Generally speaking, the areas that are named after a person, we have not opened those up to naming rights, but all the other facilities that are listed here we have opened up. And so if there's a business, for example, that wanted to sponsor the Steinbach Aquatic Centre, we would— considering the amount of money that the aquatic centre costs us every year to operate, that would be one example of a facility that we would consider. Thank you. facility that would benefit greatly from additional operating funds coming in. And so I think we need to think outside the box and recognize that this can be a helpful way of getting, of getting more revenue for the city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=647s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=767s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I agree with Councillor Zwaagstra in that this is a way of the city generating additional revenue. Steinbach is the 3rd largest city in the province and We know that there are trends out there, and this is one of the trends in different communities where they are selling their naming rights for financial gain. And not only is this something that the city's bringing, but also we've had inquiries from the public for naming rights for different buildings and for them to do the advertising. So I think it's appropriate at this time that the city goes along with this. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=769s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Jake Hiebert (Councillor)",
    "text": "You.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=807s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Councillor Stevens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=807s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I would agree with the policy as well. I appreciate the comments that have been made. I have a question for administration through you, Mr. Mayor. These are all recreation facilities in our community. Is there— has there been any discussion— I can't remember the discussion back. Has there been any discussion about advertising or naming rights to the water tower or our water facilities? It's happened in other communities. But it isn't— I mean, our water tower stands out. That would be a particular— but has there been any discussion? Or let's say we had a request for that. Would this policy cover that as well?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=809s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "At this point, based on the facilities that are named in Schedule A, that would not be under consideration. However, if that is a change that council would like to see, then council could proceed to approve those facilities as also eligible.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=846s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "I won't",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=846s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Bring it up at this time, Mr. Mayor, but I just— it's an interesting position because there are other communities in Western Canada that have named— that have naming rights on some of their water facilities and so on. But I agree with this policy. It's something— this is a growth issue. As Steinbach grows, we need to continue to look at how we can manage that. Thank you. I think it's a good step forward in looking at different areas of sponsorship, of raising funds, because there— it has been part of the discussion ongoing over the different years. So I certainly— this is a good step forward in— and it gives people who are looking to have naming rights on a facility, it gives them a background on— and it gives us in administration something that they can move forward with. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=869s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=920s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Question to administration.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=926s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=927s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Through you. Mr. Warkentin, not to get into the fine, fine, fine details of policy, but with regards to the Steinbach Movie Theatre, the current leaseholder, it's commonly known as Keystone Cinema. Is there signage or anything that would interfere with them then needing to go into",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=928s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "I would suggest no, because in that particular case, that tenant has a signed lease with the city and has been given permission over and above provisions of this policy to, to occupy the premises.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=952s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Okay, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=967s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=968s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Just briefly, um, in response to Councillor Siemens' observation, I think he makes a valid point. I don't think the intent here of the list is that this is an exhaustive list. I think this is a representative sample. This is a start. Obviously, if a request came in for a different, uh, a different city asset, I mean, that the administration can always bring that to council, and then we can decide if we want to add it to the policy. And so whether it's the water tower or some business wants an underground pipe named after them. I mean, and sure, I certainly would be open to considering that. So yeah, but I think we have a good policy here.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=974s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Council? Yes, Mr.—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1009s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Sorry, I just, I would add one more point of clarification. I think from thinking back to the reasoning as to why the first Yes. And the focus was on recreation facilities. By and large, it's the recreation facilities that attract the general public, and from an advertiser or sponsor perspective, the attempt, or at least the intention, would be to generate the biggest bang for your buck for the sponsorship revenue, and hopefully there would be at least some advertising value there. Something as commonly seen across the city as the water tower and the fact that it It doesn't really attract crowds on its own and of its own right. It may not have that same draw.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1014s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Point taken. What about the underground pipe?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1066s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, maybe less of a draw on that even. There's always lift stations too, as far as that goes, right? Instead of naming them number 2, we could actually name them a name. Right. But no, you know, council, this is a great— I think this is a great policy. I think it's something that, as exactly like Councillor Siemens said, this is a growth issue. As we grow, we're going to have more and more facilities that are going to be there for the public to use. They're going to be played— the sports will be played in them, that kind of stuff. And this is a great way for businesses to generate revenue to their stores by sponsoring a ball diamond or a— or the whole park, for that matter, as a matter of fact. And I think it's important that we have this policy in place so that we have a direct— a directive of how to do it. You know, we've got a way to get it done. And this is how it'll happen. Call for the question. All those in favor? Opposed? That is carried. Okay, we've got 9A, accounts payable, back of the book. All had a chance to review. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1069s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor)",
    "text": "No",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1069s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1155s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9B. This is PTH 12 North Loewen intersection tender. The information was given to us by administration before the meeting. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1155s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This item is pertaining to the tender award for the PTH 12 North and Loewen Boulevard intersection renewal project. This project has been in the design stage for some time. The city first initiated this project, I believe it was back in 2020, so it's been a long time coming. The tender for this program closed on May 15th, 2024 with 2 bids having been received and the recommendation from the city's project engineer, which is WSP Canada Ltd., is to award the bid Maple Leaf Construction Ltd. being the low bid for an amount of $9,981,284. The project in and of itself will encompass the intersection itself as well as all of the extending roadways both north, south, east, and west, also affecting PTH 12 and and Loewen Boulevard. The city has also entered into a funding agreement with Manitoba Transportation and Infrastructure for the Department of Highways components of the work. All in all, total budget that was set aside for this project was just under $10.4 million, with approximately $4.5 million of that coming from— $4.5 million. The province of Manitoba. In addition to this particular contract, there are other component costs to this project that include utility servicing and traffic signalization, which are not part of this project, however, which are also the responsibility of the province of Manitoba. And in all, the city has been taking the lead on this project, as we have with other jointly administered projects with the department. Recommendation from administration is that council approve this tender award to Maple Leaf Construction for the amount as noted.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1175s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1311s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Either way.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1316s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Siemens?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1318s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I wish to approve.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1319s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Spencer.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1320s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a project long time in coming. I think if I remember right, around 2010 we did an overall assessment of our number 12 highway together with the highways department that we paid a big portion of, or 50% of, together with Manitoba Highways, and an overview of all the intersections on On number 12 North. The intersection that we fixed first, which was most prevalent at that time, was Park Road and number 12. We solved that one and we've— we fixed a lot of number 12. This was the last intersection and the most costly one on that plan. So here we are many years later, in 2020, I believe. Then we have been threatening our community since then that we're going to be fixing it. So now we finally have that opportunity. All the dollars are there. Thank you. And so it's— and it's within budget. It's within the budget that we have set forward. And so there for the next— I think completion will be 2025. So this will be in fall of 2025. So this will be a long project. There will be a lot of traffic issues. But once complete this project, we'll clean up that corner. And I think it will make it A lot more usable and move a lot more traffic. But a lot of it, in short terms, the province is responsible for everything above ground, the city is responsible for everything underground because those are our utilities. And so it's coming from a variety of places. The General City Operating Fund will be putting in almost just over $1 million, Utility Operating Fund $80,000. The reserve fund, the utility reserve fund, $1.1 million. Capital development reserve fund, another $110,000. And then general fund debit, we'll be taking out a debit issue of— or a debt issue of $1.4 million, and then utility fund debt issue further, $2.1 million to pay for it. And the city is— our cost is roughly $5.8 million, and the province is $4. $4 million and plus the, the hydro and the signalization as mentioned. So I think this is a good project. It'll cause us a little bit of traffic stress, but I think it's something that we need to do to fix that area.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1323s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Councillor Zwaagstra.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1475s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'm very pleased that this project is finally happening. As Councillor Siemens correctly noted, this has been a long time coming. This is not a a new issue that's been identified. We've obviously had a number of intersections along Highway 12 that we had been looking to get upgraded, and that has been happening systematically over the years. This is the last of the major intersections along Highway 12 that is getting— is getting a full reconstruction. Obviously, this is a major project. That's why the work will continue both this year and next year. It will have a significant impact on traffic. That will be challenging, but the end result will be worth it. We know right now how problematic that intersection is and how difficult it is to turn at certain times, especially at peak times at the end of the day and at the beginning of the day. So the city is contributing approximately $5.8 million, and then the remainder is coming from the province. We're working together with the— in partnership with the province on this. And so I'm definitely looking forward to this going ahead and having a much better intersection in the end.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1478s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1538s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I guess once we approve it, that means they can start work, Mr. Mayor. So the sooner they get started, the sooner it can be completed. So we need to approve it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1544s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, I totally agree. We need to approve this. When we first received word from the province that they were going to enter into an agreement with us, I think it was September of 2021, if I'm correct. That was when we took the pictures, you know, shook hands and kissed all the babies, and, and we had a great time at that intersection. And then we went into the— with the scope of the, of the project and the things that kept coming up, we had to postpone and postpone and postpone. And now we are finally doing it. And, and, and I think now We've had all the engineers in the province look at it, our engineers looked at it. I think we have a project here that is, once this intersection is built, it will last for decades and decades and decades, and it'll take the traffic that that intersection, that Steinbach hands that intersection every day. And very excited to see this finally happen. Council, we've had this on the books for many years, and we've Always pushed it back, and we knew it was always a 2-year project, so we always knew that we pushed it back 1 year, it's actually getting pushed back 2 years. But very excited to see this happen. I'm glad that everything could work out and that the tender could come in at the proper level, at our budget levels, and just really looking forward to this project. Thank you. Yes, I agree it's going to cause a lot of traffic stress, but we do have other ways to go north in our community, and those will be busy. But I think once this is done, I think we will, we will finally have a highway traffic system that's going to work right through our city. Call for the question. All those in favor? Opposed? That is carried. Okay, we got 9C. This is Bylaw 2246. This is public reserve closing referring to Kootenay Way, first reading. Uh, Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1553s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This particular bylaw, uh, number 2246, uh, does relate to a proposed public reserve closing within within the Parkhill development. This closure is being recommended for purposes of providing an efficient public reserve amendment process. There is an existing public reserve within this subdivision that does require an adjustment, and the acceptable process to do so is to close the current public reserve in its entirety And as a result of the revised subdivision that council recently reviewed and conditionally approved, the replacing public reserve land will be opened under that subdivision plan. So this is part of that whole process. In short, recommendation is for council to give this public reserve closing bylaw first reading so that a public hearing may be scheduled. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1688s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Uh, council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1752s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1759s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1759s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Uh, Mr. Warkentin explained it far better than I could, so",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1762s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Could you summarize what",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1771s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "He—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1772s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1772s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I have nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1773s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any further council? Anything closing? Call for the question. All those in favor of first reading? Opposed? That is carried. 9D, this is bylaw 2249. This is street renaming Kootenay Way to Superior Street. We'll be doing first and second reading today. Mr. Warkentin, could you please introduce this bylaw?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1777s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. Bylaw 2249 is also a bylaw that is more a housekeeping matter that is also related to the same Parkhill development as was referred to in the previous bylaw. As part of the subdivision application that council recently considered, the land was subject to a road opening and revision of the street Plan for the area that does necessitate the renaming of a portion of the previously existing street. This bylaw is intended to rename a portion of Kootenay Way to Superior Street as provided in the attached schedules. Recommendation is for council to give Bylaw 2249 both first and second reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1803s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1852s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1852s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Mayor. I'll make a motion for first reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1858s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Jake Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1860s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a housekeeping matter, and essentially we are renaming— so the old name is Kootenay, but I think the new name is Superior. So I think we should go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1864s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "I was going to make a comment on the Superior, but I'll leave it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1874s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And is anything further? That's all. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1882s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "This is the best.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1887s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "No, it's superior. Okay, call for the question. All those in favor? That is carried. We'll go directly into second reading. Looking for a motion for second reading. Councillor Hiebert. Second by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1887s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "The best time to do any name changing or road naming is when the area is under development And we see that here, so it's the right time to do it. I have",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1904s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "A",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1915s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1915s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "B",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1922s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Thank you. We got 9E. We got business licenses for April 2024. On page 39, looking for a motion to approve. Councillor Hiebert. Second by Councillor Stevens. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1923s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. It's good to see that people are still applying for business licenses, and I think we should approve them.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1946s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Hear, hear.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1951s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything further, council? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1952s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1959s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Oh, was that scary. We have 9F, Manitoba Hydro street lighting resolution. Looks like there's one more light we're going to have to pay for, council. We just need a motion to approve. Looking for a motion. Councillor Siemens. Second by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1960s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "We have the power to do it.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1985s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "They're relit.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1989s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. Are there any questions of council today? Councillor Hiebert, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=1990s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. It's to administration. I had a citizen approach me this morning while I was out for a walk and the The question is, what are we going to do or what can we do with hedges that are protruding into side— onto sidewalks, making it somewhat dangerous for people walking? And this particular person was saying that you could poke your eye in one of these branches and it would cause injury. So anyway, that's a question for administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2005s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Generally, if the If the trees or shrubs are located on city property, the city— we would ask that the homeowner notify administration, and the city can certainly send staff out to take care of it if it's obstructing a public walkway. The other matter is if it is a tree or shrub that's located on private property and that tree is encroaching onto a public walkway or sidewalk, it is the landowner's responsibility to make sure that their trees and shrubs are trimmed appropriately so as not to interfere with the public. Having said that, if the individual wants to locate or contact the city administration office and advise us of the location, we can certainly follow up with the homeowner and see that that gets corrected.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2032s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2089s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "So your question is answered.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2092s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "It's answered, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2094s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, great. Any further questions of council? Okay, seeing none, we'll move on. 11, correspondence, 11A. We got the Canada Post Community Foundation. This is referring to the 2024 fundraising campaign. The letter's in our package. Council, how would you like to proceed? Take it as information? Okay. We've got 11B. We have a request for support for an AMM resolution, recosponsoring resolutions, the RM of Ste. Anne. Council, how would you like to proceed? Information. Take as information at this time? Okay. And then we've got the 11C. This is the RM of Riding Mountain West. This is a special services levy letter to the The provincial government. It's on page 48. Council, how would you like to proceed? Take his information at this time? Okay. Got 11D. This is a letter from [name withheld]. This is referring to a drainage issue. Council, on this one, because it's addressed to administration and council, I would really like to Give it back to administration to form a report after they've gone and done some investigating and then report back to council on what even, if anything, needs to be done. But I think we should give this back to administration so that they can go and find exactly what is necessary here. Council, is that, do we have consensus? No. So, uh, Mr. Warkentin, you're okay with taking that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2095s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Uh, yes, administration will have a look and report back, uh, hopefully by the next meeting.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2200s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Then we've got the Jake Epp Library minutes of March 20, 2024 and April 24, 2024. Uh, council, how would you like to proceed? Take as information? Okay. And then we've got the Minister of Transportation and Infrastructure Okay. This is referring to Manitoba Airport Assistance Grant Program. Good news, they have upped the grant. The grant, this is a small grant. This is just to help operate our airport. And so it had been set for many years at $2,400. Starting next year, they're going to be doubling it to $4,800 to help with the To help support the airport operations. There's no other business. Looking for a motion to adjourn. Second by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting is Tuesday, June 18th, 2024 at 7:30 PM.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=zdqQVIyavtM&t=2205s"
   }
  ]

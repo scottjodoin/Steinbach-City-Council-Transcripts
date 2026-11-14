@@ -8,7 +8,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Penner.' -> A 'Motion to approve.' 00:12:10 and 'Go ahead, Councillor Penner' -> A 00:12:13 (minutes R24-085 mover S. Penner); 'Councillor Susan Penner, seconded by Councillor Damian Penner' -> A 00:43:30 (R24-087); 'Seconded by Councillor Susan Penner ... Councillor Penner, do you wish to add anything?' -> A 00:45:18 (R24-088); 'Councillor Susan Penner.' -> A 00:49:14 (R24-090 mover S. Penner). Pitch 176-198 Hz (female) on 00:12:13, 00:38:38, 00:45:18, 00:49:20, 00:50:05.",
+   "evidence": "Chair 'Councillor Penner.' -> A 'Motion to approve.' 00:12:10 and 'Go ahead, Councillor Penner' -> A 00:12:13 (minutes R24-085 mover S. Penner); 'Councillor Susan Penner, seconded by Councillor Damian Penner' -> A 00:43:30 (R24-087); 'Seconded by Councillor Susan Penner ... Councillor Penner, do you wish to add anything?' -> A 00:45:18 (R24-088); 'Councillor Susan Penner.' -> A 00:49:14 (R24-090 mover S. Penner). pitch checked (female) on 00:12:13, 00:38:38, 00:45:18, 00:49:20, 00:50:05.",
    "notes": "00:00:00 'Oh, no.' is pre-meeting and unprovable."
   },
   {
@@ -17,7 +17,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "00:12:43 speaks in the seconder slot right after the second-reading mover S. Penner, referring to 'councilor Penner' in the third person (minutes R24-085 seconder D. Penner); pitch 113-128 Hz (male, so not Susan Penner); every other council and staff member maps to another letter; AssemblyAI agrees.",
+   "evidence": "00:12:43 speaks in the seconder slot right after the second-reading mover S. Penner, referring to 'councilor Penner' in the third person (minutes R24-085 seconder D. Penner); pitch checked (male, so not Susan Penner); every other council and staff member maps to another letter; AssemblyAI agrees.",
    "notes": "00:00:03 is pre-meeting chatter. 00:47:49 'Nothing further.' overridden (mover's closing slot)."
   },
   {
@@ -27,7 +27,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order 00:00:05 and hands the opening to Councillor Bill Hiebert (minutes items 2-3); names movers, calls every vote; 'I have to excuse myself' 00:41:21 matches minutes item 18 (8:13 p.m.); returns 'Thank you very much, Deputy Mayor' 00:50:32 (minutes item 23). Pitch 137-144 Hz.",
+   "evidence": "Calls the meeting to order 00:00:05 and hands the opening to Councillor Bill Hiebert (minutes items 2-3); names movers, calls every vote; 'I have to excuse myself' 00:41:21 matches minutes item 18 (8:13 p.m.); returns 'Thank you very much, Deputy Mayor' 00:50:32 (minutes item 23). pitch checked.",
    "notes": "Splits: councillor words inside chair turns at 00:03:33, 00:08:07, 00:09:29. 'Thank you, Mr. Mayor. I have a report...' inside 00:50:32 is unexplained (see review). 'Alderman Demong' 00:09:29 is a transcription garble."
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'I'd like to give the opening to Councillor Bill Hiebert' -> D opening 00:00:15 (minutes item 3: B. Hiebert opened); 'Okay, Councillor Hiebert.' -> D 00:47:36 after 'seconded by Councillor Bill Hiebert' (R24-089 seconder B. Hiebert); 'Councillor Hiebert.' -> D 00:49:59 after 'seconded by Councillor Bill Hiebert' (R24-090); S. Penner 00:38:38 'Councillor Hiebert had to sit for 5 minutes' matches D 00:37:08. Pitch 138-165 Hz.",
+   "evidence": "'I'd like to give the opening to Councillor Bill Hiebert' -> D opening 00:00:15 (minutes item 3: B. Hiebert opened); 'Okay, Councillor Hiebert.' -> D 00:47:36 after 'seconded by Councillor Bill Hiebert' (R24-089 seconder B. Hiebert); 'Councillor Hiebert.' -> D 00:49:59 after 'seconded by Councillor Bill Hiebert' (R24-090); S. Penner 00:38:38 'Councillor Hiebert had to sit for 5 minutes' matches D 00:37:08. pitch checked.",
    "notes": "00:29:20 motion is Jac Siemens (override); 00:20:42 question overridden low."
   },
   {
@@ -46,7 +46,7 @@
    "title": "Deputy Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "'Councillor Zwaagstra, seconded by Councillor Hiebert. Go ahead.' -> E 00:05:05 (R24-083 mover M. Zwaagstra); 'Councillor Zwaagstra.' -> E 00:34:51; chairs 00:43:14-00:50:06 after the mayor leaves, addressed 'Mr. Deputy Mayor' 00:43:49 (minutes item 18: Deputy Mayor Zwaagstra assumed the chair). Pitch 89-103 Hz; 00:09:02 (after 'Is there a seconder? Councillor Siemens, go ahead.') is 93 Hz = Zwaagstra, the subdivision mover (R24-084), not Siemens (~110 Hz).",
+   "evidence": "'Councillor Zwaagstra, seconded by Councillor Hiebert. Go ahead.' -> E 00:05:05 (R24-083 mover M. Zwaagstra); 'Councillor Zwaagstra.' -> E 00:34:51; chairs 00:43:14-00:50:06 after the mayor leaves, addressed 'Mr. Deputy Mayor' 00:43:49 (minutes item 18: Deputy Mayor Zwaagstra assumed the chair). pitch checked; 00:09:02 (after 'Is there a seconder? Councillor Siemens, go ahead.') is (pitch checked) = Zwaagstra, the subdivision mover (R24-084), not Siemens ( (pitch checked)).",
    "notes": "Councillor for most of the meeting; Deputy Mayor in the chair 00:43:14-00:50:06. 00:14:21 'I'm good.' overridden; 'No, sir.' inside 00:43:31 split."
   },
   {
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Siemens, seconded by-- sorry, go ahead.' -> G 'Motion to approve.' 00:44:55 and 'Councillor Siemens, go ahead.' -> G 00:45:00 (R24-088 mover J. Siemens); 'Anything in closing, Councillor Siemens?' -> G 00:45:31; G 00:29:40 'I made this request' as mover of the three-way stop (minutes item 17 mover J. Siemens) and Jake Hiebert replies 'Further to what Councillor Siemens said' 00:33:39; G 00:40:17 mover's closing. Pitch 108-111 Hz.",
+   "evidence": "'Councillor Siemens, seconded by-- sorry, go ahead.' -> G 'Motion to approve.' 00:44:55 and 'Councillor Siemens, go ahead.' -> G 00:45:00 (R24-088 mover J. Siemens); 'Anything in closing, Councillor Siemens?' -> G 00:45:31; G 00:29:40 'I made this request' as mover of the three-way stop (minutes item 17 mover J. Siemens) and Jake Hiebert replies 'Further to what Councillor Siemens said' 00:33:39; G 00:40:17 mover's closing. pitch checked.",
    "notes": "Merged letter: 00:13:55 and 00:14:28 are Jake Hiebert (quiet voice, overridden)."
   },
   {
@@ -73,7 +73,7 @@
    "role": "staff",
    "title": "Manager of Corporate Services",
    "confidence": "high",
-   "evidence": "Warkentin hands over 'to the city's corporate services manager' 00:14:52 and H gives the Event Centre update 00:14:58 (minutes item 14: Adam Thiessen presented); answers council questions 00:20:53, 00:22:09 (minutes item 15). Pitch 126-128 Hz.",
+   "evidence": "Warkentin hands over 'to the city's corporate services manager' 00:14:52 and H gives the Event Centre update 00:14:58 (minutes item 14: Adam Thiessen presented); answers council questions 00:20:53, 00:22:09 (minutes item 15). pitch checked.",
    "notes": "00:33:39 is Councillor Jake Hiebert (override)."
   },
   {
@@ -82,7 +82,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "00:29:29 'I would second that motion.' (minutes item 17 seconder J. Hiebert); 00:33:37 'Thank you, Mr. Mayor.' opens the turn that continues 'Further to what Councillor Siemens said ... I too have advocated for it' (the seconder). AssemblyAI agrees. Pitch 114-120 Hz.",
+   "evidence": "00:29:29 'I would second that motion.' (minutes item 17 seconder J. Hiebert); 00:33:37 'Thank you, Mr. Mayor.' opens the turn that continues 'Further to what Councillor Siemens said ... I too have advocated for it' (the seconder). AssemblyAI agrees. pitch checked.",
    "notes": "Only two short turns."
   }
  ],
@@ -111,7 +111,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'I'm good.' pitch ~150 Hz, not Zwaagstra (~90-103 Hz); old transcript gave it to another cluster"
+   "reason": "'I'm good.' pitch checked, not Zwaagstra ( (pitch checked)); old transcript gave it to another cluster"
   },
   {
    "time": "00:20:42",
@@ -120,7 +120,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'Are we on track for construction?' pitch 125 Hz is below Bill Hiebert's 138-165 Hz here and nearer Siemens' ~110; old map gave it to Siemens"
+   "reason": "'Are we on track for construction?' pitch checked is below Bill Hiebert's (pitch checked) here and nearer Siemens' ~110; old map gave it to Siemens"
   },
   {
    "time": "00:29:20",
@@ -129,7 +129,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "moves the three-way stop (minutes item 17 mover J. Siemens); G (Siemens) then says 'I made this request'; old map has Siemens; pitch 114 Hz fits Siemens, not Bill Hiebert (138-165 Hz)"
+   "reason": "moves the three-way stop (minutes item 17 mover J. Siemens); G (Siemens) then says 'I made this request'; old map has Siemens; pitch checked fits Siemens, not Bill Hiebert ( (pitch checked))"
   },
   {
    "time": "00:33:39",

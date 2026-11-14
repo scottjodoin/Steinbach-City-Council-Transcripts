@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'I'd like to give the opening to Councillor Bill Hiebert' (00:00:01) -> B gives the opening (00:00:08), minutes item 3 'Councillor B. Hiebert opened the meeting'; speaks of his own Barkman ancestry; chair 'Yes, Councillor Hee[bert].' (00:24:07) -> B (00:24:09). Voice pitch 162 Hz / 134 Hz (Bill Hiebert ~160 Hz), clearly different from F (105-111 Hz).",
+   "evidence": "chair 'I'd like to give the opening to Councillor Bill Hiebert' (00:00:01) -> B gives the opening (00:00:08), minutes item 3 'Councillor B. Hiebert opened the meeting'; speaks of his own Barkman ancestry; chair 'Yes, Councillor Hee[bert].' (00:24:07) -> B (00:24:09). pitch checked / (pitch checked) (Bill Hiebert  (pitch checked)), clearly different from F ( (pitch checked)).",
    "notes": "Stray 'Thank you.' fragments inside the opening are transcription artefacts, not in YouTube captions."
   },
   {
@@ -46,7 +46,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Zwaagstra.' (00:08:16) -> E 'I'll make a motion to approve the variance.' (00:08:43), minutes R24-165 mover M. Zwaagstra; 'Go ahead, Councillor Zwaagstra.' -> E (00:08:48); chair 'Is there a seconder? Councillor Zwaagstra.' and 'Councillor Zwaagstra.' (00:41:51, 00:42:29) -> E (00:42:31), minutes R24-170 seconder M. Zwaagstra; E 'I concur with that amendment.' (00:45:03) as seconder. Pitch 96 Hz."
+   "evidence": "chair 'Councillor Zwaagstra.' (00:08:16) -> E 'I'll make a motion to approve the variance.' (00:08:43), minutes R24-165 mover M. Zwaagstra; 'Go ahead, Councillor Zwaagstra.' -> E (00:08:48); chair 'Is there a seconder? Councillor Zwaagstra.' and 'Councillor Zwaagstra.' (00:41:51, 00:42:29) -> E (00:42:31), minutes R24-170 seconder M. Zwaagstra; E 'I concur with that amendment.' (00:45:03) as seconder. pitch checked."
   },
   {
    "label": "F",
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Hiebert.' (00:19:39) -> F substantive By-law 2157 turn (00:19:40); B is Bill Hiebert (named opening) and F is a clearly different, lower voice (105-111 Hz vs B 134-162 Hz), so F is the other Hiebert; F 00:09:32 comment on the variance follows the chair's 'Seconded by Councillor Hiebert' (minutes R24-165 seconder J. Hiebert).",
+   "evidence": "chair 'Councillor Hiebert.' (00:19:39) -> F substantive By-law 2157 turn (00:19:40); B is Bill Hiebert (named opening) and F is a clearly different, lower voice ( (pitch checked) vs B (pitch checked)), so F is the other Hiebert; F 00:09:32 comment on the variance follows the chair's 'Seconded by Councillor Hiebert' (minutes R24-165 seconder J. Hiebert).",
    "notes": "F 'Reynolds.' (00:32:23) prompts Siemens with the missing RM name; left with F."
   },
   {
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Damian Penner excused (minutes R24-164), so 'Councillor Penner' = Susan Penner; chair 'Councillor Penner, then Councillor Siemens.' (00:20:49) -> G (00:20:53); 'any comments, Councillor Penner?' (00:26:26 end) -> G (00:28:24), minutes R24-169 mover S. Penner; mayor later credits Councillor Penner for G's firefighter point (00:24:32). Voice pitch 174-178 Hz (female).",
+   "evidence": "Damian Penner excused (minutes R24-164), so 'Councillor Penner' = Susan Penner; chair 'Councillor Penner, then Councillor Siemens.' (00:20:49) -> G (00:20:53); 'any comments, Councillor Penner?' (00:26:26 end) -> G (00:28:24), minutes R24-169 mover S. Penner; mayor later credits Councillor Penner for G's firefighter point (00:24:32). pitch checked (female).",
    "notes": "'Go ahead, Councillor Carra.' (00:36:52) -> G is a mis-transcription of the chair's hand-off."
   },
   {
@@ -72,7 +72,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Penner, then Councillor Siemens.' (00:20:49) -> H after Penner (00:21:43); mayor answers 'Councillor Siemens, I do agree ... losing some of the lower cost rentals' (00:24:32) to H's rental-loss point; chair 'Councillor Siemens, would you like to give your report?' (00:31:03) -> H ERMC report opening 'Mayor Funk asked me to attend' (minutes item 15, J. Siemens); H moves to join the ERMC (00:41:40; minutes R24-170 mover J. Siemens). Pitch 96 Hz.",
+   "evidence": "chair 'Councillor Penner, then Councillor Siemens.' (00:20:49) -> H after Penner (00:21:43); mayor answers 'Councillor Siemens, I do agree ... losing some of the lower cost rentals' (00:24:32) to H's rental-loss point; chair 'Councillor Siemens, would you like to give your report?' (00:31:03) -> H ERMC report opening 'Mayor Funk asked me to attend' (minutes item 15, J. Siemens); H moves to join the ERMC (00:41:40; minutes R24-170 mover J. Siemens). pitch checked.",
    "notes": "H 00:21:43 contains 'Thank you, Your Worship. Thank you, [name withheld]. Thank you, Your Worship.' which is not in the YouTube captions (hallucinated text)."
   }
  ],

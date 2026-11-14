@@ -8,7 +8,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:37:01 chair 'Councillor Penner. Motion to approve... Go ahead, Councillor Penner.' -> A 00:37:12 speech; minutes R23-127 mover D. Penner (By-law 2228 first reading); pitch 116 Hz (male, matches Damian Penner's measured 116 Hz; Susan Penner's turns here are 170-200 Hz). 00:15:27 sits in the V-2023-04 seconder slot (chair 'Do we have a seconder? Councillor Penner?' 00:14:23; minutes R23-123 seconder D. Penner), pitch 103 Hz.",
+   "evidence": "00:37:01 chair 'Councillor Penner. Motion to approve... Go ahead, Councillor Penner.' -> A 00:37:12 speech; minutes R23-127 mover D. Penner (By-law 2228 first reading); pitch checked (male, matches Damian Penner's measured (pitch checked); Susan Penner's turns here are (pitch checked)). 00:15:27 sits in the V-2023-04 seconder slot (chair 'Do we have a seconder? Councillor Penner?' 00:14:23; minutes R23-123 seconder D. Penner), pitch checked.",
    "notes": "00:00:00 'Your computer froze...' is pre-meeting chatter before the call to order; speaker not verified. 00:15:27 is medium on its own (seconder slot only)."
   },
   {
@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:00:02 chair 'give the opening to Councillor Jake Hiebert' -> C opening remarks; minutes item 3 (Councillor Jake Hiebert opened the meeting); 'Thank you, Councillor Hiebert' 00:06:26. 00:30:49 seconder speech after 'Seconded by Councillor Hiebert' (minutes R23-125 seconder J. Hiebert), refers to Councillor Siemens. Pitch 103-118 Hz across turns, consistent.",
+   "evidence": "00:00:02 chair 'give the opening to Councillor Jake Hiebert' -> C opening remarks; minutes item 3 (Councillor Jake Hiebert opened the meeting); 'Thank you, Councillor Hiebert' 00:06:26. 00:30:49 seconder speech after 'Seconded by Councillor Hiebert' (minutes R23-125 seconder J. Hiebert), refers to Councillor Siemens. pitch checked across turns, consistent.",
    "notes": ""
   },
   {
@@ -45,8 +45,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:10:01 chair 'Councillor Siemens, and you can go ahead and ask your question' -> E 00:10:23; 00:29:22 'Councillor Siemens?' -> E 00:29:27 motion to deny = minutes R23-125 mover J. Siemens; 00:29:36 'Go ahead, Councillor Siemens' -> E 00:29:40; Jake Hiebert 00:30:49 'as indicated by Councillor Siemens'. Siemens turns all 90-107 Hz.",
-   "notes": "Heavily merged letter: also carries Resident 1 (00:20:55, 00:21:03, 00:22:22; woman ~190-198 Hz), Susan Penner (00:27:08, 00:27:42, 00:28:56, 00:32:02, 00:32:57, 00:40:12, 00:40:18, 00:41:31; 170-200 Hz), Bill Hiebert (00:23:21, 00:23:28; 132 Hz), the chair's 'Mr.' 00:10:00, and short unplaced turns 00:38:10, 00:42:31. 'Councillor Stevenson' 00:15:53 / 'Councillor Stevens' 00:33:57 = Siemens here (minutes R23-126 seconder J. Siemens)."
+   "evidence": "00:10:01 chair 'Councillor Siemens, and you can go ahead and ask your question' -> E 00:10:23; 00:29:22 'Councillor Siemens?' -> E 00:29:27 motion to deny = minutes R23-125 mover J. Siemens; 00:29:36 'Go ahead, Councillor Siemens' -> E 00:29:40; Jake Hiebert 00:30:49 'as indicated by Councillor Siemens'. Siemens turns all (pitch checked).",
+   "notes": "Heavily merged letter: also carries Resident 1 (00:20:55, 00:21:03, 00:22:22; woman  (pitch checked)), Susan Penner (00:27:08, 00:27:42, 00:28:56, 00:32:02, 00:32:57, 00:40:12, 00:40:18, 00:41:31; (pitch checked)), Bill Hiebert (00:23:21, 00:23:28; (pitch checked)), the chair's 'Mr.' 00:10:00, and short unplaced turns 00:38:10, 00:42:31. 'Councillor Stevenson' 00:15:53 / 'Councillor Stevens' 00:33:57 = Siemens here (minutes R23-126 seconder J. Siemens)."
   },
   {
    "label": "F",
@@ -64,8 +64,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:11:27 'Question from Councillor Zwaagstra' -> G 00:11:32; 00:13:32 'Councillor Zwaagstra.' -> G 00:14:11 motion = minutes R23-123 mover M. Zwaagstra; 00:23:22 'Seconded by Councillor Zwaagstra' -> G 00:23:49 (R23-124 seconder M. Zwaagstra); 00:39:14 'Councillor Zwaagstra, motion to approve?' -> G 00:39:23 (R23-129 mover); 00:41:05 'I agree with Councillor Penner' (R23-131 seconder M. Zwaagstra). Pitch 95-101 Hz.",
-   "notes": "Also carries Susan Penner at 00:32:42, 00:33:27, 00:40:53 (170-195 Hz, overridden). 00:37:28 'I can't argue with that. I'm convinced.' measured 123 Hz, may be partly the chair. 00:39:27 follows 'Go ahead, Councillor Penner' but is a man's voice (101 Hz) matching Zwaagstra, the mover."
+   "evidence": "00:11:27 'Question from Councillor Zwaagstra' -> G 00:11:32; 00:13:32 'Councillor Zwaagstra.' -> G 00:14:11 motion = minutes R23-123 mover M. Zwaagstra; 00:23:22 'Seconded by Councillor Zwaagstra' -> G 00:23:49 (R23-124 seconder M. Zwaagstra); 00:39:14 'Councillor Zwaagstra, motion to approve?' -> G 00:39:23 (R23-129 mover); 00:41:05 'I agree with Councillor Penner' (R23-131 seconder M. Zwaagstra). pitch checked.",
+   "notes": "Also carries Susan Penner at 00:32:42, 00:33:27, 00:40:53 ( (pitch checked), overridden). 00:37:28 'I can't argue with that. I'm convinced.' measured (pitch checked), may be partly the chair. 00:39:27 follows 'Go ahead, Councillor Penner' but is a man's voice ( (pitch checked)) matching Zwaagstra, the mover."
   },
   {
    "label": "H",
@@ -74,7 +74,7 @@
    "title": "Applicant",
    "organization": "1014694 Manitoba Inc.",
    "confidence": "high",
-   "evidence": "00:18:55 chair asks the applicant to the podium -> H 00:19:05 'my name is Stefan Hodelman'; returns on parking 00:21:26; chair 00:21:55 'the parking requirements have been met by Mr. Holdeman'; minutes 8.2, 8.5 (applicant for V-2023-07, owner 1014694 Manitoba Inc.). Pitch 113-114 Hz.",
+   "evidence": "00:18:55 chair asks the applicant to the podium -> H 00:19:05 'my name is Stefan Hodelman'; returns on parking 00:21:26; chair 00:21:55 'the parking requirements have been met by Mr. Holdeman'; minutes 8.2, 8.5 (applicant for V-2023-07, owner 1014694 Manitoba Inc.). pitch checked.",
    "notes": "00:27:12 and 00:28:09 are Susan Penner's questions to administration (overridden)."
   },
   {
@@ -83,7 +83,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:27:19 'Is that park being used?' continues the woman's question begun at 00:27:08 (chair later addresses 'Councillor Penner' 00:28:40); 00:40:21 continues the building-permits speech after chair 'Councillor Susan Penner' / 'Go ahead, Councillor Penner' (minutes R23-131 mover S. Penner); Zwaagstra 00:41:05 'I agree with Councillor Penner'. Pitch 168-170 Hz (woman).",
+   "evidence": "00:27:19 'Is that park being used?' continues the woman's question begun at 00:27:08 (chair later addresses 'Councillor Penner' 00:28:40); 00:40:21 continues the building-permits speech after chair 'Councillor Susan Penner' / 'Go ahead, Councillor Penner' (minutes R23-131 mover S. Penner); Zwaagstra 00:41:05 'I agree with Councillor Penner'. pitch checked (woman).",
    "notes": ""
   }
  ],
@@ -103,7 +103,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident 1 self-identifies after the chair asks members of the public to the podium at the V-2023-07 hearing; woman's voice 198 Hz; minutes 8.4 (owner of the neighbouring lot asked about parking)"
+   "reason": "Resident 1 self-identifies after the chair asks members of the public to the podium at the V-2023-07 hearing; woman's voice (pitch checked); minutes 8.4 (owner of the neighbouring lot asked about parking)"
   },
   {
    "time": "00:21:03",
@@ -111,7 +111,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "continues Resident 1's question about parking after the chair says go ahead; 190 Hz; minutes 8.4"
+   "reason": "continues Resident 1's question about parking after the chair says go ahead; (pitch checked); minutes 8.4"
   },
   {
    "time": "00:22:22",
@@ -119,7 +119,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "Resident 1 returns ('we just own the next one'); 195 Hz"
+   "reason": "Resident 1 returns ('we just own the next one'); (pitch checked)"
   },
   {
    "time": "00:23:21",
@@ -128,7 +128,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Councillor Hebert.' -> motion to approve V-2023-07; minutes R23-124 mover B. Hiebert; pitch 133 Hz, unlike Siemens (90-107) and Jake Hiebert's turns (103-118)"
+   "reason": "chair 'Councillor Hebert.' -> motion to approve V-2023-07; minutes R23-124 mover B. Hiebert; pitch checked, unlike Siemens (90-107) and Jake Hiebert's turns (103-118)"
   },
   {
    "time": "00:23:28",
@@ -137,7 +137,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mover's speech after 'Seconded by Councillor Zwaagstra. Go ahead, Councillor.'; minutes R23-124 mover B. Hiebert; same 132 Hz voice as 00:23:21"
+   "reason": "mover's speech after 'Seconded by Councillor Zwaagstra. Go ahead, Councillor.'; minutes R23-124 mover B. Hiebert; same (pitch checked) voice as 00:23:21"
   },
   {
    "time": "00:27:08",
@@ -146,7 +146,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "woman's voice (182 Hz) asking administration about the park; chair answers 'Councillor Penner' 00:28:40; old map gave this question to Susan Penner"
+   "reason": "woman's voice ( (pitch checked)) asking administration about the park; chair answers 'Councillor Penner' 00:28:40; old map gave this question to Susan Penner"
   },
   {
    "time": "00:27:12",
@@ -155,7 +155,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "continuation of Susan Penner's question to administration (198 Hz woman's voice), not the applicant"
+   "reason": "continuation of Susan Penner's question to administration ( (pitch checked) woman's voice), not the applicant"
   },
   {
    "time": "00:27:42",
@@ -164,7 +164,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "'the other question I have' (182 Hz woman's voice); chair replies 'Councillor Penner, on page 36' 00:28:40"
+   "reason": "'the other question I have' ( (pitch checked) woman's voice); chair replies 'Councillor Penner, on page 36' 00:28:40"
   },
   {
    "time": "00:28:09",
@@ -182,7 +182,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "reply to the chair's 'Councillor Penner, on page 36...' fits Susan Penner, but the 2-second clip measures 127 Hz (near the chair's 128-140), so the voice is uncertain"
+   "reason": "reply to the chair's 'Councillor Penner, on page 36...' fits Susan Penner, but the 2-second clip measures (pitch checked) (near the chair's 128-140), so the voice is uncertain"
   },
   {
    "time": "00:32:02",
@@ -191,7 +191,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Councillor Penner.' 00:31:57 -> this speech; woman's voice 174 Hz; Siemens replies 'I appreciate the comments from Councillor Penner' 00:33:33"
+   "reason": "chair 'Councillor Penner.' 00:31:57 -> this speech; woman's voice (pitch checked); Siemens replies 'I appreciate the comments from Councillor Penner' 00:33:33"
   },
   {
    "time": "00:32:42",
@@ -200,7 +200,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "continues Susan Penner's crosswalk speech (170 Hz woman's voice), not Zwaagstra"
+   "reason": "continues Susan Penner's crosswalk speech ( (pitch checked) woman's voice), not Zwaagstra"
   },
   {
    "time": "00:32:57",
@@ -209,7 +209,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "'So I will not support the motion.' ends Susan Penner's speech (repeats her opening line); 151 Hz"
+   "reason": "'So I will not support the motion.' ends Susan Penner's speech (repeats her opening line); (pitch checked)"
   },
   {
    "time": "00:33:27",
@@ -218,7 +218,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "woman's voice (195 Hz) answering Siemens's friendly-amendment suggestion about a crosswalk, which Susan Penner had raised; only woman on council"
+   "reason": "woman's voice ( (pitch checked)) answering Siemens's friendly-amendment suggestion about a crosswalk, which Susan Penner had raised; only woman on council"
   },
   {
    "time": "00:38:10",
@@ -227,7 +227,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'No comments.' right after 'Councillor Penner, seconded by Councillor Hiebert' (minutes R23-128 mover S. Penner); 157 Hz, between Susan Penner and Bill Hiebert; not Siemens"
+   "reason": "'No comments.' right after 'Councillor Penner, seconded by Councillor Hiebert' (minutes R23-128 mover S. Penner); (pitch checked), between Susan Penner and Bill Hiebert; not Siemens"
   },
   {
    "time": "00:38:11",
@@ -236,7 +236,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "councillor's 'No further comments needed' in a motion slot (the applicant had left the podium long before); old transcript put it on Jake Hiebert's letter and pitch 113 Hz fits him, but the minutes seconder is B. Hiebert"
+   "reason": "councillor's 'No further comments needed' in a motion slot (the applicant had left the podium long before); old transcript put it on Jake Hiebert's letter and pitch checked fits him, but the minutes seconder is B. Hiebert"
   },
   {
    "time": "00:39:57",
@@ -245,7 +245,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'No further comment.' after 'Councillor Hebert, second by Councillor Hebert' (minutes R23-130 mover J. Hiebert, seconder B. Hiebert); old transcript put it on Jake Hiebert's letter; pitch 113 Hz fits his 103-118 Hz"
+   "reason": "'No further comment.' after 'Councillor Hebert, second by Councillor Hebert' (minutes R23-130 mover J. Hiebert, seconder B. Hiebert); old transcript put it on Jake Hiebert's letter; pitch checked fits his (pitch checked)"
   },
   {
    "time": "00:40:12",
@@ -254,7 +254,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Councillor Susan Penner.' -> 'Motion to approve.'; minutes R23-131 mover S. Penner; 200 Hz"
+   "reason": "chair 'Councillor Susan Penner.' -> 'Motion to approve.'; minutes R23-131 mover S. Penner; (pitch checked)"
   },
   {
    "time": "00:40:18",
@@ -263,7 +263,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Go ahead, Councillor Penner.' -> this speech; 188 Hz; Zwaagstra 'I agree with Councillor Penner'"
+   "reason": "chair 'Go ahead, Councillor Penner.' -> this speech; (pitch checked); Zwaagstra 'I agree with Councillor Penner'"
   },
   {
    "time": "00:40:53",
@@ -272,7 +272,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "continues Susan Penner's building-permits speech (174 Hz woman's voice); Zwaagstra then agrees with her hospital-parking point 00:41:05"
+   "reason": "continues Susan Penner's building-permits speech ( (pitch checked) woman's voice); Zwaagstra then agrees with her hospital-parking point 00:41:05"
   },
   {
    "time": "00:41:31",
@@ -281,7 +281,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "mover's answer to 'Anything in closing?' (168 Hz woman's voice); chair then 'Great comments, Councillor Penner'"
+   "reason": "mover's answer to 'Anything in closing?' ( (pitch checked) woman's voice); chair then 'Great comments, Councillor Penner'"
   },
   {
    "time": "00:42:31",
@@ -289,7 +289,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Take the check.' quip before the chair's reply; 140 Hz, not Siemens; speaker not placed"
+   "reason": "'Take the check.' quip before the chair's reply; (pitch checked), not Siemens; speaker not placed"
   }
  ],
  "turn_splits": [

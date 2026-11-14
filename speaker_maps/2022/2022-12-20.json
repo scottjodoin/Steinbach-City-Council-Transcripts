@@ -7,7 +7,7 @@
    "person": "Unidentified",
    "role": "unknown",
    "confidence": "low",
-   "evidence": "Only pre-meeting chatter (00:00:00) and four 'No comments.' replies right after the chair's 'Any comments?' (00:03:06, 00:04:15, 00:04:36, 00:07:10). Elsewhere the chair answers his own 'Any comments? No comments.' inside one turn (00:03:07, and the old transcript put 'Any comments? No comments.' in one turn at 00:04:35), and pitch of these replies (121-146 Hz) is close to the chair's (147 Hz), so this may be Earl Funk; too thin to name.",
+   "evidence": "Only pre-meeting chatter (00:00:00) and four 'No comments.' replies right after the chair's 'Any comments?' (00:03:06, 00:04:15, 00:04:36, 00:07:10). Elsewhere the chair answers his own 'Any comments? No comments.' inside one turn (00:03:07, and the old transcript put 'Any comments? No comments.' in one turn at 00:04:35), and pitch of these replies ( (pitch checked)) is close to the chair's ( (pitch checked)), so this may be Earl Funk; too thin to name.",
    "notes": "Possibly Earl Funk answering his own question; could also be a councillor."
   },
   {
@@ -16,8 +16,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair at 00:00:13: 'give the opening to Councillor Susan Penner' and B gives the opening reflection at 00:00:21; minutes item 3: Councillor Susan Penner opened the meeting; pitch of the opening 190-194 Hz (Susan Penner ~193).",
-   "notes": "The two 'Nothing further.' turns (00:05:31, 00:09:59) measure ~150 Hz (a man's voice) and are overridden to Unclear. Pre-meeting chatter at 00:00:02 kept on B."
+   "evidence": "Chair at 00:00:13: 'give the opening to Councillor Susan Penner' and B gives the opening reflection at 00:00:21; minutes item 3: Councillor Susan Penner opened the meeting; pitch of the opening (pitch checked) (Susan Penner ~193).",
+   "notes": "The two 'Nothing further.' turns (00:05:31, 00:09:59) measure  (pitch checked) (a man's voice) and are overridden to Unclear. Pre-meeting chatter at 00:00:02 kept on B."
   },
   {
    "label": "C",
@@ -35,7 +35,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Each substantive D turn (00:05:00, 00:08:12, 00:09:47) follows the chair naming Councillor Zwaagstra as mover and 'Go ahead, Councillor'; minutes R22-288, R22-292, R22-293 moved by M. Zwaagstra; pitch 101-105 Hz (Zwaagstra ~104).",
+   "evidence": "Each substantive D turn (00:05:00, 00:08:12, 00:09:47) follows the chair naming Councillor Zwaagstra as mover and 'Go ahead, Councillor'; minutes R22-288, R22-292, R22-293 moved by M. Zwaagstra; pitch checked (Zwaagstra ~104).",
    "notes": "'Not at all.' at 00:08:34 is too short to measure; the old map thought it might be another voice."
   },
   {
@@ -54,7 +54,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Nothing further.' measures ~132-150 Hz, a man's voice, not Susan Penner (~193 Hz); the mover was Zwaagstra (~104 Hz), so possibly the chair or another councillor."
+   "reason": "'Nothing further.' measures  (pitch checked), a man's voice, not Susan Penner ( (pitch checked)); the mover was Zwaagstra ( (pitch checked)), so possibly the chair or another councillor."
   },
   {
    "time": "00:09:59",
@@ -62,7 +62,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Nothing further.' measures ~154 Hz, a man's voice, not Susan Penner (~193 Hz); not the mover Zwaagstra (~104 Hz) either."
+   "reason": "'Nothing further.' measures  (pitch checked), a man's voice, not Susan Penner ( (pitch checked)); not the mover Zwaagstra ( (pitch checked)) either."
   }
  ],
  "turn_splits": [

@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. I call this meeting to order, and at this time I would like to give the opening to Councillor Michael Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Municipal government is often described as the level of government closest to the people. What this means is that municipalities are responsible for things that impact people directly. It may not sound exciting to talk about garbage collection, road repairs, underground infrastructure renewal, or lift station upgrades, but residents would be quick to notice if anything went wrong in any of these areas. For example, earlier this year, the City of Calgary faced an emergency situation when a major water main break led to serious water shortages in that city. Calgary residents were forbidden from watering their lawns or gardens, and were strongly encouraged to use as little water as possible when taking baths or washing their dishes. At first, it looked like this issue would be resolved in a week or two. However, the problem turned out to be much more serious than that. It took several months of repairs before water restrictions were finally lifted. Needless to say, it was a long summer for Calgary residents. The crisis in Calgary was a good reminder of the need to put first things first. Providing safe drinking water to your residents is not a luxury, it's an essential. People won't care how many climate emergency resolutions you pass, how many proclamations you announce, or how many flags you fly at City Hall if they can't turn on their taps and know that clean water is going to come out. One of the things that I appreciate most about serving on Steinbach City Council is that our council and staff have always remained focused on the essentials. The millions that we spend every year renewing our underground infrastructure and fixing our streets is proof that we place a high priority on providing good quality service to our residents. Spending money now on infrastructure upgrades is much more cost-effective than delaying repairs until we are in a crisis. Our asphalt overlay program, where we resurface several streets every year or so, long before they fall into serious disrepair, is a prime example of this approach. Obviously, Steinbach's streets are not in perfect shape, but I'm happy to compare them to the streets of any other city any day. Our city also prioritizes basic services, such as cleaning our streets and sidewalks after each major snowfall. This is only possible because of the outstanding work ethic of the staff in our Public Works Department. While many other cities appear content to let snow pile up to the point of making streets impassable, our staff ensure that streets are cleared so that Steinbach residents can safely drive their cars throughout the winter. This doesn't mean that our city focuses only on basic infrastructure. The fact that our $69 million Southeast Event Centre is nearing completion shows that it is possible to provide residents with top-quality recreational facilities while at the same time ensuring that our streets are fixed and tap water is flowing. In fact, I would suggest that the only reason we could do this event centre project at all is because of the fiscally responsible decisions made by successive councils over the last few decades. Our city's 5-year debt policy, where we pay off all loans in 5 years, has given us enormous flexibility in our planning process. Even the Southeast Event Centre loan will be paid off in 5 years, enabling us to move on to other projects. Since municipal government is closest to the people, we must focus on the things that matter most. While other cities might get distracted by hot-button political issues, Steinbach will always put first things first. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=11s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Zwaagstra. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Hiebert, seconded by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. We've got the minutes of November 5th, the 2024 organizational meeting on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments? No comments. Call for the question. All those in favor? Opposed? That is carried. And now we have the minutes of November 5th, 2024, the regular council meeting, starting on page 4. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Siemens. Any comments? No comment. Call for the question. All those in favor? Opposed? That is carried. Council, is there any business arising from the minutes? Seeing none. We'll move on. We are at, uh, 7:35, so we'll just move into the, the public hearing. At this time, I will close the council meeting, open the public hearing. We will look at conditional— the file conditional use CU-2024-06. This is referring to 59 Market Boulevard. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=239s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Pursuant to your introduction of the conditional use file and the civic address, both the owner of the property and the applicant for the conditional use is 10027732 Manitoba Inc. Purpose of the conditional use application is to permit a daycare center to be located on the subject property. Under the city's zoning bylaw 2100, a daycare center is a conditional use and Thank you. the application is for a development permit in the CMX commercial mixed-use zone in which this particular property is located. Notices as are required under the Planning Act have been issued. There is no written correspondence on file with respect to the application. The subject property is located within the Millbrook Market mixed-use development neighborhood, and it does offer a mix of retail, and residential. And should council feel that the provision of daycare services within this neighbourhood is an appropriate fit for the neighbourhood and would not have a detrimental impact on the surrounding area, recommendation is to approve subject to any new information that may be provided at the public hearing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=325s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant here today? Do you wish to speak?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=398s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "D",
    "label": "Keith Unger (Applicant's representative, 10027732 Manitoba Inc. (applicant, CU-2024-06))",
    "text": "I mean, yeah, sure.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=407s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Just take the podium, state your name and address.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=410s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "D",
    "label": "Keith Unger (Applicant's representative, 10027732 Manitoba Inc. (applicant, CU-2024-06))",
    "text": "Keith Unger from, I guess, 122 Granite Park Boulevard. And yeah, [name withheld], thank you for working on this so much. I really— the only thing I wanted to do is give a lot of credit to Garth Reimer, who— this was his initiative. He came to us after purchasing the land And said, Keith, we need to put a daycare here. He heard about Highlife putting up their headquarters and the, you know, all the office space there. And we're welcoming another tenant there on December 1st to another 5,000-square-foot office. And it just seems like a good fit for a place for people to live, work, and for us to have some childcare there. So looking forward to seeing it come together. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=415s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Uh, council, any questions for the applicant? Okay, thank you. Is there anyone here with comments, questions, or objections to this file? I'll ask again. Is there anyone here with comments, questions, or objections to this file? Seeing none, I will ask one more time. Is there anyone here with Comments, questions, or objections to this file? Okay, seeing none, I will, uh, close the, uh, public hearing, open the council meeting. Council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=461s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=501s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=502s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I am very happy to, um, make the motion to approve this conditional use. This is an excellent location for a daycare, um, for numerous reasons. Because there's a lot of employment in the area, whether it's Highlife or there's, um, retail stores, the grocery stores in the area. Um, I can think of myself when I was work— when my kids were young and I was working, I just think, wow, that'd be so convenient, this grocery store. I can quickly pick up supper and go pick up my kids, you know, at daycare, that type of thing. So I just think this is going to be high in demand. Um, and as we all know, daycare spaces are very important in this day and age where families often have to have 2 incomes to be able to make ends meet. So I'm just very pleased that we'd be adding more spaces to Steinbach, which will benefit the families in our community.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=504s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=557s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a central— well, not a central, it's actually a bit of an out-of-the-way daycare from where the other ones are. It's an area that's developing quick and is needing daycare in that area as housing is going up. As well as areas of employment in the direct vicinity of the daycare. Yeah, as Councillor Penner said, you know, for a lot of families, reliable childcare isn't just, isn't just a want, it's, it's, it's essential for them to be able to have, have employment and to be able to have reliable daycare as well. And there's, there's definitely a need for it in the community and the surrounding areas as well to come to a facility like this. So I think the location is great as Steinbach grows as well. Thank you. So I don't see any reason that we shouldn't be approving this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=560s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=606s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Yeah, I just wanted to touch on the point that Keith Unger mentioned in terms of Garth Reimer's contribution to this. You know, he's made a lot of contributions to our community, and it's interesting that even after his passing, that here's another legacy he will be leaving And I just think that's really special. It was interesting for me to hear that he actually was somebody who maybe initiated this. So I just wanted to take a moment to acknowledge and honor that as well. I think that's pretty special.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=611s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Yes, if you weren't going to, I was going to mention Garth too. He's done a lot of great things in our community, and this is another one, this legacy. Yes, I totally support this. I support this motion because I too, I've got young people working for me and as they are starting their families, they are on waiting lists and they're having great difficulty finding daycare for their children. And in today's day and age with both spouses working, there needs to be daycare and we— Thank you. If one thing we lack, it's daycare. This is going to start to make a difference in that area, and this is what— this is actually quite exciting for a community that we have new daycare spaces for our working families that need to have that. And so really looking forward to that. Call for the question. All those in favor? Opposed? That is carried. We'll move on to 9A. This is reports and recommendations of city manager. Notice of bankruptcy, Schupack Equipment Inc. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=641s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. At city council strategic priorities committee meeting last week, the report that was provided by the city's manager of solid waste operations, Mr. Eldon Wallman I believe it was in the last meeting that we referenced the bankruptcy of a former supplier of the city being Shupack Equipment Inc. This report is a follow-up and it does provide more detailed information with reference to that item that was brought up. At the end of the day, based on an approved purchase that city council approved back in September of 2020, Administration did forward a deposit amount of 50% of the original purchase price to the, to the, to the business. As the city found out earlier this summer, Shupack Equipment Inc. went into receivership. The city continues to work with the appointed receiver in trying to recover as much of those original funds as is possible. At this point, there is no final resolution. Thank you. But this report is just for council's information and be pleased to answer any questions if there are any.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=721s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you, Mr. Gordon. Question from Councillor Siemens.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=793s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Through you, Mr. Mayor. What's the next step? Is— I'm assuming we're going to spec another garbage truck and move towards purchase.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=797s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "At this point, the city is using an existing garbage truck that has been maintained. And still is in serviceable condition. And at this point, given the pending decision that is— the city expects to be forthcoming from the province within the next year or so with respect to residential curbside recycling collection, administration will be holding off on the purchase of any new additional residential truck until that matter is settled. Thank you. has got further certainty. So at this point, administration will likely not recommend the purchase of a new truck for at least the next 12 to 18 months.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=806s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=851s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything— question from Councillor Hiebert?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=852s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor)",
    "text": "I'd just like to make a comment through you, Mr. Mayor, if I could. In this instance, it appears that our administration did their due diligence and Having dealt with this company before, and so I stand behind administration on it. Having registered a claim in response to the bankruptcy, we'll have to wait and see if we get some of our money back, but I do commend our administration for doing their due diligence.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=860s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Okay, thank you, council. Okay, at this time we will— thank you, Ms. Rorden, for the information and the follow-up from the statement made by Alderman Wolman. And council will take this information at this time. We have 9B, the tender award correction referring to Park Road West, Forest Main Engineering. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=887s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. There was an item in the November 5th council meeting agenda that city council considered an award of consulting services for purposes of the Park Road West force main engineering program. Administration originally recommended a winning bid of $529,785. $489.89 to Associated Engineering Sask Ltd. While the award to the individual consultant was correct, the award amount was incorrect. Thankfully, the award amount actually was lower, and the amount of the award should be corrected to $463,201 plus applicable taxes. Thank you. Recommendation from administration is that council adopt a resolution correcting the tender award amount for such— for that amount.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=922s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, administration is looking for a motion to correct.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=980s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion to correct the tender amount to the amount listed by your city manager.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=984s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=989s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As the city manager had explained, there was an error that was made at the last council meeting in regards to the precise amount of the bid. The company remains the same, but the actual number is actually lower, which is— if you're going to have an error, it's certainly much better to have the error go in this direction. And so we do know that mistakes do happen on occasion, and so it's important that we correct the award so that way we are awarding the correct amount, which in this case is just over $463,000.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=992s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1023s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Let's maybe just not let associated engineering know what we approved in the first place.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1025s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing? Call for the question. All those in favor? Opposed? That is carried. Okay, we've got administration 10A, accounts payable, back of the book. Looking for a motion to approve. We've got Councillor Hiebert, seconded by Councillor Siemens, any comments? No comments. Call for the question. All those in favor? Opposed? That is carried. We've got 10B, business licenses, on page 42. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1031s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor)",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1074s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Council, we have, uh, business licenses on page 43. Permits was a good month. Councillor Penner, you'd like to make a motion to approve?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1075s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1091s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by, uh, Councillor Zwaagstra. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1092s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I mean, I kind of feel like a broken record, but wow, what a month. We are just having an incredible year, and it's so interesting. I remember at the beginning of the year Residential was really slow and our commercial was really strong. But now that's just— residential has more than caught up and really surpassed expectation for the year. I suspect this will be one of our best years ever for residential at this rate. So this is very exciting. We need residential, particularly rental units. And we can see here there's lots of— I'm sorry. multi— multiple dwelling units being built. So I think that's going to be really good. And overall, year to date, total dwelling units added, 267 so far. So that is a great year for Steinbach.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1096s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1152s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Certainly October was a very strong year for permits, a very strong month for permits in our city. Just under $30 million in total, with just over $24 million in residential, as Councillor Penner had noted. And a lot of that is for multifamily dwelling units, which is certainly something we need more of, and also quite a few single-family homes as well. And so it's good to see this— these strong numbers. It shows that we are— our developers are making every effort to have more housing available in Steinbach because we know that there is a need. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1154s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1188s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1191s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, again, as Councillor Penner said, I don't want to sound like a broken record, but this is a great month. And today I had the privilege of being at the throne speech, and before the throne speech, there was a reception put on for some of the mayors and dignitaries that were invited. And so I got together, I was sitting at a table with a lot of the bigger city mayors in our province, and so we started talking about how we're doing, right? Like, we're getting close to the end of the year, and so I talked about this month and the year we're having, and the mayor of Winkler just leaned over and says, What's your number? Those are really great numbers. Like when I told him we have 267 new housing starts, he said, that's a big number. And so, you know what, it's with pride we get to go to these events and we get to talk about our city. It's like comparing your kids in sports, right? Like that's kind of what it's like. And so, but it's great to see what Steinbach's doing. And I do believe that on a provincial level, we're beginning to get recognized for our growth and for what's going on in our city, and we're being seen as a good partner with the other centers, the urban centers in our community, and that's because of what's going on in our city, the growth we're getting to have. Call for the question. All those in favor? Opposed? That is carried.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1193s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "On the next item, I'm declaring a conflict of interest.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1288s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. And we've got the number 10D. This is bylaw 2250 referring to 331 Loewen Boulevard. This will be third reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1294s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This bylaw 2250 for the property located at 333 Loewen Boulevard was subject to Thank you. This file has been subject to a recent public hearing and second reading approval by City Council. All of the required information and documentation has now been received. Administration is at this point recommending City Council consider third reading to Bylaw 2250, subject to the execution of the development agreement. Thank you. The administration is recommending a correction to Bylaw 2250 due to some previous activity on this particular property some time ago back in 2017. There was a pending application for rezoning of that property at that time to rezone the subject property from C-4 commercial regional to RMX residential mixed use. Based on the information that was discovered, there was conflicting information as to what was actually disclosed within City Zoning Bylaw 2100. There was some information that referenced it as C4 property and some information referenced it as RMX property. In any event, based on conversations with community planning, the bylaw will be corrected to be rezoned from from RMX, residential mixed use, to the requested zoning to EI, educational institutional. Other than that, there is no other information of consequence within this file. And again, as recommended, that it is recommended that city council give this bylaw third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1309s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council. So we're looking for a motion for third reading. Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1419s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve subject to execution of development agreement.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1424s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor Stevenson.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1427s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. So now it is an RMX residential mixed use, and we're moving this to an EI, or educational institutional. And this is the third reading, so it's been gone through the first reading, the public hearing, and so this is the third reading to make it all official. Steinbach Bible College wants to relocate to this site. This is a former family medical center, And I think it's a great plan, and we've seen it last time, but it is a great plan. It's— they'll make very good neighbours. I think it's a great move for us and for them too. We heard how excited they were of— about moving there, adding to the property. They're putting on approximately a $13 million expansion starting as soon as probably this winter, and that with a 2-year build. Thank you. I believe something like that, but I think it's a great use of this property. So I would recommend that we approve third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1430s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1489s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor)",
    "text": "Mr. Mayor, as indicated, this bylaw has been before council twice before and no objections have been received. I think it's a venture that's well suited for the surrounding area. As we see, we've got the assisted living to the north. We've got residential on the other sides. To the east, we've got the church that has a gym apparently that can also be used— some arrangements have been made that the gym can be used by the school. So as I indicated, I look forward to the young students going to the school and also to residing in that same complex at a later date. Thank you. I know there's still a lot of construction that needs to happen prior to opening on the 26th, but again, this is a great venture suited to the area and looking forward to it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1492s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1548s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "D",
    "label": "Unidentified speaker",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1552s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. We'll ask Councillor Spicer to come join us again. 10E. Well, council, it appears that on November 5th at the organizational meeting, I was at my finest and I forgot to appoint one very important person to the Community Development Corp., and that is our own administrator, Troy Warkentin. So he is— it's okay. We had a long talk about it. He forgave me, so it's all good. Can't, but we just have to do it now. So looking for a motion to ratify that. Councillor Penner, seconded by Councillor Siemens. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1552s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I'm happy that Troy will continue his work on that committee.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1602s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Sir. Well, council, I'm just glad he forgave me. So call for the question. All those in favor? Opposed, that's Gary. 10F, this is the supplemental taxes to be added. We're looking for a resolution. This is basically, this is quite common. These are supplemental taxes that have been added to our tax assessment. Now we're just adding it, we're just adding it in, and we just need to do that by motion. We do this every year. Councillor Zwaagstra.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1607s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1652s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by? Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1654s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Every year, of course, we have new construction takes— take place, and that means that there are additional taxes that come in, often for a portion of the year. This is money that we do budget for. We do expect We expect a certain amount to come in, and so this is fairly close to the amount that we had planned on. And so it's not like this means that there's a whole lot of extra money in the budget because this is money that we had anticipated. But it's always— it is good when we have growth because it does mean that there are more revenues available so we can provide services.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1658s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1691s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. We wouldn't have this money if there wasn't stuff happening in our city. So it's good to see there's a lot of stuff happening. There's development happening. So it's exciting to see this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1693s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Anything further, council? Anything closing? Call for the question. All those in favor? Opposed? That is carried. And 10G is something similar to it. It's— this one's not as fun, but this is accepting canceled— this is canceled taxes. That has to be done too, and it's done once a year. And we're looking for a motion to approve the cancellations. Councillor Siemens, seconded by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1703s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. As stated, this— the tax cancellation is a lot smaller. It's 10% or less of the added taxes, so that's good. It's at $58,000. There are— and the City of Steinbach has taxes cancelled to us demolishing the old arena at 321 Elmdale Street. So we will be paying a lot more taxes once our building is up. But there's houses that have been demolished or different things, so then they get a rebate on their taxes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1734s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1766s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1768s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Closing. Call for the question. All those in favour? Opposed? That is Thank you. Are there any questions of council today? Okay. We'll move on to 12, correspondence and petitions. We've got the 12A, page 73, the Serving Seniors Inc. 2025 Manitoba 55 Games request for financial assistance. How would you like to proceed? Take his information? Yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1769s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Question.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1803s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, go ahead. In",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1803s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "The past, Mr. Mayor, or maybe administration knows, how much have we awarded— have we awarded a capital or a grant of some kind to the Serving Seniors when they've hosted the games? Do we have a history?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1804s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "The last Serving Seniors event, I can't recall exactly the year, but there was no additional funding awarded by council.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1818s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1825s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any other questions? Should we just take it as information at this time?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1829s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor)",
    "text": "Please.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1834s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. 12B, this is the STARS, this is their update. Council, would you like to proceed, take it as information? Okay. And then we've got the Safe Families Canada, this is the grant request. Council, would you like to proceed? Take as information at this time. And then we have the adult and teen challenge urgent financial request. Council, how would you like to proceed? Also take this as information? Okay. And the RCMP body-worn cameras, that should be, that should be being rolled out. Yes. Now, during the 3rd week of, of November, uh, council, this is just for our information, so I would suggest we just take this information at this time. There's no other business. Looking for a motion to adjourn. Second. Second by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting is Tuesday, December 3rd, 2024, at 7:30 PM.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1837s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "E",
    "label": "Unidentified speaker",
    "text": "Thank you. Yes, thank you. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=_yq9YNrahB0&t=1914s"
   }
  ]

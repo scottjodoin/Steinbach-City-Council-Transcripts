@@ -16,7 +16,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order and gives the opening to Councillor Susan Penner (00:00:03); calls every question; asks 'Mr. Warkentin, could you please introduce this file?' four times; replies address him 'Mr. Mayor'; makes the library board appointment (minutes item 14: Mayor Funk appointed). Pitch 151 Hz on 00:05:26-00:06:40.",
+   "evidence": "Calls the meeting to order and gives the opening to Councillor Susan Penner (00:00:03); calls every question; asks 'Mr. Warkentin, could you please introduce this file?' four times; replies address him 'Mr. Mayor'; makes the library board appointment (minutes item 14: Mayor Funk appointed). pitch checked on 00:05:26-00:06:40.",
    "notes": "The 00:12:55 silica statement contains 'Thank you, Your Worship,', 'Thank you.' and 'Yes.' fragments that are not in the YouTube captions (probably spurious); left on the mayor. Splits: 'Definitely support, yep.' (00:16:38) and 'Thank you, Mr.' (00:20:38) are other speakers."
   },
   {
@@ -25,7 +25,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair gives the opening to 'Councillor Susan Penner' (00:00:03) and C gives it (minutes item 3: S. Penner opened); chair 'Thank you, Councillor Penner' (00:05:25); chair 'Motion to approve, Councillor Susan Penner' (00:17:24) and C says 'Motion to approve' and speaks as mover (minutes R26-096 mover S. Penner); E at 00:19:28 'As was stated by Councillor Penner'. Pitch 205 Hz (female).",
+   "evidence": "Chair gives the opening to 'Councillor Susan Penner' (00:00:03) and C gives it (minutes item 3: S. Penner opened); chair 'Thank you, Councillor Penner' (00:05:25); chair 'Motion to approve, Councillor Susan Penner' (00:17:24) and C says 'Motion to approve' and speaks as mover (minutes R26-096 mover S. Penner); E at 00:19:28 'As was stated by Councillor Penner'. pitch checked (female).",
    "notes": "00:16:37 'Thanks, Ben.' is a 1-second fragment; captions hear 'I'm good.' / 'Thank you, Stan.' - speaker uncertain, left on C (see review)."
   },
   {
@@ -42,7 +42,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "E moves By-law 2278 ('Motion to approve.' 00:07:21) and By-law 2279 ('Move first reading.' 00:09:40) and gives the mover's speech after 'Go ahead, Councillor' each time; minutes R26-094 and R26-095 mover M. Zwaagstra. At 00:19:28 E refers to Councillor Penner and Councillor Siemens in the third person. Pitch 97-100 Hz (Zwaagstra measured 104 Hz on 2026-09-15)."
+   "evidence": "E moves By-law 2278 ('Motion to approve.' 00:07:21) and By-law 2279 ('Move first reading.' 00:09:40) and gives the mover's speech after 'Go ahead, Councillor' each time; minutes R26-094 and R26-095 mover M. Zwaagstra. At 00:19:28 E refers to Councillor Penner and Councillor Siemens in the third person. pitch checked (Zwaagstra measured (pitch checked) on 2026-09-15)."
   },
   {
    "label": "F",
@@ -50,8 +50,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "Single turn 00:08:08 on By-law 2278, the first councillor after the mover (Zwaagstra); the chair named 'Councillor Penner' as seconder (00:07:22) and minutes R26-094 record seconder D. Penner. Male voice (140 Hz), so not Susan Penner (C). No direct name hand-off.",
-   "notes": "Turn ends with the chair's 'Anything' (split). Pitch 140 Hz is also close to Bill Hiebert's debate pitch in other meetings (137-142 Hz), so a weak contrary cue; see review."
+   "evidence": "Single turn 00:08:08 on By-law 2278, the first councillor after the mover (Zwaagstra); the chair named 'Councillor Penner' as seconder (00:07:22) and minutes R26-094 record seconder D. Penner. Male voice ( (pitch checked)), so not Susan Penner (C). No direct name hand-off.",
+   "notes": "Turn ends with the chair's 'Anything' (split). pitch checked is also close to Bill Hiebert's debate pitch in other meetings ( (pitch checked)), so a weak contrary cue; see review."
   },
   {
    "label": "G",
@@ -59,7 +59,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair names 'seconded by Councillor Siemens' for the endorsement (00:17:24; minutes R26-096 seconder J. Siemens); G speaks right after the mover (Susan Penner) at 00:18:27; E then says 'As was stated by Councillor Penner and affirmed by Councillor Siemens' (00:19:28). Pitch 104 Hz.",
+   "evidence": "Chair names 'seconded by Councillor Siemens' for the endorsement (00:17:24; minutes R26-096 seconder J. Siemens); G speaks right after the mover (Susan Penner) at 00:18:27; E then says 'As was stated by Councillor Penner and affirmed by Councillor Siemens' (00:19:28). pitch checked.",
    "notes": "Turn begins with the chair's 'Anything?' (split)."
   },
   {
@@ -68,7 +68,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "evidence": "Single turn 00:20:43 on the endorsement: 'I was volunteering at the Pick Up and Walk on Saturday'. Councillors without another letter are Bill Hiebert and Jake Hiebert (if F is Damian Penner). Bill Hiebert's 2026-06-02 opening says he has volunteered at every Pick Up and Walk - a content cue only. Pitch 130 Hz sits between Bill (137-165 Hz in other meetings) and Jake (105-133 Hz), inconclusive.",
+   "evidence": "Single turn 00:20:43 on the endorsement: 'I was volunteering at the Pick Up and Walk on Saturday'. Councillors without another letter are Bill Hiebert and Jake Hiebert (if F is Damian Penner). Bill Hiebert's 2026-06-02 opening says he has volunteered at every Pick Up and Walk - a content cue only. pitch checked sits between Bill ( (pitch checked) in other meetings) and Jake ( (pitch checked)), inconclusive.",
    "notes": "Turn's opening 'Thank you, Mr.' sits at the end of the chair's 00:20:38 turn (split). AssemblyAI says Jake Hiebert; conflicting thin evidence, so low."
   }
  ],

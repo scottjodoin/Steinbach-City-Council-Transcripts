@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Hiebert.' (00:06:41), C 'Motion to deny.' (00:07:30), 'Go ahead, Councillor Huber' -> C's speech (00:07:35); minutes R23-251 mover J. Hiebert. Chair 'Councillor Hiebert' (00:38:22), C 'As Councillor Siemens has said...' (00:38:28). Chair 'Councillor Hiebert, seconded by Councillor Switzer. Go ahead, Councillor Hiebert' (00:54:51), C on Barkman Avenue (00:55:01); minutes R23-264 mover J. Hiebert. Long turns measure ~107-114 Hz (low male voice), unlike Bill Hiebert's B (~160 Hz).",
+   "evidence": "Chair 'Councillor Hiebert.' (00:06:41), C 'Motion to deny.' (00:07:30), 'Go ahead, Councillor Huber' -> C's speech (00:07:35); minutes R23-251 mover J. Hiebert. Chair 'Councillor Hiebert' (00:38:22), C 'As Councillor Siemens has said...' (00:38:28). Chair 'Councillor Hiebert, seconded by Councillor Switzer. Go ahead, Councillor Hiebert' (00:54:51), C on Barkman Avenue (00:55:01); minutes R23-264 mover J. Hiebert. Long turns measure  (pitch checked) (low male voice), unlike Bill Hiebert's B ( (pitch checked)).",
    "notes": "Short replies 'We can do that.' 00:04:54 and 'Looks beautiful.' 00:21:34 are not tied to him by any cue (see review)."
   },
   {
@@ -63,8 +63,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Council, would you like to proceed? Councillor Penner.' (00:45:27) -> G 'Motion to approve.' (00:45:34); minutes R23-258 mover S. Penner (Damian Penner excused, R23-250). G 'No, nothing further.' (00:44:33) after building permits moved by S. Penner (R23-257). Voice pitch of 'Motion to approve.' 190 Hz (a woman's voice; Susan Penner ~193 Hz).",
-   "notes": "'Anything' 00:53:39 is the chair's (override). Other G turns measure 148-178 Hz on short clips; 'No.' 00:48:15 measured 123 Hz on 15 frames only (see review)."
+   "evidence": "Chair 'Council, would you like to proceed? Councillor Penner.' (00:45:27) -> G 'Motion to approve.' (00:45:34); minutes R23-258 mover S. Penner (Damian Penner excused, R23-250). G 'No, nothing further.' (00:44:33) after building permits moved by S. Penner (R23-257). Voice pitch of 'Motion to approve.' (pitch checked) (a woman's voice; Susan Penner  (pitch checked)).",
+   "notes": "'Anything' 00:53:39 is the chair's (override). Other G turns measure (pitch checked) on short clips; 'No.' 00:48:15 measured (pitch checked) on 15 frames only (see review)."
   }
  ],
  "turn_overrides": [
@@ -84,7 +84,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "high",
-   "reason": "'Anything' continues in A's next turn 'further, council? Anything in closing?'; the original transcript has the whole phrase on the mayor; 129 Hz, not Susan Penner's voice"
+   "reason": "'Anything' continues in A's next turn 'further, council? Anything in closing?'; the original transcript has the whole phrase on the mayor; (pitch checked), not Susan Penner's voice"
   }
  ],
  "turn_splits": [

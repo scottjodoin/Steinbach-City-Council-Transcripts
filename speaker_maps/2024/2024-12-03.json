@@ -34,7 +34,7 @@
    "role": "staff",
    "title": "City Planner",
    "confidence": "high",
-   "evidence": "C 00:06:35 ends 'I would just like to refer to the city planner, Lacey Gaudet ... proposed timeline and the next steps' -> D 00:12:51 timeline/next steps (minutes 7.4: City Planner Lacey Gaudet spoke regarding timelines and next steps); chair later 'as Ms. Gaudet had noted' (open house); pitch 205 Hz (female)"
+   "evidence": "C 00:06:35 ends 'I would just like to refer to the city planner, Lacey Gaudet ... proposed timeline and the next steps' -> D 00:12:51 timeline/next steps (minutes 7.4: City Planner Lacey Gaudet spoke regarding timelines and next steps); chair later 'as Ms. Gaudet had noted' (open house); pitch checked (female)"
   },
   {
    "label": "E",
@@ -42,7 +42,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Penner.' 00:14:04 -> E 'I'll make the motion to approve.' with chair naming seconder 'Councillor Damian Penner' (minutes R24-234: S. Penner moved, D. Penner seconded); chair 'Councillor Susan Penner.' 00:34:40 -> E 'Motion to approve.' (minutes R24-238 S. Penner moved); F 00:18:33 refers to E's secondary-suite point as 'Councillor Penner also touched on'; pitch 190/176/176 Hz (female, matches Susan Penner)"
+   "evidence": "chair 'Councillor Penner.' 00:14:04 -> E 'I'll make the motion to approve.' with chair naming seconder 'Councillor Damian Penner' (minutes R24-234: S. Penner moved, D. Penner seconded); chair 'Councillor Susan Penner.' 00:34:40 -> E 'Motion to approve.' (minutes R24-238 S. Penner moved); F 00:18:33 refers to E's secondary-suite point as 'Councillor Penner also touched on'; pitch 190/176/ (pitch checked) (female, matches Susan Penner)"
   },
   {
    "label": "F",
@@ -50,7 +50,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Damian Penner.' 00:32:45 -> F 'Motion to approve as presented.' (minutes R24-237: D. Penner moved); chair 'Councillor Penner.' 00:18:30 and 00:48:26 -> F; F 00:18:33 cites 'Councillor Penner also touched on' (Susan's point), so F is the other Penner; pitch 122/142/129 Hz (male, unlike E)"
+   "evidence": "chair 'Councillor Damian Penner.' 00:32:45 -> F 'Motion to approve as presented.' (minutes R24-237: D. Penner moved); chair 'Councillor Penner.' 00:18:30 and 00:48:26 -> F; F 00:18:33 cites 'Councillor Penner also touched on' (Susan's point), so F is the other Penner; pitch 122/142/ (pitch checked) (male, unlike E)"
   },
   {
    "label": "G",
@@ -91,7 +91,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "reply to the chair's 'Councillor Siemens, anything further?' (Siemens seconded R24-238); YouTube captions hear 'no' here; pitch 144 Hz differs from the chair's surrounding speech"
+   "reason": "reply to the chair's 'Councillor Siemens, anything further?' (Siemens seconded R24-238); YouTube captions hear 'no' here; pitch checked differs from the chair's surrounding speech"
   },
   {
    "time": "00:52:01",

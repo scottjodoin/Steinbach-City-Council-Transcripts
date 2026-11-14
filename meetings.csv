@@ -1,4 +1,4 @@
-date,id,title,type,video_url,minutes_url,agenda_url,package_url,status,lines,high_pct,medium_pct,low_pct,substantive_high_pct,human_checked
+date,id,title,type,video_url,minutes_url,agenda_url,package_url,status,lines,high_pct,medium_pct,low_pct,statement_high_pct,human_checked
 2022-11-01,2022-11-01,2022-11-01,regular,https://www.youtube.com/watch?v=jxS7KHI9kUA,https://web.archive.org/web/20230609071127/https://www.steinbach.ca/site/assets/files/1247/21m_-_november_1-_2022_inaugural.pdf,,,published,250,96.8,2.4,0.8,97.7,0
 2022-11-15,2022-11-15,2022-11-15,regular,https://www.youtube.com/watch?v=fWxMS5MYUm0,https://web.archive.org/web/20230609083455/https://www.steinbach.ca/site/assets/files/1247/23m_-_november_15-_2022.pdf,,,published,115,94.8,1.7,3.5,98.2,0
 2022-12-06,2022-12-06,2022-12-06,regular,https://www.youtube.com/watch?v=lICn-iuC14w,,,,published,101,98.0,2.0,0.0,100.0,0

@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor)",
    "text": "Out at a sweltering 37 degrees and then plummeted to lows this weekend that resulted in frost warnings. Once again, this just goes to prove the old adage, don't plant your garden until after May long. Mom was right once again. While the cool weather may have affected some of us going out to our seasonal sites, opening up our cabins, or going camping, other families' May long weekend were anything from relaxing. At the time that I wrote this yesterday, there were There were 7 wildfires burning in eastern Manitoba, with 2 of those under control, 2 more that were classified as being held, and 3 others that were still considered out of control. These 7 fires alone are— we're currently covering 120,000 hectares. I don't know how big a hectare is, so I broke it down. That's 450 square miles of land being affected. Many areas of the cottage country were under evacuation notices to not only secondary residents and campers, but also to year-round citizens and their primary residences in the various municipalities. I personally cannot imagine the stress and anxiety of leaving your house behind, grabbing your most prized possessions, and then needing to leave your house, hoping it is still there when you return. To the many individuals that have lost property, buildings, and possessions, I want to say a very heartfelt sorry to you. I am— while I'm sorry for the losses that these families have incurred, I do not want to take— I do want to take time to also say thank you To the many volunteers, firefighters, municipal employees, and everyone helping out our neighbours as they struggle through these trying times. To the volunteers at evacuation centres, thank you for being one of the first points of contact for these families. A kind smile, a calm demeanour, and being there to help guide these families through the resources available, what to do next, and what the next week may look like for them is truly an act of selfless kindness. If it were not for you giving up your long weekend to help with the implementation of the emergency plans, any evacuation would not run smoothly and would add to the chaos rather than help execute any kind of cohesive plan. To the first responders and volunteer firefighters, thank you for sacrificing your family time to run into the danger when the rest of us are running away from it. Pray for your safety, wisdom, and discernment in every situation you have and will be put in. You are heroes that walk amongst us every day, and while we would much prefer to not have to see you at our house, we are still thankful that you are there to be here for us in our hardest time. And finally, to the municipal staff and elected officials, thank you for having a heart for your community. These individuals are passionate about building up the best communities they can and come into work every day with a care for their neighbour and fellow citizens. Undoubtedly, you do not ever want to have to pull that giant red emergency response binder off the shelf, but your planning for the worst case is what mitigates the damage and saves lives. The many mock scenarios you have participated in over the years, the preparation and subsequent revisions of evacuation plans, and your calm minds have prepared you for this, and you have done an impeccable job. Thank you for giving up your weekend to be coordinating emergency responses, setting up evacuation centres, and being a listening ear to the many people who are having one of the worst days of their lives. You are a foundation of strength in a time of turmoil that your citizens need to see. Once again, to the many families affected this weekend, my thoughts are with you. And to the many individuals that rose up and sacrificed their weekend to help their fellow neighbor, I give you my thanks.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us looking for motion to adopt. Councillor Hiebert, seconded by Councillor Uh, Penner. Call for the question. All those in favor? Opposed? That is carried. Council, we have the minutes of May 6th, uh, 2025, the regular council meeting, on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Zwaagstra. Second by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Is there any business arising from the minutes? Seeing none, we'll move on. Council, we have a little bit of lighter agenda, so we'll go straight onto administration. We've got 9A, accounts payable, back of the book. Looking for a motion to approve. Councillor Hiebert, second by Councillor Siemens. Any question or any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=208s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor)",
    "text": "No, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=267s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9B, uh, excavator license, page 6. Looking for a motion to approve. Councillor Hiebert. Second by Councillor Siemens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=267s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=286s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All in favor? Opposed? That is carried. We've got 9C, the real— realty tax Adjustment resolution. That is on page 7. So these are just— this is a rule that we have to make an adjustment on. We're just looking for a motion to approve this adjustment. Councillor Penner. Second by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=287s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "This is just semi-regular housekeeping.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=319s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Call for the question. All those in favor? Opposed? That is carried. We have 9D, building permits for up to the end of April 2025. Council, looking for a motion to approve. Second. Councillor Hiebert, any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=323s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is the building permits for April 2025, a very strong month. Just over $7 million in residential and nearly $6 million in commercial, and the total puts it just over $13 million per month. Significant number of new dwelling units, 45 multifamily, 5 single family. It's good to see this growth happening in Steinbach and So far this year, we are up to $38 million total when you add up residential, commercial, industrial, schools, and churches. So definitely a good year so far, and looking forward to see what happens in the next part of the year.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=351s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? No further comment. Anything further, council? Closing? Yes, council, this is a very, very great year so far. Councillor Switzer checked all the boxes. One thing that we can add is the total square footage of commercial buildings is nearly 120,000 square feet. That is significant for any month, especially a month like April. We're just really excited with where we're going, and council, there is more to come. Thank you. Call for the question. All those in favor? Opposed? That is carried. Okay, we got 9E, the business licenses for April 2025. Looking for a motion to approve. Councillor Ebert. Second by Councillor Demong. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=392s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "It's just nice to see people are willing to open businesses or continue their businesses. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=449s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9F. This is the RCMP policing variety— priority— you know what it is. Priorities. There we go. I knew I'd get it eventually. Okay, this is something we do. This is something we get from the Royal Canadian Mounted Police, the RCMP. We look over it. These are basically— haven't changed in the last couple of years, I would say. These are things that we talk about at the RCMP Advisory Committee. So the RCMP are on board with us. So their priorities The priority issues are crime prevention when it comes to drugs, crime reduction on property crimes, traffic, and communication, visibility of police. Now, they're listed 1 to 4, but these are all 4 equal priorities, so they work on them all together. It's not that one has priority over the other, but these are the 4 priorities. Thank you. as a group. Council, is there anything further that you would like to add? Councillor Zwaagstra, as the RCMP advisory chair.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=456s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yeah, thank you, Mr. Mayor. I'll put it in a motion just to adopt these. I believe we need a motion for this.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=543s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, there is a— To adopt these priorities. We do adopt by motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=548s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay, then I will make a motion that we adopt the priorities that are identified here.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=552s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=559s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As has been noted, every year together with the RCMP, we set our key priority areas, things that we want the RCMP to focus enforcement on. And so the priorities have stayed the same for a number of years now because these are things that we consider important. Obviously, we know that the drug issue, that when, when you have drug problems, it leads to a whole lot of other crimes happening. And so If we're able to crack down on that, then that, then that means less crimes in other areas as well, because when you have drug addictions and such and people stealing for the purposes of their drugs, it causes a whole bunch of other issues. Property crimes— we know that property crimes are a problem, and so we want that to be addressed. Traffic— that seems to be the never-ending one. We've obviously, over the last few years, we've really tried to prioritize this. A couple years ago, Council had approved hiring an additional RCMP officer to focus specifically on traffic. And as also was reported at the last council meeting, the RCMP will be working more in conjunction with the Ste. Anne Police and doing additional traffic enforcement in Steinbach to deal with some of the problem areas that we've identified. And then of course, visibility of police is always important. When police are visible and they're seen, that has a good deterrence impact on crime. And so I think these are, are good priorities for us to continue focusing on, and so I'm happy to make the, the motion to approve this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=561s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=646s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Uh, no, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=648s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything closing? Council, call for the question. All those in favor? Opposed? That is carried. Got 9G. This is, uh, subdivision 4451-2024. 2024-9057 is referring to 236 Woodhaven Avenue, starts on page 14. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=650s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This application for subdivision, as mentioned, file 4451-2024-9057, has been applied for by Loewen Henderson Bandman Legault LLP with the registered owner being Stone Creek",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=677s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "This is application 2018-LTD, and this is for the existing lot 1, plan 67258 in Steinbach, 236 Woodhaven Avenue. Okay. The application seeks council's approval for the creation of 5 lots from the existing parcel. Subject property is zoned RHD, residential high density, and is designated as residential policy area under the city's",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=677s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you. The site is identified in the city's official community plan. There are 2 existing 3-storey multi-unit residential structures on the site, which would be located on proposed lots 4 and 5. Future development of multi-unit residential structures would be able to proceed on proposed lots 1, 2, and 3. The information that is provided notes that the site has been partially developed. The frontage of the lot is relatively narrow for its size. And the subdivision is being proposed due to financing considerations. Community planning indicates that exceptions to the noted subdivision regulation may be considered and that it has no issues with the proposal. The concept plan that is on file prior to development occurring on the site did not indicate a future subdivision. Administration does have concerns that the applicant— that the application is inconsistent with city policy. Thank you. With respect to the way that access and servicing has been planned and installed for the site and the precedent that may be set by its approval. However, if council feels that the proposed subdivision is acceptable, it may proceed to approve it. However, administration would recommend that any approval should be subject to a development agreement, which would include the need for easements or declarations to provide for the required access, parking, drainage, and servicing. Thank you. Thank you, Mr. Mayor. I would like to recommend that council approve the application subject to any required variance approvals and also to the satisfactory resolution of the outstanding work orders for the site.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=677s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. I do have a question. The community planning does talk right under analysis, they talk about variances would be required for lots 2, 3, and 4. So this would require, if we would approve the subdivision, this would still require a public hearing at a later date?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=809s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "That's correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=834s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Thank you. Council, how would you like to proceed? Yes, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=835s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. So just so that I'm understanding, as far as at the— if this was approved, there would have to be a public hearing under the variances If this was not approved today but was put on hold, we could, we could look at it at the time of the variances. Is that— could you maybe just clarify the process a little bit?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=842s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "That option would be open to council if it could either approve the subdivision application today subject to, or if council is not prepared to make a decision on the subdivision, it could wait until the outcomes of the",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=862s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor) [medium]",
    "text": "Further follow-up?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=862s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=880s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Just in terms of how significant would the potential variances be? Could you— do you have that information as far as the— in terms of what type of variances would be required?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=880s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Just referring to community planning report, the proposed lots 2, 3, and 4 are indicated to be less than 20,000 square feet in size. Under the city zoning bylaw, RHD zoning lots do require a minimum site area of 20,000 square feet.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=892s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Can I follow that up? Okay, so lot 4 has under 20,000 square feet. Did we approve that? It says 17,000 square feet and it says that there's a structure on there already. So had that come through for variance?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=913s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "No, at this point the entire site is one lot.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=930s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Oh, I see.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=935s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "The buildings that exist on the site presently do comply with city zoning requirements.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=935s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Could I ask one more question, please? In terms of the easement, for example, right now this is all owned by one property owner, correct?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=941s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "Correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=951s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "If this is subdivided, they could potentially sell these lots to whoever would want to buy them. Is that an option as well for them once they're— if we would approve this?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=952s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "If the lots are subdivided and they are— and they exist as separately titled lots, that is something that could happen, yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=964s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "I think—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=974s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "One more follow-up.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=980s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "One more. So because they don't have public road access, can they be sold without public road access?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=982s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Just one sec. Yeah, yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=995s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "My understanding is if the appropriate easements for access are provided, that would provide the legal access to any of the lots that are intended to be created.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=997s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Through you, Mr. Mayor, to administration. So the city planner report, this isn't a condo plan nor is it a parcel plan as stated here. It's a standard subdivision. But all standard subdivisions need to access a public street. And that's not the case here. In this case, it would be accessing an easement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1009s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "The proposed subdivision suggests that the required access to a public street would be provided by easement. And provided that that is appropriately registered against every title that is affected, that would provide the appropriate legal access to the street. So it's just an alternate means. For all intents and purposes, it looks similar to a parcel plan or a condominium plan. The type of ownership and how it is actually structured is slightly different.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1034s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Okay. Mr. Bandman, this is not a public hearing, so normally we wouldn't take any comments from the gallery, but in this case, I will let you speak if you want to take the podium. Just state your name and address so that we have it for our record.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1074s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "Thank you. David Bandman. I'm here on behalf of the applicant. In fact, I, I was the applicant. Excuse me, I'm here on behalf of the registered owner, uh, Stone Creek Estate. So just a couple of items. Um, access is an issue. Uh, if you can— if you do have the, uh, copy of the subdivision area map in front of you, there's an area that's actually crosshatched, um, along— you'll see it there. That will actually be a registered— There you go. So you can see the area that's That's actually crosshatched all the way from Woodhaven going all the way to the end. That is actually going to be a plan. So it's not a road plan, but it's a plan in the same sense that as a road plan, it's just a private plan. So what would happen is a surveyor actually goes there, surveys it. That plan is registered against all of these titles, much like a road plan would be. It's just a— it's a private easement rather than a public road. So it In many respects, it is extremely similar to a public road. It has defined space. You can actually pull the plan up like you would be able to with a road, just to the dimensions of that area. Obviously, that's pretty important in this situation. I'd also like to point out that the buildings that are being proposed, that are already built and are proposed, would be able to be built here if it was one lot. Okay. So we aren't talking about building something that would've been different or not allowed if it was one lot. We're just talking about the way that the lots are organized. We have provided, for example, cross easements. The other reason why this is done this way, and I, you know, Councillor Siemens talked about a condo plan, is that these, each lot is self-sufficient in terms of parking. Okay. If we would have a common area going across, which is where the plan is, we wouldn't be able to have parking— those parking requirements met by each particular lot. So a condo plan wasn't really feasible in this standpoint unless we were going to have to give up parking and have some cross easements. So I think in that sense, this plan is 'Cause I think much more efficient. Also, there will be servicing that will cross lots. That is not unusual. We can take care of that through— Through cross access agreements, just like we would in a lot of different areas. I think Millbrook Market is an example. Some of the servicing does go across private lots, and we have taken care of that through Through private easements as well. So there is precedent for this in, in the community. It is an unusual piece because the access is, is so tight off of Woodhaven. But I would also like to just point out that these buildings could be there if it was one lot. All we're doing is asking for these lots to be split up for financing purposes. I know the, the owner doesn't have any, have any plans to, to transfer the property. That could happen in the future, but that's why we want to take care of it now with a with a road plan and these cross-access agreements.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1096s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "So I do have a question. So if parking cannot be accommodated on the lot, then I have a question. Why the subdividing? And you're still going to be accessing parking across the easement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1288s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "That's true, but that's not unusual in a lot of different areas of the city. That's why these lots were designed in this way, and that's why maybe the shape isn't what we'd see in a normal traditional shape, is because we wanted to preserve parking for each of these lots. So each of these lots standalone will have enough parking under the bylaw to take care of themselves. That was one of the most important things.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1306s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, but if it's for phasing, how come it can be phased this way? It's already being phased. Like you have 2 and then you have another 2. Those can be, those can be built at any time. Without subdividing? Like, I'm trying to wrap my head around why subdividing—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1325s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "The important part here—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1346s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "When you can phase the whole property anyway.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1347s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "The problem is with financing. The financing is the biggest problem here. What happens is when a lender wants— let's say one building is going to be built. Every time one building gets built, The financier takes security on the entire lot. And they don't like to release it after that. So what happens is essentially after you've built your first one, you're rather stuck with your financing. You have to either go with the same organization or you have to make sure that you have enough financing in place to cover the whole thing right from the beginning. It becomes much more difficult. And I think that's the main reason why we're here today is just— Okay. To be able to satisfy the financiers that they can get title to each of those individual lots each time the lot's being built. That's usually— that can be done through a condo plan, or that can be done through a parcel plan, or that can be done this way. There's 3 different ways to do it. In my opinion, there's not one right way for every particular project. Each one might be a little bit different. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1350s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Follow-up?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1413s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1414s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. So just to state clearly, or just to ask, I think you've said this, but I just want to make sure I'm totally clear. Other than financing, is there any other reason for going the subdivision route? Is financing literally the only reason? Because in terms of being able to do it, it obviously works as one lot. Is there any reason other than financing why this is being—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1414s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "Financing is the primary reason to do it. The plan is not to sell these off. The plan is to be able to build these in phases, and that's really the only way that you can do it these days. Especially with some particular lenders. Some particular lenders, once, once they have their hooks in you for the one, they're not going to release the rest of the property for your next phase.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1434s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Another question. Thank you, Mr. Mayor. Also, I mean, since you're answering questions, and we appreciate that, by the way, one of the things that administration had highlighted, and I'm just trying to find it on the page here, was A recommendation that any outstanding work orders be addressed. And at this particular property at 236 Woodhaven, there is an outstanding work order for the drainage plan and such to be produced January of 2024. And according to the records that we have, the city has tried to get that and there's been no response. And so what's going on there?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1450s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "I'm sorry, I can't speak to that particular issue. Obviously, those things would need to be cleared up before— as a condition to the subdivision.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1491s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay. Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1499s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. You have a question?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1500s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "I do, through you, Mr. Mayor. The— what if we went for a subdivision application here, you'd have to apply for a variation hearing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1501s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "Correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1510s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "Because then we would again discuss the fact that there's 20,000 square feet required and you've only got 14,000 on one of these, but you want to build a lot, but there's 20,000 square feet required. So now we're setting precedence with this type of a build and then we'll set precedence again when— because with the request for the variation for that kind of reduction from 20,000 to 14,000, which might be problematic, maybe not.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1511s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "The— I don't want to speak out of turn, but if There, there, there are some possible ways that we could get to 20,000 feet by, by going to the other side of the easement. I don't want to commit to that, but that, that is a, that is as well a possibility if, if for whatever reason council doesn't want, doesn't want to set that precedent for whatever reason. The other thing I'd note is that the other side of this, we are looking at park area. We're not— Yeah. We're not encroaching on any areas that are, that are high density as well. But that would be something that we— if we need to change the shape of that, one of those lots to get to it, we probably could do that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1543s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. So am I hearing correctly that you're saying that the variance may not be required after all?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1590s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "I think I think my client would prefer to have this set up the way it is, but if that becomes an issue in a public hearing, it's something we could discuss.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1602s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Because I guess the question, if I could, one more then.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1612s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1612s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Because if a variance is required, then I'm not really seeing the difference between if we approve this now subject to the variance or we simply table it for now and then we'll look at it at the time that we're doing the public hearing that we have to have anyway as part of the variance. So what's the— what is the advantage to approving it subject to the variance public hearing? Because there's, as you know, there is no guarantee how a public hearing will go. That's, that's because we have to be open to both what the applicant and what the public has to say, and also the input we get from staff.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1612s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "Correct. The advantage is time, because whether that variance goes through or not in 6 weeks from now, if you, if you grant the approval, it then goes back to community planning. They can start their process to get the to get it going, and it really speeds up the process for us to get the subdivision done. Realizing that that variance is still there, it speeds up the process because once you're— once you give the approval, it goes back to community planning. Community planning can issue a conditional approval. Those conditions might— may or may not be met, but it does move the process up by at least 6 weeks because it allows all the other commenting, conditions that'll be there because it's— there's a host of other conditions that they'll have on this particular subdivision. I think of, for example, hydro easements. Those take 8 to 12 weeks for us to get. So at least that would start the process, realizing that there still is a chance that council may not approve it. It still gives us a chance to move ahead with a lot of these things and work through those while this deliberation goes through and while there's a public hearing. Okay.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1645s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Through you to administration. Okay. If this was a new development and a new proposal, would lots of these sizes be approved in that development and considered RHD?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1710s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "You're asking a challenging question because you're asking me to predict would council approve a variance. I'm not sure.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1721s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "In a brand new area.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1730s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "F",
    "label": "Troy Warkentin (City Manager)",
    "text": "If it's brand new and the evidence would be provided to support I'll have to give you the political answer because I don't know. Based on precedent, I can say that the city has generally not approved variances of this nature if it's brand new development from the outset.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1736s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "I don't want to challenge anybody, but I can think of one right near the library where it might not be the site, but it was the Backyards and side yards. I could probably give you 2 or 3 where council actually has granted the variance. I can't speak 100% for site.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1755s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "C",
    "label": "Unidentified speaker",
    "text": "Right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1773s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "H",
    "label": "David Banman (Applicant's lawyer, Loewen Henderson Banman Legault LLP)",
    "text": "Site. So I can't speak 100% for site size, but I am aware of at least 1 or 2 with backyards and particular backyards.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1775s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. No further questions. Thank you for— thank you for coming and asking— answering some questions for us. Okay, council, on the— I guess the subdivision is in front of us at this point. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1795s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to deny.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1818s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder for that?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1818s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Zwaagstra, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1824s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Um, one of my concerns is the rationale that this is strictly because of a financing issue, because I can think of many developers, uh, in our community who would Like council to maybe make exceptions or approve plans that we normally wouldn't to help their financing. So for me, that is a concern that I'm not sure if I want to move in that direction. Obviously, we want to be developer-friendly and do, you know, what we can when we can, but there's significant concerns to this site. First of all, in terms of the lot sizes. Yes. Who's to say another situation like this wouldn't happen with a precedent like this where, okay, you buy a piece of property, you know it's not approved for, you know, or it's approved for RHD and you have the correct land size doing it this phasing and then quickly and retroactively or do a bait and switch where now you want to, you know, get these variances approved. So I'm concerned about the lot sizes here 'cause they, Okay. Or significantly less for RHD. The other piece is there's no guarantee that the current owner is going to keep these land— this land and develop it the way he or she, um, is suggesting they would. So that is a risk I'm not sure I want to take because of the easement situation. There's no access to public roadway, so it makes it very, very complicated in the future. Um, so when there is a public hearing, It's unpredictable. You don't know who's going to come out, who's going to object, who's not, if we'd even approve the variances. So there's just too many uncertainties for me to feel comfortable supporting this proposal.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1825s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1934s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I share the same concerns as Councillor Penner. And again, we do want to be as flexible as we can, and we certainly have— We've done our best in many of these cases. I think there are just simply too many areas of concern that are identified by staff. You know, I note the fact that the— really the only reason that's being given for doing it this way with the subdivision is because of financing reasons. And I understand that it's challenging to develop and that financing is an issue, but that shouldn't take priority over proper planning as far as city policies. And so what happens is that when you have— when it's subdivided, even if the current owner has no intention of selling, at some point ownerships can change. Things do happen. And then now what happens is you have different lots that do not have direct road access and that have access only through an easement. And yes, legally speaking, an easement does, you know, that does work legally speaking. But we know that, you know, when ownerships change, people move. Okay. People don't always understand why don't I have this direct access, why can't I develop here, and it creates future headaches for future councils and future staff. And that's why it's not the normal way in which for subdivisions to proceed. I mean, as our city engineer notes in his report, I mean, the reason that we don't want servicing across public-private property via easement is we want to protect individual property owners from shared infrastructure obligations. Thank you. Avoid long-term access and maintenance disputes and ensure clear and unencumbered servicing of all parcels directly from the public right-of-way. And so there's just a lot of unknowns, a lot, and even the fact that this would require variances most likely as far as the size of the lots, although that's not really the main issue here. If this could— if the development could proceed in a phased way, if it stays as one property, But subdividing, it just creates too many problems, too many potential issues for future planning for the future long-term growth of the city. And so that's why I'm seconding the motion to deny.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=1938s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further of council? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2065s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I agree with everything that Councillor Penner and Councillor Zwaagstra have already said, so I won't repeat it. But the reason I'll be voting in favor of the motion to deny is essentially there's just— this is a It's a precedent-setting file and there's just too many strikes against it of us trying to make this work for the developer rather than the developer working within our— within the city's policies. So that I commend them for investing in Steinbach and continuing to grow, but it's not our job as council to make sure that their financing can go through by adjusting our policies. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2069s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Siemens.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2069s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "I will also vote to deny the— and just very briefly here, the city planner is also an engineer. Our administration has put up a bunch of red flags. We're not necessarily the experts in development, but we sure count on our administration, our city planner engineer, to give us the important information as this goes. And I also appreciate the comments We heard here today, although this wasn't a public hearing, but the— like, I do also have concerns about the precedent setting and future complications or requests for similar exceptions down the road. Is it precedent setting? We take each one on its own. It's not necessarily precedent setting, but it could be, and it could be pointed to as well. So right now I agree with the comments that have been made.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2107s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2157s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "C",
    "label": "Susan Penner (Councillor)",
    "text": "I would just, just like to reiterate that this council has been really intentional about, uh, trying to make Steinbach friendly for development. Um, but this, as has been indicated, just has too many, uh, concerns and potential concerns, uh, with it to address to, um, I guess, as an issue of financing for the developer.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2162s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Yes, council, I do agree with this too. All the things that have been said have been very good comments, and again, I won't reiterate them, but I do want to just say that the city has accepted shared servicing agreements over private lands using common element in common condominium and parcel plans. In these models, shared infrastructure is maintained as part of a common element All unit owners contribute to maintenance through condominium or a corporation, and legal access and service rights are formalized and enforceable. It's unclear to me whether this would provide those same protections. While all the proposed lots would be owned by the applicant at this time, there's no guarantee that one day they get sold, and that's when—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2186s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "I see these obligations as a problem and hard to enforce. So for that reason, I will, for all the reasons that were stated and that one as well, I will be voting against this. Call for the question. All those in favor of deny? Opposed? That is carried. Thank you. Okay, council, council question period. Is there any questions of council at this time? Okay, seeing none, we've got correspondence, petitions. We've got the 2025 Eastern District Municipal Golf Tournament. Um, take it as information. I don't see a lot of golfers on this Council, but, um, um, this is for, uh, the benefit of nonprofit organizations, but this is just— we'll take it as information at this time. There's no other business. Looking for motion to adjourn. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting, Tuesday, June 3rd, 2025, 7:30 PM.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=613_xnKC0sM&t=2186s"
   }
  ]

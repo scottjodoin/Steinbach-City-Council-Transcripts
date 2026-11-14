@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:00:00 chair 'give the opening to Councillor Jake Ebert' then B gives the opening; chair 00:04:51 'Thank you, Councillor Hiebert' (minutes item 3: Councillor Jake Hiebert opened the meeting). CU-2026-08: chair 'Councillor Hiebert.' 00:43:31 then B 'Motion to approve.' 00:44:17 and mover speech (minutes R26-134 mover J. Hiebert). Minor subdivisions: B 'Motion to approve.' 00:51:09 and comment 00:51:13 (minutes R26-141 mover J. Hiebert). Pitch 00:39:04 turn 111 Hz.",
+   "evidence": "00:00:00 chair 'give the opening to Councillor Jake Ebert' then B gives the opening; chair 00:04:51 'Thank you, Councillor Hiebert' (minutes item 3: Councillor Jake Hiebert opened the meeting). CU-2026-08: chair 'Councillor Hiebert.' 00:43:31 then B 'Motion to approve.' 00:44:17 and mover speech (minutes R26-134 mover J. Hiebert). Minor subdivisions: B 'Motion to approve.' 00:51:09 and comment 00:51:13 (minutes R26-141 mover J. Hiebert). Pitch 00:39:04 turn (pitch checked).",
    "notes": "00:43:06 and 00:43:09 (the 'follow-up' sign questions) are Damian Penner (override)."
   },
   {
@@ -54,7 +54,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "evidence": "Resident 1 self-identifies at the V-2026-13 hearing 00:12:43 after the chair asks for the public; content of 00:12:43 and 00:14:43 matches minutes items 7 and 9. Pitch 178/168 Hz.",
+   "evidence": "Resident 1 self-identifies at the V-2026-13 hearing 00:12:43 after the chair asks for the public; content of 00:12:43 and 00:14:43 matches minutes items 7 and 9. Pitch 178/ (pitch checked).",
    "notes": "F merges two women: Resident 1 (00:12:43, 00:14:43, 00:15:30) and Councillor Susan Penner (00:24:37, 00:50:13, 00:55:57, 00:56:05, 00:56:09 - all overridden)."
   },
   {
@@ -71,8 +71,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Variance: H 'I'll make a motion to approve the variance' 00:28:04, chair 'Go ahead, Councillor', H speech recalls 'I specifically asked the question about ... 2-storey versus 3-storey' (his 00:24:08 question) (minutes R26-132 mover M. Zwaagstra); 00:53:02 Damian Penner cites 'As Councillor Zwaagstra referred' to H's 00:44:42 sign remarks. Pitch 103/104/97 Hz.",
-   "notes": "H also holds CU-2026-07 turns by Susan Penner (00:36:54, 00:36:58, 00:39:59; pitch ~180 Hz) and one applicant sentence (00:35:51, 143 Hz) - overridden."
+   "evidence": "Variance: H 'I'll make a motion to approve the variance' 00:28:04, chair 'Go ahead, Councillor', H speech recalls 'I specifically asked the question about ... 2-storey versus 3-storey' (his 00:24:08 question) (minutes R26-132 mover M. Zwaagstra); 00:53:02 Damian Penner cites 'As Councillor Zwaagstra referred' to H's 00:44:42 sign remarks. Pitch 103/104/ (pitch checked).",
+   "notes": "H also holds CU-2026-07 turns by Susan Penner (00:36:54, 00:36:58, 00:39:59; pitch checked) and one applicant sentence (00:35:51, (pitch checked)) - overridden."
   },
   {
    "label": "I",
@@ -80,7 +80,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "By-law 2283: chair 'Councillor Penner, seconded by Councillor Siemens. Go ahead.' 00:48:30 then I speaks (minutes R26-140 mover S. Penner); golf club 00:56:14 continues the seconder's remarks ('Seconded by Councillor Penner', minutes R26-144 seconder S. Penner). Pitch 182/178/176 Hz (female, so not Damian Penner).",
+   "evidence": "By-law 2283: chair 'Councillor Penner, seconded by Councillor Siemens. Go ahead.' 00:48:30 then I speaks (minutes R26-140 mover S. Penner); golf club 00:56:14 continues the seconder's remarks ('Seconded by Councillor Penner', minutes R26-144 seconder S. Penner). Pitch 182/178/ (pitch checked) (female, so not Damian Penner).",
    "notes": "00:24:35 'Mr.' + F's 00:24:37 'Mayor, I'd like to ask a question as well.' + I's 00:24:39 are one Susan Penner turn."
   },
   {
@@ -89,7 +89,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:52:59-00:53:30 question to administration on electronic signs matches minutes item 30 (Councillor D. Penner asked ...); variance seconder 'seconded by Councillor Penner' speaks 00:30:16 (minutes R26-132 seconder D. Penner); 00:46:44 'Motion to approve.' then chair 'Councillor Penner' (minutes R26-138 mover D. Penner). Pitch 120-138 Hz (male).",
+   "evidence": "00:52:59-00:53:30 question to administration on electronic signs matches minutes item 30 (Councillor D. Penner asked ...); variance seconder 'seconded by Councillor Penner' speaks 00:30:16 (minutes R26-132 seconder D. Penner); 00:46:44 'Motion to approve.' then chair 'Councillor Penner' (minutes R26-138 mover D. Penner). pitch checked (male).",
    "notes": "Also speaks at 00:30:17 (on A) and 00:43:06/00:43:09 (on B) - overridden."
   },
   {
@@ -99,7 +99,7 @@
    "title": "Project manager for the applicant",
    "organization": "Maplewood Manor Inc.",
    "confidence": "high",
-   "evidence": "Self-identifies 00:34:05 'I'm Michael Jansen ... I speak here on behalf of the Maplewood. I have been hired to manage this project'; minutes 15.3 (applicant Michael Janzen). Pitch 136 Hz.",
+   "evidence": "Self-identifies 00:34:05 'I'm Michael Jansen ... I speak here on behalf of the Maplewood. I have been hired to manage this project'; minutes 15.3 (applicant Michael Janzen). pitch checked.",
    "notes": "Speaks for Maplewood Manor, so named. His sentence at 00:35:51 sits on H (override)."
   },
   {
@@ -154,7 +154,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Continues I's 'Mr.' (00:24:35) into the I question 00:24:39 about 'anything from us' (a councillor); pitch 198 Hz; old transcript has the whole line on Susan Penner's letter."
+   "reason": "Continues I's 'Mr.' (00:24:35) into the I question 00:24:39 about 'anything from us' (a councillor); pitch checked; old transcript has the whole line on Susan Penner's letter."
   },
   {
    "time": "00:24:35",
@@ -172,7 +172,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Continuation of J's 00:30:16 'Thank you very much, Mr.' -> 'Mayor. Yes, at the heart of the matter...' (old transcript has it as one J-cluster turn); variance seconder D. Penner; pitch 131 Hz."
+   "reason": "Continuation of J's 00:30:16 'Thank you very much, Mr.' -> 'Mayor. Yes, at the heart of the matter...' (old transcript has it as one J-cluster turn); variance seconder D. Penner; pitch checked."
   },
   {
    "time": "00:35:51",
@@ -182,7 +182,7 @@
    "title": "Project manager for the applicant",
    "organization": "Maplewood Manor Inc.",
    "confidence": "high",
-   "reason": "Middle of the applicant's presentation ('we feel like the project will only be an improvement'), between his K turns; pitch 143 Hz vs his 136 Hz, not Zwaagstra's ~103 Hz."
+   "reason": "Middle of the applicant's presentation ('we feel like the project will only be an improvement'), between his K turns; pitch checked vs his (pitch checked), not Zwaagstra's  (pitch checked)."
   },
   {
    "time": "00:36:54",
@@ -200,7 +200,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Chair 'Go ahead, Councillor Penner.'; minutes mover S. Penner; pitch 182 Hz (female); Bill Hiebert then agrees with 'Councillor Penner'."
+   "reason": "Chair 'Go ahead, Councillor Penner.'; minutes mover S. Penner; pitch checked (female); Bill Hiebert then agrees with 'Councillor Penner'."
   },
   {
    "time": "00:39:59",
@@ -209,7 +209,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Mover's closing on CU-2026-07 (S. Penner per minutes); pitch 178 Hz."
+   "reason": "Mover's closing on CU-2026-07 (S. Penner per minutes); pitch checked."
   },
   {
    "time": "00:43:06",
@@ -218,7 +218,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'And if I can do a follow-up' right after Damian Penner's 00:42:57 question; pitch 130 Hz like his 138 Hz, not Jake Hiebert's 111 Hz; old map put it on Damian Penner."
+   "reason": "'And if I can do a follow-up' right after Damian Penner's 00:42:57 question; pitch checked like his (pitch checked), not Jake Hiebert's (pitch checked); old map put it on Damian Penner."
   },
   {
    "time": "00:43:09",
@@ -227,7 +227,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "The follow-up question itself; pitch 134 Hz; old map Damian Penner."
+   "reason": "The follow-up question itself; pitch checked; old map Damian Penner."
   },
   {
    "time": "00:50:13",
@@ -245,7 +245,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "Golf-club item seconder exchange; pitch 205 Hz; old transcript on Susan Penner's letter."
+   "reason": "Golf-club item seconder exchange; pitch checked; old transcript on Susan Penner's letter."
   },
   {
    "time": "00:56:05",
@@ -254,7 +254,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "'I did second.' - chair 'Seconded by Councillor Penner' (minutes R26-144 seconder S. Penner); pitch ~225 Hz."
+   "reason": "'I did second.' - chair 'Seconded by Councillor Penner' (minutes R26-144 seconder S. Penner); pitch checked."
   },
   {
    "time": "00:56:09",
@@ -263,7 +263,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Seconder speaks after 'You can speak to it'; continues into I (Susan Penner) 00:56:14; pitch 176 Hz."
+   "reason": "Seconder speaks after 'You can speak to it'; continues into I (Susan Penner) 00:56:14; pitch checked."
   }
  ],
  "turn_splits": [

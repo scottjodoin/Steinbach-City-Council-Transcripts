@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, sir. We call this meeting to order. Welcome here, everyone. And at this time, I would like to give the opening to Councillor Damian Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=1s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. Well, the houses are lit, the cider's been brewed, the turkeys are ordered, and the cocoa is simmering. The ugly Christmas sweaters are getting dusted off, and the finest china is being polished. We have finally come to the Christmas season and the Penner house is buzzing with excitement. Every December puts an amplifier on our actions and experiences and emotions. The joyous gatherings have an extra bit of magic to them. The laughter is turned up a couple decibels and the food tastes just that little bit sweeter. However, the loneliness also stings a little bit more. The hurting families distance themselves further. and the financial pressures to have the perfect Christmas weigh heavier on burdened shoulders. While Christmas brings an array of emotions, there is still only one true meaning, and that is the greatest gift of all given to us, our Lord and Savior in the human form of an innocent, perfect, vulnerable baby. I read this poem to all of you 7 years ago when I last had a December opening, and considering the words, I think 7 years past is long enough to wait. before reciting it again. 'Twas the night before Jesus came, and all through the house, not a creature was praying, and not one in the house. The Bibles were laying on the shelf without care, in hopes that Jesus would not come there. The children were dressing to crawl into bed, not once ever kneeling or bowing a head. And Mom in her rocker with baby on her lap was watching the late show while I took a nap. When out of the east there arose such a clatter, I sprang to my feet to see what was the matter. Away to the window I flew like a flash, tore open the shutters and threw up the sash. When what to my wandering eyes should appear but angels proclaiming that Jesus was here? With a light like the sun sending forth a bright day, I knew in a moment this must be the day. The light of his face made me cover my head. It was Jesus returning just like he had said. And though I possessed worldly wisdom and wealth, I cried when I saw him in spite of myself. In the Book of Life which he held in his hand was written the name of every saved man. He spoke not a word as he searched for my name. When he said, it's not here, my head hung in shame. The people whose names had been written with love he gathered to take to his Father above. With those who were ready, he rose without a sound. While all the rest were left standing around. I fell to my knees, but it was too late. I had waited too long and thus sealed my fate. I stood and I cried as they rose out of sight. Oh, if only I had been ready tonight. In the words of this poem, the meaning is clear. The coming of Jesus is drawing near. There's only one life, and when comes the last call, we'll find that the Bible was true after all. Thank you very much, Mr. Mayor, and I wish everyone a Merry Christmas to you all.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=11s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Susan Penner, seconded by Councillor Bill Hiebert. Call for the question. All those in favour? Opposed? That is carried. We've got the minutes of November 18th, the regular council meeting, starting on page 1. We've all had a chance to review. Looking I'll call for a motion to approve. Second. Councillor Hiebert, seconded by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. Is there any business arising from the minutes? Okay, seeing none, we have no public hearings, no delegations, and no reports and recommendations from city manager. We'll move into administration. Accounts payable, back of the book, looking for a motion to approve. So moved. Councillor Penner, second by Councillor Hiebert. Any comments? Call for the question. All those in favor? Opposed? That is carried. We've got the financial statements ending October 31st, also in the back of the book, looking for a motion to approve. Councillor Penner, second by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We have 9C. This is subdivision 455— 4451-2025-9184. This is referring to Industrial Road, uh, number 71, and we're looking for a resolution tonight. Starts on page 5. Uh, Mr. Warkentin, could you please introduce this",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=191s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=297s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Subdivision application file respecting the particulars that you already mentioned is being applied for by [name withheld] with the registered owner of the property being Hijack Ltd. The proposed subdivision under the application seeks council approval to subdivide the existing parcel of land Having a civic address of 71 Industrial Road into a 12-unit industrial condominium. The subject property is designated industrial policy area under the city's official community plan, and it is also zoned M2, which is heavy industrial, pursuant to Steinbach Zoning Bylaw 2100. The industrial condominium development would be subject to the city's major occupancy requirements, and it is recommended that council approve the application subject to the execution of the development agreement. And finally, community planning report provided in the file indicates that it generally has no concerns with the application.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=299s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=358s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=363s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=366s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Penner.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=370s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a subdivision application, as was explained, for 71 Industrial Road. And the proposal here is to subdivide 12 commercial industrial condominium units along with a common element from the existing 1.64-acre title. This is something that we do quite often, and so I think considering that staff is recommending approval and it's obviously— we want to see more development within Steinbach, I think it makes sense for us to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=370s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=398s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. This is more of a Application for ownership with regards to the building. It's not so much with regards to dividing up the lot per se. This is dividing up a building into 12 units. So although there is the ground underneath it that is being— it's not dividing up a lot into multiple small sections.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=401s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Anything further of council? Anything in closing? Call for the question. All those in favor? Opposed? That is carried. We have 9D, the Steinbach Sports Heritage Committee. Council, this was a committee we started at the onset of the event center opening up. I think they've done a fantastic job of celebrating the heritage of sports in our community. and what they've done with the cabinetry that we've given them and just how they have just highlighted every different sport in our community. They have a roadmap and a plan to do much more, and they want to, now they've got dreams and visions to do some portable display cases. That's right. And so they've come to us asking for an extension. So I feel it's right to give them 2 more years to do what they've done. It's been a little around 2 years that they've been going now. They do another 2 years, and they've also asked for a grant from the city, $15,000. They will also be doing fundraising. So I think really it's a small portion to pay to— Thank you. for them to continue to celebrate sports heritage. And also then, in this same resolution, council, if we do decide to go this route, we will also have to reappoint the members as well for the next 2 terms. They have— I spoke with them. They all want to continue to go to work on this, and they're so excited. They're doing such a great job. Thank you. Uh, council, how would you like to proceed on this? Councillor Susan Penner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=423s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=543s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Susan.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=544s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Like you, I've been incredibly impressed with the work they've done in the event center. Their displays look incredible, and I love that they're recognizing local athletes in our community. I appreciate their passion. Like, they're really passionate and motivated to do this. They requested Thank you. So they've requested a 2-year extension, and I think that's great. So I'm happy to make the motion for both the extension and also the $15,000 grant from the city. If you look at the— as you mentioned, they also are doing fundraising, so this is just a portion of what they're going to need, but I really appreciate that they're also willing to fundraise. also indicates their initiative, as it were. So I'm happy— yeah, I'm happy to move this motion. I really, really appreciate the work they're doing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=548s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=602s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I agree with Councillor Susan Penner with everything she said. I think it's very important that we celebrate our heritage in sports, and what I see so far is tremendous. And if they continue that down that next wall at the event center, I think it'll be very good. So yeah, I would approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=604s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Maybe I'll also just add that it also includes reappointing the existing members.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=620s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Perfect. Thank you. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=626s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=634s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Well, I've said my, my points before. We had the motion, so I'll call for the question. All those in favor? Opposed? That is carried. Okay, council, we have the Jake Epp Library committee member appointee. I have finally got ahold of Danny Plett, and he has agreed to stay on for a second 2-year term. So I'd just like to have that ratified by a motion of council. Councillor Hiebert. Seconded by Councillor Siemens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=635s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Just the only comment, thank you to Danny for being willing to come another 2 years on this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=672s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We have 9F, the interim operating budget. That is on page 43. Council, this is something we have to do every year. We need an interim operating budget. Well, we are running from January 1st to when we are actually approving our budget for 2026. So this is just, this is something we do every year. There is a resolution on page 43 there. Do I have anyone that would take, make the resolution? Councillor Penner, seconded by Councillor Hiebert. Go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=678s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. As you said that this is an interim budget, this would be funds that come out of the, full budget once it is released, but the government still goes on. And while we're still waiting to finalize it, usually in April, so if they need— we need that stopgap so that we can keep the water flowing and the sewer out of our city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=720s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=743s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Further to the words that you mentioned, Mr. Mayor, this is an interim budget, and I see it's for $12 million. Like Councillor Damian Penner has said, it'll be repaid when the regular monies come in.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=746s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything in closing? Further. Yes, council, it's important to keep the lights on. So call for the question. All those in favor? Opposed? That is carried. We have 9G, the supplemental taxes. This is— these are done every year. It's something we do every year. These are just properties that have come online in 2025, and these are taxes that are added to the tax roll that are— that have not been— this is brand new for this year. So we have budgeted about— usually in our budget, we do budget, I think we budget about $750,000. So with the— you look at what we got in, $800,000, 76 minus the just over 100 that were supplementary taxes that were canceled. That's pretty good budgeting on our city staff. But we need to approve these by resolution. Looking for a resolution. Councillor Zwaagstra.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=759s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=831s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=832s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As you noted, these are, we always budget every year for extra tax revenue that comes in when new buildings get built. Obviously, during the year, then we do collect at least a portion of the taxes from them. And as you noted, before we get too excited at this number, almost all of this is already budgeted for. So it's actually very, very close to what we budgeted. And so this is good that we get these supplementary taxes, but we do account for it in the budget too. So there is no— there is no windfall here.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=835s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=863s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. Yeah, this is extra money. It's strictly due to new development. And so let's keep developing 'cause that way we can keep the budget increased and growing. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=866s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything opposing? Over the question. All those in favor? Opposed? That is carried. You've got the 9H, the supplementary taxes. These are the cancellations. These are canceled. you know, due to things that have happened, fires, business, like things closing. Anyways, these— this total is around $100,000. So just looking for a resolution to accept. Second. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=876s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Any chance to cancel taxes?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=916s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Sure.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=916s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything in closing? Call for the question. All those in favor? Opposed? That is carried.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=921s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=926s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "Oh,",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=929s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Excuse me. Uh, Mr. Mayor, uh, it appears that, uh, administration was less than clear on, uh, a previous item. On page 44, uh, there is a draft resolution that has to do with, uh, the authorized borrowing. It was actually a part of the interim operating budget, and administration does recommend council consider and approve that resolution. That's on page 44.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=930s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. For now, looking at the agenda, it does say resolutions, not just one. So that is my mistake. So, okay, council on 44, this is the, The borrowing resolution, looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=958s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I think Mr. Warkentin must have been looking through the camera and seeing where I was looking because I thought I was looking at that as well. I did have a question for administration though, if I may. Mr. Mayor?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=977s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=987s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Through you. Just with regards to at the very beginning, it says the borrowing rate is going to be prime interest rate less 0.25%. Is that accurate?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=987s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "That is.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=987s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "It's plus 0.25. So I'm glad that you negotiated a fantastic rate and I'm happy to move the resolution.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=987s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Nothing further, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=1003s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, any further council in closing? Call for the question. All those in favor? Opposed? That is carried. Okay, council, it's council question period. Are there any questions of council? Okay, seeing none, we will go to correspondence and petitions. We've got the 11A, Minister of Environment and Climate Change, the recycling rebate. So there, council, would you like to proceed to take his information at this time?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=1005s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yes, Mayor Fund.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=1043s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "11B, Manitoba Justice Urban Policing Fund or grant. Here we can see we'll be getting 2 points, just over $2.6 million for the urban policing policy grant. Council, how would you like to proceed? Take his information at this time? Yes. And we've got the 11C, St. Ratrozo Watershed District This is the minutes from October 21st and October 27th, 2025. Council, would you like to please take his information?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=1048s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Please do.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=1081s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "There's no other business. Looking for a motion to adjourn. Councillor Susan Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting is Tuesday, December 16th, 2025.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=l9ig1oVXFmI&t=1083s"
   }
  ]

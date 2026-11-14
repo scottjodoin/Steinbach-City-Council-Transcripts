@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "A 'Motion to approve.' on CU-2025-06 (00:20:20) after chair calls 'Councillor Penner'; minutes R26-003 mover = D. Penner; chair 'Go ahead, Councillor Penner.' then A's substantive turn (00:20:24). Voice pitch of A's turns 121-144 Hz (male), ruling out Susan Penner. A at 00:26:24 refers to Councillor Zwaagstra in the third person.",
+   "evidence": "A 'Motion to approve.' on CU-2025-06 (00:20:20) after chair calls 'Councillor Penner'; minutes R26-003 mover = D. Penner; chair 'Go ahead, Councillor Penner.' then A's substantive turn (00:20:24). Voice pitch of A's turns (pitch checked) (male), ruling out Susan Penner. A at 00:26:24 refers to Councillor Zwaagstra in the third person.",
    "notes": "00:16:27 'Yes.' is the applicant answering the chair (override). 00:00:00 'I haven't gone yet.' was on the mayor's letter in the old transcript (review). 00:27:27 'Nothing further, thank you.' follows the financial-statements motion moved by B. Hiebert (review)."
   },
   {
@@ -46,7 +46,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair calls 'Councillor Swaigstra' and E moves the variance (00:25:41); minutes R26-004 mover = M. Zwaagstra; chair 'Thank you, Councillor Swaigstra' after E's substantive turn (00:26:22); A then says 'I also agree with what Councillor Swaigstra is saying'. E's CU turn (00:21:03) follows the chair naming Zwaagstra as seconder (R26-003 seconder M. Zwaagstra). Pitch 111 Hz on both turns."
+   "evidence": "Chair calls 'Councillor Swaigstra' and E moves the variance (00:25:41); minutes R26-004 mover = M. Zwaagstra; chair 'Thank you, Councillor Swaigstra' after E's substantive turn (00:26:22); A then says 'I also agree with what Councillor Swaigstra is saying'. E's CU turn (00:21:03) follows the chair naming Zwaagstra as seconder (R26-003 seconder M. Zwaagstra). pitch checked on both turns."
   },
   {
    "label": "F",
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "F says 'Paying our bills.' (00:27:10) when the chair asks for comments on accounts payable right after naming the mover 'Councillor Hiebert'; minutes R26-005 mover = J. Hiebert. F's question turns (00:24:15, 00:31:07) are one male voice (pitch 113-118 Hz), lower than Bill Hiebert's measured ~160 Hz. AssemblyAI agrees.",
+   "evidence": "F says 'Paying our bills.' (00:27:10) when the chair asks for comments on accounts payable right after naming the mover 'Councillor Hiebert'; minutes R26-005 mover = J. Hiebert. F's question turns (00:24:15, 00:31:07) are one male voice (pitch checked), lower than Bill Hiebert's measured  (pitch checked). AssemblyAI agrees.",
    "notes": "Never named in a hand-off; identification rests on the mover comment, pitch and AssemblyAI. Bill Hiebert is the alternative."
   },
   {

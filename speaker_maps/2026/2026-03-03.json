@@ -19,7 +19,7 @@
    "title": "Councillor",
    "confidence": "high",
    "evidence": "chair 'give the opening to Councillor Bill Hiebert' (00:00:00) -> B gives the opening; chair 'Thank you, Councillor Hiebert' (00:04:58); minutes item 3: Councillor B. Hiebert opened the meeting; B 'No comments.' (00:05:50) right after the chair names Hiebert as mover of the minutes (R26-048 B. Hiebert)",
-   "notes": "Short turns 00:05:05, 00:10:02, 00:20:42 keep the letter; voice pitch similar to the opening (133-158 Hz)."
+   "notes": "Short turns 00:05:05, 00:10:02, 00:20:42 keep the letter; voice pitch similar to the opening ( (pitch checked))."
   },
   {
    "label": "C",
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Zwaagstra' (00:08:16) -> D 'Make a motion to approve' and 'Go ahead, Councillor Zwaagstra' (00:08:45) -> D's speech, matching minutes R26-049 mover M. Zwaagstra; chair 'Councillor Switzer?' (00:19:55) -> D moves first reading, matching R26-054 mover M. Zwaagstra; B replies 'Councillor Swaigstra has pretty well said it all' (00:10:02); pitch 120-127 Hz"
+   "evidence": "chair 'Councillor Zwaagstra' (00:08:16) -> D 'Make a motion to approve' and 'Go ahead, Councillor Zwaagstra' (00:08:45) -> D's speech, matching minutes R26-049 mover M. Zwaagstra; chair 'Councillor Switzer?' (00:19:55) -> D moves first reading, matching R26-054 mover M. Zwaagstra; B replies 'Councillor Swaigstra has pretty well said it all' (00:10:02); pitch checked"
   },
   {
    "label": "E",
@@ -53,7 +53,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Penner.' (00:12:14) -> F 'Motion to award Friesen Hauling' (00:13:37), minutes R26-050 mover D. Penner; F 'Motion to appoint Deb Rempel' (00:18:29), minutes R25-053 mover D. Penner; Zwaagstra refers to F's argument as 'Councillor Penner' (00:14:44); male pitch 139-157 Hz rules out Susan Penner (~190 Hz)",
+   "evidence": "chair 'Councillor Penner.' (00:12:14) -> F 'Motion to award Friesen Hauling' (00:13:37), minutes R26-050 mover D. Penner; F 'Motion to appoint Deb Rempel' (00:18:29), minutes R25-053 mover D. Penner; Zwaagstra refers to F's argument as 'Councillor Penner' (00:14:44); male pitch checked rules out Susan Penner ( (pitch checked))",
    "notes": "'Oh,' / 'No, I'm good.' (00:15:59-00:16:00) answer the chair's offer of closing remarks to the mover; kept with F."
   }
  ],

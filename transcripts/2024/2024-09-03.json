@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I had something that happened this long weekend. We had taken our kids and grandkids to Gimli and we had walked, just for a walk, go to the pier and walk the boardwalk and just walk some of the shops. And as we were walking into the shops, I ran into an old acquaintance from last term. It was Mayor Brian Bowman. Hi. And he was trying on a new shirt and buying one of the designer shirts that was there. So we spent some time catching up and yeah, he's enjoying his new appointment. He's enjoying the life of being a judge and, but one of the things he mentioned is he asked how it was going in Steinbach and he kept telling me, he said, every time I come to Steinbach, he said, I can't believe how much it grows. Yeah. Well, that got me thinking that maybe I, you know, I need to put some numbers behind that and see like how much have we grown. And so I called Adam Thiessen, our corporate service manager, and I got him to do some work for me. And we went back as far as 2015 as far as infrastructure growth, right? So this does not include money that we've that the city's put in, in buildings or any amenities. This is just the actual infrastructure on the ground. So collectively, between what the city has put in and what the city's been donated by developers since 2015, so in 8 years to 2022, there's been $80.5 million of infrastructure put in the ground. And I thought those were pretty significant numbers. You're looking at an average of around $10 million per year. Susan, I don't know if you remember, but when we went to meet the business community in 2018 at the credit union and we did the presentation, at that point, in the previous 10 years, we were at $70 million. Wow. And now in these 8 years, not counting 2023, so some pretty big projects in 2023, we had Acres Drive, we had the pipe from all down Loewen Boulevard. You know, those were some of the bigger projects that are not on here. We've got the projects from this year. Some that'll get finished next year with the big intersection, the $13, $14 million intersection at Loewen Boulevard. Council, it really shows, it shows me, it shows the community our commitment to infrastructure renewal and the fact that we are committed to creating an environment that has good services where businesses and people can flourish. There's another way to measure our growth, and that was through the census. And so part of our population growth in it, most of our population growth seems to have come from 20,000 on. Like, we've really grown a lot since 20,000 on. So 2021 to 2006, we had a 19.93%, basically a 20% growth. Thank you. From '06 to '11, we grew at a 22.21%. From 2011 to 2016, we grew at 18.47%. And from 2016 to 2021, we grew at 11.13%. Now, the percentage numbers seem to go down, Yet the population numbers are going up because the higher your population starting, the more percentage you, or the more population you need to get that same percentage, right? But when you look at from 2001 to 2021, the city of Steinbach has grown 92.983%, or 98%, so basically 93%. 92.98%. So in 20 years, we've practically doubled our size. And, you know, I think that's where it's so noticeable. When people come in that don't necessarily come into our community every year, that's when they see the incredible growth. And I'm really looking forward to the next census 'cause our current information is all from 2021. I would really like to see what's going to be happening When we can get the numbers back from 2023, I think we'll see phenomenal growth and it'll prove what people are telling me as they come and see our community. They come and visit us and they say, man, you're growing again. We just, we see it. I just want to, again, Amanda helped me with this. She found out all the housing unit numbers. So from 2015 to 2022, we've added, through our developers, we've added 1,533 housing units. I'm just going to say this. If in this next election we've got to go door to door, I don't think I want to. That's a lot of new doors to visit in that time. But that is just— That's just a snapshot to show you of how fast our community is growing. And so when people do come in and they haven't been in town for a while and they say, hey, your community's really growing, we got the numbers to back it up. Thank you. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Penner, seconded by Councillor Siemens. Call for the question, all those in favor? Opposed? That is carried. We've got the minutes of August 20th, 2024, regular council meeting on page 1. We've all had a chance to review, looking for a motion to approve. Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Jac Siemens) [low]",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=390s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Is there any business arising from the minutes? Okay, seeing none, we'll move on. Looking for a motion to excuse Councillor Bill Hiebert. Second. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We have no public hearing. Council, we do have a delegation from STARS, and I just took— I talked to Angie, and she said she's ready to go, so we'll call you to the podium. And thank you, thank you for coming and presenting, and the floor is yours.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=391s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "A",
    "label": "Angele Cuthbertson (Donor Relations and Development Officer, STARS) [medium]",
    "text": "Perfect.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=391s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "C",
    "label": "Angele Cuthbertson (Donor Relations and Development Officer, STARS)",
    "text": "Just get out of that. So, good evening, Mayor Funk and members of City Council. I'm Angel Cuthbertson, but you can call me Angel. That's what I usually go by. And I am the donor relations and development officer at STARS in Manitoba. It's a pleasure to be here with you this evening to share updates on the incredible work we've been doing. Darryl usually led these presentations in the past, and since his retirement, we do miss him, and I really hope I can do a good job in filling his shoes tonight. Given your familiarity with STARS and the vital role we play in the community, I'll keep my presentation brief. However, there are a few key highlights I'd love to touch on, and of course I'm here to answer any questions you may have at the end. So to start, in Manitoba we have completed over 8,000 missions since 2009, with 6,700 of those being helicopter missions, and since 2020 we've done over 1,400 fixed-wing missions. And last year we did 1,153. That is the '23-'24 year. Um, and STARS flew 38 missions to Steinbach and area during the '23-'24 year. This includes a further 41 calls to the area within 50 kilometers of Steinbach. Thank you. So in the last 5 years, let's look at that. The support that STARS has received from the City of Steinbach has been amazing, first of all. Steinbach has helped since 2019 and given over $49,000. This is an incredible contribution. So when we look at that, the first line there says helping over 3,500 people and their families. So over 5 years, there's roughly about 3,500 people within the area, and then there's a big ripple effect with that. So we help that one person and we— the family members and loved ones also benefit from that help. So it really is a ripple effect in the community. It allows us to be innovative and on the cutting edge. It helps with medical equipment and supplies, aviation equipment, maintenance on the helicopter, allowing STARS to give back to the community by providing reassurance and support to our fellow communities. Thanks for— thanks to your help, we've been able to invest in advanced training for our flight and medical crews, equip— equipping them with the latest skills and knowledge to handle complex medical situations, ultimately improving patient outcomes across our region. STARS is a crucial part of delivering critical care to the people of Steinbach and the surrounding communities across Manitoba. We are a charitable not-for-profit organization that operates on a community-partnered model that consists of government funding, community fundraising, individual donations, corporate support, and of course our events. The support of the community keeps us on the cutting edge of critical medical care and puts the most advanced tools in our hands while sustaining our extensive ongoing training program to keep our team at its very best In responding to emergencies. With the ongoing support of our funding partners, we are committed to continuing this vital work for years to come, ensuring that everyone in the region has access to the essential care they deserve. I'm just sorry, I'm just going to show you a quick video that kind of shows you where, where some of your donations and funding goes at STARS, and it also gives you a unique look at Kind of like what a call would look like that we would receive and, and go to. So I'll just play that. Sorry, let's try that again.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=452s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "D",
    "label": "STARS video (Recorded audio from a video, STARS)",
    "text": "Star 9, Link Centre, pre-alert for scene call 30 nautical miles from the city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=708s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "E",
    "label": "STARS video (Recorded audio from a video, STARS)",
    "text": "Roger, standby weather check, please.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=723s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "D",
    "label": "STARS video (Recorded audio from a video, STARS)",
    "text": "Link Centre copies, standing by for weather.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=726s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "F",
    "label": "STARS video (Recorded audio from a video, STARS)",
    "text": "King Centre, STAR 9, uh, the weather is looking good. We accept the mission.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=736s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "G",
    "label": "STARS video (Recorded audio from a video, STARS)",
    "text": "STARS AMC? Yeah, copy that. Standing by for dispatch tones. We're dispatched to an MVC.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=740s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "D",
    "label": "STARS video (Recorded audio from a video, STARS)",
    "text": "Star 9, this is Link Centre. You're dispatched for a scene call 30 nautical miles southwest of the city. Patient weight, 80 kilograms.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=761s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "C",
    "label": "Angele Cuthbertson (Donor Relations and Development Officer, STARS)",
    "text": "So as you can see, we are involved in the 2 very expensive industries being medical and aviation, and when you put them together, they— it's quite a bit of money that's required to fund each base. So I want to extend my sincerest gratitude to the members of council for their time, attention, and support over the years. The City of Steinbach's dedication to STARS each year to support support the critical care anywhere we provide as part of your local emergency response team. Thank you for your time, and please don't hesitate to ask any questions you may have. It's true, we are, we are so appreciative and very grateful for the opportunity to share with you tonight. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=767s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you, Anjan, for the, uh, for the presentation. Um, Councillor, are there any questions? Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=863s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor) [medium]",
    "text": "Uh, thank you, Mr. Mayor. I know that, uh, There's been an ongoing effort to get more municipalities to contribute the dollar per capita, and the City of Steinbach, of course, joined on a number of years ago. Where are things at in terms of the percentage? Do you know about the percentage of Manitoba municipalities that are now actively participating in the funding?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=871s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "C",
    "label": "Angele Cuthbertson (Donor Relations and Development Officer, STARS)",
    "text": "I don't have an exact number, but I, like, I do, do a lot of work within that area, and I actually have signed on a lot of new ones that are actually got Carberry, Town of Carberry, they were brand new. They had never given until last year. So we do have new ones coming on. It's not 100% there yet. Still work to do. But yeah, I am happy to say that each year, at least since I've started, we have had more sign on. I send out a letter once a year and I, you know, try and engage the municipalities to You know, work with us and try to get presentations out at their offices also. So it's still a work in progress, but I am happy to say it is higher since I started. Within the last year, we have at least 5 more that hadn't been on before. But I can work at getting a better number for you. I just don't have that right now.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=890s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor) [medium]",
    "text": "Yeah, that's good. Thanks.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=948s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Well, thank you very much. I mean, maybe we don't have many questions because you've been here a few times now, and I think we've got a great working relationship with you and an understanding of what you do, and we thank you for what you do in our community and the lives you save and the families that you do help, because when you save one life, you help a whole family. And that is, that's what's key here. And no, thank you very much for coming out, and we do appreciate hearing about the things you do in our community and in our region. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=949s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "C",
    "label": "Angele Cuthbertson (Donor Relations and Development Officer, STARS)",
    "text": "Thank you so much.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=989s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, we have 9A. We'll move on to accounts payable, back of the book. All had a chance to review. Looking for a motion to approve. Councillor Siemens, seconded by Councillor Panter.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1007s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1017s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. 9B, we have excavator licenses on page 13. Looking for a motion to approve. Second. Councillor Zwaagstra, seconded by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Council question period. Do you have any questions of council? Okay, seeing none, we'll move on to correspondence petitions. We've got 11A. This is the Seine River Rosal Watershed District. Referring to the minutes of May 21st, '24, June 17th, June 18th, June 25th, July 3rd, July 12th, and July 16th, all of, of, uh, 2024. Council, how would you like to proceed? Take his information at this time? We have 11B. We've got the Jake Epp Library minutes referring to May 15th, 2024, and June 19th, 2024. How would you like to proceed? Take his information? Okay. Now we've got 11C. This is SLI Towers, proposed new telecom communication installation. Uh, Mr. Warkentin, before we take his information, is there anything you'd like to highlight on this?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1018s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "H",
    "label": "Troy Warkentin (City Manager)",
    "text": "Uh, generally, uh, this is Is there a standard form? There isn't a standard form. However, the process for any telecommunication towers to be installed and erected, it falls under the federal regulations, and as such, towers may locate in any zone within the City of Steinbach. The City of Steinbach is not an approving authority. However, there is a public consultation Yes. Okay. So there's a 30-day consultation period for any tower that is proposed. The organization SLI Towers did provide this document as information to the city. I understand that they're also providing a public advertisement so members of the general public can become aware and ask questions. And once that public consultation period is over, they will proceed to do final review, and if If the proposal is satisfactory to the other regulatory bodies, they would proceed to install. Unless there is a requirement for a variance due to some site requirements, City of Steinbach would, as I said, not be an approving authority for any component of this tower.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1101s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "This tower is approved to go close to our Landfill?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1179s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "H",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, the proposed location is just on the south side of Hanover Road East, which it would be just to the east of the city's landfill site. However, it is being proposed on a piece of privately owned property.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1187s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, and there is no motion of council needed for this?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1203s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Troy Warkentin) [low]",
    "text": "None.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1203s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Just, we can now take it as information?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1203s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "H",
    "label": "Troy Warkentin (City Manager)",
    "text": "Correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1211s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "May I proceed to take his information?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1212s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1212s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. We got 12A, other business. This is about the Eastman Regional Municipal Committee, the ERMC. We had a report brought back to us from Councillor Siemens. I sent him to a meeting on behalf of myself, and the consensus of council was to join that committee. So as an appointment, I would like to appoint Councillor Jac Siemens to that committee. And council, all I would wish from council was just a motion to ratify. Councillor Zwaagstra.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1212s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "I",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make the motion to appoint Councillor Jac Siemens to the committee.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1256s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, councilor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1261s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "I",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. We had a good discussion about this last week. And we— I think there's unanimous agreement that Councillor Jac Siemens is the right person to represent us there.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1264s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "H",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "He was up there at the previous meeting, and I think he's already formed some good connections.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1273s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "I",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "And so we're looking forward to the city working in partnership and doing some good lobbying to the province.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1277s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "B",
    "label": "Unidentified (possibly Michael Zwaagstra) [low]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1281s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Nothing further. Councillor Siemens, before I ask for the call for the question, are there any words you'd like to say?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1282s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "That's a lot of pressure. Thank you, Mr. Mayor. Yep, I think thinking my way through this and connecting with a few other board members and what possibilities are, there are a few things that I will bring to the next meeting, which will be on September 12th, and they are not necessarily in this priority order, but to lobby for overlay of number 12 highway from McKenzie North to the Seine River. With paved shoulders. And second is continue to build the 4-lane highway on 59 to St. Mauro. Then after that, we would also need a 4-lane highway, 52 to the 59, and build a 4-lane highway between Steinbach and La Broquerie with paved shoulders. That's a very busy highway. And recruit additional family doctors in Steinbach, be part of that process, and also proactively Hire healthcare workers for the addition to Bethesda Regional Centre that in some form so that it's ready to go when the building is complete.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1293s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Siemens. I do believe you're going down the right path. I think these are all things that would enhance quality of life for the region and for Steinbach, and I wish you all the best in for your leadership in bringing these, these, these things forward. I'd like to call for the question at this time. All those in favor? Opposed? That is carried. Looking for a motion to adjourn. Councillor Hiebert. Seconded by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting is Tuesday, September 17th, 2023.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=3acOgOFWwZQ&t=1356s"
   }
  ]

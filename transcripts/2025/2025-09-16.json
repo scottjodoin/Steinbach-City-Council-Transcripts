@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Restoring our basement, we were done. Like others who flooded that day, we were told it had been a 1-in-100-year rain event, a line that I myself repeated to many people last fall as a way to understand why the city's drainage could not keep up and why so many people had flooded. A few days after our basement was finally finished, the unthinkable happened. At approximately 1:00 a.m. in the early morning hours of September 12th, Water began pouring up out of our basement drain with so much force that we didn't even have time to elevate anything or take anything out. Our entire basement was flooded for the second time in a year, this time within minutes, and the water didn't stop coming in for over 4 hours. It is difficult to put into words how devastating and demoralizing flooding is one time, let alone 2 times or even more. The emotional, physical, and financial toll is significant, and my family is not the only ones. Dozens and dozens of homeowners, renters, and businesses are in the same situation as us. Consider the couple in their 70s who told me they had to borrow money to pay for their rental last year and are still making payments. Their basement filled with 3 feet of water this time, and they will have to borrow further to fix it again. Not to mention, they said, who's going to want to buy their home now that it has flooded twice? Their retirement is being upended. Consider all those living in basement suites who lost everything they had and don't have the luxury of living upstairs while their basement is being restored. Consider all those who can no longer get flood insurance and have to cover expenses entirely out of pocket. Consider all the people who are now living in fear every time they see a rain cloud. Consider those whose biggest asset, their house, is losing resale value. Thank you. We can say that these 2 rain events were outliers, but the fact is many people on my street have flooded multiple times over the years, and there are other areas of the city that have experienced regular flooding as well, whether overland or from drains. Where is the urgency to deal with this from the city side? I have heard the theories about how the city's drainage is supposed to work, but that is not the reality of what is happening. We say infrastructure is a city priority, yet we have areas that continue to flood. We essentially use streets and private parking lots as retention ponds so water can't drain fast enough in big rains, and this causes overland flooding. We say people shouldn't drain their sump pumps into the city system, but they are adding to flooding from drains. These big rainfalls are not supposed to happen this frequently, yet they have happened twice in one year. We have to start looking at what is happening, not what should happen. Thank you. There is a drainage issue and we need to do something about it. Not in the 5-year plan, not in the 10-year plan, but now. This has to be a priority, even if it means we have to move other projects around, or if it means we need to fast-track our climate change adaptation plan in order to secure funding from the federal government to deal with this. We need to figure out what is going on and increase our capacity to drain, reroute, or divert water faster. And if temporary measures need to be implemented while a long-term solution is figured out, we need to do that too. To the residents who flooded last week, my heart goes out to you, and I commit to keeping this at the forefront until something is done about it. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner, and thank you for, for for bringing that up in your opening. And I, as mayor, and I know council, we will stand with you and we will do this. We will commit to making sure that we work on projects that will— this will happen. And yes, we will work on our climate mitigation— climate change and adaptation plan, and we will find out what we need to know. Thank you. And we'll get those projects done. We need to get the projects done that will have the biggest impact, that will take care of the emergencies that we need to take care of today. And council will be committed on that as well. To all of you that have come tonight that have experienced flooding, we feel for you. We hurt for you. When a few people in our neighborhood Hurt, our whole community hurts, and we hurt for you as well. And we we will, as we said, we will commit to making sure that we will do everything. We'll leave no stone unturned to see what we can do to make this work. I know many many of you have have suffered many years in a row with with flooding. And, and there has— we have to look at it. We don't know what we don't know, but we have to find that out and we have to work on this. And you have a committed council sitting on— I think we can, we can show by nodding that we're committed to this and we want to fix this and we hear you and we hurt with you and, and this is not an easy thing to go through. Thank you. But we want to walk this with you together. We want to give you support through the recovery and do what we can as a city going forward. And I know that as people are filing with DFA through Mr. Thiessen, Adam Thiessen, we're finding out information that we've never known before. So this is really good information. We're learning something as well. So thank you for doing your part, and, and we will do our part. Thank you. Okay, we'll— now we'll start the meeting. Council, we have the agenda in front of us. Just want to make one change to 8B, the flood update by the city manager. So once we've changed our agendas, I'd like a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We have the minutes of September 2nd, 2025, regular council meeting. Looking for a motion to approve. Councillor Stevens, seconded by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=209s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=396s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Councillor, are there any business arising from the minutes? Okay, seeing none, we'll go directly into the public hearings. This is 6A. We've got variance V2025-22. This is referring to 116 and 118 Sterling Crescent. At this time, I will close the council meeting, open the public hearing. And Mr. Warkentin, can you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=396s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Application for variance",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=431s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "File V-2025-22 for the civic address as you mentioned. The owner of the property is Newstater Holdings Inc., with the applicant for the variance being Three Way Builders Ltd. Purpose of the variance application is to permit a front yard setback of 17 feet, whereas the RLD residential low density zone requires a minimum front yard setback Thank you. The applicant is proposing to construct a duplex on the subject property. Notices as are required under the Planning Act have been issued. There is no written correspondence on the file with respect to the application. Reports from both city planner and city engineer are found in council's information package. The applicant does indicate that a full redesign of the structure would be required in order for it to comply with the I'd like to thank the city staff for their work on this application. It is my understanding that council has met the required front yard setback requirements. The city planner report also indicates that based on the preliminary plans that were provided by the developer, all other proposed dwellings on corner lots within this development will meet the city setback requirements. So it appears, at least at this point, that this is the only corner lot affected by the requested front yard setback variance. If council is satisfied that the application meets the standards as are provided, in the application conditions for this variance and has no other concerns. Recommendation from administration is council approve the variance.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=435s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warting. Is the applicant here today? Do you wish to speak? Okay. Take the podium. Please state your name and your address and then you can continue.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=517s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "E",
    "label": "Ryan Warkentin (Applicant's representative, Three Way Builders Ltd.)",
    "text": "Sure. My name is Ryan Warkentin, 15 Penrose Crescent, and I'm here representing Three Way Builders. So our request is for a variance on a front yard variance on this property with a maximum of 8 years— 8 feet encroachment on the front. As stated, this is a corner lot, so by inherent, there's less frontage in the front, which pushes the setback a little further back. The garages, the way we've designed it, The garage for this property with the redesign would line up with all the garages on the duplexes. If you look on the screen, that would go north from this property. And so I think it would, it would fit the adjacent lots well. The properties to the north have a design with a split with the garages on the outside. This property would have the garages on in the middle, which would have a single driveway, a shared driveway, which I think would help. in this situation as opposed to 2 driveways and keeps the traffic in the middle of the property as opposed to the edges where it could encroach even further. Yeah, and I think it fits the overall— the construction of the rest of the duplexes that are slated for the street. So I really appreciate the opportunity to say a few words. Thank you. If I could, I also want to just",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=531s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "E",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=531s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "E",
    "label": "Ryan Warkentin (Applicant's representative, Three Way Builders Ltd.)",
    "text": "I just wanted to speak. I know many folks are here talking about the flooding, which was just talked about. My in-laws are in one of those affected areas, not this time, but the year prior, and certainly were significantly affected. I did speak with some of the people in the Lexington Village area where I've— where we've built quite a number of houses, and I can't speak for everyone, but we don't hear of flooding there. So in all the difficulty, there is some elements of positivity too. So I just wanted to bring that up as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=531s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Councillor, any questions for the applicant? You can gladly take your seat. Is there anyone here with comments, questions, or objections to this file? I'll ask again. Is there anyone here with comments, questions, or objections to this file? I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=645s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Question for administration, if I could.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=682s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead, Councillor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=684s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. So my question is to the city manager. I note that you're recommending approval if council has no concerns. But I want to quote from a section from the city engineer's report, and then I just want you to comment on why you are recommending approval, especially in light of recent events. It'll be obvious when I quote this why I'm asking. Part of what his report says is that the footprint of the duplex being proposed takes a higher percentage of the lot's total area than a typical residential lot. This increases the impervious area of the lot and will increase the stormwater runoff. When the development was designed, each lot was assumed to have the average impervious area to determine runoff. This assumes the houses on the lots will comply with the city setback requirements. In general, one lot with an increased building footprint would have a negligible effect to the stormwater management system. However, by allowing one lot, it sets a precedent for additional requests, and each increase in runoff reduces the storage and space available in the system, which would necessitate expanding the subdivision development's stormwater management features. In previous requests for reduced setbacks, which council's approved, one of the setbacks was not met. Thank you. However, there was more than the required distance for the other setbacks. This helped reduce the overall building area on the lot and the amount of stormwater runoff. So obviously, in light of, you know, recent events and just how flat our city is, we are sensitive, and we should be, to the issue of stormwater. So my question to the city manager is, could you just sort of outline why that— why the recommendation is to approve rather than to deny?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=686s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "That would actually rest in the I appreciate the comments that were provided by the city engineer. As I also mentioned in my recommendations, the city planner has reviewed other lots within the development. From my understanding, the developer has provided the overall development plan for all other lots. And as the city engineer has suggested, that if only one lot is anticipated to be Yes. He was anticipating applying for the setback variance, and again, with this setback variance being only one of the 4 sides of the proposed lot, in his words, he did not feel that one particular lot would be an undue risk to the rest of the neighbourhood so long as the other lots within the development are Okay.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=773s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Just a quick follow-up. So are you able to comment then on why the city engineer is still recommending denial? Like, is it, is it a concern over— is it— it sounds like it's a concern about precedent, but you're saying that, that the overall— we have the overall plan and that the rest of it compensates for this here? Is— are you able to comment on that? Because it's here in the report recommending denial and it's giving specifically that as the reason.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=833s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "My expectation of staff in the specialized roles that they fill, in particular the city engineer, my expectation is the city engineer will comment specifically on issues that affect areas that the city engineer is responsible for. Mm-hmm. I, as the city manager, have the luxury of looking at things from 5,000 feet and taking— and can report to to council and to give recommendations to council based on other factors that may not be specifically engineering related.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=858s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=891s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. That is good?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=894s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yeah, that covers my questions.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=899s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Then council, any questions? Administrator? Council, how would you like to proceed? Councillor Siemens?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=901s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=910s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder? Seconded by Councillor Hiebert. Okay, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=911s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. I appreciate the clarification from administration, but I also agree overall that potentially the question is answered with the overall design of the complete subdivision. The request here is for a 17-foot front yard where 25 feet is required. It is also on a corner, so the curbing takes up a bit of that. There is a small portion of that front property that is at 25 feet. So— and it's an odd-shaped lot. It's a corner lot. I think it would work here with a single driveway as proposed. Thank you. As it's drawn out here, I think it would work. So I make the motion to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=917s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=967s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I took note of something that's in the notes as well, that the driveway is going to be in the middle and it should fit one car before it reaches the street area. So I think that's reasonable. And agreeing with Councillor Siemens, I think we can approve this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=970s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=988s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Yes, I obviously have, I have an issue with this one. I went down there today and had a look, and that subdivision, it's a brand new subdivision. There's only a couple of houses being started on the far side. There's nothing on this side. To me, it just does not look like something that'll be aesthetic. It definitely is an encroachment of 8 feet To the curb, which is a huge— it's not— we're not talking a foot or 2, we're talking 8 feet. And there's nothing there to prevent that rest of that subdivision to apply for setbacks, encroachments like these as well, the variances. I know we, we've had somebody say that, well, they won't apply for anything, but there's nothing to prevent them from applying in the future, and there's nothing now if we set this precedent for somebody applying from another subdivision. So I can't go along with a big encroachment like this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=989s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Go ahead, councilor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1047s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'm looking at the various factors here and I will vote to deny as well. I am concerned about the stormwater issue. I'm concerned about the precedent that it sets and Yeah, I mean, I just— I read the city engineer's report and I think that there are some valid points here and I don't want to set a precedent for future problems in new areas that haven't been fully developed yet. So I will vote to deny. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1053s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "You. Anything further? Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1081s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I'll be voting in favor of this motion. With",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1084s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Regards to this, it's very common amongst us on council When there's corner lots that we do, we do have a little bit more leniency with regards to variances. With regards to the aesthetics, as the developer or the developer's representative already said, the purpose of the variance is to keep it in line with the rest of the neighborhood so that the front of the houses is in similar alignment. If you notice in the corner there, the reason that it cuts back so much is because it is on a corner, hence the corner lot and the variances that we go.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1087s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "H",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1116s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "With regards to precedence, a few people, a couple councillors have mentioned that. We take variances on a case-by-case basis, and it's been noted many times before that each variance is on a case-by-case basis. Does this work in this case? It's not a precedence for necessarily the neighborhood. If another one comes up, then we would take that on a per-case basis. I would— Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1116s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "With the city manager with regards to impact for the whole neighborhood. Also, not to trivialize what has happened to many of the individuals that are here as well, But it is shown that as the city is newer, in the newer developments, stormwater management is significantly better. For example, in our neighborhood, it was built in 2005. We had very low impact. I feel very blessed. I'm not by no means trivializing the pain that you guys have gone through right now, and you can hear it in my voice. But our engineering has improved as",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1136s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "The decades have gone by. So one house with regards to an entire neighborhood. Thank you. Doesn't bring concerns to the city manager, so I have no problems going forward with approval of this. Okay. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1169s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further from council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1182s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, Mr. Mayor. I agree with the comments and especially the comment on setting a precedent. City council has always prided ourselves that we take everything on a case-to-case basis. So yes, there Whether we set precedents or not, we use that often as a story that we need to tell. But in this case too, I appreciate what the developer has done. It's a developer who is building all the properties on this stretch. They will make the decision whether they apply for further variance or not. This was done also to line up with the garages all the way down the street to make it aesthetically pleasing. As well, I think this is one property of many properties in that whole subdivision. I don't think it would make much of a difference there, these couple of feet. So I think it would still be appropriate to approve the variance.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1185s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Well, council, I'm leaning on I'm denying as well. I'm the engineer's report is speaking quite loud to me, and when he talks about impermeable land, every time we take away another square foot of impermeable land, that's that's land that cannot absorb water and there's runoff. So so I'm gonna I'm gonna be siding on error of making as much Permeable land is possible in its development. So call for the question. All those in favor? Opposed? That is carried. Okay. We've got 6VB. This is variance B, 2025-24. This is referring to 1140 Northgate Drive. Mr. Warting, could you— oh, I will close the council meeting, open the public hearing. Mr. Warting, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1241s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. File for variance application V-2025-24 for unit 1140 Northgate Drive in Steinbach. The owner of the property is Suncor Energy Inc., with the applicant for the variance being CTM Design Services Ltd. Purpose of Okay. The purpose of the application is the applicant is requesting a 50% reduction in the required street edge landscaping for the subject property. Under City of Steinbach Zoning Bylaw 2100, all properties must provide street edge landscaping based on the length of their street frontage. The requested variance would reduce the amount of landscaping normally required under the city's zoning bylaw. Notices as are required under the Planning Act have been issued. Written correspondence on file with respect to the application. The subject property is zoned C-3 commercial corridor and is a corner lot within the north property— with the north property line and west property lines abutting Northgate Drive. This parcel forms part of a commercial condominium development at the north end of the city and is located west of PTH 12 North. Now, pursuant to the city zoning bylaw, commercial uses in this zone are subject to frequent view by the public and visitors to Steinbach and should provide an attractive appearance with landscaping, sufficient parking, and controlled traffic movement. Of the 6 to 8 parcels already developed within this subdivision, the city has not received any application to vary the required street edge landscaping requirements. The city planner's report also notes concerns of granting the variance. and ultimately a recommendation from administration is council deny the application.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1311s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant here today? Okay. Seeing no applicant, then I will ask if there's anyone here with comments, questions, or objections to this file. I will ask again. Is there anyone here with comments, questions, or objections to this file? Any objections to this file? I will ask third and final time, is there anyone here with comments, questions, or objections to this file? Seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Uh, Councillor—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1410s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Make a motion to deny.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1453s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1454s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. The application here is to request a 50% reduction in the street edge landscaping that is required, and that is obviously a significant variance. We require the landscaping for a reason. It's part of the city's overall aesthetics. And to be blunt, if you don't even bother to show up to the public hearing, it makes it even easier to deny. I mean, if you don't even have someone here to represent the reasons why they're asking for the variance, and it's a significant variance in addition to that, it's very simple to deny. I mean, if you want your case to be heard, then you have to have a representative here so we can— Thank you. 'Cause I have no idea why they're requesting this. So yeah, it's very simple to deny.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1457s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "H",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1494s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank you very much, Mr. Mayor. Echo Councillor Zwaagstra's sentiments there. I was going to ask the applicant why so that I could actually make an informed decision. And with there being no information to make an informed decision, then I am going to support the motion to deny.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1494s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Go ahead, councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1509s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I just want to read what our bylaw says. All yards must contain a minimum of one deciduous or coniferous tree for each 30 feet of linear street frontage, plus 3 shrubs for each 20 feet of linear street frontage. This particular lot requires 10 trees and 44 shrubs as per zoning bylaw. The owner is requesting a 50% reduction. That means he's— he or she wants to only put in the 5 trees I agree with Councillor Zwaagstra.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1515s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Okay. Call for the question. All those in favour? Opposed? That is carried. We have no delegation. We will move to number 8, reports and recommendations to city manager. This is 8A. The operating agreement. This is referring to the Eastman Selects, and the information was in our mailboxes. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1547s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This was a supplementary report that was provided in council's mail bins earlier today. With the opening and operation of the Southeast Event Centre, Go ahead. In relation to the Southeast Event Centre, the City of Steinbach entered into an operating agreement with Southeast Events Group Inc., and under the terms of that operating agreement, Article 11 speaks to the requirement of the city to approve and to be a signatory to any proposed user agreement where users being sought by SEG will be provided with exclusive occupancy to any portion of the Thank you. The Eastman Selects has proposed to enter into an agreement with the Eastman Selects, copy of which— that agreement is attached to this report for council's consideration. City administration has reviewed the proposed agreement and requested certain clarifications from Seg, which they have provided and are included in the report for council's review and consideration. Along with the proposed agreement, the city has also worked with its legal consultants who have also recommended that given the format of the proposed agreement and that the draft agreement was prepared without the opportunity of the city to be a signatory, they have suggested that if council is prepared to approve the entering of into this agreement by— between SEG and the Eastman Selects and the City of Steinbach, that it be done so on the condition that the attached memorandum of understanding be executed by all 3 parties. And that is the recommendation of administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1579s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Rorty. So the memorandum of understanding is in here too. Council. So, Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1692s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I have a question for administration.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1706s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead, Councillor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1708s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. I have some concerns over this because of our own minor hockey and our minor sports programs that have lost ice while we were— this— our event centre was under construction. This is for a 5-year agreement. Did they request at all why it was a 5-year agreement, not",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1709s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "That was not a question that administration asked of SEG.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1731s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "So I appreciate the fact that the question was asked, the impact it would have on minor sports programming and rentals, and they did answer that question, that now we have 2 full services in operation and that it has not— the flex has not impacted minor sports. What if minor hockey sports What if they add a girls minor hockey program in 3 years from now and they're out of ice? We're going to get the pressure here to add another ice sheet. Is there, is there any of that dealt with in the memorandum of understanding?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1735s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Nothing is specifically worded that way within the memorandum of understanding. However, with the overarching operating agreement that the City of Steinbach has entered into with With SEG Inc. Part of that operating agreement obligates SEG Inc. to follow the city's principles and policies within its ice allocation policy, which speaks to how ice is allocated to the various user groups in Steinbach, including minor sports and local user groups.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1771s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I got lots of questions.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1806s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Any further, council? Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1813s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I'd like to make a motion and then we'll see where it goes if I can get a seconder. I would like to make a motion that this is, instead of a 5-year agreement, that this become a 1-year trial agreement Instead of a 5-year agreement that we— that it— the motion is to make it a 1-year agreement, not a 5-year agreement. Okay.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1822s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Is there a seconder for that?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1844s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Can I ask a question of clarification on that to administration? Is that— because what we're voting on here is a potential memorandum of understanding. Is that even an option? I just need to— I need clarification on whether this is even",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1845s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Just to clarify, the recommendation from administration is that city council ratify the proposed operating agreement between the Eastman Selects and the Southeast Event Centre as proposed, subject to the execution of the proposed MOU between all parties.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1864s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "So there is no option of being able— so if we were, like, with the motion that's presented, That's essentially rejecting this and they would have to redo it, just in terms of my understanding.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1878s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Essentially, yes, because the terms in the operating agreement that the City of Steinbach has entered into with SEG Inc., it obligates that any user agreement that is entered into by SEG with a user that is given occupancy of duration Yes. So if there's a period of time exceeding 14 days, 14 consecutive days, the city must approve such agreements and be a signatory to these agreements. It doesn't speak to the city necessarily managing how agreements get determined other than the fact that the city needs to be a signatory to any agreements that do get prepared. And the purpose of the operating agreement is to essentially permit SEG to operate the event centre under the conditions of the operating agreement that has been entered into. Okay. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1892s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I withdraw.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1953s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. Motion's been withdrawn. Councillor, how would you like to proceed? Councillor Zwaagstra?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1954s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1954s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Mayor. I'll make a motion to approve the agreement.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1962s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder? Councillor Penner, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1967s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Obviously, you know, some of the details in here, I think Councillor Siemens has raised some good questions. They're valid questions. At the same time, under the terms of the agreement that we have with the Southeast Events Group, with SEG as you refer to them, they do have the ability to operate the centre with a certain level of independence. The city, of course, has to, you know, be a signatory to any external agreements, and that's what this is. And so I believe that our city staff, our city manager in particular, have done their due diligence in trying to make sure that questions are addressed. And again, our package, there are a number of things that are specifically, that are specifically addressed. And I know that our staff are very good at making sure that the city's interests are protected at all times. Thank you. And so I'm not prepared to substitute my judgment on the, you know, the quality of the agreement for the city manager's. And again, this was the terms originally that we entered into with SEG, is that we appreciate their expertise, we want them to be running the facility. We do have good people on that board who are running it. And so we don't want to unduly interfere either. And so I think it's appropriate to approve the agreement. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=1972s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2050s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "H",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank you very much, Mr. Mayor. I think Councillor Zwaagstra have essentially covered it all.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2050s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2054s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "I would just like to say how exciting this is. We want that facility, facility to be used and to have Eastman Selects use that facility, I think is significantly positive for our community. So I'm happy that they are coming to our community. I agree with the arrangement. This is the first time the city has done kind of this arrangement we have with an external group running one of our facilities. So there are some growing pains with that as we try and navigate how that works. But at the same time, we don't want to micromanage too much as well and let them, let them do their thing. So I'm excited that they're coming to our community and I hope they'll be here for more than 5 years if possible.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2056s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead, Councillor Stevens.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2103s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I agree with all the comments. I think the law of unintended consequences though, we make this decision and we allow the Eastman selection here for 5 years, they're going to potentially take time where our minor sports, it's the same time slots as our minor sports would be using. What we don't know about the Southeast Event Centre Is we haven't operated for a full year. So what effects will other events have on it? The Grand Slam of Curling is coming in January. That's going to— the ice won't be available in the event centre for 10 days. That's going to affect minor hockey. It's going to affect all hockey, but minor hockey will be affected the most. They'll likely be the first ones bumped. But— and so how do you plan around it? So that's the first year of operation for the Southeast Event Centre. It is a— we don't know what the effects this is going to have. So this is a regional team. It's not a community team. This is a regional team. This is a feeder into the Pistons. I guess it is seen as that as well. So it's appropriate that, I guess, that they play here, but they feed into our minor hockey. Prior to the event centre even being announced, being built, minor hockey was before us. Minor sports, not just minor hockey. Thank you. That included ringette and figure skating and girls hockey, that they needed additional ice here in Steinbach. They were already then talking about a 3rd ice sheet. We just replaced one ice sheet. We didn't add any more ice. So this could potentially put us at risk again that we, that we will have a delegation before us for more ice again because there isn't enough because of this. On the other hand, We need— our minor sports needs to— it'll be incumbent on them to use ice that is available to them. There is a comment in here from the Southeast Event Centre that says that local minor sports won't be impacted. That's today. 3 years from now, if minor hockey— because we've got a lot of excitement with the Pistons in town, we've got a lot of people want to try hockey— if they want to grow their programs and they want to add 2 or 3 more teams, In minor sports, they can't because all that ice has now been allotted and committed for 5 years to the Southeast, to the Eastman Flex potentially. Those are the fallout of the law of unintended consequences that we're making here. So I don't either know what it's going to look like. I don't know what— but just on principle alone, and I don't want to micromanage here either. I appreciate that comment because that is not what we want to do.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2106s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "F",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2106s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I will begrudgingly vote in favor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2106s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Hiebert, you had comments to make.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2262s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I wanted to disagree with Councillor Susan Penner, and I do understand what Jake is trying to say as well, Councillor Jac Siemens, but I want to trust SEG that they are community-minded, and minor hockey is the future of hockey at a higher level. And I believe if there's girls hockey, female hockey in Steinbach, I think there'll be space for it. So I want to trust the SEG group to do their job well and to contribute to the community.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2269s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2297s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Well, thank you, Mr. Mayor. I accept Councillor Siemens' rousing endorsement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2302s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, I, I too am excited. I think the Eastman Selects is It's a great hockey team. It's a great club. I think it can encourage students to even— or other hockey players to even do better. We grew up— our kids grew up playing hockey on Saturday and then going to the Selects game on Saturday night. So we spent many an evening eating burgers at the arena and waiting for the hockey To start, we watched [name withheld], or Ian White, come up from the ranks and enter the NHL through the selects, and I think it's exciting for our community. I do believe we have to trust the people we put in place to schedule the ice, run the ice, and if they see no problem with it, we'll have to run with it. Things can always be revisited afterwards, but I think we need to go. And also, the 5-year commitment, I think, is good because they're going to be putting a significant investment in the dressing room. Uh, I believe that this week the, the millwork is going in for, for that dressing room. So they're going to be bringing some significant upgrades to the dressing room, to our event center as well. Okay, call for the question. All those in favor? Opposed? That is carried. Okay, before we go into, uh, 8B. 8B. We've got— 8B is our flood update from our city manager. And I know that many of you are here because you were flooded, and we've also heard that you want to come as a delegation. I'm very sorry for the short notice tonight. We can't have you speak, but it's great you're here to hear the flood, that you can see That we do want to help. We do want to do something. We've heard you. And we do welcome you to set a date and come as delegation. And if you could pick one person to do all the speaking at that delegation, it would be great. And we're looking forward to that. We do want to see that happen. We encourage that. And at this time, I will give— I'll give everything over to Mr. Warkentin, and he'll give a flood date from, from the city's perspective. Thank you. Okay, Mr. Warkentin, we're— we have your, your information was given to us.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2305s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yeah, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2463s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "In the rainstorm.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2463s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yep. The, uh, this, uh, report I have prepared for council, uh, again was submitted to, uh, to Council in their mail bins earlier this afternoon. The the rainstorm that the city experienced last week was significant. Administration has gathered information related to the storm event, and we're pleased to provide this summary report of the observed impacts. Approximately 126 millimeters of rain was recorded over a four-hour period at the city's weather station located at the. Steinbach Fire Hall at 477 Main Street, with reports of up to 135 millimeters of rain during the storm, or the equivalent of 2 months' worth of rain for Steinbach, as reported by CBC News in its online news article published on September 12th. We've also learned of localized areas in Steinbach reporting significantly higher amounts. This storm resulted in the accumulation of significant amounts of water and the inundation of wastewater and drainage systems that far exceed levels seen during normal storm events. In a story published by Steinbach Online on September 24th, 2024, David Phillips, a senior climatologist with Environment Canada, indicated that that storm saw 95.9 mm of rainfall over Steinbach on September 17th, 2024, and, uh, his quotes, ranks with some of the highest single-day totals over the last 6 decades, end quote. He further indicated that the previous wettest day in Steinbach since 1956 was the storm of July 4th, 2002, where the provincially reported official daily rainfall totaled 132.8 millimeters. Based on the rainfall reported in last week's storm and the city's observed impacts, this event appears to be of at least a similar intensity. General observations of city staff during the event found that because of the amount of rain that fell in such a short period of time, city's drains and ditches were operating at capacity or saw water spilling over their banks. All city storm drainage systems and wastewater system infrastructure was operating at capacity until well after the storm ended. In several locations, city roads had water accumulations exceeding 2 feet in depth, particularly at major drain crossings. Steinbach Lift Station 1 is located on Park Road West and pumps all Yes. Lift Station 1 is responsible for diverting all wastewater collected from the city's sanitary wastewater system to the city's wastewater lagoon. This lift station has automated pumps and remote monitoring systems to assist in its operation. However, city staff also complete regular daily in-person monitoring, operation, and maintenance at the site. City staff were called out and on site at Lift Station 1 on September 12th, 2025, beginning at 12:00 PM. Thank 12 you. midnight to manage the station operations both during and after the storm event. The Lift Station 1 stormwater pump activated at 12:12 AM with the maximum pumping capacity reached by 1 AM. The stormwater pump was shut down at 7:54 PM, approximately 20 hours later, with the operating levels at the station returning to normal by 8:20 PM. The maximum system flow rate was recorded at the station at 3:20 a.m. and reached 465 litres per second. The rated maximum capacity of the stormwater pump is 434 litres per second. Lift Station 1 equipment and systems were fully functional before, during, and after the storm of September 11th and 12th. All other city lift stations were fully operational before, during and after the storm. The city has been notified by several dozen Steinbach property owners to advise of water infiltration in basements both during and after the storm. Detailed information as to the circumstances of the private property flooding is not known with certainty. However, possible causes that could be the result of several factors such as overland flows through windows, infiltration from basement floor drains, failure of wastewater backup prevention devices, inadequate sump pump capacity, infiltration through basement plumbing fixtures, or any combination of the above. The T.G. Smith Arena was affected by overland flooding, as has been reported, and as a result, the ice surface was lost. Ice restoration is in progress, and the rink is anticipated to have its ice surface re-established and reopened to users by September 24th. Based on the city's landfill site entry records, demolition debris consistent with storm-damaged material from dozens of properties across the city has— have been deposited since Friday, September 12th. The most intense periods of the storm occurred overnight from September 11th to September 12th. The city's operations employees and many departments were available for duty and were called in outside of normal working hours and allocated as necessary to respond to a variety of storm impact mitigation efforts both during and after the event. Now, despite the city's observations that drainage and water— wastewater systems were fully functional and operating at capacity, the unusual and unexpected volume of stormwater significantly exceeded the design limits of Go ahead. This storm caused significant damage to the city's infrastructure and facilities. According to the city's understanding, the rainfall intensity and volume exceeded a 1-in-100-year storm event, which is far beyond the reasonable planning level for underground pipes and typical major drainage controls. During storms of this magnitude, overland flow, which is water moving along streets and low areas, can occur even when infrastructure is operating at full capacity. And in many locations, the The storm's intensity is likely to have contributed to the impacts on private properties. From 2021 to 2023, the city conducted modeling of its wastewater system to assess its capacity to address both short-term growth needs and to plan for long-term development opportunities in the city. The city's construction program to improve wastewater infrastructure has been in place for decades, and it incorporated the modeling information into to the annual wastewater infrastructure capital improvement programming. This has resulted in the completed projects to improve the Loewen Boulevard lift station, Loewen Boulevard sewer mains, and the PTH 12 North sewer main, and includes the recommended 2026 improvements to the Millwork Drive sewer main, the Park Road West sewer force main, and the Park Road West lift station. City Council also approved funding for the completion of a climate adaptation and mitigation planning project in the city's 2025 budget. This plan will highlight recommended steps the city can implement to improve the climate resiliency of its infrastructure and services. This project has started, is currently underway, and is expected to be completed in the spring of 2026. The city has also been in contact with Manitoba Emergency Measures Organization since the event regarding the provincial disaster Disaster Financial Assistance Program and has publicized information about the EMO Storm Damage Cost Recovery Program that may be available for affected property owners. And this information is available on the city's website and social media channels. Administration will continue to assess the available information resulting from this event and, along with information about other community needs, present this information to city council to consider its relevance in any future planning of the city's infrastructure network, project budget approvals, policy development, or for the planning of future development. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2464s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Okay. So as you can see, I think the— for me, some of the important things are at the end as Mr. Warkentin was talking. The climate adaptation and mitigation plan that we'll have, and it'll be done by the spring of 2026, that will give us a roadmap of projects that can be done to alleviate some of our drainage. And this is something rolled out by the federal government, and they often, a lot of these projects often also come with funding that can help us get this done. So, um, I'm looking forward to really good news. Um, uh, we probably, we probably won't hear much during the, the, um, as the plan's being developed, but we will hear hopefully in— you're saying in, in the spring of 2026?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2935s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "That's when we anticipate the, uh, project to be complete.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=2999s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so once it comes to council, then that's That will be made public. Okay. And then everyone will know already too. And then I guess from there, we'll be picking projects that will be the most important to go. Like, we'll have to do the ones that give the best benefit at first. And so I just, I think that's the important part of this whole report. I mean, the report tells how bad it was, how much water came. But I think it gives the hope that we will, we will have this information and we'll know what to do going forward. And council will be committed to working on that and acquiring funding to make this happen, to get this done. Would you be— this is a public document. Can we give this, can we give this report to anyone that's asking for it? Yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3002s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "It has been presented and read into the record, so council may distribute, or the city is able to publish it on the website and it would be available to the public to view on that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3061s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so we'll have it on our website for you. You can download it and you can have a copy of this as well. Okay. Okay, thank you. Number 9, administration accounts payable, back of the book. Council, we've all had a chance to review. Looking for a motion to approve. Second by Councillor Hiebert. Any comments? Pay the bills. Call for the question. All those in favor? Opposed? That is carried. We've got 9B, municipal board appointment delegation. This is, uh, to appoint Our city manager, Mr. Troy Warkentin, and our city planner, Mrs. Lacey Gaudet, to represent the city at the municipal board hearing scheduled for October 1st. And there is a resolution on page 19. Council, how would you like to proceed?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3072s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3129s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3133s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "It is best that city manager Troy Warkentin and city planner Lacey Gaudet Attend on behalf of the City of Steinbach because they will do a much better job than Jac Siemens.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3135s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3145s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "G",
    "label": "Bill Hiebert (Councillor)",
    "text": "I'll just add, and I approve of that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3148s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. And we've got 9C, the Manitoba Grow Fund grant. We'll need a resolution tonight, but the information was to follow. That was in your mailbox as well. Mr. Warkentin, would you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3150s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. The Manitoba GROW program, the Growth, Renewal and Opportunities program, does provide capital funding to municipalities for specific projects in a fairly broad cross-section of areas. The program information is found in the supplementary package that was provided. the recommendation for the project is provided in council's bins. The recommended project that administration has listed is the renewal of the city's outdoor pool deck and equipment. That renewal project has been on the city's long-term capital program in various forms over the past at least 10 to 12 years. funding sources that, that will fit recreation projects, and therefore that is the reason for that project's recommendation. Total estimated project cost of the renewal is just over $3.6 million, of which the city may qualify for up to 50% provincial funding, and the recommended resolution is found in the package provided.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3170s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you, Mr. Warding. So you see the recommended resolution. Council, how would you like to proceed? Councillor Susan Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3241s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3251s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3252s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Yeah, as Mr. Warkentin indicated, we've known for a while that our outdoor pool needs some upgrades, so it would be really excellent if we could get some financial help with that. The pool is a signature recreation facility in Steinbach and gets lots of So it's one of these situations where we want to do it before it gets too bad, otherwise it ends up costing significantly more. So if we could get this funding, that would be wonderful, and we can get started on that project.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3255s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Thank you. Anything further of council? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3286s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3294s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. I'll give it to you. Got 9D. This is building permits for August 2025. We've had— we had an amazing month, although it feels a little bit— it's not as exciting after the weekend we had. It seems a little bit— it seems like that's dulled things a little bit, but we've had an amazing, amazing month. We've added 19 dwelling units. 12 multifamily, 7 single-family dwellings. So we've got a total of 260 dwelling units for the year. And we've, one of the highlights is the Loewen Boulevard commercial building. This is the additional, the commercial school, the Bible school for $11.2, almost $11.3 million. So it's been a very strong month, August. I was talking with Cody, our building inspector, and he said they were running themselves ragged in August. It was a very busy month for them. Council looking for a motion to approve. Councillor Zwaagstra, seconded by Councillor Hiebert.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3295s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Obviously, this is a significant month both in terms of commercial with the Steinbach Bible College development, which is by far the largest part here, and the residential growth is strong as well. And a total of 19 dwelling units added. I just want to say that it's, it's not just about numbers here. The reason that dwelling units get added is that these are people, these are families who want to live in Steinbach. And I've always believed that anyone who wants to live in Steinbach should be able to do so. And that's not possible if we don't have new construction and building, and building permits being issued, because otherwise We would— when you consider the growth of our population, it wouldn't be feasible. So this is why we need to keep having more construction happening.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3370s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Just one comment. When I look at the numbers here for the year, we're at $77, almost $78 million. So again, to reiterate the words of Councillor Zwaagstra here, it's nice to see the confidence that the developers have in our community and the people of this community. So yeah, it's a great month.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3413s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3433s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3437s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, I do agree. It's not about numbers, but numbers is one way how we measure things. So call for the question. All those in favor? Opposed? That is carried. Okay, we've got 9E. This is the— this is our bylaw 2244, the official community plan. This is our 3rd reading. We had 2nd reading. It went off to the minister. Minister's approved. Now it's coming back for a 3rd reading. Is there any— anything you'd like to add, Mr. Warkentin?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3438s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I'm sorry, on what?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3472s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "On the official community plan.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3474s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Of course. How could I forget? I apologize. Given the recent few days, I seem to have zoned out slightly, so. The city's primary planning document is its official community plan. It provides a key overarching framework that provides the basis for the city's zoning bylaw, And numerous other planning and development policies affecting the city and developers and residents and property owners. This official community plan is something that under the Planning Act is legislated to be reviewed by municipal governments every— at least every 5 years. The previous official community plan was approved in 2018. Thank you. And the city administration initiated the review of this document in 2023 with the full intentions to meet that 5-year deadline. Unfortunately, as projects go, this one has stretched a little bit longer than what was expected. However, I am pleased to report that the official community plan, as was presented to city council on April 1st, 2024, 2025 at the city's required public hearing was submitted to the Minister of Municipal Relations as is required under the Planning Act, and I am pleased to report that the minister has indicated his approval of the city's proposed official community plan as is provided in the information package that is part of council's agenda. And accordingly, with minister approval, city council may now proceed to give this bylaw 2244 third reading, which would then make this bylaw effective and also rescind the existing official community plan bylaw 2099.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3476s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warden. So, council, would you like to proceed? Susan Penner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3606s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3616s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Zwaagstra. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3617s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. As, uh, Mr. Warkentin said, this is an important planning document, the planning document for our community, and I, uh, feel like we, we did give this one a lot of thought. Every 5 years comes around quite quickly, so you Yes. You do it once and then maybe 5 years from now you kind of, huh, it's pretty close to what, you know, was the previous 5 years. But this one I feel like we did, you know, make some changes and to reflect what's happening, to reflect what's happening in the city. Sometimes you anticipate and project what's going to happen and it's not how things evolve. So I think this better reflects what's actually happening in our community. I see that maybe if I could I do believe we had some objections, and I'm assuming the minister said no, it's good to go.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3621s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Correct. There, there were objections, some of them which were filed by adjacent municipalities to the City of Steinbach. Those, as are required under the Act, did get submitted to the minister along with the city's proposed OCP. I am pleased to report that the minister approved the city's OPP without amendment.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3673s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "That's excellent, and I just wanted to get that on record because I think that that is important. Anyways, I'm pleased to move the motion for this document.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3694s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3703s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Obviously, official community plan is something that we do every 5 years, and I agree with Councillor Susan Penner that 5 years does seem to come around quickly. I'm pleased that the minister has approved this without any further amendments. And it's also true that I think we went through a very extensive process of consultations, and we had that very interesting public hearing on April 1st, 2025, which I will forever remember. So where we certainly looked at many different aspects of this. And so I think that the fact that the minister's approved it is a good signal that",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3706s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3706s"
   },
   {
@@ -2007,7 +2007,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3743s"
   },
   {
@@ -2023,7 +2023,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3746s"
   },
   {
@@ -2039,7 +2039,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, council, we did— we spent a lot of time on this one. This one we worked on a little longer than we normally would have, and then it got tied up in the minister's office for a while. But I really think this is a good plan. The changes we've made in here are going to help us go in and get a lot of the things that we've been Into the future. And I'd just like to call for the question. All those in favor? Opposed? That is carried. We've come to council question period. Is there any questions of council? Okay, seeing none, we've got correspondence, petitions. We've got 11A. This is the Eastman Municipal Community South Subcommittee minutes of April 18th, 2018. Council meetings are held on March 18th, May 5th, June 9th, and August 27th of 2025. Councillor Siemens, I know you want to make some comments on this. You guys meet an awful lot.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3748s"
   },
   {
@@ -2055,7 +2055,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Once a month, Mr. Mayor. At least that's how it started. Thank you, Mr. Mayor. A couple of comments. The ERMC, I think, is an important placeholder in our In what we— how we act as a council, just want to— we've been in existence for approximately 1 year, and we do meet once a month. It will be more frequently as minister meetings are coming up in September and October. But the ERM— ERM— ERM— Council. Or Eastern Regional Municipal Council, or committee, consists of 12 municipalities. We've all signed an MOU Stating that we will be part of it. That MOU is important to the province of Manitoba. That indicates that there's interest as we forward our concerns. And we, we talk and deal with regional concerns. The Premier has appointed Brandon Burley to our— to be the provincial rep on the committee. And we are the southern portion of a— Region. The northern portion also has a committee similar to this, but we are the only area in the province that has this. And this is similar to the major centres that you sit on and often invite council to. Issues that are being discussed: highway upgrades, specifically Highway 12, 52, and 59. And we talk about various intersections, so we want to have that impact into the highways minister. Lack of cell service, again highlighted during spring fires. Not everything that we talk about affects Steinbach directly, but indirectly it absolutely does. Water mitigation is one of them. Now, a lot of the water coming in Steinbach comes through Steinbach, and we're dealing with those as well. We speak to those issues as well. Downloads for the local fire departments, lift support, highway traffic accidents, how we get funding for that and how we don't get funding funding for that and download by the province on that. Water retention and mitigation, I talked about that, how water flows through Steinbach from local RMs. Well water from the Sandylands Provincial Forest, this is an aquifer that Steinbach draws all its water from. That today is potentially being threatened again by water co-ops in central Manitoba as they are looking again and starting to make requests to draw down that water for their own uses instead of just taking it out of the Red River. So that is also part of our discussions. Bridge replacements that aren't happening, that affects our customers coming into Steinbach. Healthcare in all communities with the LPN training and ensuring Steinbach has adequate staff for new addition. When we met with the Health Minister on September 4th, that was one of the things that we talked about when we met with her. Support major centres issues like doctor training in Brandon and bail reforms. So we also, as an organization, we write letters and copy letters to the ministers responsible both provincially and federally to support what Major Centre is doing. And it does have an impact because they— we hear back from ministers at different AMM events, and they have started to recognize what we do. On September 4th, we met with the Health Minister at Ste. Anne Hospital on a tour and had discussions. We're meeting September 22nd with the regional highways representatives here to speak about our local highways issues. And on October 22nd, we're in Winnipeg meeting with Minister of Highways, Minister Naylor, on various highways issues in southeastern Manitoba. And like the major centers, it works together on larger issues. And while the ERMC is just a similar— but we We work at the regional issues, whereas this major centre works at provincial issues. And the MOU again was signed by 12 municipalities. It's an important piece, as Minister's Office can address all 12 municipalities in the room at one time and in one location. We seem to be getting traction, and it feels like we're being heard. I think it is an important piece, place for our council to be a part of.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=3807s"
   },
   {
@@ -2071,7 +2071,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Siemens. And you did mention, you know, Cities Caucus Several times, and I feel that together as a province, our advocacy is gaining traction. I think I think with the NDP, you know they're listening. They're they're opening the doors. We've had in Steinbach. I would say Steinbach alone has had multiple minister meetings. Actually, Councillor Susan and I were at a. At a meeting this afternoon, and we said that. We can't believe how many ministers are coming to Steinbach and listening and wanting to hear us and going back and actually advocating for us. And I think it's great, and I think the more we advocate together, the more our voices say the same thing, the better our position in the province gets. Call for the question. All those in favor? There's no question. Oh, no, no, sorry.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=4051s"
   },
   {
@@ -2087,7 +2087,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "There's no motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=4107s"
   },
   {
@@ -2103,7 +2103,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Man, we've been talking about this so long, I thought we had to make a motion. Okay. Sorry. So we'll take this information. Great. And the Steinbach Arts Council, this is referring to the grant increase. This is a letter of— I believe a letter of thank you from David Clausen for the increase in our funding to their program. You know, council, this doesn't always happen very often that, you know, we get a nice thank you like this from an organization that we work with in our community, but this is very good. I know they're very thankful. I was at their AGM last week and very solid community organization and their net revenue has exceeded $1 million a year. Like, they are really growing and they're growing fast and they're becoming a very solid financial organization. So council, take this information. No other business. Looking for a motion to adjourn. Councillor Penner. Second. Second by Councillor Hiebert. The question, all those in favor? Opposed? That's carried. Next regular council meeting is Tuesday, October 26th.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=IEiY80GqPho&t=4108s"
   }
  ]

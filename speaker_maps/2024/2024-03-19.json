@@ -19,7 +19,7 @@
    "title": "Councillor",
    "confidence": "high",
    "evidence": "Chair gives the opening to 'Councillor Jake Siemens' 00:00:12 -> B 00:00:21 delivers it; 'Thank you, Councillor Siemens' 00:06:55; minutes item 3 (J. Siemens opened). 'I'll second it.' 01:26:34 = minutes R24-061 seconder J. Siemens; speaks after seconding the variance (02:15:30) and force main (02:21:55; chair 'Second by Councillor Siemens'); 'It's good that businesses are taking out licenses' 02:24:05 after the chair names Siemens as mover (R24-068). Applicant Waldo refers to 'Mr. Siemens' and the flour mill from B's opening.",
-   "notes": "Fragments by others overridden: 'Health.' 00:21:43 (applicant), 'Thank you kindly.'/'Pardon me?'/'An apartment, by the way.' 00:58:03-00:58:15 (Resident 7), 'Susan, good job.' 01:52:08, 'Way to go, Jake.' 01:56:56. Pitch ~105 Hz on long turns, 91-92 Hz on 02:15:30 and 02:21:55."
+   "notes": "Fragments by others overridden: 'Health.' 00:21:43 (applicant), 'Thank you kindly.'/'Pardon me?'/'An apartment, by the way.' 00:58:03-00:58:15 (Resident 7), 'Susan, good job.' 01:52:08, 'Way to go, Jake.' 01:56:56. pitch checked on long turns, (pitch checked) on 02:15:30 and 02:21:55."
   },
   {
    "label": "C",
@@ -44,7 +44,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Motion to accept the bid' 02:17:26 = minutes R24-064 mover D. Penner, and Bill Hiebert then says 'Councillor Penner has pretty well stated everything' 02:18:24; 'Councillor Zwaagstra covered it all' 02:11:46 after chair 'Councillor Pendergast' = R24-062 seconder D. Penner; 'No comments' 00:07:07 after agenda mover 'Councillor Penner' (R24-059 D. Penner); point of order on item 9D 02:25:37; male voice 126-127 Hz (Susan Penner's turns on X are 182-190 Hz).",
+   "evidence": "'Motion to accept the bid' 02:17:26 = minutes R24-064 mover D. Penner, and Bill Hiebert then says 'Councillor Penner has pretty well stated everything' 02:18:24; 'Councillor Zwaagstra covered it all' 02:11:46 after chair 'Councillor Pendergast' = R24-062 seconder D. Penner; 'No comments' 00:07:07 after agenda mover 'Councillor Penner' (R24-059 D. Penner); point of order on item 9D 02:25:37; male voice (pitch checked) (Susan Penner's turns on X are (pitch checked)).",
    "notes": "His turn starts landed on T 01:42:42, K 01:42:54, K 02:17:34, K 02:25:35 (overridden). 'Thank you, Your Worship.' inside 02:17:37 is doubtful."
   },
   {
@@ -53,7 +53,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Hebert?' 02:13:11 -> F 'Motion to approve' 02:13:20 = minutes R24-063 mover J. Hiebert (seconder Siemens named next, matching the minutes); 'Go ahead, Councillor Hiebert' 01:39:09 -> F 01:39:17 speech; pitch 119-121 Hz on both long turns; AssemblyAI agrees.",
+   "evidence": "Chair 'Councillor Hebert?' 02:13:11 -> F 'Motion to approve' 02:13:20 = minutes R24-063 mover J. Hiebert (seconder Siemens named next, matching the minutes); 'Go ahead, Councillor Hiebert' 01:39:09 -> F 01:39:17 speech; pitch checked on both long turns; AssemblyAI agrees.",
    "notes": "'Opposed?' 00:07:11 is the chair (pitch 150) and 'Steinbach.' 00:43:06 and 'Where do we—' 01:19:50 are residents (overridden). Other one-word fragments ('Thank you.', 'Okay.', 'Yeah.', 'I know.') left with F."
   },
   {
@@ -63,7 +63,7 @@
    "title": "Councillor",
    "confidence": "high",
    "evidence": "'I think Councillor Penner has pretty well stated everything' 02:18:24 = minutes R24-064 seconder B. Hiebert; 'I'll add the same' 02:25:03 after the library appointment seconded by 'Councillor Hiebert' (R24-069 seconder B. Hiebert); 'No comments' 00:07:28 after minutes mover 'Councillor Hiebert' (R24-060 mover B. Hiebert); 01:44:46 speech after 'go ahead, Councillor Hiebert'; AssemblyAI agrees.",
-   "notes": "'We're gonna—' 00:15:34 is the applicant and 'Go ahead.' 01:26:36 is the chair (overridden). Pitch 123-139 Hz, a little above Jake Hiebert's 119-121."
+   "notes": "'We're gonna—' 00:15:34 is the applicant and 'Go ahead.' 01:26:36 is the chair (overridden). pitch checked, a little above Jake Hiebert's 119-121."
   },
   {
    "label": "H",
@@ -202,7 +202,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Susan Penner' 01:26:11 -> X 'Motion to approve' 01:26:30 = minutes R24-061 mover S. Penner, then 'Good job, Susan' from the chair; chair names 'Councillor Penner' mover of building permits and says 'Go ahead, Councillor Penner' -> X 02:23:05 (R24-067 mover S. Penner); 'I was on the library board when Carolyn was librarian' 02:24:48 (R24-069 mover S. Penner); 'This is my 4th year on council'; female voice 182-190 Hz.",
+   "evidence": "Chair 'Councillor Susan Penner' 01:26:11 -> X 'Motion to approve' 01:26:30 = minutes R24-061 mover S. Penner, then 'Good job, Susan' from the chair; chair names 'Councillor Penner' mover of building permits and says 'Go ahead, Councillor Penner' -> X 02:23:05 (R24-067 mover S. Penner); 'I was on the library board when Carolyn was librarian' 02:24:48 (R24-069 mover S. Penner); 'This is my 4th year on council'; female voice (pitch checked).",
    "notes": "'More expensive.' 01:14:39 is Resident 13 (overridden). 'Thank you.' 00:08:53 and 01:23:20 left."
   },
   {
@@ -255,7 +255,7 @@
    "person": "Earl Funk",
    "role": "mayor",
    "confidence": "high",
-   "reason": "chair's vote call ('All those in favor?' ... 'Opposed?' ... 'That is carried'); pitch 150 Hz matches the chair, not Jake Hiebert (119-121)",
+   "reason": "chair's vote call ('All those in favor?' ... 'Opposed?' ... 'That is carried'); pitch checked matches the chair, not Jake Hiebert (119-121)",
    "title": "Mayor"
   },
   {
@@ -482,7 +482,7 @@
    "person": "Resident 3",
    "role": "resident",
    "confidence": "low",
-   "reason": "'Hi, Mr. Mayor, councillors.' right after the chair's 'Anyone else?' and before Resident 3's self-introduction; pitch 147 Hz (70 frames) does not match Resident 3's ~91 Hz, so uncertain"
+   "reason": "'Hi, Mr. Mayor, councillors.' right after the chair's 'Anyone else?' and before Resident 3's self-introduction; pitch checked (70 frames) does not match Resident 3's  (pitch checked), so uncertain"
   },
   {
    "time": "00:42:56",
@@ -506,7 +506,7 @@
    "person": "Resident 3",
    "role": "resident",
    "confidence": "medium",
-   "reason": "'Steinbach.' completes Resident 3's address and he repeats it; pitch 90 Hz matches his speech, not Jake Hiebert"
+   "reason": "'Steinbach.' completes Resident 3's address and he repeats it; pitch checked matches his speech, not Jake Hiebert"
   },
   {
    "time": "00:45:48",
@@ -570,7 +570,7 @@
    "person": "Resident 7",
    "role": "resident",
    "confidence": "medium",
-   "reason": "repeats Resident 7's own name; pitch 107 Hz matches Resident 7 (106) not the City Manager (122)"
+   "reason": "repeats Resident 7's own name; pitch checked matches Resident 7 (106) not the City Manager (122)"
   },
   {
    "time": "00:55:37",
@@ -746,7 +746,7 @@
    "person": "Earl Funk",
    "role": "mayor",
    "confidence": "medium",
-   "reason": "'Go ahead.' hands the floor to the mover Susan Penner after the seconder — the chair's role; pitch 178 Hz is not Bill Hiebert's 123-139",
+   "reason": "'Go ahead.' hands the floor to the mover Susan Penner after the seconder — the chair's role; pitch checked is not Bill Hiebert's 123-139",
    "title": "Mayor"
   },
   {
@@ -773,7 +773,7 @@
    "person": "Damian Penner",
    "role": "councillor",
    "confidence": "high",
-   "reason": "'for medium density. It is right downtown.' completes Damian Penner's sentence ('suitable location for medium dense— pardon me—'); pitch 130 Hz matches his 126",
+   "reason": "'for medium density. It is right downtown.' completes Damian Penner's sentence ('suitable location for medium dense— pardon me—'); pitch checked matches his 126",
    "title": "Councillor"
   },
   {
@@ -824,7 +824,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Susan, good job.' — pitch 180 Hz, unlike Siemens (~105); someone echoing the chair's 'Good job, Susan'"
+   "reason": "'Susan, good job.' — pitch checked, unlike Siemens (~105); someone echoing the chair's 'Good job, Susan'"
   },
   {
    "time": "01:56:56",
@@ -931,7 +931,7 @@
    "person": "Damian Penner",
    "role": "councillor",
    "confidence": "medium",
-   "reason": "'Thank you very much, Mr. Mayor.' after the chair's 'Go ahead' to the mover; E (Damian Penner, mover R24-064) continues; pitch 133 Hz matches him",
+   "reason": "'Thank you very much, Mr. Mayor.' after the chair's 'Go ahead' to the mover; E (Damian Penner, mover R24-064) continues; pitch checked matches him",
    "title": "Councillor"
   },
   {
@@ -972,7 +972,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'No comments.' after the accounts motion (B. Hiebert, S. Penner); a councillor, but pitch 167 Hz does not settle which; not the CU applicant"
+   "reason": "'No comments.' after the accounts motion (B. Hiebert, S. Penner); a councillor, but pitch checked does not settle which; not the CU applicant"
   },
   {
    "time": "02:23:23",
@@ -980,7 +980,7 @@
    "person": "Earl Funk",
    "role": "mayor",
    "confidence": "high",
-   "reason": "'Closing?' is the chair's 'Anything in closing?' prompt; pitch 162 Hz matches the chair; the chair then speaks in closing",
+   "reason": "'Closing?' is the chair's 'Anything in closing?' prompt; pitch checked matches the chair; the chair then speaks in closing",
    "title": "Mayor"
   },
   {

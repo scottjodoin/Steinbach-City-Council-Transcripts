@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "00:00:04 calls the meeting to order and hands the opening to 'Councillor Jake Hiebert'; runs every motion and vote; minutes item 2: Mayor Earl Funk called the meeting to order and chaired; pitch ~145 Hz",
+   "evidence": "00:00:04 calls the meeting to order and hands the opening to 'Councillor Jake Hiebert'; runs every motion and vote; minutes item 2: Mayor Earl Funk called the meeting to order and chaired; pitch checked",
    "notes": "several short councillor/delegation fragments sit inside A's turns (split out at 00:06:42, 00:07:06, 00:12:59, 00:25:55, 00:57:26, 01:12:38); 'Can I just make a comment?' at 00:39:37 is probably a Raiders member (see review)"
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:00:04 chair gives the opening to 'Councillor Jake Hiebert' -> B 00:00:13 (minutes item 3: J. Hiebert opened); 00:23:25 'Councilor Hiebert' -> B 'Motion to approve' 00:24:11 (minutes R25-094 J. Hiebert moved); 01:10:20 B speaks as mover of By-Law 2264 second reading (minutes R25-097 J. Hiebert moved, Zwaagstra seconded, and D 01:10:58 replies 'I can't add anything to that'); pitch 109-120 Hz across turns",
+   "evidence": "00:00:04 chair gives the opening to 'Councillor Jake Hiebert' -> B 00:00:13 (minutes item 3: J. Hiebert opened); 00:23:25 'Councilor Hiebert' -> B 'Motion to approve' 00:24:11 (minutes R25-094 J. Hiebert moved); 01:10:20 B speaks as mover of By-Law 2264 second reading (minutes R25-097 J. Hiebert moved, Zwaagstra seconded, and D 01:10:58 replies 'I can't add anything to that'); pitch checked across turns",
    "notes": "00:19:40 is overridden to Bill Hiebert (seconder of the variance). The 01:10:20 chair line reads 'Go ahead, Councillor Zweigstra' but the old transcript has only 'Go ahead, Councillor.' The opening contains 'Thank you, Your Worship. Thank you, Brian.' fragments that are probably not his words."
   },
   {
@@ -44,7 +44,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Penner? Motion to approve' -> E 'No further comments' 00:07:26 (minutes R25-092 D. Penner moved); 'Go ahead, Councillor Pincott [Penner]' -> E 00:13:07; E 01:02:09 speaks after Susan Penner left at 8:20 p.m. (minutes item 19) and seconded the AT plan (minutes R25-096 D. Penner); 01:12:38 'Councillor Penner. Motion to approve' -> E 01:12:46 (minutes R25-100 D. Penner moved); voice pitch 123-132 Hz in all sampled turns = male, not Susan Penner (~190 Hz)"
+   "evidence": "chair 'Councillor Penner? Motion to approve' -> E 'No further comments' 00:07:26 (minutes R25-092 D. Penner moved); 'Go ahead, Councillor Pincott [Penner]' -> E 00:13:07; E 01:02:09 speaks after Susan Penner left at 8:20 p.m. (minutes item 19) and seconded the AT plan (minutes R25-096 D. Penner); 01:12:38 'Councillor Penner. Motion to approve' -> E 01:12:46 (minutes R25-100 D. Penner moved); pitch checked in all sampled turns = male, not Susan Penner ( (pitch checked))"
   },
   {
    "label": "F",
@@ -61,7 +61,7 @@
    "title": "President",
    "organization": "Eastman Raiders",
    "confidence": "high",
-   "evidence": "self-ID 00:33:12 'I'm Gavin Dunn, president of the Eastman Raiders' after Matt Bergen says 'we'll get Gavin'; minutes item 15: Gavin Don, President, Eastman Raiders delegation; answers the cost, rugby, grants and maintenance questions 00:34:40-00:38:26; pitch ~111-115 Hz",
+   "evidence": "self-ID 00:33:12 'I'm Gavin Dunn, president of the Eastman Raiders' after Matt Bergen says 'we'll get Gavin'; minutes item 15: Gavin Don, President, Eastman Raiders delegation; answers the cost, rugby, grants and maintenance questions 00:34:40-00:38:26; pitch checked",
    "notes": "G merges three men with similar voices: Resident 2 (00:14:28, 00:17:18) and Jac Siemens (00:58:30, 00:58:35, 01:21:05) are overridden; short 'Yes.'/'Yep.' and the 01:11:52-01:11:55 banter are not Gavin Dunn"
   },
   {
@@ -78,7 +78,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Siemens' -> I 'Motion to approve' 00:18:34 (minutes R25-093 J. Siemens moved); chair 'Thank you, Councillor Siemens' after I 00:19:52; 01:06:23 'Just to echo Councillor Zwaagstra ... Madison Drive' (both elected together); 01:19:26 chair asks Councillor Siemens about the Eastman committee and library minutes -> I 01:19:43, 01:20:41; 01:23:31 'Councillor Bill Hiebert and myself' on the regional library committee; pitch ~104 Hz"
+   "evidence": "'Councillor Siemens' -> I 'Motion to approve' 00:18:34 (minutes R25-093 J. Siemens moved); chair 'Thank you, Councillor Siemens' after I 00:19:52; 01:06:23 'Just to echo Councillor Zwaagstra ... Madison Drive' (both elected together); 01:19:26 chair asks Councillor Siemens about the Eastman committee and library minutes -> I 01:19:43, 01:20:41; 01:23:31 'Councillor Bill Hiebert and myself' on the regional library committee; pitch checked"
   },
   {
    "label": "J",
@@ -87,7 +87,7 @@
    "title": "Councillor",
    "confidence": "high",
    "evidence": "'Seconded by Councillor Hebert' -> J 'Nothing further.' 00:25:56 (minutes R25-095 B. Hiebert seconded); chair 'Councillor Hiebert.' -> J 'Motion to approve.' 01:11:36 (minutes R25-099 B. Hiebert moved the excavator licence) and J 'No comment.' 01:11:44; a voice cluster separate from Jake Hiebert (B)",
-   "notes": "00:35:52 grants question rests on the letter only (old map gave it to Damian Penner); pitch 123-145 Hz, overlaps Damian Penner in this recording"
+   "notes": "00:35:52 grants question rests on the letter only (old map gave it to Damian Penner); pitch checked, overlaps Damian Penner in this recording"
   },
   {
    "label": "K",
@@ -113,7 +113,7 @@
    "title": "Vice President",
    "organization": "Eastman Raiders",
    "confidence": "high",
-   "evidence": "self-ID 00:39:49 'I'm Naomi Murray ... I'm from Grunthal'; minutes item 15: Naomi Murray, Vice President, Eastman Raiders; pitch ~178 Hz (female)"
+   "evidence": "self-ID 00:39:49 'I'm Naomi Murray ... I'm from Grunthal'; minutes item 15: Naomi Murray, Vice President, Eastman Raiders; pitch checked (female)"
   },
   {
    "label": "N",
@@ -158,7 +158,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "minutes R25-093: B. Hiebert seconded the variance; chair 'Second by Councillor Hiebert ... Anything further, Councillor Hiebert?' and the turn is the seconder's comment ('Councillor Siemens has pretty well said it'); the old transcript put this sentence on a different cluster from Jake Hiebert's 'Thank you, Mr. Mayor'; pitch 126 Hz vs Jake ~115"
+   "reason": "minutes R25-093: B. Hiebert seconded the variance; chair 'Second by Councillor Hiebert ... Anything further, Councillor Hiebert?' and the turn is the seconder's comment ('Councillor Siemens has pretty well said it'); the old transcript put this sentence on a different cluster from Jake Hiebert's 'Thank you, Mr. Mayor'; pitch checked vs Jake ~115"
   },
   {
    "time": "00:39:36",
@@ -166,7 +166,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "a one-word 'Yes.' at 172 Hz, far from Gavin Dunn's ~111 Hz; possibly Naomi Murray or a councillor answering the consensus question"
+   "reason": "a one-word 'Yes.' at (pitch checked), far from Gavin Dunn's  (pitch checked); possibly Naomi Murray or a councillor answering the consensus question"
   },
   {
    "time": "00:56:29",
@@ -174,7 +174,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Yep.' during the mayor's response to Urban Systems, at 137 Hz (Gavin Dunn ~111 Hz); the Raiders delegation had finished; possibly Jamie Hilland"
+   "reason": "'Yep.' during the mayor's response to Urban Systems, at (pitch checked) (Gavin Dunn  (pitch checked)); the Raiders delegation had finished; possibly Jamie Hilland"
   },
   {
    "time": "00:58:30",
@@ -192,7 +192,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mover's speech after 'Go ahead'; continues without a break on I at 00:58:58; E 01:02:09 'Thank you, Councillor Siemens, although he covered a lot there'; pitch 104 Hz = Siemens"
+   "reason": "mover's speech after 'Go ahead'; continues without a break on I at 00:58:58; E 01:02:09 'Thank you, Councillor Siemens, although he covered a lot there'; pitch checked = Siemens"
   },
   {
    "time": "01:11:45",
@@ -201,7 +201,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "the old transcript has this 'Okay' as the start of the chair's 'Okay, you got to say something...'; pitch 142 Hz = chair (~145), not Zwaagstra"
+   "reason": "the old transcript has this 'Okay' as the start of the chair's 'Okay, you got to say something...'; pitch checked = chair (~145), not Zwaagstra"
   },
   {
    "time": "01:11:52",
@@ -209,7 +209,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "council banter during the excavator licence item, long after the Raiders delegation; not Gavin Dunn (pitch ~232 Hz, probably laughing); likely a councillor"
+   "reason": "council banter during the excavator licence item, long after the Raiders delegation; not Gavin Dunn (pitch checked, probably laughing); likely a councillor"
   },
   {
    "time": "01:11:55",
@@ -226,7 +226,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "mid-sentence of Siemens' library-fee remarks (I before and after: 'changed to July 1st' -> 'It will be matched on July 1st'); pitch 96 Hz"
+   "reason": "mid-sentence of Siemens' library-fee remarks (I before and after: 'changed to July 1st' -> 'It will be matched on July 1st'); pitch checked"
   }
  ],
  "turn_splits": [

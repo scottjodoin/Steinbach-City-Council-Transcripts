@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, going live now. I'd like to call this meeting to order. And council, the reason we're all wearing Pistons jerseys today is because Pistons are in a series of— it's the first round of the playoffs and they're in a series with Winkler. And this week at AMM, I was shooting my mouth off, and the mayor of Winkler caught on to it, and so we have a wager. And the wager is that after tonight's game, game 7, whoever wins this series, if the Pistons win, he will be taking my jersey, and he will be wearing it at his council meeting. And if the Pistons win, The next one, and if the Winkler Flyers win, I'll be dressed in orange at the next council meeting. So that's why I thought it would be great. We all support the Pistons, and I get a little better feel for the win. 'Cause the first thing [name withheld] told me when I got home and I told her about our wager, she says, no, you don't look good in orange. It's not your color. You'll have to put up with that for one, one, one meeting. But at this time, I'd like to give the opening to Councillor Susan Penner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Susan Penner (Councillor)",
    "text": "Perfect, because I'm going to be talking a little bit about the Pistons. It's an exciting night for hockey fans. The Pistons play in Game 7 in their home rink against the Winkler Flyers. These are the types of games players dream about their whole lives, and these are also the types of games that fans dream about going to. The hype and camaraderie of big games is hard to beat. There are few things that create as much community as sports, no matter the sport or the league. This playoff run will also be the last one in the Centennial Arena. I find this bittersweet. The Centennial Arena has been a part of the fabric of Steinbach for over 50 years. Countless people learned to skate on its ice. Countless victories and heartbreaks have taken place within its walls. Countless parents have sat cold in its stands to to cheer on their favourite player, and countless bonds of friendships have been forged, and some even broken too. The Pistons are a great example of how sports are more than just the games played. They have become a part of the culture of Steinbach and a catalyst for the biggest recreation project Steinbach has ever seen. While a new rink is something we all know we need, there are things that will be missed, like packing into the old barn, standing room only for a tight playoff series like tonight. As much as we will love the new, it will also come with some loss as well. So my advice for the rest of the playoffs is to cheer hard for our Pistons, but also enjoy the last memories to be made in the Centennial. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=86s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. That's exactly what we've been thinking this season is the memories that have been built. I think we— I think our youngest son, we've pretty much raised at the rink. So yeah, we totally know what you're feeling and what we're thinking. I'd like to— council, we have the agenda in front of us. Like, like a motion to adopt. Councillor Penner, seconded by Councillor Siemens. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=175s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=204s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. We have the minutes of March 21st, 2023, the regular council meeting. They start on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=205s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=224s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. Is there any business arising from the minutes? Okay, seeing none, we will keep moving forward. There's no public hearing, no delegation. We'll go to 8A, reports and recommendations of the city manager. This is the RCMP musical ride. Page 5. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=225s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. I will defer this file to the city's corporate services manager, Mr. Adam Thiessen, for comment and presentation.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=250s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "E",
    "label": "Adam Thiessen (Manager, Corporate Services)",
    "text": "Yes, this is a follow-up on a December 6th council meeting request for more information on what it would take to host the RCMP musical ride. Do apologize for the delay. It was a bit of a challenge finding a stable large enough for 36 horses And willing to give us a quote. But now that we've done that, we've got that information in here for you. Did a little bit of background checking on how it was done last time, about 20 years ago, and what we found was that it had been put on by YFC Steinbach, organized and funded by their organization as a fundraiser event, and they did have a successful event. Thank you. Is what they told us. The city at that time supported the event by allowing the performance to be held at L.A. Barkman Park, allowing for temporary stables to be put up in the T.G. Smith Rink while the ice was out. And then YFC arranged for volunteers to build temporary stables around the event. They contracted Hanover School Division to shuttle people to the site as well for extra parking and organized some Okay. And then the opening acts. Taking a look at the schedule, 2023 for RCMP is already booked up, but they are planning to be back in Manitoba for 2024. There are some challenges though. The arena will be under construction in 2024, so the stabling there won't be recommended. Taking a look at overall estimated costs to host or to promote and facilitate the event, would be somewhere in the range of $15,000 to $20,000. But that does not include the volunteers needed to run the event. And at this time, the city is not aware of any local nonprofit groups interested in organizing and promoting the RCMP musical ride, which is the preferred model that they recommend in their material. Yes. So at this time, administration does not recommend taking on the organization and promotion of the event. However, if a local organization did want to take it on, it was very successful for YFC in the past in Steinbach.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=259s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Thiessen. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=411s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I agree with the administration recommendation. While this is a worthwhile event, the normal way in which things like this would occur in Steinbach is when a local organization provides the volunteers and takes the initiative on that. That's how things work with Summer in the City, with the Pioneer Days parade, even the pickup and walk event that happens, which is organized by churches. While this is a good event. I think that we should wait to see if there's a local organization that would like to take the initiative here. And so it shouldn't be spearheaded by the city alone.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=416s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Fair comments. Councillor Siemens?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=446s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor) [medium]",
    "text": "I'll second that motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=451s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "The motion?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=452s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "We're making a motion, sure.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=453s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Oh, okay. Then go ahead, Councillor Siemens.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=455s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "C",
    "label": "Jac Siemens (Councillor)",
    "text": "Okay, thank you. I thought that was a motion that you had.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=460s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "So the motion is that the city not proceed. There we go.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=463s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "G",
    "label": "Jac Siemens (Councillor)",
    "text": "I also agree with the recommendation and with the new motion that was made. I was involved at one point when the RCMP Musical Ride was established. We housed the horses at the arena and the event was at the museums back in the early 1990s. I think once the new event centre is, one idea would be to house the horses in one arena and have the show in the other, and we could And then host them in the new event centre at some point in the future. But we need that to be completed first and have it organized. But so I agree with the recommendation as it stands.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=465s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=502s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I just want to say thank you to Mr. Thiessen for doing some of this preliminary legwork. I think sometimes when community events need that little boost of just a little— just some more ground-level information to get motivated to move on something, and so hopefully I There will be a local organization that will be in contact with the city and get some of that preliminary information to be able to take this on. Thank you.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=505s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=529s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "F",
    "label": "Unidentified speaker",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=533s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, I, I do agree with the comments that have been said. I do hope that even though the city doesn't have the capacity to do this at this time, and especially with the huge projects that we're undertaking and the event center, All our resources will be going into that and just maintaining our city and beautifying our city. So yeah, I would love to see something like this come to our community, but it would be best done with an outside, like a private entity organization that could head this up and rally the volunteers to make this work. So I will support this motion as well. Call for the question. All those in favor? Opposed? That is carried. Thank you. So we've got 8B. This is the council expense policy. We have reviewed this at a previous SPC meeting. It looks like all the changes have been made satisfactory that we were looking at. And that is one of our, one of our, our main goals in our SPC is to review policies and bylaws, and this is the— was the next policy to come up. So Mr. Warkentin, is there anything you would like to add or highlight in this?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=533s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I do have some comments, or I should say administration does have comments. Again, I will refer to Mr. I'd like to turn it over to Mr. Thiessen for just providing a few comments to council as there were a few additional recommended changes beyond what was discussed at committee a few weeks ago.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=620s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "E",
    "label": "Adam Thiessen (Manager, Corporate Services)",
    "text": "Sure. Yeah, so the primary change that was discussed at SPC was updating the meals and entertainment maximum levels, and that has been done with competitive rates taken into account. The couple extra things that weren't mentioned there were a little bit of reorganization, moving some non-allowable expenses from the body of the policy into the non-allowable expenses list at the end. And then what we found actually for the— in the council expense policy, there had been some wording in there about using the CRA rate for travel exceeding 5,000 kilometres, but in practice, council and staff have always used the same expense report with the city rate being 49 cents per kilometre presently. So we're recommending that that practice continue. It's consistent from one policy to the next for employees and council. And that— those are the changes there. Okay.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=643s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Thiessen. So council, looking at this and having discussed this a couple weeks ago, how would you like to proceed? Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=723s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=737s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=740s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Yes, there has not been drastic changes with regards to the policies other than essentially taking out some wording or redundancies and bringing it together and putting in the right spots, as well as some wording. The main change being meals and entertainment with the rates going up because, as we all know, it costs a little bit more for bacon and eggs than it did The last time this policy was looked at. And just one thing to note of discussion, why we have 2 different rates for the meals in Manitoba and out of province, is often when you have— this is referring to council, but then also employees in areas and urban areas— your hotels are generally downtown in areas where you're going to be needing to expense a higher, higher meal than if you were going down the street here in Steinbach. So that's the reason for the disparity in the 2 rates. Thank you. different prices there for meals. So,",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=742s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=794s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "B",
    "label": "Unidentified speaker",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=796s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=797s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=800s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, I think this is a fair expense policy, and I think the changes reflect what's happening today. So that sounds good. As far as Councillor Penner, you brought up bacon and eggs cost more. Well, being a meat man, It's not because of bacon. Bacon's pretty much stayed the same. It's eggs have gone up. Call for the question. All those in favor? Opposed? That is carried. Okay, we will go right into 8C. This is the employee expense policy. They basically— it's carbon copy of the council expense policy. But Mr. Warkentin, is there anything you'd like to add?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=801s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=847s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so, and Mr. Thiessen, you're good too? Okay, well then we'll go right into council. How would you like to proceed on this policy? Councillor Zwaagstra?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=848s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll move to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=860s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=861s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is very, very much parallel to the council policy, so it makes sense to the employees to have Similar expenses.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=863s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=870s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Call for the question. All those in favor? Opposed? That is carried. We'll go to 9A. This is the accounts payable in the back of the book. We've all had a chance to review. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=872s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=890s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We have 9B, starts on page 25. We've got one excavator that would like to work in Steinbach. We need to approve his license. A motion made by Councillor Penner, seconded by Councillor Hiebert. Any comments? No. Call for the question. All those in favor? That is carried. Are there any questions of council today? Seeing none, we will move into 11, correspondence petitions. Uh, this is the, uh, Seine River-Roseville Watershed District. This is referring to minutes of February 21st, 2023. Council, would you like to proceed, take his information? Okay. We've got 11B, Jake Epp Library. This is referring to minutes February 15th, 2023 and March 15th, 2023. Council, how would you like to proceed? Take as information? Motion. 11C, Minister of Municipal Relations. This is the municipal operating grant payment. This is just a letter stating how they are increasing our municipal operating grant. It's been in the news for a couple of weeks. Looking, how would you like to proceed? Take his information. And 11D, this Minister of Environment and Climate, it's referring to the recycling rebate. Take his information. Okay. There's no other business. Looking for a motion to adjourn. Councillor Hiebert. Seconded by Councillor Penner. Call for the question. All those in favor? That is carried.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=R1YttOfS_ZA&t=890s"
   }
  ]

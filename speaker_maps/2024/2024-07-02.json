@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order and gives the opening to 'Councillor Susan Penner' (00:00:10); runs every motion and vote; opens and closes the By-law 2246 public hearing (minutes item 7: hearing called to order by Mayor Earl Funk); asks 'Mr. Warkentin, could you please introduce this file?' (end of 00:04:11, 00:08:31, 00:09:36, 00:10:50); pitch ~154 Hz.",
+   "evidence": "Calls the meeting to order and gives the opening to 'Councillor Susan Penner' (00:00:10); runs every motion and vote; opens and closes the By-law 2246 public hearing (minutes item 7: hearing called to order by Mayor Earl Funk); asks 'Mr. Warkentin, could you please introduce this file?' (end of 00:04:11, 00:08:31, 00:09:36, 00:10:50); pitch checked.",
    "notes": "The chair turns contain a few short interjections that may be councillors ('Nope.' 00:04:11, 'Please.' and 'So moved.' 00:12:10) but YouTube captions do not show them as separate speech, so left with the chair. 'Second.' (00:04:11) and 'Motion to approve.' (00:08:18) are the chair naming 'Councillor Penner' per captions ('approve councelor Penner second by', 'another motion to approve counc pen'), not a councillor's words."
   },
   {
@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair gives the opening to 'Councillor Susan Penner' (00:00:10) and B delivers it (00:00:23), speaking of her daughter's graduation; chair replies 'Thank you, Councillor Penner' (00:04:11); minutes item 3 'Councillor S. Penner opened the meeting'; long-turn pitch 193 Hz (woman). 'Motion to approve.' (00:09:29) after 'Councillor Penner.' matches minutes R24-138 mover S. Penner.",
+   "evidence": "Chair gives the opening to 'Councillor Susan Penner' (00:00:10) and B delivers it (00:00:23), speaking of her daughter's graduation; chair replies 'Thank you, Councillor Penner' (00:04:11); minutes item 3 'Councillor S. Penner opened the meeting'; long-turn pitch checked (woman). 'Motion to approve.' (00:09:29) after 'Councillor Penner.' matches minutes R24-138 mover S. Penner.",
    "notes": "00:00:02 pre-meeting chatter. 'third' (00:08:18) is a one-word fragment; may be the chair's own word (see review)."
   },
   {
@@ -27,7 +27,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "Each D turn answers the chair's 'Mr. Warkentin, could you please introduce this file?' (00:05:45, 00:08:54, 00:09:58, 00:11:18); chair 'Thank you, Mr. Warkentin' (00:07:04, 00:11:50); minutes 7.1 'Troy Warkentin, City Manager, introduced By-Law 2246'; pitch ~113-116 Hz, one voice.",
+   "evidence": "Each D turn answers the chair's 'Mr. Warkentin, could you please introduce this file?' (00:05:45, 00:08:54, 00:09:58, 00:11:18); chair 'Thank you, Mr. Warkentin' (00:07:04, 00:11:50); minutes 7.1 'Troy Warkentin, City Manager, introduced By-Law 2246'; pitch checked, one voice.",
    "notes": "'Thank you, Your Worship. Okay. Thank you, Your Worship.' inside the 00:05:45 report is odd (likely mis-transcription or not in audio); flagged for review."
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Penner?' (00:07:04 end) -> E 'Motion to approve.' (00:07:36), minutes R24-136 mover D. Penner; chair 'Councillor Penner.' (00:11:50) -> E 'Motion to accept.' (00:11:56), minutes R24-140 mover D. Penner; chair 'Go ahead, Councillor Penner' -> E 00:12:00. Male voice 110-124 Hz rules out Susan Penner (B, 193 Hz)."
+   "evidence": "Chair 'Councillor Penner?' (00:07:04 end) -> E 'Motion to approve.' (00:07:36), minutes R24-136 mover D. Penner; chair 'Councillor Penner.' (00:11:50) -> E 'Motion to accept.' (00:11:56), minutes R24-140 mover D. Penner; chair 'Go ahead, Councillor Penner' -> E 00:12:00. Male voice (pitch checked) rules out Susan Penner (B, (pitch checked))."
   },
   {
    "label": "F",
@@ -44,7 +44,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Zwaagstra?' (00:10:31) -> F 'I'll make the motion to approve.' (00:10:38), minutes R24-139 mover M. Zwaagstra; F 00:07:56 speaks as seconder after the mover ('I concur with Councillor Penner'), minutes R24-136 seconder M. Zwaagstra; pitch 105-113 Hz matches Zwaagstra (~104 Hz).",
+   "evidence": "Chair 'Councillor Zwaagstra?' (00:10:31) -> F 'I'll make the motion to approve.' (00:10:38), minutes R24-139 mover M. Zwaagstra; F 00:07:56 speaks as seconder after the mover ('I concur with Councillor Penner'), minutes R24-136 seconder M. Zwaagstra; pitch checked matches Zwaagstra ( (pitch checked)).",
    "notes": "Chair's 'Anything' at the end of 00:10:42 split off (captions: 'year for the jkap library anything')."
   },
   {
@@ -53,8 +53,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "A speaks only short seconder-closing remarks: 'Nothing to add.' (00:08:29) after Susan Penner on third reading of By-law 2246 (minutes R24-137 seconder B. Hiebert) and 'Nothing further to add.' (00:10:49) right after mover Zwaagstra on the library item (minutes R24-139 seconder B. Hiebert); pitch 125-136 Hz is closer to Bill Hiebert (~134-168 Hz in 2024 meetings) than to Jake Hiebert (~105-116) or Jac Siemens (~104-114).",
-   "notes": "Also the pre-meeting chatter at 00:00:00 and 00:00:07 (same pitch ~128 Hz). No chair hand-off by name; identity rests on the seconder pattern and pitch."
+   "evidence": "A speaks only short seconder-closing remarks: 'Nothing to add.' (00:08:29) after Susan Penner on third reading of By-law 2246 (minutes R24-137 seconder B. Hiebert) and 'Nothing further to add.' (00:10:49) right after mover Zwaagstra on the library item (minutes R24-139 seconder B. Hiebert); pitch checked is closer to Bill Hiebert ( (pitch checked) in 2024 meetings) than to Jake Hiebert (~105-116) or Jac Siemens (~104-114).",
+   "notes": "Also the pre-meeting chatter at 00:00:00 and 00:00:07 (same pitch checked). No chair hand-off by name; identity rests on the seconder pattern and pitch."
   }
  ],
  "turn_overrides": [],

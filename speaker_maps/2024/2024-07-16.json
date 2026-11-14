@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Minutes item 2: Mayor Earl Funk called the meeting to order; A calls to order 00:00:04, hands the opening to 'Councillor Jake Siemens', names every mover/seconder, calls every vote, hands files by name ('Mr. Warkentin, could you please introduce this file?' 00:07:25, 00:52:54, 00:56:28; 'Councilor Zwaagstra.' 00:55:13, 00:57:26); addressed as 'Mayor Earle' by the delegation (00:16:08) and 'Mayor Funk' by E (00:39:15). Voice ~142 Hz (00:51:39).",
+   "evidence": "Minutes item 2: Mayor Earl Funk called the meeting to order; A calls to order 00:00:04, hands the opening to 'Councillor Jake Siemens', names every mover/seconder, calls every vote, hands files by name ('Mr. Warkentin, could you please introduce this file?' 00:07:25, 00:52:54, 00:56:28; 'Councilor Zwaagstra.' 00:55:13, 00:57:26); addressed as 'Mayor Earle' by the delegation (00:16:08) and 'Mayor Funk' by E (00:39:15). Voice  (pitch checked) (00:51:39).",
    "notes": "'Nothing further. Thank you.' inside 00:14:34 split to Zwaagstra (medium). 'Any comments? No comment(s).' at 00:11:58 and 00:13:28 likely include a councillor's reply, left on A. 'Thank you, Alderman Chabot.' in 00:56:28 is not in the YouTube captions (likely spurious), left on A and flagged."
   },
   {
@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair hands the opening to 'Councillor Jake Siemens' (00:00:04), B delivers it, chair replies 'Thank you, Councillor Siemens' (00:07:25); minutes item 3: Councillor J. Siemens opened the meeting. B's 00:41:26 turn describes sitting at the task-force table; the delegation and minutes list Jac Siemens as a task-force member. Voice ~104 Hz.",
-   "notes": "Short turns 'Okay.' 00:43:39 (181 Hz window) and 'Get 'er done.' 00:52:08 (148 Hz) are higher than B's speeches and may be other voices; left on B."
+   "evidence": "Chair hands the opening to 'Councillor Jake Siemens' (00:00:04), B delivers it, chair replies 'Thank you, Councillor Siemens' (00:07:25); minutes item 3: Councillor J. Siemens opened the meeting. B's 00:41:26 turn describes sitting at the task-force table; the delegation and minutes list Jac Siemens as a task-force member. Voice  (pitch checked).",
+   "notes": "Short turns 'Okay.' 00:43:39 ( (pitch checked) window) and 'Get 'er done.' 00:52:08 ( (pitch checked)) are higher than B's speeches and may be other voices; left on B."
   },
   {
    "label": "C",
@@ -36,8 +36,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair hands the floor 'Councilor Penner' (end of 00:32:31) and D gives the substantive turn at 00:33:41, saying she sat on the committee (Susan Penner is a task-force member per minutes and delegation); delegation then cites 'Susan's comment' (00:40:39). Damian Penner was excused (R24-143). Voice 188 Hz (00:33:41) and 198 Hz (00:57:53), a woman's voice. 'Motion to approve.' 00:13:27 matches minutes R24-146 mover S. Penner.",
-   "notes": "'No.' 00:52:54 (142 Hz) is a short reply that may be another voice; left on D."
+   "evidence": "Chair hands the floor 'Councilor Penner' (end of 00:32:31) and D gives the substantive turn at 00:33:41, saying she sat on the committee (Susan Penner is a task-force member per minutes and delegation); delegation then cites 'Susan's comment' (00:40:39). Damian Penner was excused (R24-143). Voice (pitch checked) (00:33:41) and (pitch checked) (00:57:53), a woman's voice. 'Motion to approve.' 00:13:27 matches minutes R24-146 mover S. Penner.",
+   "notes": "'No.' 00:52:54 ( (pitch checked)) is a short reply that may be another voice; left on D."
   },
   {
    "label": "E",
@@ -45,7 +45,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair hand-offs 'Councilor Zwaagstra.' at 00:55:13 and 00:57:26, each followed by E making the motion; minutes R24-151 and R24-152 mover M. Zwaagstra. Chair at 00:14:34 concurs 'with Councillor Zwaagstra's comments' about E's 00:14:21 building-permit comment (R24-148 mover M. Zwaagstra). Next speaker at 00:55:56 says 'I agree with what Councillor Zwaagstra has just said' after E's 00:55:22 turn. Voice 89-103 Hz.",
+   "evidence": "Chair hand-offs 'Councilor Zwaagstra.' at 00:55:13 and 00:57:26, each followed by E making the motion; minutes R24-151 and R24-152 mover M. Zwaagstra. Chair at 00:14:34 concurs 'with Councillor Zwaagstra's comments' about E's 00:14:21 building-permit comment (R24-148 mover M. Zwaagstra). Next speaker at 00:55:56 says 'I agree with what Councillor Zwaagstra has just said' after E's 00:55:22 turn. Voice (pitch checked).",
    "notes": "Chair's 'Councillor Smith.' (00:35:23) before E's 00:39:15 turn is a mis-transcription of Zwaagstra."
   },
   {
@@ -55,7 +55,7 @@
    "title": "Task Force Chair",
    "organization": "Mayor's Physician Recruitment & Retention Task Force",
    "confidence": "high",
-   "evidence": "Introduced by the chair at 00:14:34 as Michelle, chair of the task force; self-identifies at 00:16:08 ('myself as chair, Michelle Buzetny, Director of Economic Development, Steinbach Economic Development Corporation'); minutes item 14 record Michelle Bezditny as the delegation. Answers E's question at 00:40:39. Voice ~176 Hz.",
+   "evidence": "Introduced by the chair at 00:14:34 as Michelle, chair of the task force; self-identifies at 00:16:08 ('myself as chair, Michelle Buzetny, Director of Economic Development, Steinbach Economic Development Corporation'); minutes item 14 record Michelle Bezditny as the delegation. Answers E's question at 00:40:39. Voice  (pitch checked).",
    "notes": "Name spelled as in the minutes; transcript has 'Buzyni'/'Buzetny'."
   },
   {
@@ -64,7 +64,7 @@
    "role": "staff",
    "title": "Manager, Corporate Services",
    "confidence": "high",
-   "evidence": "Chair: 'So Adam, you'll be doing this presentation?' and G: 'Yes, yep.' (00:44:54); G then gives the event centre update, which minutes item 16 credit to Adam Thiessen, Manager, Corporate Services. Voice ~131 Hz.",
+   "evidence": "Chair: 'So Adam, you'll be doing this presentation?' and G: 'Yes, yep.' (00:44:54); G then gives the event centre update, which minutes item 16 credit to Adam Thiessen, Manager, Corporate Services. Voice  (pitch checked).",
    "notes": "MERGE: 00:55:56 ('I agree with what Councillor Zwaagstra has just said') is a male councillor, overridden (low)."
   },
   {
@@ -73,7 +73,7 @@
    "role": "staff",
    "title": "Manager, Corporate Services",
    "confidence": "medium",
-   "evidence": "Single turn 'That's good, you can be seated back here.' (00:47:25) falls mid-sentence in G's event-centre presentation; the YouTube captions run it straight into the presentation ('...work taking place on the floor um that's good you can be back here bit of a panorama'); pitch 129-132 Hz matches G's 131 Hz.",
+   "evidence": "Single turn 'That's good, you can be seated back here.' (00:47:25) falls mid-sentence in G's event-centre presentation; the YouTube captions run it straight into the presentation ('...work taking place on the floor um that's good you can be back here bit of a panorama'); pitch checked matches G's (pitch checked).",
    "notes": "Could be a remark by someone else (e.g. to a person at the slide controls); flagged for review."
   },
   {
@@ -82,7 +82,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "evidence": "I (00:56:12) continues the same speech begun on G at 00:55:56 (captions show it as one run). A male councillor at 101-107 Hz: rules out Susan Penner (D, ~190 Hz) and Bill Hiebert (~160-165 Hz); Zwaagstra (E) is the person being agreed with. Remaining: Jake Hiebert (~105-116 Hz elsewhere) or Jac Siemens (~104 Hz here, letter B). The speech comes right after the mover's statement on R24-151, whose seconder per minutes is J. Hiebert (chair: 'Seconded by Councillor Hebert'), and diarization did not put it on Siemens's letter B. No name hand-off.",
+   "evidence": "I (00:56:12) continues the same speech begun on G at 00:55:56 (captions show it as one run). A male councillor at (pitch checked): rules out Susan Penner (D,  (pitch checked)) and Bill Hiebert ( (pitch checked)); Zwaagstra (E) is the person being agreed with. Remaining: Jake Hiebert ( (pitch checked) elsewhere) or Jac Siemens ( (pitch checked) here, letter B). The speech comes right after the mover's statement on R24-151, whose seconder per minutes is J. Hiebert (chair: 'Seconded by Councillor Hebert'), and diarization did not put it on Siemens's letter B. No name hand-off.",
    "notes": "Pitch cannot separate Jake Hiebert from Siemens; flagged for review."
   }
  ],
@@ -94,7 +94,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "Councillor's merits statement ('I agree with what Councillor Zwaagstra has just said') continuing on letter I at 00:56:12; male ~107 Hz; seconder of R24-151 per minutes is J. Hiebert; could be Jac Siemens"
+   "reason": "Councillor's merits statement ('I agree with what Councillor Zwaagstra has just said') continuing on letter I at 00:56:12; male  (pitch checked); seconder of R24-151 per minutes is J. Hiebert; could be Jac Siemens"
   }
  ],
  "turn_splits": [

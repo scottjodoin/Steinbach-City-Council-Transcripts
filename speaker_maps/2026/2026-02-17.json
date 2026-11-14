@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "Calls the meeting to order (00:00:03), hands the floor to every speaker and calls every vote; minutes item 2 and 7: Mayor Earl Funk chaired the meeting and the public hearing; addressed as 'Mr. Mayor' throughout; asks Deputy Mayor Zwaagstra about the RCMP advisory (00:39:55, minutes item 23). Pitch ~139 Hz.",
+   "evidence": "Calls the meeting to order (00:00:03), hands the floor to every speaker and calls every vote; minutes item 2 and 7: Mayor Earl Funk chaired the meeting and the public hearing; addressed as 'Mr. Mayor' throughout; asks Deputy Mayor Zwaagstra about the RCMP advisory (00:39:55, minutes item 23). pitch checked.",
    "notes": "Turn 00:39:01 ends 'Councillor Siemens. On' - the word 'On' belongs to Siemens' next turn (not split)."
   },
   {
@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'give the opening to Councillor Damian Penner' (00:00:03) -> B gives the opening (minutes item 3: Councillor D. Penner opened); forcemain tender: speaks at 00:28:26 after mover S. Penner (H) - minutes R26-038 seconder D. Penner; business licences: 'Councillor Penner ... go ahead' (00:38:03) -> B 00:38:30 (minutes R26-045 mover D. Penner). Pitch 133-148 Hz in debate turns (male), clearly distinct from Susan Penner (H, ~182 Hz).",
-   "notes": "The read-aloud opening measures ~167-176 Hz (animated delivery); identity there rests on the chair's hand-off and the minutes. 'Thank you.' 00:10:26 and 'Please.' 00:39:54 are short interjections left on B. 'Anything further?' at the end of 00:38:30 split to the chair."
+   "evidence": "Chair: 'give the opening to Councillor Damian Penner' (00:00:03) -> B gives the opening (minutes item 3: Councillor D. Penner opened); forcemain tender: speaks at 00:28:26 after mover S. Penner (H) - minutes R26-038 seconder D. Penner; business licences: 'Councillor Penner ... go ahead' (00:38:03) -> B 00:38:30 (minutes R26-045 mover D. Penner). pitch checked in debate turns (male), clearly distinct from Susan Penner (H,  (pitch checked)).",
+   "notes": "The read-aloud opening measures  (pitch checked) (animated delivery); identity there rests on the chair's hand-off and the minutes. 'Thank you.' 00:10:26 and 'Please.' 00:39:54 are short interjections left on B. 'Anything further?' at the end of 00:38:30 split to the chair."
   },
   {
    "label": "C",
@@ -37,7 +37,7 @@
    "title": "Applicant's representative",
    "organization": "ROC Eastman",
    "confidence": "high",
-   "evidence": "Asked by the chair to state name and address, self-identifies ('Shawna Dirksen, 49 Trapper's Bay in La Broquerie') at 00:08:18; minutes 7.2: Shauna Doerksen, 49 Traverse Bay, La Broquerie, representing ROC Eastman (a charity) at the CU-2026-02 hearing. Female voice (~180-208 Hz). Named because she speaks for an organization; spelling per minutes.",
+   "evidence": "Asked by the chair to state name and address, self-identifies ('Shawna Dirksen, 49 Trapper's Bay in La Broquerie') at 00:08:18; minutes 7.2: Shauna Doerksen, 49 Traverse Bay, La Broquerie, representing ROC Eastman (a charity) at the CU-2026-02 hearing. Female voice ( (pitch checked)). Named because she speaks for an organization; spelling per minutes.",
    "notes": ""
   },
   {
@@ -46,8 +46,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'Councillor Siemens.' -> E 'Move to approve.' (00:11:07) and 'Go ahead, Councillor Siemens.' -> E speech (00:11:12), minutes R26-036 mover J. Siemens; By-law 2253: 'Councillor Siemens?' -> E 'Motion to approve' (00:37:00), minutes R26-044 mover J. Siemens; excavator licences: 'Councillor Siemens. On' -> E 'behalf of Bill Hiebert' (minutes R26-046 mover J. Siemens). Pitch ~104-121 Hz, consistent across turns.",
-   "notes": "'Hey, 50 people.' at 00:25:15 (phone-call banter) measures ~184 Hz, unlike Siemens - possibly another councillor (see review)."
+   "evidence": "Chair: 'Councillor Siemens.' -> E 'Move to approve.' (00:11:07) and 'Go ahead, Councillor Siemens.' -> E speech (00:11:12), minutes R26-036 mover J. Siemens; By-law 2253: 'Councillor Siemens?' -> E 'Motion to approve' (00:37:00), minutes R26-044 mover J. Siemens; excavator licences: 'Councillor Siemens. On' -> E 'behalf of Bill Hiebert' (minutes R26-046 mover J. Siemens). pitch checked, consistent across turns.",
+   "notes": "'Hey, 50 people.' at 00:25:15 (phone-call banter) measures  (pitch checked), unlike Siemens - possibly another councillor (see review)."
   },
   {
    "label": "F",
@@ -55,8 +55,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Subdivision 4451-2025-9210: F 'Motion to approve' (00:31:36), chair 'Go ahead, Councillor Hiebert.' -> F speech (00:31:43), minutes R26-040 mover J. Hiebert; realty tax: F 'Motion to approve' -> 'Councillor Hiebert, second by ...' (00:35:08), minutes R26-043 mover J. Hiebert. Bill Hiebert was excused (minutes R26-035), so the only Hiebert present is Jake. F refers to 'Councillor Zwaagstra' (G) at 00:13:13. Pitch ~111-119 Hz.",
-   "notes": "'Anything further? Thank you.' at 00:23:58 sounds like chair language but measures ~113 Hz (Hiebert-like, mayor ~139); left on F, see review."
+   "evidence": "Subdivision 4451-2025-9210: F 'Motion to approve' (00:31:36), chair 'Go ahead, Councillor Hiebert.' -> F speech (00:31:43), minutes R26-040 mover J. Hiebert; realty tax: F 'Motion to approve' -> 'Councillor Hiebert, second by ...' (00:35:08), minutes R26-043 mover J. Hiebert. Bill Hiebert was excused (minutes R26-035), so the only Hiebert present is Jake. F refers to 'Councillor Zwaagstra' (G) at 00:13:13. pitch checked.",
+   "notes": "'Anything further? Thank you.' at 00:23:58 sounds like chair language but measures  (pitch checked) (Hiebert-like, mayor ~139); left on F, see review."
   },
   {
    "label": "G",
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Traffic report: 'Councillor Zwaagstra.' -> G 'Motion to approve' and speech (00:21:44-00:21:48), minutes R26-037 mover M. Zwaagstra; building permits: 'Councillor Zwaagstra.' -> G (00:32:53), minutes R26-041 mover M. Zwaagstra; chair addresses 'Deputy Mayor, Councillor Michael Zwaagstra' about the RCMP advisory -> G replies 00:40:33 (minutes item 23); B: 'Not often I can get Councillor Zwaagstra speechless' after G's 'That covered it.' (00:38:52); F cites 'as Councillor Zwaagstra said' after G's CU remarks. Pitch ~97-100 Hz.",
+   "evidence": "Traffic report: 'Councillor Zwaagstra.' -> G 'Motion to approve' and speech (00:21:44-00:21:48), minutes R26-037 mover M. Zwaagstra; building permits: 'Councillor Zwaagstra.' -> G (00:32:53), minutes R26-041 mover M. Zwaagstra; chair addresses 'Deputy Mayor, Councillor Michael Zwaagstra' about the RCMP advisory -> G replies 00:40:33 (minutes item 23); B: 'Not often I can get Councillor Zwaagstra speechless' after G's 'That covered it.' (00:38:52); F cites 'as Councillor Zwaagstra said' after G's CU remarks. pitch checked.",
    "notes": "'Motion to approve.' at 00:27:34 is Susan Penner (override)."
   },
   {
@@ -73,7 +73,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Forcemain tender: 'Go ahead, Councillor Penner.' -> H 'I'm happy to be able to make the motion' (00:27:38), minutes R26-038 mover S. Penner (seconder D. Penner = B); By-law 2253 seconder 'Councillor Penner' -> H 'I concur' (00:37:45), minutes R26-044 seconder Susan Penner; subdivision seconder (minutes R26-040 S. Penner) -> H 'Nothing further.' (00:32:24). Female voice ~169-198 Hz.",
+   "evidence": "Forcemain tender: 'Go ahead, Councillor Penner.' -> H 'I'm happy to be able to make the motion' (00:27:38), minutes R26-038 mover S. Penner (seconder D. Penner = B); By-law 2253 seconder 'Councillor Penner' -> H 'I concur' (00:37:45), minutes R26-044 seconder Susan Penner; subdivision seconder (minutes R26-040 S. Penner) -> H 'Nothing further.' (00:32:24). Female voice  (pitch checked).",
    "notes": ""
   }
  ],
@@ -85,7 +85,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Chair 'Councillor Penner.' -> 'Motion to approve.'; minutes R26-038 mover S. Penner, who then says she is 'happy to be able to make the motion'; pitch 198 Hz (female), not Zwaagstra (~100 Hz)."
+   "reason": "Chair 'Councillor Penner.' -> 'Motion to approve.'; minutes R26-038 mover S. Penner, who then says she is 'happy to be able to make the motion'; pitch checked (female), not Zwaagstra ( (pitch checked))."
   }
  ],
  "turn_splits": [

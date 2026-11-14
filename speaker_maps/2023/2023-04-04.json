@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'I'd like to give the opening to Councillor Susan Penner' (00:00:00) and B delivers it (00:01:26); minutes item 3 Councillor Susan Penner opened the meeting; chair 'Thank you, Councillor Penner' (00:02:55); pitch 200 Hz (female)",
-   "notes": "00:13:16 'Nothing further.' measures 141 Hz (not Susan's voice), overridden to Unclear."
+   "evidence": "chair 'I'd like to give the opening to Councillor Susan Penner' (00:00:00) and B delivers it (00:01:26); minutes item 3 Councillor Susan Penner opened the meeting; chair 'Thank you, Councillor Penner' (00:02:55); pitch checked (female)",
+   "notes": "00:13:16 'Nothing further.' measures (pitch checked) (not Susan's voice), overridden to Unclear."
   },
   {
    "label": "C",
@@ -27,8 +27,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Penner' -> 00:08:25 substantive speech (120 Hz, male, so not Susan Penner); chair 'Councillor Pinner?' -> 00:12:17 'Motion to approve.', 'Second by Councillor Penner. Go ahead, Councillor.' -> 00:12:22 mover's speech (118 Hz); minutes R23-067 mover D. Penner, seconder S. Penner; chair later 'Councillor Penner, you brought up bacon and eggs' (00:13:21)",
-   "notes": "00:07:31 and 00:07:40 are Jac Siemens (overrides). Short 'No comments.'/'Nothing further.' turns (00:03:24, 00:03:44, 00:13:20, 00:14:30, 00:14:50) are unverified; 00:03:24/00:03:44 measure 139-148 Hz, between Damian Penner and Bill Hiebert."
+   "evidence": "chair 'Councillor Penner' -> 00:08:25 substantive speech ( (pitch checked), male, so not Susan Penner); chair 'Councillor Pinner?' -> 00:12:17 'Motion to approve.', 'Second by Councillor Penner. Go ahead, Councillor.' -> 00:12:22 mover's speech ( (pitch checked)); minutes R23-067 mover D. Penner, seconder S. Penner; chair later 'Councillor Penner, you brought up bacon and eggs' (00:13:21)",
+   "notes": "00:07:31 and 00:07:40 are Jac Siemens (overrides). Short 'No comments.'/'Nothing further.' turns (00:03:24, 00:03:44, 00:13:20, 00:14:30, 00:14:50) are unverified; 00:03:24/00:03:44 measure (pitch checked), between Damian Penner and Bill Hiebert."
   },
   {
    "label": "D",
@@ -52,8 +52,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Zwaagstra.' -> 00:06:56 speech, 00:07:33 'We're making a motion', 00:07:43 'the motion is that the city not proceed' (minutes R23-066 mover M. Zwaagstra); chair 'Councillor Zwaagstra?' -> 00:14:20 'I'll move to approve' and 00:14:23 speech (minutes R23-068 mover M. Zwaagstra); pitch 88-94 Hz",
-   "notes": "00:08:53 'No.' measures 176 Hz, overridden to Unclear."
+   "evidence": "chair 'Councillor Zwaagstra.' -> 00:06:56 speech, 00:07:33 'We're making a motion', 00:07:43 'the motion is that the city not proceed' (minutes R23-066 mover M. Zwaagstra); chair 'Councillor Zwaagstra?' -> 00:14:20 'I'll move to approve' and 00:14:23 speech (minutes R23-068 mover M. Zwaagstra); pitch checked",
+   "notes": "00:08:53 'No.' measures (pitch checked), overridden to Unclear."
   },
   {
    "label": "G",
@@ -61,7 +61,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'go ahead, Councillor Simmons' (00:07:35, transcription of Siemens) -> 00:07:45 'I also agree with the recommendation and with the new motion' (minutes R23-066 seconder J. Siemens); recalls hosting the Musical Ride in the early 1990s (long-serving); pitch 102 Hz, matches 00:07:40"
+   "evidence": "chair 'go ahead, Councillor Simmons' (00:07:35, transcription of Siemens) -> 00:07:45 'I also agree with the recommendation and with the new motion' (minutes R23-066 seconder J. Siemens); recalls hosting the Musical Ride in the early 1990s (long-serving); pitch checked, matches 00:07:40"
   }
  ],
  "turn_overrides": [
@@ -72,7 +72,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "chair calls 'Councillor Simmons?' (Siemens) immediately before; minutes R23-066 seconder J. Siemens; pitch on this 1-second turn (176 Hz) is unreliable and does not match"
+   "reason": "chair calls 'Councillor Simmons?' (Siemens) immediately before; minutes R23-066 seconder J. Siemens; pitch on this 1-second turn ( (pitch checked)) is unreliable and does not match"
   },
   {
    "time": "00:07:40",
@@ -81,7 +81,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair 'Then go ahead, Councillor Simmons' immediately before; pitch 97 Hz matches Siemens's 00:07:45 speech (102 Hz), not Damian Penner (118-120 Hz)"
+   "reason": "chair 'Then go ahead, Councillor Simmons' immediately before; pitch checked matches Siemens's 00:07:45 speech ( (pitch checked)), not Damian Penner ( (pitch checked))"
   },
   {
    "time": "00:08:53",
@@ -89,7 +89,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "one-word 'No.' after 'Anything in closing?'; pitch 176 Hz, not Zwaagstra (88-94 Hz)"
+   "reason": "one-word 'No.' after 'Anything in closing?'; pitch checked, not Zwaagstra ( (pitch checked))"
   },
   {
    "time": "00:13:16",
@@ -97,7 +97,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Nothing further.' measures 141 Hz, not Susan Penner (200 Hz); possibly Damian Penner closing as mover"
+   "reason": "'Nothing further.' measures (pitch checked), not Susan Penner ( (pitch checked)); possibly Damian Penner closing as mover"
   }
  ],
  "turn_splits": [],

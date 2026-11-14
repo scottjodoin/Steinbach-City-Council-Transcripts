@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I would like to give the opening to Councillor Jac Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. Every community has its community builders, often forgotten in time but have played a major role in some intricate part of the community, and Steinbach is no different. I would consider Mary Barkman as a community builder. She had a vision, didn't give up on that vision, even when it looked hopeless. Mary grew up in a book-loving family and passed that love on to her children. In the late 1960s, Mary Barkman was the associate editor of the Carillon and was married to Johnny Barkman. Johnny had a part ownership, along with future Steinbach Mayor A.D. Penner, of a road— construction company that worked in other small rural communities in Manitoba and Saskatchewan. In the summer construction season, she spent time with that construction crew in those small communities and often used the local library. When back home in winter, she wondered why Steinbach had no library. To access books for her children, she mail-ordered them through the Provincial Extension Library. And then in talking to others, town residents, she found out that many had a desire for a library in this community. In 1968, Mary, along with Pastor Leonard Epp, who was the pastor of the Grace Church, and Ted Colosson, principal of the Steinbach Junior High, made a request to town council to establish a public library. Council, on the whole, thought it was a good idea, but worried about cost and duplicating school libraries. In 1969, Mary called the first meeting of the Friends of the Library. And it included people from all walks of life. They paid a $1 membership and offered their skills in the effort to support a library. Over the next 2 years, they made several presentations to the town council and they built some support. Mayor and then— and MLA of the day, L.A. Barkman, asked them to provide more information but suggested they look to be a regional library. At that time, the province offered a grant of $10,000 to establish a regional library and only $200 for a municipal library. Mary approached all the local RMs, and a referendum was then held with the RM of Hanover, the Village of Niverville, and Steinbach. It was held during the municipal elections in October 1971. Those years, council served 2-year terms, with one half of council being elected each year. Voter turnout was only 20%, and the RM of Hanover and village of Niverville soundly defeated the referendum, as there was much— many people not happy with it. But Steinbach had voted 2 to 1 in favour of a library. It was a blow to Mary and her Friends of the Library group. Mary decided to meet with now MLA L.A. Barkman, and he told her— Thank you. That Bill 50 was before the legislature, and if passed, it would be mandatory for the town to establish a local library as long as they could get 8% of the electorate to sign a petition. In July of 1972, Bill 50 passed, and Mary, along with Melvin C. and Elvira Toews and Dr. Dan Skisbrecht and Mary Rose Dirksen, started to collect signatures. And by September, they presented the 360 signatures required. Council minutes from September 18th meeting included information that the newly completed Civic Centre originally had plans for a space for a library. Third reading of the library bylaw was held November 6th, 1972. In one of his last meetings as a councillor, Councillor Jake Epp made the motion. And Councillor Epp was one of the few councillors to be very vocal and supportive of the library. The Friends of the Library were told that they would not get space at the Civic Centre and would be responsible to look for their own space. The Hanover School Division administration offices were one of the first rentals here at the Civic Centre. They were located in the engineering department, where our engineering department is today. They were in the process of moving to their new division offices that had been attached to the old high school, or SCI, on Lumber Avenue, which is today Stony Brook Middle School. Thank you. Town Council voted to not have the library at the Civic Centre, as more rent could be had by renting it to the Department of Agriculture and the Assessment Branches, so they moved in here. In fall of 1972, the SRSS opened its doors, which made the old junior high, or Kurnelson School, which is currently the Arts and Cultural Building, available for rent. In February of 1973, the Friends of the Library rented approximately one-third of the top floor at a cost of $1,400 a year from the Hanover School Division. In July of 1973, Department of Education put out a tender to sell Cornellson School, and the town of Steinbach was a successful bidder at $35,000. During discussions at council chambers, Mayor A.D. Penner claimed this would be a wise purchase as it would be an ideal location for the indoor pool. The first library board was appointed in February of '73. Consisting of Mary Barkman, Melvin Toews, Mary Rose Dirksen, Dr. Dennis Giesbrecht, and Councillor Jim Penner. They then hired the first librarian, Iris Loewen, an assistant, Gladys Barkman, and also a special assistant by the name of Bert Suss, who was the first librarian at the SRSS. The town of Steinbach provided a $20,000 startup grant. The Steinbach Library opened to the general public on October 9th, 1973. Many councillors have served on the board. While Councillor Jake Epp didn't serve on the board, he did have a large impact on council to make it happen. Future MLA Jim Penner was the first councillor to serve. Other councillors' names included Bob Smith, Bob Frye, Cari Penner, future mayors Les Magnuson and Ernie Friesen, just to name a few. And there are some on— many on this council that have also served. There are library board members who served many years, including Melvin Toews, John Neufeld, Marlene Penner, and Leona Rempel, all serving for more than 15-plus years, along with Bruce Taggart, who provided many years of oversight at the library board. In 1997, the library opened on Elmdale Street, and that was just under 8,000 square feet and built at a cost of just over $1 million. Imagine that today. Again, it was a long-debated issue on council But it was Councillor Cari Penner who provided the vocal support for the project to be built. An expansion adding 4,500 square feet happened in 2012 at a cost of just over $2 million. It also had been an election issue in the 2010 elections. The current library has a total square footage of just over 13,600 square feet. Over the years, the Jake Epp Library has served Steinbach well, and for many years it has the highest loan rate per capita in the province of Manitoba. Last year, the circulation was just under 250,000 books. Many people have been well served by the library since 1973. It is a gem in our community and one of the best in the province. It was a vision, along with much hard work of Mary Barkman and others, who rallied those in our community to make the library happen. Thank you, Mr. Mayor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=10s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Siemens. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Council, we have the minutes of February 4th, 2025, the regular council meeting. We've all had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Siemens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=457s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Bill Hiebert (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=485s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Councillor, is there any business arising from the minutes? Okay, seeing none, we will— it's just a little past 7:35, so we'll go directly into the public hearing. We have 6A, the conditional use 2025-01. This is 86 Industrial Road. At this time, I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=486s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor, and for members of council, conditional use application file CU-2025-01 is for property located at 86 Industrial Road in Steinbach. The owner of the property is Solomon Budala Holdings Inc., with the applicant for the conditional use being Avito Inc. Purpose of the conditional use application is to allow the operation of a retail sales business on the subject property I have the report on the property. Under City of Steinbach Zoning Bylaw 2100, all retail sales are a conditional use within the M-1 light industrial zone. Notices as are required under the Planning Act have been issued. There is no written correspondence on file. With respect to the application, the subject property is a newly created industrial site located within the Steinbach Industrial Park, and it is located at the corner of Industrial Road and Acres Drive. The intended uses within an industrial zone include that the site will generally be accessed by staff for primarily manufacturing purposes with few or no customers and used only infrequently by members of the general public. The application indicates that the proposed property or development, due to the intention of the landlord to relocate an existing retail tenant from a Main Street property to the subject property with a proposed 10,000 square foot retail space. I have provided some precedent files for council's information. The— as I mentioned, the subject property is currently vacant with the applicant seeking approval to permit retail sales for the site. If council does decide to either approve or deny the application, any decision of council would run with the land and as a result would affect the entire site. Thank you. Of particular concern to administration in this application is the land in question has been sold to the developer at cost with the understanding that it be developed for industrial purposes. If a retail sales use is approved for this site, it has the potential of essentially requiring the Steinbach taxpayer to subsidize commercial development and use, and through taxpayer funding, the city has effectively become a competitor for private commercial property developers. The recommendation from administration is that council deny the application under file CU-2025-01.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=520s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant here today? Do you wish to speak? Okay, just state your name and address and then continue.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=663s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Good evening, Mayor and council. My name is Stefan Hodelman, 36 Colons Place 1, Longwell Ward. As mentioned, this application is at University 86 Industrial Road. On my initial application, I did indicate that it was— Our intention is not to have the entire site We're not asking to have retail permitted, but rather just a use for a specific tenant. Obviously, you've been before council and we've heard you loud and clear with 110 Industrial Road that a blanket approval for the site would not be good, and that's not the intention of the industrial park, and thus we've asked specifically for Adult and Teen Challenge, which is the tenant that needs to be moved off Main Street to be accommodated in this space. So just a little bit of background. Adult and Teen Challenge is a great organization that's been tending to a crucial need in Steinbach. Steinbach has an increasing— faces an increasing problem with addiction, just like Like many other communities across the country, a larger presence would be beneficial to the city. The present location is about 5,000 square feet. Within that 5,000 square feet, they have a specific model that they provide counseling, they have some offices, and Daniel from Teen Challenge is here today, And you can explain that model further. Their main mission is not to operate a thrift store. It is how they get their— how they— the thrift store model is a vehicle that they use to effectively achieve the results that they need. So as to why they can no longer stay at the— Main Street location. Parking's been difficult, and they desperately need a bigger space. They operate other locations that are larger, and those models seem to be more successful, and they have more capacity as well. They can no— the other reason why they can no longer stay in their current location is because of the redevelopment at 366 Main Street. The roof in its current state is not able to support the additional Snow load caused by the 6-story building next door, and as of next winter, the building will have to remain vacant. We have intentions, or the ownership group of 386— the industry has intentions of expanding that building further once this building is removed that they're currently in. So how will the space, if removed, permitted on Industrial Road be used. Their goal is to have an assembly line where they will clean, refurbish, and assemble furniture and other goods. They want to have a retail floor area to sell these goods and will employ a fair amount of people. Some of those people will be on permanent basis, so they're people that work with the patrons. Other people will be— Will be the patrons themselves, which are there based on— On a term basis with the program. The Teen Challenge model, among other things, aims to provide employment to its patrons, and they've explored many different options such as, for example, construction labor where they work with people to integrate them back and just even to provide employment while they go through the program. They find that when the employment is provided by a third party, They cannot control the environment to a degree that provides the best results. Obviously, you run into different tradespeople with other habits, and it's just not as controlled of an environment that provides the patrons for optimal success of the program. The expansion to bigger space at a rate of cost that is manageable is what they ultimately need. The current zoning bylaws permitted under the definition Social services facility. Find a description that matches what the mission and intent of the challenge are. It reads as follows: Social services facility means the use of a premise to provide social or welfare services to those in need for no fee or compensation, or at a fee recognized as being significantly less than charged by a profit-making organization. Services may include, but are. Are not limited to information, referral services, counseling, skill development, and the provision of food or clothing, life skill, personal development programs, alcohol, drug, and substance abuse counseling center, and drop-in or activity space. Again, I believe this matches exactly what the TEAM Challenge program does. And to support that mission, they accept donated items that they refurbish and sell. All these things working together will allow them to create employment within a controlled, monitored work environment, and we believe that the primary use can be social services facility and secondary use could be retail. As was previously mentioned, there are several precedents for specific Typically, retail is allowed in the zoning. For example, the most comparable one would be the Local Matters thrift store, and a number of years back, the Menno Mart. Retail as a secondary use were permitted with other operations also as precedent in the zoning. Some examples that would come to mind would be the rental house, the lumber zone, Steinbach Fire Protection, and the coffee stores. Setting up a new— Space is costly, and the current ownership group has been a supporter for Teen Challenge for many years and is committed to making this step possible for them as well, including capital and plans and so forth. To continue to operate and to provide— this is what they need to continue to operate and to provide the services that our community needs. Teen Challenge will need the buy-in from many members of the community, churches, individuals, so forth, and we are seeking Thank you very much. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=679s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You. Council, any questions? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1070s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. So I understand the reasons for not remaining at the current location. What is the reason for not moving to another commercially zoned property? Because we do have other commercial zones within Steinbach. Why specifically the industrial park for this?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1072s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "So they approached us And, or they approached the— Solomon's Holdings. Solomon's Holdings and asked them if they could provide a solution as well as make one available that is not as capital intensive for them. And so this seems to be a location, especially with the social— in light of the social services facility being allowed within that zone already.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1089s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Just a follow-up.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1118s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yep, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1119s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "So when you say not as capital intensive, are you essentially saying that it's cheaper to go here because it's in the industrial park and it's subsidized?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1120s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "No, the land cost is really not a big part of this equation. When it comes to outfitting spaces, costs can be $150,000, $200,000. Like, they just skyrocket if they're not— if things are not built to accommodate directly from the start. And so that ends up being the biggest barrier for organizations moving.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1127s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. Go ahead, Councillor Stevenson.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1148s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Through you, Mr. Mayor, my question is regarding a blanket request for the whole property for— to make it retail. And that's problematic in different ways. But the— why wouldn't you subdivide that property If you're dealing with Teen Challenge, if that's the initial intent, why wouldn't you subdivide specifically that piece and ask just for that piece as a—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1154s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "So I believe on my application, I have to confirm this, but I asked specifically for out-of-home Teen Challenge. Nobody else shall be permitted to do retail on this location other than that, right? Many different municipalities handle this in different ways. For example, Niverville, I have a property that was not subdivided, and I have a couple different tenants You have tenants moving in and every tenant goes before council and every business needs to get approved for their use. And so they start off with everything's forbidden until permitted, and so everybody gets a different use for their different unit. And so that's why we requested it specifically for adult and teen challenge. I'm not sure if the City of Steinbach has a mechanism by which they can also accommodate such requests.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1180s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Go ahead. To administration, can you respond to that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1220s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you. There have been some applications in the past where a requested conditional use may impact a particular unit in the case of an industrial property that happens to be under a condominium style of ownership. When you do have an application in that type of circumstance, Yes. So in that case, there is a legal title to a very specified location within the overall property. In a case such as this, where it is general traditional title on a non-condominium style property, and the fact that no buildings currently exist, it's only a conceptual plan, the only realistic The result is that because the conditional use affects the title and the title applies to the whole property, that is from the administration standpoint, that in that example, the conditional use, whether council approves it or denies it, does affect the entire title and therefore the entire parcel. Okay.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1228s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Okay, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1306s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Perhaps go ahead to administration. Do you have to go? I guess yeah. Is there another way of more efficient way of just permitting Adam to challenge to operate within given premises? I know again other communities. Sometimes do it with, I believe the specific model Niverville has is an occupancy type of permit situation. So I'm not sure if such a model can be used here. And I should add, because there's obviously a lot of other businesses that have a different operation, give it rental house, lumber zone, whatever, Those businesses also have a retail component to them. As we're studying this, we're also wondering, do we need retail? Do we actually need— if our primary use is a social service facility, did all those other businesses need retail as well, or how does that play out when you have a primary use and a secondary use? The—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1312s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I mean, I can answer that. Like, some of the applications that we had that we did give, like, for example, rental house, their sales are incidental to their business. So they're like, they are rental. And so you rent a concrete, like a jackhammer, well, you can go and you can buy a certain tip for that in the store. I mean, you can buy much other things, but But there— some of those things are needed for the rental. So it's incidental to the rental business. So that kind of retail can be allowed. Now, the challenge I think we have here is because yours is not— it's not a condoed lot. So it's not condoed to title. So then the whole lot has to be allowed to do retail. Is that how I'm— Yes. Understanding it, Mr. Warkentin.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1383s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "As far as the decision of council, because it affects the entire title and the entire parcel and the title are one and the same, then yes, it does affect the entire parcel of land.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1439s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1453s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Would retail, given the model that Adam Thiessen has, and again, if you have questions, Given the model that they are literally best described by the definition provided within the bylaw as a social services facility, could the retail be allowed within that definition as a secondary or incidental or an extension of such services?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1454s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I would have to ask administration. Is that allowable, the retail allowable to be tacked onto social services?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1485s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "In the case of this application, given the interpretation is consistent with other similar types of operations in Steinbach, those have all been interpreted to be retail sales establishments. Therefore, that interpretation would not apply.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1498s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. I guess that's not the answer you wanted, but does that answer your question?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1519s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Yes, yes. Okay. As far as condoing it and subdivision, that can be considered in the future, but typically you have buildings up before you actually set Subdivision's probably not a good one just because it's not an efficient use of land. Subdivision causes different setbacks and whatnot between buildings. So most effective would be to conduit because then you could have party walls that you can share. So conduit could be considered, but typically the building's up and the surveyors take accurate measurements of party walls prior to that being allowed, so. If, Council could say this can be converted suddenly to a condo or a development agreement or something of those sorts just to isolate that specific unit. That's also, I think, a possible way of",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1524s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Doing this.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1585s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. Any other questions? I",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1585s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Have a quick question.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1590s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1591s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I appreciate you're trying to make something work here. Was this not part of the discussions you would have had with Were these options discussed with staff when you were making the application? I mean, it's a bit unusual for us to be parsing down into the weeds of, okay, well, now we can do it. Was this not part— was any of this discussed? Like, I'm sure concerns were— it was pointed out to you that this is not, you know, the intended use of the industrial property. Were these options not discussed at that time?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1591s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "I was given the answer that it would have to follow— we'd have to apply for conditional use.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1616s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1625s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Didn't explore it in detail, or it was just mentioned that this would be retail and which all of it would be.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1626s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, and to be clear, Mr. Warkentin, to administration, the— if we make the conditional use, we decide whatever we decide, this is on the entire",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1636s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Pardon? The decision would run with the land, and because the land is a single title, yes, it would affect the entire parcel.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1651s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so then that's concluded now. So whatever decision we make here, that rests on the entire parcel. Yeah.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1659s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Okay. Could a decision be made on a to-be-created parcel?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1668s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "No. I was going to say— We have to— the information that's in front of us Is what we have to decide on. This is what's in front of us. So we'll have to decide on this information, okay? We can't decide on what could be developed. We've got to decide on what is in front of us at this time, okay? And that, that's just fair, 'cause then things could— things could change all meeting long, right?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1671s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "Which, if the newly created parcel does not get created, such permission would be granted. Yeah. I tried.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1701s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thanks. Is there anyone here with comments, questions, or objections to this file? I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay, yeah, you bet.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1708s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "C",
    "label": "Daniel Emond (Program representative, Adult and Teen Challenge)",
    "text": "I just thought I would maybe answer your question, your original question of why—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1732s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Name and address.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1738s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Oh yeah, your name and address,",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1739s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "Please.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1741s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "C",
    "label": "Daniel Emond (Program representative, Adult and Teen Challenge)",
    "text": "510 Pecorine Crescent, Winnipeg. The answer of why this— why hasn't Adult and Teen Challenge looked at commercial properties we have, and there is To my knowledge and to our real estate agent's knowledge, no commercial properties that fit a 10,000 square foot model for us to be provided with the space that we need to efficiently and effectively run an adult teen challenge thrift program. So in talking to [name withheld], That was what the recommendation was, was that he could build a facility that would accommodate us and he could help support financially with the project. So the— Just to speak to the social service model of it, really our thrift stores are, It's a place where our clients, our students that are in our program here, particularly in Steinbach, 75 Westview, go every day to do work therapy, and it is a safe environment for them to go. And yes, we do have to generate revenue, but we're taking donations, we're sorting them, we're fixing them, and then we're turning them into money to fund So if that helps the application anywhere in the decision of— I didn't— I wasn't aware that the land was discounted land or whatever, so that's new knowledge to me, but I would ask council to really consider providing the opportunity, whatever way that we can do it, but it is— Thank you. This will be a huge setback for us if we have to close the thrift store and the community office, which we run daily support groups, we do daily addiction counseling out of, and that's approximately 2,500 square feet of the current 7,000 feet that we use on Main Street. Okay. This model would be duplicated in this new facility where 2,500 square feet of that would be a meeting room, counseling offices, and places for families to come anonymously to seek help from their family struggling with addiction. So, and then also the sales floor or the warehousing space would be providing work therapy and drug treatment So definitely is a different use than any kind of normal retail.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1741s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Thank you. Okay, I'll ask again. Is there anyone here with comments, questions, or objections to this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1921s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "E",
    "label": "Stefan Hodelmann (Applicant's representative, Avedo Inc.)",
    "text": "So specifically as to timing, because of the development happening at 366, they have to be, I believe, out of there before next winter, and so there's a bit of a time crunch as part of all that, and you may have seen some existing materials already arriving at Main Street as we're taking delivery of the building, the back building there, so. Okay. Just figured I'd add that into the equation.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1937s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Okay, is there anyone else with questions, comments, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Siemens?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1965s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "I'll make the motion to deny.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1986s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder? Seconded by Councillor Hiebert. Go ahead, Councillor Stevenson.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1990s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. I think— I don't think we have a choice but deny it. For the biggest reason is that it runs with the land. The request runs with the land. So anything built on there which would— any building built could become retail space. So that means we're giving away retail space. So the industrial parks are built by the taxpayer. The taxpayer builds these industrial parks to attract business, and the business that it attracts is hopefully manufacturing. Hopefully it's jobs in our community. It's people that can build livelihoods. That's what our industrial— for a private enterprise, individuals to come in and build industrial parks, it's a huge outlay in cash and And sometimes there's— there is only a 20-25 year return on investment, if that. So the city builds these industrial parks, we're using tax dollars and granting, and we sell the lots at cost or just above cost. So we cover our cost for roads, for the cost of land, cost of water, cost of sewer. And those aren't just any old roads, those are concrete roads that go in so that they can— Yeah. Okay. They can be available any time of year. They're unrestricted roads. And so essentially, well, if we approve this and it becomes retail space, then we are in direct competition to other commercial property developers in Steinbach. The mall, the whatever those are. So now the city— and that's not the intent of an industrial park. So I appreciate what you're trying to do here. That I don't want to belittle the fact I appreciate what Teen Challenge does in our community. Because they, they are doing a good job here as well, and I understand that, and I don't want to belittle that at all. But here there's 2 different decisions for council. Do we make this decision because we've got a heart for Team Challenge, and so that's what the presentation is, and so we have the whole development, but we're going to allow Team Challenge to move there, which is fine, or could be fine if we approve. Thank you. But then there's also all these retail spaces, and now the owner, whoever that might be, can put whatever retail establishments they want. Now that's a direct competition to the retail property. So I don't know, and it's precedent-setting. So we got a report here that says we've— there's precedent been set. Local Matters Thrift Store, the Skirts. That doesn't mean those were the right decisions at the time either. Those were decisions made at the time. Thank you. With the information we had at those times. And I think we still have to focus why we built an industrial park and what it's there for. And that's why I suggested a subdivision where Teen Challenge, if that's what the opportunity is, comes on its own. And, and, and, and that's what you want to develop in an industrial park. That's a different discussion than this one. Today the discussion is before are we going to allow retail through that whole piece of property and they can put as many units— the picture shows, what, 5, 6 or more units— that all of them can be retail? Now we're building a retail mall in a— potentially in an industrial park. And I don't think we can— I think we should vote against that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=1995s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2194s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr. Mayor. I'd like to thank the presenters here. Thank you for coming here today, coming here and presenting this on this application. Yeah, you know, I appreciate what you said. It definitely tugs at the heartstrings. Your organization that you're representing here is an excellent organization, the thrift store, the furniture repair, obviously giving employment to your clients, very, very important to the whole makeup of your organization. And again, excellent, excellent work you're doing. Can't take anything away from that. However, as has been indicated, this is a subsidized lot, and regarding the comment on the condo, that obviously isn't what is being applied for, so we're not even going to consider that. But my position in the past has been consistent consistently, I vote against retail in the light industrial area, and previous applications in this area have all met with my negative vote, and I maintain the same today.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2197s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Go ahead, councilor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2266s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I will support the motion to deny. I think it's important that we protect the integrity of the industrial park. We do have industrial land For a reason. It's specifically to attract industry, manufacturing. Retail, commercial should be located in commercial zones. And that's the decision we have to make. And I also agree with Councillor Siemens' comments that this— and just this is a fact— this applies to the whole property. And I'm just not prepared to set a precedent far beyond any that have already been set in terms of the amount of retail that could potentially be allowed, even if that's not what's intended to go there now. Thank you. This attaches to the entire lands. I will also vote to deny.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2272s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor)",
    "text": "Mr. Mayor, I totally feel for Team Challenge. I would love to see them have a facility in Steinbach, and I'm hoping that you can find a spot where you can build something that will work for you. And I agree with Councillor Siemens as well that this is an industrial area and this does apply to the whole property, and that's problematic. So I'll vote against it as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2310s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further from council? Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2334s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I can't really add too, too much from what has already been said, but I also will support the motion to deny. Again, I'll echo the sentiments. Teen Challenge is a phenomenal organization. I'm glad that it operates within Steinbach, and I hope that it is— it does have an opportunity to continue to flourish in Steinbach. However, having said that, I appreciate that organizationally You are social services and that is, that is at your heart. That is what you are wanting to do. But operationally, this is a retail, retail business and, and comes with the same traffic, the same challenges that any other retail would, regardless of what operation or organizationally you're trying to achieve. So I can't see how we can have retail in the industrial like this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2338s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2382s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2387s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, well, council, this is a difficult decision. This is, uh, it's not a decision based on the good that, uh, the Teen Challenge does. This is based on what is good for this piece of property. Now, um, as Councillor, uh, Siemens alluded to, yes, there is retail in that area, and I And he alluded to that maybe not all those decisions were the right ones. For the information we had at the time, yeah, maybe they were right. I think if we could go back now and make some of these decisions again, they might— you might see that they're different as we see what's developing there. My challenge with this property, I do believe Teen Challenge would do a great job on this property, and I understand what, I understand that. You need for your social program to go forward. But my challenge with this property is that the conditional use goes with the entire property. Anything can happen at that point. Anyone can do retail. And do we create a little mini mall in the industrial park? That is the challenge I have. And for that reason, I will vote— I will be in favor of I think we can support this and vote in favour of the motion. Call for the question. All those in favour? Opposed? That is carried. Thank you. Okay, council, we have 6B. This is bylaw 2260. This is rezoning of 69 and 85 First Street. At this time, I will close the council meeting and open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2388s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This is a public hearing for rezoning bylaw 2260, which affects 79 and 85 First Street. The owner of the properties is JDL Holdings Ltd., with the applicant for bylaw 2260",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2502s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "D",
    "label": "Unidentified speaker",
    "text": "Yes. Yes. Alderman Mar being opposed. Any opposed? Seeing none, the bylaw is adopted. Item number 6, application for special use permit, 2018-01-001,",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2502s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Vote Building Construction. Purpose of the bylaw is to rezone the subject properties from RLD, residential low density, to RMD, residential medium density, to permit a multifamily development to be developed. Notices as are required under the Planning Act have been issued. There is no written correspondence on file except for a letter from community planning received earlier today, which indicates that the The province has no concerns with the application. With respect to the proposal, the developer does propose to create 17 residential units on the subject property. One of the 2 existing parcels is vacant while the other contains a single-unit residential structure, which would need to be removed prior to development. Based on the site plan that has been submitted, there is also part of the development proposes to create an access directly to the existing back lane, for which there would be further development obligations through the development agreement. Recommendation from administration is that council excuse me council give this bylaw second reading subject to the execution of a development.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2502s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Um, is the developer here at this— would you like to speak?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2597s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "G",
    "label": "Jared Vogt (Applicant, Vogt Building Construction)",
    "text": "I'm happy to answer any questions anyone has. If there's any clarity I can provide.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2604s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, I'll have you come to the podium, state your name and address.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2608s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "G",
    "label": "Jared Vogt (Applicant, Vogt Building Construction)",
    "text": "My name is Jared Boat. I live at 84 Lake Park Drive in Winnipeg. Um, I operate Boat Building Construction and also one of those",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2611s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, and are there any questions or is there anything you can add to this?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2623s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "G",
    "label": "Jared Vogt (Applicant, Vogt Building Construction)",
    "text": "No, I think we've worked hard here to come up with a plan that meets all the city bylaws. Our hope is to not be requesting any variances should this be approved. I think we have more than enough parking being proposed on the site. The lot was bought quite some time ago by my father, and my family now hopes to continue on this journey and get this building built.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2630s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. And is there any questions, council? Yes, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2660s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "One quick question. How many stories",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2660s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "C",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Are you planning to build?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2670s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "And the reason I'm asking that is how does it compare to the other projects to the landscape of the other houses and buildings in the",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2672s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "G",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Area?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2678s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "G",
    "label": "Jared Vogt (Applicant, Vogt Building Construction)",
    "text": "Best described as a bi-level, so story and a half, to answer your question.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2678s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "Thank you. Thanks.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2683s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Okay, you're— you can have a seat. Sure. Is there anyone here with comments, questions, or objections to this file? I'll ask again, anyone here with comments, questions, or objections to this file? It's a little redundant, but we like to ask this 3 times. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? So moved.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2685s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion to approve second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2725s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2728s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is an application to rezone these properties from residential low density to residential medium density, and the proposal here would be to develop 17 residential units on the subject property. And we are— the plan looks reasonable. There are no variances that are required, and importantly, no one from the neighborhood No. No one is here expressing any concerns about that, which is nice to see when— in terms of a switch to medium density, because often these are the kinds of applications that tend to get a lot of people raising concerns. And so clearly the plans that have been seen haven't raised any concerns with anyone. And so we do need more housing in Steinbach. Having increased density is something which is positive. We have seen many of these rezonings happen along First Street. This does seem to be the next logical change on the street.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2731s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2782s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. Yes, this property is located in our central business district, a transitional policy area. Naturally, that we see properties get rezoned from low density to medium density for a variety of reasons. The central business district is an area we've, we've kind of earmarked and tagged as an area where we know that it's viable for, for, for Yeah, I think it's a good idea for walking, for more density to, to get to support the local businesses around there and for ease of life for the residents as well. Also of note, I want to appreciate that there's— give appreciation to the developer for 3-bedroom and 2-bedroom units. So they're very desirable. It's nice to see units coming up that are more, more able to support, support families as well and not just individuals. So it's good, it's good longevity housing there as well. So. Thank you. And with no public feedback in the negative, I don't see any reason to deny this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2784s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing? Well, council, I will also support the motion. I think that this is just natural for this area. There's been— this area has gone over a lot of rebirth in a way. Like, there's been a lot of multifamily put there, and I think it's the perfect spot I think it's a nice spot because it's a nice buffer from the highway and then commercial, and then you've got the multifamily and then going to lower density on the other side of the road. I think it's just natural. It's a natural progression. I think it's worked out well. It served us well. And I think this is a great way to go. Call for the question. All those in favor? Opposed? That is carried. Thank you. Okay. Okay, council, we'll move to reports and recommendations of city manager. This is the Harmony Lane and Cutlass Drive stop control report. Starts on page 23. Mr. Warkentin, did you want to go over this with any highlights or—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2837s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I could. I will keep it brief. The report, it starts on page 23 in council's agenda package. Further to council's request when this was first brought up on January 21st, I've asked my staff to analyze the intersection. So the city's engineer has conducted the review and provided the report. In general, just to highlight the existing request from the [residents] that was received by city council, requested a review of the intersection of Harmony Lane at Cutlass Drive. Cutlass Drive in Steinbach. It's currently a one-way stop, which does require westbound traffic on Cutlass Drive to stop before entering Harmony Lane. The research did include a review of the vehicle and pedestrian traffic flows at the intersection, and it did consider several other site-specific factors that may have had an impact on its function. Generally, based on the findings of the review, the signage that is present at the intersection with the one stop sign already there is appropriate for the volume of traffic that was observed and no changes were warranted. If there are concerns about traffic disobeying the posted speed limit, this should be considered an enforcement issue and dealt with by the RCMP. And therefore, the recommendation from administration is that no changes to signage at this intersection are required and nor should any be made.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=2916s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Council, I do want to just— I do want to state that at the last RCMP advisory meeting, Councillor Zwaagstra did bring this concern forward, and our staff sergeant has agreed and said that they would put some RCMP detail on this road To ensure and make sure that any speeders would be stopped and taken care of. Okay. So the control will be taken care of there. Anything that, as far as the speed goes, I do believe that our RCMP will then, will definitely enforce that and make sure that that gets taken care of. And I'm pretty happy with the rest of this information. The— even the collision numbers are very low on this road. So I, at this time, as long as the RCMP are going to be monitoring and enforcing speeds on that length of street, I'm totally okay at accepting this report. Go ahead, Councillor Swain.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3015s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I would concur. I think it's important that we I think it's important that as a council we make our decisions on the basis of evidence, and I'm impressed by the thoroughness of the report. It looked at a number of different angles, looked at— and looked at the number of pedestrians, did the traffic count, looked at safety statistics, and even consulted with Hanover School Division, the director of transportation, to see if there have been any concerns that the school division has raised. And on every single one of the objective criteria that we have, there are no changes that are warranted to the intersection. Thank you. And yes, at the RCMP advisory meeting, the staff sergeant has agreed to, to monitor this area a bit more closely just to make sure that speeds are being enforced properly. But the reason we commission reports like this is so that way we can have the evidence before us, and the evidence does indicate that the signage we have now and the way that it's set up is appropriate. So I would concur with the recommendation that we leave the intersection as it is. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3091s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "So consensus of council? Yep. Okay, thank you. Thank you, Mr. Warkentin, and your staff for taking care of this and giving us this report. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3148s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "You're welcome.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3148s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, we've got 9A, the accounts payable, back of the book. We've all had a chance to review. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We've got 9B, the financial statements entering— ending December 31st, 2024. Uh, that's also in the back of the book, added Councillor Hiebert. Uh, that's moved to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3148s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3190s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Siemens. Call for the question. All those in favor? Opposed, that is carried. Okay, we've got the Manitoba Water Service Board grant. This is referring to Park Road West forced main resolution. Council, administration needs a resolution in order to go forward to apply for the granting from the Water Stewardship Board, okay? So looking for a motion to— Councillor Siemens.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3191s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3224s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3225s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a request so we can request funding for 50% of the construction costs of City Lift Station Number 1, Lagoon Main Force Twinning Project that we talked about a number of weeks ago that we approved at City Council. Now we're asking for funding through the Manitoba Water Services Board. I believe that project was, what, $6.2 million? That number isn't here, but if I My memory serves me right, it's $6.2 million. So we would expect approximately $3 million grant is what they request for so that we can continue to update our lagoon.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3228s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3260s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3266s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. We have 9D. Business licenses for January 2025. There is a motion on page 32. Looking for a motion to approve the business licenses. Councillor Penner, seconded by Councillor Hiebert. Any comment?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3266s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. The majority of these for the resident ones are individuals operating low-impact businesses out of their homes, and for non-resident are non-resident businesses of Steinbach to operate within the City of Steinbach.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3291s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3303s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor)",
    "text": "Nothing to add.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3306s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9E, the building permits of January— for January 2025. It's on page 33. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3306s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3323s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Siemens. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3327s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As is noted here, we are at just over $1.6 million in building permits in the month of January, and that is all residential in this case, a total of 8 dwelling units that are added. January is often one of the slower months of the year, but even in one of our slower months, we always have development happening. It's good to see that there is more residential development that is happening in Steinbach. We need as many units as we can get because there's obviously a huge demand. And so even a, even a slower month for Steinbach is still a significant amount. And so it is good to see development continuing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3328s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, just one comment on here is 2 demolition permit requirements. That means there's 2 old dilapidated homes are coming out so new construction can happen there as well. So I think it's always important to recognize new construction, but also those that are being taken out to provide for new construction.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3362s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything closing? Call for the question. All those in favor? Opposed? That is carried. We got 9F, excavator licenses. Looking for a motion to approve. Councillor Hiebert, motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3381s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor)",
    "text": "Motion to approve. Yeah.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3402s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3404s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor)",
    "text": "My comment is yes, we need excavators to get projects on the go, to build houses, to take down houses. So let's give them approval.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3407s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Hear, hear.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3416s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Well said.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3418s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? No. Call for the question. All those in favor? Opposed? That is carried. 9G, this is bylaw 2261. This is referring to 189 Hanover Street. This will be first reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3419s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. The application under Bylaw 2261 seeks to rezone the subject parcel located at 189 Hanover Street from RLD, residential low density, to RMD, residential medium density. This is for the intended proposal to develop a 6-unit multifamily structure on the site. Recommendation from administration is council give this bylaw first reading so that a public hearing may be scheduled for later on this spring.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3438s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Horning. Council—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3473s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3476s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Switzer. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3477s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. The property that's today sitting empty on Hanover Street, my aunt built the original house in there in 19— my great-aunt built the original house in 1946. So, and the horse is gone today too because it's an empty lot. So if by approving first reading, we can go to public hearing and second reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3480s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3498s"
   },
   {
@@ -2007,7 +2007,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I don't have the same personal connection to the property, so all I can say is that obviously I do agree that it's important to have the public hearing process. That's why we give",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3500s"
   },
   {
@@ -2023,7 +2023,7 @@
    "voice": "F",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Any further, council?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3500s"
   },
   {
@@ -2039,7 +2039,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything in closing? That's enough. All those in favour? Opposed? That is carried. Okay, council, we have 9H on page 43. We've got the business tax and 2004 small balance account cancellations. These are cancellations due to businesses closing or moving. So we just have to make a motion to accept to write these off. Council, how would you like to proceed? Councillor Hiebert?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3512s"
   },
   {
@@ -2055,7 +2055,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3553s"
   },
   {
@@ -2071,7 +2071,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3554s"
   },
   {
@@ -2087,7 +2087,7 @@
    "voice": "H",
    "label": "Jake Hiebert (Councillor)",
    "text": "Further to your comments, Mr. Mayor, it's We're just ratifying the— what administration has brought before us that in tax cuts and repayments are businesses closing. So it's just an administration motion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3558s"
   },
   {
@@ -2103,7 +2103,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3573s"
   },
   {
@@ -2119,7 +2119,7 @@
    "voice": "H",
    "label": "Bill Hiebert (Councillor)",
    "text": "Nothing to add.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3575s"
   },
   {
@@ -2135,7 +2135,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? Opposed? That is carried. We've got 9i. This is a realty tax cancellations. Again, this is another housekeeping move that we do every year. Just looking for a motion to approve. Councillor Penner, seconded by Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3576s"
   },
   {
@@ -2151,7 +2151,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "I have no comments on the file.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3601s"
   },
   {
@@ -2167,7 +2167,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Nothing?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3604s"
   },
   {
@@ -2183,7 +2183,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3605s"
   },
   {
@@ -2199,7 +2199,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Council, are there any questions of council today? Okay, seeing none, we've got correspondence and petitions. This is 11A. This is management transportation infrastructure emergency management organization. This is referring to disaster financial assistance for damages in September 16th, 2019. 17th and 18th, 2024. This is a letter just stating that the Manitoba government, that Steinbach has not qualified for disaster financial assistance.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3606s"
   },
   {
@@ -2215,7 +2215,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Question, administration, through you. Is there any appeal to the process, number one, would be a question, and then It seems that we met all 3 criteria that they've listed here in the letter, but we were still denied. Does that mean homeowners were denied as well? Do we apply on behalf of the homeowner or just from the city's perspective?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3655s"
   },
   {
@@ -2231,7 +2231,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "No, they are separate applications. The City of Steinbach, I guess, is, I believe, twofold. Firstly, the City of Steinbach decided to apply based on the actual dollar value of damages that it incurred as a result of the storms. Secondly, for a disaster financial assistance program to become activated, or even the possibility for it to become activated within a community, City of Steinbach also needs to submit an application duly approved by a resolution so that the DFA office would even consider private property owners' applications. So the city does not actually make applications on behalf of the owners. Those are sent in directly. However, based on the overall impact of the damages that are being claimed by private property owners, generally how widespread the damages incurred were and the degree of uninsurable losses that were incurred by property owners. Those are all factors that are considered along with many others. So there are several components to the decision. However, also to my knowledge, I don't believe that there is an appeal process. But given that the city's total damages that it incurred as an organization, those were significant. It's significantly below the general threshold that DFA would activate.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3677s"
   },
   {
@@ -2247,7 +2247,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Okay. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3772s"
   },
   {
@@ -2263,7 +2263,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Okay. How would you like to proceed? Take this information? Thank you. Okay. 11B. This is the Eastman Regional Municipal Committee South Subcommittee. Minutes of August 12th, September 9th, November 18th, and January 13th. Council, would you like to proceed? I take it as information at this time. Okay. There's no other business. Looking for a motion to adjourn. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=SNU_YuS1AmM&t=3774s"
   }
  ]

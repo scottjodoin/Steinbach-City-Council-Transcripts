@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. Today it is my turn to do the opening. I like to do the last opening of the year and the first one of the year as well. So this is my favorite time of year. I get to talk about Christmas at my opening, and that is That is something I love to do. On Sunday, we went to the Tenors. So we had a beautiful performance, wonderful Christmas evening. And now, although I'm not ready physically or personally, my heart's ready for Christmas after that event. But Christmas is a very special time where we celebrate The birth of Jesus. At Christmas, Christians all over the world celebrate that Jesus came into the world, not as a powerful king, not as a warrior with a sword, as to be our Savior, but he came as a humble baby, showing God's deep love for all people. With, with his birth is more than a historic moment. It represents hope, salvation, and a new beginning for everyone. Jesus' birth shows God's love in a personal way. By coming, by coming to earth as a human, Jesus made God known to us in a way that we can understand. He experienced life. He experienced joy, pain. He experienced hunger and tiredness, showing that God is not distant to us. And we are reminded that God cares about everyone, regardless of their status, backgrounds, and struggles. Jesus came to bring hope to a broken world. And at his birth, many people were living in fear, Poverty and oppression. And the message of Christmas is the light that has come to the darkness. Jesus, Jesus's arrival in the earth fulfilled God's promises to send a savior who would bring peace and restore what was broken. This hope is still meaningful today, reminding us that no matter how difficult life may seem, God's love and promises remain strong. Thank you. Jesus came to save us from sin. Christmas marks the beginning of God's plan of salvation. Jesus was born so that he could later give his life for all of us, offering us forgiveness and reconciliation with God. His birth shows that salvation is, is a gift, not something we earn. Through Jesus, though Jesus— through Jesus, people are given opportunity for restored relationship with God and the promise of eternal life. Jesus taught us how to live through his example. Even at his birth, his humility teaches us an important lesson. He was born in a stable, not in a palace. He— this showing greatness. This showing greatness is found in his— in the love of service rather than wealth or power. Christmas reminds us to love others, to show kindness and forgive freely, and care for those in need, just as Jesus did. Christmas brings joy and peace. The angels announced good news of great joy at Jesus' birth, and that joy continues today. Jesus brings peace to our hearts by reminding us that we're never alone. Through him, we find comfort, purpose, and strength to face life's challenges. At Christmas time, we celebrate that Jesus came to show God's love, bring hope, offer salvation, teach us how to live, and give us lasting joy and peace. His birth changed our world forever, and his message continues to inspire faith, love, and hope in the hearts of people everywhere. This Christmas, I— it is in my prayers that we spend time reflecting on what Christ has done for us roughly about 2,000 years ago. Thank you. Okay, council, we have the agenda in front of us, looking for a motion to adopt. Excuse me. Councillor Hiebert, seconded by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Councillor, the minutes of December 2nd, 2025, regular council meeting. All had a chance to review. Looking for a motion to approve. Councillor Hiebert, second by Councillor Zwaagstra. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=311s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Councillor, is there any business arising from the minutes? Okay, seeing none, at this time I would like to have a motion to exclude Councillor Damian Penner and Councillor Jac Siemens. Councillor Penner. Second. Second by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Okay, we are exactly at 7:35, so we'll go directly into the public hearings. We have got the public hearing for subdivision 4451-2025-9173. This is Rosebrook Trail and Pacific Bay. At this time, I will close the council meeting, open the public hearing. Mr. Warkentin, would you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=312s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Just for council, Just for council's reference, item 6B, which is planned to be dealt with immediately after this item, is related to this subdivision application file. Okay. Just for reference purposes. The application under subdivision 4451-2025-9173 is being applied for, and the owner is also Sincere's Parkhill GP Ltd. This particular subdivision is located to the north of McKenzie Avenue and forms part of the Parkhill development on the city's southwest corner. The application seeks to subdivide the existing parcels of land on Rosebrook Trail and Pacific Bay to 41 residential lots. Subject properties are currently designated Residential policy area under the city's official community plan. The application also seeks to open a further portion of Pacific Bay as provided in the attached schedules. The public hearing for this matter is required due to the proposed opening of the new segment of public road. Community planning comments indicate that generally there are no concerns with the application. It is recommended that council approve the application subject to the execution of development agreement. Thank you. I move that council approve the agreement and council approve third reading of subsequent rezoning bylaw 2268.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=368s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant here today? Do you wish to speak? Okay. Then I will go directly into— is there anyone here with comments, questions, or objections to this file? I will ask again, is there anyone here with comments, questions, or objections to this file? I see none, but I will ask one more time, final notice. This is— is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Move approval.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=458s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=503s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=505s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a subdivision that would allow for the creation of 41 residential lots and the extension of Pacific Bay. It's obviously good to see continued growth in Steinbach, and of course we've seen a lot of growth in the Parkhill subdivision. And so all parts of Steinbach are growing, and this is, this is yet another example of it. So I think it makes sense to",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=506s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=506s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=529s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything further, council? Anything closing? Yes, council, I think this is a good subdivision. Once again, this will allow for various types of housing, a good mix of single-family, two-family dwellings, and also multifamily. So it will take care of the needs of our community. So I will also support this motion. Call for the question. All those in favour? Any opposed? That is carried. We will go directly into public hearing of the rezoning of Bylaw 2268. This is Rosebrook Trail and Pacific Bay. At this time, I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=530s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Rezoning Bylaw 2268. Thank you. Also for the same property just north of McKenzie Avenue in Steinbach, as I was referencing in the previous file, both the owner and the applicant for Bylaw 2268 is Sincere Parkhill GP Ltd. Purpose of the rezoning bylaw is to rezone proposed lots 1 to 9, 21, and 22 from RSF Yes. From RSF, residential single-family zone, to RLD, residential low-density zone, and to rezone proposed lots 23 through 41 from RSF, residential single-family zone, to RMD, residential medium-density zone. And as I mentioned, this is part of a larger development in the Parkhill neighborhood. Notices as are required under the Planning Act have been issued. The only correspondence on file is from community planning, which also generally indicates that no provincial concerns have been identified. With respect to the proposed bylaw, the subject property is designated as residential policy area under the city's official community plan. Thank you. As was mentioned in the previous file, intention to create 41 new lots, which will support the applicant's plan for development. It is recommended that city council approve both second and third readings to bylaw 2268, subject to a development agreement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=573s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant here? Do you wish to speak to this? No? Okay. I will go directly to the gallery. Is there anyone here with comments, questions, or objections to this file? Once again, is there anyone here with comments, questions, or objections to this file? I see none, but I will ask one final time. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? John Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=674s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=717s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=718s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a situation where when development is designed, you don't always know what the supply and demand is going to be for housing. So I think it's important that council is flexible in situations like this, as we traditionally have been. And developers generally know best where the needs are in terms of housing in our community. So it makes sense if they're requesting a change in zoning, that we, we approve it to accommodate that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=722s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Hiebert?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=749s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "Yes, thank you, Mr. Mayor. We definitely, in this area of the city, we have a lot of duplexes and medium-density housing, so I guess that's in demand at this point, and I think it's a good, good plan for the area. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=754s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, Council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=766s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=769s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Yes, Councillor, sorry. Yes, Mr. Warkentin.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=770s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yeah, pardon me, Mr. Mayor. I just realized that there actually is one item of correspondence to this file. It is found on page 69 and 70 of your agenda package.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=776s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=787s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "And my apologies, I missed that at the time of introduction.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=788s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay. I do have a question just because I was just going through that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=801s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=804s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor, and I'll ask the question to our city manager and if possible might go to the applicant. The letter states that there's a— it's a conditional objection and basically raising concerns about sidewalks and walkways and asking either for confirmation that sidewalks Sidewalks are already included or planned, or that, that they will be added, that, that the plan will be changed to add them. My understanding is that it's pretty standard practice in the city that we always have sidewalks that are planned, but they don't go in right away. It's just a matter because of the fact that it goes in after most of the development has happened. I'm just wondering if you can comment on that, Mr. Warkentin, and if you want to defer to the applicant. It's sort of interesting how this is worded because literally if you read it, it says confirmation that sidewalks/walkways are already included on all streets listed above. And of course, that's not a reasonable request. We don't have a neighbourhood which has a sidewalk in every single street. But could I get you to comment on that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=805s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, if you could just give me one moment. Are you able to get the— I can provide a response from memory. Perhaps in the meantime, Mr. Thiessen can bring up the city's aerial mapping application. But my understanding is Parkland Drive, which is a direct link from McKenzie Avenue to the new school that was built in that neighborhood and opened this year, that sidewalk was installed this year. Okay. Administration has recommended future sidewalks to be built in successive years. I'm not entirely certain as to whether it's 2026 or 2027. However, as a matter of practice, sidewalks are generally not required by developers at time of development of subdivision, and that is a targeted and specific strategy of the city. However, that then is something that the City of Steinbach proceeds to install at a later date in and on streets that are appropriate for the needs and the uses that are occurring in the neighbourhood.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=867s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay, just a quick follow-up to Mr. Warkentin. Yeah, so thank you, Mr. Mayor. So does this letter, based on that information, does this letter count as an objection or not? Is we don't have— the letter writer is not here, at least I don't believe the letter writer is here, and because it's a rezoning, you know, we do track objections. The way this is worded, does that mean that this would count as an objection or not? I've never really seen a letter quite like this that gives us multiple choice options on whether it counts as an objection or not.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=942s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Based on how I am reading the document, Item 3 that the writer indicates that and asks about specific streets as to whether there will be sidewalks installed on those specific streets. The clear answer to that is no.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=977s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=995s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "And based on the wording of the letter, then if all of those streets do not have sidewalks installed upon development, then the writer is intending to object. So I would— I would suggest that this is intended to be an objection.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=995s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. Good. Then we were at closing the— we just closed the council or the public hearing, open the council meeting. So council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1009s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I think we have a motion on the floor already.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1026s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I made the motion. You made the motion already. Yeah.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1028s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "That's right. And then it was okay. Now, sorry, anything further of council? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1031s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I will vote in favor as well. I respect the right to object, but based on all the information here, I think it makes sense to proceed. We don't put a sidewalk in every single street. We put them where it makes sense to do so.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1036s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1049s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Yeah, in terms of the comments about the sidewalks, this, it's very common in Steinbach. This is not really like a collector street neighborhood, as it were. It's very common for bays and crescents, et cetera, not to have sidewalks in them. So to make that commitment doesn't seem consistent with how we generally operate. So I'm comfortable with the motion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1053s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Bree. Well, council, given the objection and the type it is, I do believe that our city staff work very hard at our active transportation. We do have an active transportation plan, and there will be sidewalks in the future. Will they be on every street? Possibly not. If the street doesn't require it, there won't be a sidewalk there. There'll be just sidewalks on streets that are collecting a lot of traffic and that type of street. So I do believe that When we have a mechanism in which when a development gets to a certain build-out, that's when it's triggered and we build sidewalks there. So sidewalks will be built. They won't be built on every street, but I think our staff will make sure that they're built on appropriate streets and that'll be taken care of. As far as the rest, the rezoning makes sense. Thank you. The developers should know best what is selling in their developments and what needs to be built. So I think we can, by— with good faith and lots of confidence, we can definitely go forward with this subdivision. Call for the question. All those in favor? Opposed? That is carried. Okay, we will move on to 6C. This is conditional use CU-2025-05. This is referring to 206 and 214 First Street. Mr.— well, I will close the council meeting, open the public hearing. Yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1078s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor, before we proceed to the next item, just point of Clarification, recommendation was also to give Bylaw 2268 third reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1185s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Oh, third reading, okay. Okay, we'll go directly into third reading for the rezoning. Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1195s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1205s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Zwaagstra. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1207s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "No further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1210s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All in favor? Opposed? That is carried. Okay, now we will go to conditional use CU-2025-05. I will close the pub— the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1211s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. File for conditional use CU-2025-05 for properties at 190 through 206 First Street. Okay. The property is owned by Neustader Holdings Inc. and [name withheld], and the applications of the conditional use is Waldo Neustader. Purpose of the application is to permit multifamily residential development within the C-1 commercial neighborhood zone. Notices that, as are required under the Planning Act, have been issued. There is no written correspondence on file. With respect to the application, Zoning Bylaw 2100 requires conditional use approval of any multi-unit residential complex in the C-1 commercial neighborhood zone. There are several precedents on file of city council approval to permit such development in this type of zoning. It does not appear that there would be any negative impacts resulting from the approval of this application. Therefore, it's recommended council approve the application subject to a development agreement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1232s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant here today? Do you wish to speak?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1298s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.) [medium]",
    "text": "Sure.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1298s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. We'll just have you state your name and your address.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1298s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "G",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "My name is Waldo Neusteder, 32 Brandt Street, Steinbach. I'm not sure if I should mention just for legality, but the one lot that You mentioned [name withheld], that belongs to Newstater Holdings. That transaction was completed after the application. I don't know if that matters to you or not, but just so you know.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1313s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "All the properties are held by—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1332s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.) [medium]",
    "text": "That's correct, yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1332s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "G",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "So I'm applying for a conditional use to allow for a multifamily residential development with a C-1 commercial neighbourhood zone and 2 variances. So if it's okay with you, I'm going to speak to all 3 of the applications now and then We can deal with it however, in whatever format you wish to, if that's okay with you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1337s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "G",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Sure.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1337s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "G",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "Okay, and then 2 variants is to remove the commercial component required on the main floor of a multifamily building within the C-1 zone and to allow for a height of 5 storeys for the multifamily, for one of the multifamily buildings. Based on the location of the land, it made more sense in keeping with the neighbourhood feeling to remove the commercial component of the buildings And hence, create an excellent buffer between the commercial district to the east and the residential community to the west. The one proposed building will be 3-storey and the other proposed building is to be a 5-storey structure. The 5-storey building will have a main floor heated parking, indoor parking, and 4 storeys of residential above the parking garage. I needed the additional 2 storeys to make this building viable and that's why the The request is there for the 5-storey. We're planning to build both buildings with a neighbourhood-friendly curb appeal, taking advantage of the ambience of towering pine trees on the lot and in the neighbourhood, and to generate an appealing building and setting. The apartments will be designed in a style which will be considered friendly to adult condo lifestyle without the cost of ownership or condo fees. The city code is met with enough parking stalls on the site. And I met with Lacey Gaudet, the city planner, and Aaron Rock, the city engineer, to assist in tweaking the footprint of the buildings and discussion of site works required, discussed land drainage systems as well as being assured that the city has ample sewage capacity for this project. There will be nice areas of green space provided as per the site plan. And I've also maintained the sight lines for the neighbours located at 61 Brandt Street 10 feet. 10 feet, as this, the lot, one of the lots protrudes. I'm not sure if we can see it there. One more. This is the— I'm not sure I brought my pointer, but I'm not sure if my— I can kind of find my way down here. Okay, William first. Yeah, so the lot, these folks that live in this home here, so they'd have a clear sight line through here. We left the building over there and are not doing any building on this part, so that'll remain green space as well for their enjoyment. So we tried to make sure that we could accommodate the vicinity of the sightline for that neighbour. I personally met with 3 neighbours in the vicinity of this project who are the homeowners and occupants. Unfortunately, I didn't have time to meet with everybody, but I thought I'd meet with kind of a triangular— triangle of neighbours. Thank you. in the vicinity, and I did so. I met with the neighbours at 61 Brandt Street and 222 First Street, which is right— and 195 First Street. 195 being right across from the 5-storey and 222 on the same side of the street as our development, just a bit further back. There's the nail salon duplex and then this particular home being 222 First Street. And they all— all 3 of them, I met with them and showed them the plan and they They all signed a letter which reads as such. It says, to whom it may concern, we, the undersigned neighbors of the property on First Street in Steinbach, confirm that we have been informed of the plans by Nystedter Holdings to build 2 apartment buildings on this site. We understand the nature of the project and want to state that we do not oppose or dispute the construction in any way. We are providing this letter voluntarily to help support any approvals or processes related to the development. So they were quite satisfied with the plans and went through them and got back to me several days later after discussion in their home, I guess, and signed the plans. So I have copies for you here, which I'll give to you. They're signed by the homeowners, and that's all I have unless there's further questions.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1337s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Are there any questions for the developer? Okay, thank you very much. Okay, is there, uh, is there anyone here with comments, questions, or objections to this file? Okay, take the podium. Please state your name and your address.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1591s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "F",
    "label": "Resident 1",
    "text": "Uh, my name is [Resident 1]. Uh, I am at 185 first, so I suppose I'm not sure if I'm the one who has the sightline preserved. Anyway, I did have several questions with the variance with regards to residential. I mean. Residential and commercial. So is it being then ongoing? Would it be, or from the time of construction, would it be treated as a residential property? I'm just curious because I've been there for 20 years and that was, it's always been commercial, commercial zone, and we pay higher property tax. Compared to residential, the other question that I had was if there had been any traffic study, just as far as potential traffic flow because the William Avenue. Is really a glorified single lane in poor condition. First is not that section of first is not in great condition, so I'm just wondering if there was a traffic study ever done. I would be curious too. I looked for public record with regards to up. Upgrades to the sewer and water. And I was curious about the size of the development. How many— Mr. Nystedt, how many units are you adding?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1617s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "G",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "19 and 12 is 31.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1740s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "F",
    "label": "Resident 1",
    "text": "Okay. So currently there are 18 units if we want to go Whether it's houses or there's a fourplex, there are 18 in the block. And looking with regards to water and sewer, I mean, like I say, I've been there for a while. Water's been upgraded on occasion where mains have— there's been breakdown. In the last 20 years, to the best of my knowledge, sewer has never been Upgraded, so in terms of project, so 31 units. You're we're at in one project exponentially doubling the sewage usage in that section, and I'm just curious about capacity. And whether those of us who are there— because again, like I say, to the best of my knowledge, the infrastructure that's there is dating back to the '60s. And I'm curious whether it would actually be up to the task if we are more than doubling this, the number of flushes. Yeah, those would be my questions and concerns.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1743s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. I will ask the— our city manager to comment on— I know that we do have a project to upgrade and renew First Street. What is the status of that project?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1840s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "There is— I agree, Mr. Mayor. There is a plan to upgrade the underground services along First Street. However, at this point, there is not a specific date. However, it is a project that is on the city's long-term capital plan to be completed within the next 5 years.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1854s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. Okay, so there will be an upgrade, like, and that will, that will be a modernization of all the services",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1878s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "Correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1878s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "On First Street, plus I think that would be curb and gutter and new asphalt as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1878s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, the renewal project that is scheduled for that section of First Street would be similar to other projects that have already occurred on different streets in the city's downtown, for example, Kroeker Avenue, Lumber Avenue, and the— Towards the further end of Main Street, but the city does have a regular program. It's a matter of scheduling when there is time and funding available.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1892s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. So Kroeker was a total redo of all the infrastructure in the road allowance. The commercial zoning is, can you speak to the zoning in that area?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1919s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "I'm sorry, the question?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1930s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "The question was that the, that area is all, Zoned commercial.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1932s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Correct. Generally, both the central business district and the transitional district that generally runs parallel to the city's Main Street. My recollection of the significant change in zoning occurred in 2010. Prior to that, most areas other than Main Street were generally zoned residential of some type. However, with that significant review and revision of the city zoning bylaw at that time, a larger portion of the city's downtown extending into both First Street and to Elmdale Avenue on the other side of Main Street, many areas were converted to a commercial zoning, whether it was C-1 or C-2.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1938s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. And then basically the What the variance will do is eliminate the commercial component that's required for development there, or new development.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=1989s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Well, yeah, and because the public hearing that was actually introduced actually was specific to the conditional use part.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2002s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "The conditional use, yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2010s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "The conditional use application that is currently being heard under this file Permits residential development to occur in a C-1 neighborhood commercial zone.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2011s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Right, that's what the QRC is for, okay. Right. And the traffic study, I guess our city staff, like, I wouldn't necessarily see a lot of extra traffic movements for this unit. Do you, how do you feel about the, Obviously, our city staff have not required a traffic study.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2023s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "No, and looking at the report from the city engineer, there was no traffic impact study required for this application, nor is there generally for applications of this type in other areas of the city. Where traffic impact studies typically are required and Okay. Specified within the city's planning policy is with respect to impacts on PTH 12 or Brandt Street and also on PTH 52 or Main Street. That is generally a matter that Manitoba Transportation and Infrastructure focuses on, but for city streets and depending on the classification and the location, And in terms of city streets, there's no indication from any of the material from administration that there's any concern with the impacts of traffic related to this development and that the city's infrastructure system that exists presently is adequate to service the proposed use.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2047s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. So there we go. Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2113s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "F",
    "label": "Resident 1",
    "text": "I suppose, I guess, just kind of subsequent to that, I would be I'm curious if the city then would look at— because that section of First Street, that block and William, are actually high truck traffic routes. We get Canada Post and— I mean, Canada Post uses it routinely 7 days a week. Mm-hmm. As do the— does the furniture store. So if it would be a consideration to then look at perhaps making William a one-way off Main, from Main to First, to facilitate that truck traffic, because that truck traffic does all— is all funneled down First Street.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2116s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Well, I would have to back our staff on that. They feel that the services that are there are adequate. So I think we will go with that. We're not in— I don't know, we— I haven't seen a lot of benefits in one-ways. In our city at this point. So I don't know if I would recommend a— I don't think I would recommend a one-way. Understand where you're coming from. I do understand and see your point. But if our city staff have looked at it and they say that the service that is there is adequate, then I think that's the information we will use to make our decision on this one. Okay, thank you. Is there anyone else? Oh, yes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2176s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Perhaps, Mr. Mayor, if I may, just a point of clarification. First Street, that is the street that is the subject of this conversation, is designated as a collector street under the city's official community plan. And collector streets and roads provide, and this is the definition in the city's OCP, Collector streets provide connections between local streets and the arterial street system. Private access to collector streets should be restricted where possible. 2-lane collector streets are generally designed to carry traffic volumes of 1,000 to 4,000 vehicles per day, which is a significant volume related to— Yes. General activity within the city.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2229s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you for that clarification. Is there anyone else here with questions, comments, or objections? Okay, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2277s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "H",
    "label": "Resident 2",
    "text": "I'm [Resident 2]. I'm at 226 First Street. Just curious as to if there would be any parking impacts by adding condos here. A lot of these condos Yeah, I just have a question. I noticed that the plans have 2 vehicles per condo these days, and the city's bylaw is only 1.5 per unit. And then my second question is stormwater coming off the site. First Street does have a tendency to flood in our recent heavy storms there. So what would be the plan for stormwater in these developments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2286s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, the parking, as was mentioned earlier, the developer is exceeding the required amount of parking. So our staff is happy with the amount of parking that is being allowed on this lot. And stormwater, any kind of water or that kind of stuff, well, that will all be dealt with, any drainage, any landscaping, Will be dealt with with a development agreement between the developer and our staff. So technically right now, we can't comment to drainage because that will be dealt with through a development agreement that will be drawn up between developer and our engineer and our city planner, okay? So these will— thank you for bringing them up, but these concerns will be dealt with. Thank you. And they have been dealt with because the developer is exceeding the amount of parking stalls they need. Okay. Is there anyone else here with comments, questions, or objections to this file? I see none left, but I will ask one more time. Is there anyone else with comments, questions, or objections to this file? Seeing none, Seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Hiebert.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2327s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2419s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor— go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2420s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. What we have here is an application to subject to, uh, for multifamily development within a C-1 commercial neighborhood zone. The developer is proposing 4 properties to be amalgamated into one title, and he's proposing to build 2 buildings, one having 19 units and the other one having 12 units. As already has been stated, the developer is exceeding the parking requirements. As Steinbach continues to grow, the demand for multi- family housing remains strong, and the integrating higher-density residential development into existing neighbourhoods promotes housing choice and provides residents with access to established services within the mature areas of our community. Newstater Holdings have done numerous developments within Steinbach And they are a quality developer and the building that they're proposing here, the 2 buildings, are aesthetically pleasing. I'd like to credit the developer for canvassing the neighborhood and reporting to council on what he determined the neighbors were willing to accept. Subject to any new evidence being presented before— at the public hearing, the owner will have to enter into a development agreement. So I think this is a good application, a strong application, and therefore I made the motion to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2422s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2533s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I think it makes sense for us to approve this conditional use. The reality is, is that we do want to see more housing in Steinbach. We do want to see more development. And I think that Mr. Neusteder has presented a reasonable plan that seeks to accommodate the neighbourhood to the greatest degree possible, as evidenced by the consultations that took place. And so in this case here, it is zoned C-1, neighbourhood commercial neighbourhood zone. And it is conditionally permitted to have a residential development of this nature. And conditional means that it depends on the situation, and that's why we're having this public hearing. And when I look at the particular property in question, when you consider its relatively central location and the way in which that it's designed to accommodate the neighbourhood and the aesthetically pleasing nature of what is being proposed as well, I think when you put this all together that it makes sense to allow this. We've certainly allowed other cases of residential within a C-1 district, and this does look like a good application, and so we should therefore approve this conditional use.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2536s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2605s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2609s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Council, I do feel too this is a good plan, and of course, it's conditional use, so it's done condition by condition. They're individual. Looking at some of the concerns that were raised, I'm glad they were raised so now we could talk about the sewer and upgrade— sewer and water upgrade that's going to be happening in the near future sometime. The— we could talk about the traffic, and now we know that First Street was designed to hold 1,000 to 4,000 vehicles per day. That is a significant amount of traffic. That's a lot of traffic. And we were able to talk about parking, stormwater, and the development agreement. I think the developer has dotted all their i's and crossed all their t's, and I think for— this is definitely— it falls into the direction that we need to go as a city. We've been working and talking for the whole time I've ever been on council from 2010 about densifying our downtown, and this is something that happens And this is something that will facilitate that. It'll help densify that part of First Street. It, I think multifamily's a great buffer zone from commercial to like even smaller single-family dwellings. And this is a perfect space for this. So yes, I will support. Call for the question. All those in favor? Opposed? That is carried. Thank you. Council will move on to 6D. This is the variance for these same properties. This is V-2025-35. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2610s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. As you mentioned, the— this is the variance application for the file that you mentioned, also affecting 190 through 193 Through 206 First Street. As mentioned by Mr. Neustader in the previous file, all of the properties are owned by Neustader Holdings Inc., with the application for the variance being Mr. Waldo Neustader. Purpose of the variance is twofold. Firstly, to remove the commercial component required on the main floor of a multifamily building located within the C-1 commercial neighborhood zone, and secondly, to permit a maximum height of 5 stories Whereas the maximum height permitted for multifamily in the C-1 zone is 35 feet. As mentioned, notices pursuant to the Planning Act have been issued. There is no written correspondence on file. Recommendation from administration is that city council approve the application under this variance application subject to a development agreement. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2718s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. The applicant is here. The applicant already has spoken to this variance. Was there anything else you'd want to add to what you had said about the variance at this point? Unless there's questions. Okay, unless there's questions. Okay, fine. Were there any questions of council? No? Okay. Then are there anyone here with comments, questions, or objections to the variance For the 206 to 214 for First Street. There's 2 variances, one to allow 5 stories and the other to remove the commercial component so that this building can be fully residential. Okay. Is there anyone else with comments, questions, or objections to this file? Okay. Go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2780s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "H",
    "label": "Resident 2",
    "text": "Sorry, [Resident 2] again on 226 First Street. Just quick on the sight lines from the 5-storey. I'm just wondering, we saw one picture facing Brandt. Was there a 360 or anything done to see how the 5-storey would view other people's lots or anything like that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2838s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Do you want me to pull that picture up?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2864s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "G",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "We took this picture from a Zoom Boom exactly at the height of the highest balcony, and I took this picture here because 61 Brandt was the most affected if we looked To the other side, there was just no effect at all really because of the tall pine trees and stuff like that. So, but this was the front yard of this property was the most affected of the sightline. From there, the sightline kind of came down and I believe you own the duplex?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2876s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "H",
    "label": "Resident 2",
    "text": "No, on the other side.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2903s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "G",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "The other side? The other way towards Lumber then? I mean towards Friesen, I mean?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2905s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "B",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.) [medium]",
    "text": "Yeah, like it kind of where the nail salon is, and then the duplex and then [name withheld] house and a couple more. Yeah, but it's— there was no— I don't know, it just didn't reflect any— I should have taken that picture too, but I just neglected to do so.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2911s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "By then, the sightlines would not affect—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2926s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "B",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "No, it's like the whole block over, yeah. But we thought this was the most important one to kind of meet their satisfaction.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2928s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Just a question for you, Mr. Neusteder. So drawing by— I kind of bring this up through what I saw in your pictures. I look and I see the idea is to keep all those mature trees that are there to the back and to the side.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2937s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "B",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "That's correct. I went with a— I wonder if I missed a page in my presentation, but I'm always nervous when I get up here, so maybe I did.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2955s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "G",
    "label": "Waldo Neustaedter (Applicant (developer), Neustaedter Holdings Inc.)",
    "text": "But we actually hire— like, I hired a A surveyor, and I walked the whole property with the surveyor, and so we identified all the trees that we could possibly keep. And so we're keeping a good— most of the— not all, but most of the tall pine trees, we wanna save them. And so that's why we positioned the buildings the way we did, so we can try and save as many of the tall pine trees as we can, because it does 2 things. I mean, we wanna save big trees. I'm a tree guy. And the other thing is it enhances the look of the building. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2966s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you very much. Mr. [Resident 2], I do want to just address something with you. I know I can understand your concerns, but we lived on Lumber Avenue and we had multifamily all around us with the The active living units that were up. And because of the trees that were in our backyard and their yard and that the city made them stay there during development, it was amazing. We really— the odd time you could faintly hear somebody, like in the evening in the backyard in summertime, but you couldn't see them. Okay. Like, so when the trees let out and because there's so many evergreens that the developer is saving, I can assure you that multifamily and single-family dwellings can actually live harmoniously together on the same street because of the mature trees, right? So I understand your concern, but I actually, doing to what the due diligence of the developer and that they're keeping as many I like that they're keeping as many trees as possible and they're keeping all the side trees and the back trees. I— you know what, it, it kind of reminds me of our old place on Lumber, and I think, um, that was a— that was a backyard we loved being in, and we never felt like we were being watched or we could— anyone could see us. And, and, you know, our sight lines were like— we could hardly see those, those big buildings in summertime. In wintertime you could, but you You're not in your backyard in winter. So, so—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=2997s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "H",
    "label": "Resident 2",
    "text": "I was just curious to see if there were pictures taken from the other direction that could kind of show that as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3100s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Correct. And yes, and then as, as far as the developer saw, he, he looked at where the property was most effective and took pictures from there. So, okay, thank you. Okay, I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? All right, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3106s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3136s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Zwaagstra. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3137s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. Regarding the first variance, when it comes to removing the commercial requirement on the main floor, I am comfortable with that. Uh, council has done that many times Okay. We have done that before, removed the commercial component in different multifamily units, and I haven't seen that that's been a disadvantage. When we put together the official community plan and put that into place, again, it's about supply and demand, and we're thinking maybe, you know, there's going to be more demand for commercial units than there has been. And so we also want to be flexible when it comes to that. I think the plan makes sense. It's still in a residential area, although on the highway and collector streets. I'm still comfortable with removing that commercial component. In terms of the height, I think the case has been made that the height is not going to be an issue for the neighbors. And honestly, if we can get density higher, I mean, that's what, that's what we want, particularly with the minimal impact, again, it's going to have on the neighbors. So. Thank you. I'm comfortable with moving forward with this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3140s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3206s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I agree with the motion. When we look at the request on removing the commercial component, again, we look at it on a case-by-case basis. But if there isn't market demand in a situation and instead they want to have residential there, we've approved this type of thing many times. So it doesn't really have a huge impact on the building to have residential on the main floor. Thank you. And I agree with Councillor Penner in regards to the height issue, that in this situation, the evidence is quite clear that going to 5 storeys does not have a detrimental impact on the area. And in this case, it's actually a benefit because it means that you can have more units on the same property. And when you have more housing units on the same property, that obviously helps with the housing shortage that we continue to have in our city. So it makes sense to approve the variance on both counts.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3209s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3258s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I'd like to make one quick comment on the 5-story building. I appreciate that the 3-story building is closer to Highway 12 and that the 5-story building is further in. I think that's, uh, that's a really wise decision by the developer. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3261s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3281s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I just really approve of this project altogether. I think it fits the area very well, and both the variance and the rezoning I think are well done. One of the key things is the green space that's behind it and towards the highway as well, but all around I think it's a good plan for the city. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3285s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3305s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3308s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, well, council, I do think that this is, again, well thought out by the developer. I think this is going to be a project that's going to make improvements to First Street. I think that it is going to be aesthetically pleasing. This will also bring density to our downtown. Which is something we've been striving for. There's 2 ways a city can grow. It's up and out. And in the downtown, it has to be up because we can't grow out in the downtown. We've got limited space. So I think this is a project that ticks all those boxes and it improves density and it just, it's a good use of land. Thank you. So call for the question. All in favor? Opposed? That is carried. Okay, council, we will move to 6E. This is variance 202536. This is referring to 49 Market Boulevard. At this time, I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3309s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3309s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mayor, and for members of council. The file has already been introduced. The owner of the property is 10208944 Manitoba Inc., with the application being submitted by [name withheld]. Purpose of the variance application is to permit a north side yard setback of 19.25 inches for a detached accessory building, whereas the minimum setback requirement for a detached accessory building is 2 feet for residential use in the CMX commercial mixed-use zone. Notices as are required under the Planning Act have been issued. There is one item of written correspondence on file. With respect to the application itself, application indicates that a building error was made at the time of construction leading to this This is an application for variance. It is recommended that council approve the application in this file subject to the owner's submission and approval of an amended as-built lot grading plan.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3386s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is there— is the developer here today, the applicant? Okay, no. Then is there anyone here with comments, questions, or objections to this file? I will ask again, is there anyone here with comments, questions, or objections to this file? I will ask one final time, is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Move approval. Second.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3450s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3450s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Mayor. I'll make a motion to approve the variance subject to the condition that's outlined here.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3493s"
   },
   {
@@ -2007,7 +2007,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3499s"
   },
   {
@@ -2023,7 +2023,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. A bit of an unusual situation to have neither the applicant nor anyone in the area objecting. As noted in the application, there was a construction error that was made at the time I understand that this is a very difficult time of development, and obviously it's important that people, the developers, be careful when they're doing the construction so we don't have an after-the-fact variance. However, in this situation, it's obvious that this was not an intentional ignoring of the bylaw, and I also trust the expertise of our city staff who in multiple reports here from the city planner, city engineer, and the city manager recommending approving of the of the variance because there is no evidence that it's going to have a detrimental impact on any of these surrounding properties. And so going from 24 inches to 19.25 inches, this is the type of variance that we do approve on a fairly regular basis. And again, because there are no objections that have been filed with the city and because our staff are recommending approval, I will make the motion to approve. So moved. I will— I do want to put it on the record that it is still better for the applicant to be here because if there had been objections and concerns and questions, it becomes very difficult to approve without the applicant here. So don't take the fact that I'm making a motion to approve this to say that it's totally fine with the applicant not being here. The applicant really should be here.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3503s"
   },
   {
@@ -2039,7 +2039,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3590s"
   },
   {
@@ -2055,7 +2055,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "No further comment. I think Councillor Zwaagstra said it all.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3592s"
   },
   {
@@ -2071,7 +2071,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, anything further, council? Anything in closing? I have nothing further as well. Call for the question. All those in favor? Opposed? That is carried. Council, we'll move to 9, administration, 9A, accounts payable, back of the book. We've all had a chance to review, looking for a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3598s"
   },
   {
@@ -2087,7 +2087,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "So moved.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3598s"
   },
   {
@@ -2103,7 +2103,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Jake Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3598s"
   },
   {
@@ -2119,7 +2119,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3630s"
   },
   {
@@ -2135,7 +2135,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Okay, we've got 9B. This is minor subdivisions starting on page 114. These are just minor subdivisions that have been Mr. Warkentin, approved by our staff?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3631s"
   },
   {
@@ -2151,7 +2151,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3653s"
   },
   {
@@ -2167,7 +2167,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Correct, and now we're just ratifying them?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3653s"
   },
   {
@@ -2183,7 +2183,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "That's right.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3655s"
   },
   {
@@ -2199,7 +2199,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so there's a list here on page 114 with a motion on the bottom. Motion to approve, Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3656s"
   },
   {
@@ -2215,7 +2215,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3663s"
   },
   {
@@ -2231,7 +2231,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3663s"
   },
   {
@@ -2247,7 +2247,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Yeah, essentially these are subdivisions that don't meet the threshold for needing to come to council for approval.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3669s"
   },
   {
@@ -2263,7 +2263,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3677s"
   },
   {
@@ -2279,7 +2279,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Nothing further, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3677s"
   },
   {
@@ -2295,7 +2295,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, just an act of housekeeping. Call for the question. All those in favor? Opposed? That is carried. Okay, we've got minor variances. That is 9C on page 15. That is also, again, these are variances that were minor that didn't come to council, didn't need to. Staff can take care of them themselves. We're just ratifying them all at once. Motion to approve, Councillor Hiebert. Second by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3679s"
   },
   {
@@ -2311,7 +2311,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "Again, just housekeeping.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3711s"
   },
   {
@@ -2327,7 +2327,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3712s"
   },
   {
@@ -2343,7 +2343,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Nothing further, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3716s"
   },
   {
@@ -2359,7 +2359,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Got 9D. This is bylaw 2270. This is referring to Loewen Boulevard and PTH 12. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3717s"
   },
   {
@@ -2375,7 +2375,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Bylaw 2270 does propose the issue of debenture for the Loewen Boulevard and PTH 12 project. Project is now substantially complete, and based on the overall costs of the project, a $3 million borrowing has been arranged with the Royal Bank of Canada for this project. It will be for a term of 5 years with a rate of 3.83% per year, which was the best rate provided. Recommendation from administration is that council give this bylaw first and second reading so that it may be forwarded to the municipal board for approval.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3736s"
   },
   {
@@ -2391,7 +2391,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you, Mr. Ordning. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3775s"
   },
   {
@@ -2407,7 +2407,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3780s"
   },
   {
@@ -2423,7 +2423,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3780s"
   },
   {
@@ -2439,7 +2439,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. We're obviously very pleased at the fact that Loewen Boulevard and PTH 12 are now open. This is obviously an intersection that we were looking forward to being finished. This was done in partnership with the province, and we obviously have to contribute our portion, and that's what this debt issue goes towards.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3783s"
   },
   {
@@ -2455,7 +2455,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3806s"
   },
   {
@@ -2471,7 +2471,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Nothing further, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3807s"
   },
   {
@@ -2487,7 +2487,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3807s"
   },
   {
@@ -2503,7 +2503,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3809s"
   },
   {
@@ -2519,7 +2519,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any closing? Call for the question. All those in favor? Opposed? That is carried. We've got 9E. This is the bylaw 2271. This is debt issue referring to the Southeast Event Centre. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3809s"
   },
   {
@@ -2535,7 +2535,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Uh, thank you, Mr. Mayor. Before we proceed I would also recommend council give Bylaw 2270 second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3829s"
   },
   {
@@ -2551,7 +2551,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second. Okay. We'll go directly into second reading then for 2270. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3836s"
   },
   {
@@ -2567,7 +2567,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Well, I do appreciate our conservative budgeting because we expected $3.5 million at 7% interest, so $3 million at 3.8% interest. It seems like a good deal.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3848s"
   },
   {
@@ -2583,7 +2583,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "All further comment?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3860s"
   },
   {
@@ -2599,7 +2599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Question, all those in favour of secondary? Opposed? That is carried. Okay. This is 9E, Bylaw 2271. This is debt issue for the Southeast Event Centre.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3864s"
   },
   {
@@ -2615,7 +2615,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This proposed bylaw Okay. The city has been arranged to issue a $2.5 million borrowing, also arranged with the Royal Bank of Canada being the low quote, also for a 5-year term and an interest rate of 3.83%. This represents the second venture that has been This is the final debt issue that has been issued for the event centre project. It is expected that this will be the final debt issue. However, pending the full completion of site works that is expected in summer of 2026, the authorization for further borrowing will remain valid up until a future date, as council may review. A recommendation for this debenture, however, from administration is that council give this bylaw first and second reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3880s"
   },
   {
@@ -2631,7 +2631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3943s"
   },
   {
@@ -2647,7 +2647,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3950s"
   },
   {
@@ -2663,7 +2663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Susan Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3951s"
   },
   {
@@ -2679,7 +2679,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is obviously in regards to our event centre. We have borrowed $7.5 million so far, but we had also authorized up to an additional $5 million of borrowing. And now this is putting a portion of that into effect by borrowing $2.5 million and having the actual arrangement in place. And so the terms that we're getting, 3.83% per year for a 5-year term of the debt, and again, noting that this is sticking with our 5-year borrowing policy, this will be paid off within 5 years. So it obviously— we want to make sure that every— that, that everything gets finished, and so that is why we have this, this borrowing in place.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3955s"
   },
   {
@@ -2695,7 +2695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything further for council? Anything in closing? Yes, I support this. Also, I just want to again comment something like Councillor Susan Penner said. I really want to— our fiscal responsibility, we had actually approved $12.5 million maximum borrowing, and we are now with this extra borrowing of $2.5 million, we're only at $10 million borrowing for the event center. So that again shows how we are being very fiscally responsible with our— Thank you. with building a large building like that, $76 million, and only having $10 million. Call for the question. All those in favor? Opposed? That is carried. We'll go directly into second reading. Motion to approve, Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=3998s"
   },
   {
@@ -2711,7 +2711,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4060s"
   },
   {
@@ -2727,7 +2727,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9F. This is Manitoba Water Services Board, the grant for Park Road, West Forest Main. This is the resolution. There's a resolution on page 121. Be it resolved the City of Steinbach requests funding from the Manitoba Water Services Board for 50% of the construction costs for the city's Millwork Drive sewer main project. Looking for a motion to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4061s"
   },
   {
@@ -2743,7 +2743,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "So moved.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4061s"
   },
   {
@@ -2759,7 +2759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Susan Penner, seconded by Councillor Jake Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4061s"
   },
   {
@@ -2775,7 +2775,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. As the city grows, we are spending considerable money on infrastructure, particularly water projects in the next 5 to 10 years. So any grant funding we can get is very appreciated and needed. Good.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4097s"
   },
   {
@@ -2791,7 +2791,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "No further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4113s"
   },
   {
@@ -2807,7 +2807,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Anything further, council? Any closing? Call for the question. All those in favor? Opposed? That is carried. Okay, we've got 9G. This is the 2026 fee schedule. Just a question for Mr. Wardney. This is all the fees that— the user fees that we would charge at the City of Steinbach?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4114s"
   },
   {
@@ -2823,7 +2823,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "That is correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4140s"
   },
   {
@@ -2839,7 +2839,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "So council, these are the fees. Are you needing a motion to approve these fees, or these are fees set by our staff?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4141s"
   },
   {
@@ -2855,7 +2855,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "These are a combination through various policies that the city has in place and/or bylaws that are in place. However, just for purposes of record keeping, recommendation is for council to accept the report as presented.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4151s"
   },
   {
@@ -2871,7 +2871,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Do we need to accept by motion or just—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4168s"
   },
   {
@@ -2887,7 +2887,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "That is recommended, yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4173s"
   },
   {
@@ -2903,7 +2903,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Do we need a motion to accept? Councillor Bill Hiebert, seconded by Councillor Jake Hiebert. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4174s"
   },
   {
@@ -2919,7 +2919,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. We do need fees for all types of different services that we offer, so I think we would make— it makes sense to approve. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4179s"
   },
   {
@@ -2935,7 +2935,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4188s"
   },
   {
@@ -2951,7 +2951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. I call for the question. All those in favor? Opposed? That is carried. Council, we've got 9H. This is a list of the 2023 6 council meetings, so every, uh, every first and third Tuesday of the month. And we've got 9I, that is the building permits. We approve— we need to have a motion. We approve these too? Oh wow. Okay, motion to approve all the council meetings. Councillor Hiebert, seconded by Councillor, um, Michael Zwaagstra. Go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4190s"
   },
   {
@@ -2967,7 +2967,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. As you indicated, uh, we set our meetings ahead of schedule, and this is just the schedule for the upcoming year. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4233s"
   },
   {
@@ -2983,7 +2983,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. It's our regular meeting schedule, and, uh, we'll certainly be at the meetings until at least October 20th. I don't know about the November-December ones for all of us. We'll have We'll have to see on those.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4242s"
   },
   {
@@ -2999,7 +2999,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All in favor? Opposed? That is carried. Okay, 9I. We are looking at the building permits for the, for the month of November. Looks like it was a good month, just under $8 million, a number of new family dwellings. We are— we have officially beat the record for last year, which was 344. We're at 356 units. Excellent year. Council, looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4252s"
   },
   {
@@ -3015,7 +3015,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Thank you, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4296s"
   },
   {
@@ -3031,7 +3031,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Mayor. As you indicated, yes, it's been a wonderful year and a great month again. We've got 13 single 12 single-family and 2-family units built this month. Multi-family units were another 12, so for a total of 25 units. And as you indicated, we passed our record for previous years. We got $112 million, just, just slightly over, of building permits issued this year. So yeah, fantastic.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4297s"
   },
   {
@@ -3047,7 +3047,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I would just like to comment. It's incredible how Steinbach continues to grow and thrive year after year, and it shows no signs of slowing down. So this is It's pretty impressive, and I'm really pleased that I can be a part of council at this time when things are going so well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4324s"
   },
   {
@@ -3063,7 +3063,7 @@
    "voice": "G",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4341s"
   },
   {
@@ -3079,7 +3079,7 @@
    "voice": "G",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4341s"
   },
   {
@@ -3095,7 +3095,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Okay, so, you know, council, I do believe that we— and I think Councillor Susan Penner and I were talking about this early or late last week. I think that being peace on council is helping confidence that builders have in our community. And I do believe that they're investing in our community, building in our community, people are coming to the community because we are proactively working and making land available for development. And I think that is— that's key. And as we saw last year, we did About $104— I think it was $104.2 or $104.9, maybe almost $5 million. We're at $112 million already. We— last year was a record year for housing starts, was a great year for building permits, and we're surpassing that again with no look of slowing down. And when I talk to mayors from other communities, They're— I wouldn't say they're envious, but they do notice what we're doing. They do notice how we're growing, and they would like that for their own community as well. And so I just think there's a lot of blessing in what we do and how we lead and how we are— how we prepare for our future, and the wastewater project is one of those. Thank you. And, you know, the twinning is one of those. The project on Loewen Boulevard and number 12, that's another looking forward to traffic and handling lots more traffic and growth. So I think there's more of this to come. And council, I just want to say great job. Thank you. Call for the question. All in favor? Opposed? That is carried. We've come to council question period. Are there any questions of council? Okay, seeing none, we've got correspondence petitions. Ronald McDonald House Manitoba request for support. Councillor Lowe, would you like to proceed, take his information at this time? Yes, please. Thank you. There's no other business. Looking for a motion to adjourn. Councillor Hiebert, second by Councillor Penner. Call for the question. All those in favor? Opposed? That is carried. Next council meeting is Tuesday, January 6th, 2021.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=tfWM0QFa9YQ&t=4344s"
   }
  ]

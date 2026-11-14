@@ -54,7 +54,7 @@
    "role": "resident",
    "title": "Property owner (variance applicant)",
    "confidence": "high",
-   "evidence": "Self-identifies as the owner of 28 Spruce Crescent at the V-2023-13 public hearing after the chair asks the applicant to come to the podium (00:11:12); minutes 9.2: the owner was present and clarified the garage. Pitch 174 Hz (female).",
+   "evidence": "Self-identifies as the owner of 28 Spruce Crescent at the V-2023-13 public hearing after the chair asks the applicant to come to the podium (00:11:12); minutes 9.2: the owner was present and clarified the garage. pitch checked (female).",
    "notes": "'No. Clancy's here to answer any questions.' 00:11:41 left with Resident 1 (the chair replies about the builder, 'Mr. Unger')."
   },
   {
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Penn.' 00:11:45 -> G 'Motion to approve' V-2023-13 (minutes mover D. Penner R23-166); G 00:23:24 as seconder of By-law 2223 third reading after 'Seconded by Councillor Penner' (minutes seconder D. Penner R23-169), cites 'Councilor Zwaagstra'; 'Councillor Penner, second by Councillor Siemens. Go ahead, Councillor Penner.' 00:25:50 -> G 00:26:26 (minutes mover D. Penner, seconder J. Siemens R23-172). Pitch 114-117 Hz (male, not Susan Penner).",
+   "evidence": "'Councillor Penn.' 00:11:45 -> G 'Motion to approve' V-2023-13 (minutes mover D. Penner R23-166); G 00:23:24 as seconder of By-law 2223 third reading after 'Seconded by Councillor Penner' (minutes seconder D. Penner R23-169), cites 'Councilor Zwaagstra'; 'Councillor Penner, second by Councillor Siemens. Go ahead, Councillor Penner.' 00:25:50 -> G 00:26:26 (minutes mover D. Penner, seconder J. Siemens R23-172). pitch checked (male, not Susan Penner).",
    "notes": "00:22:23 'And recommendation from administration...' is the City Manager (overridden)."
   },
   {
@@ -81,7 +81,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Go ahead, Councillor Penner.' 00:23:44 for the building-permit motion; minutes mover S. Penner R23-170 (D. Penner is letter G); pitch 170 Hz (female); Bill Hiebert then cites 'Councillor Penner has said'.",
+   "evidence": "'Go ahead, Councillor Penner.' 00:23:44 for the building-permit motion; minutes mover S. Penner R23-170 (D. Penner is letter G); pitch checked (female); Bill Hiebert then cites 'Councillor Penner has said'.",
    "notes": "Only one turn."
   }
  ],
@@ -93,7 +93,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "Chair names Councillor Hiebert (mover, J. Hiebert per minutes R23-165) and seconder Hiebert; the mover answers 'Nothing further to add' and the seconder (E, Bill Hiebert) follows. Pitch 127 Hz, unlike Siemens (95 Hz)."
+   "reason": "Chair names Councillor Hiebert (mover, J. Hiebert per minutes R23-165) and seconder Hiebert; the mover answers 'Nothing further to add' and the seconder (E, Bill Hiebert) follows. pitch checked, unlike Siemens ( (pitch checked))."
   },
   {
    "time": "00:17:29",
@@ -122,7 +122,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "reason": "Continuation of the City Manager's By-law 2223 report (old transcript has 00:21:08-00:22:28 as one staff turn; YouTube captions continuous); pitch 111 Hz same as C's 116."
+   "reason": "Continuation of the City Manager's By-law 2223 report (old transcript has 00:21:08-00:22:28 as one staff turn; YouTube captions continuous); pitch checked same as C's 116."
   },
   {
    "time": "00:21:46",

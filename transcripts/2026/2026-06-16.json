@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I'd like to give the opening to Councillor Jac Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=13s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. A very short time back, together with council, I attended the FCM, or Federation of Canadian Municipalities, Conference in Edmonton, Alberta. In the 20 years that I've been on council, I've attended many of these FCM conferences across Canada, and I've enjoyed them. All the conferences are similar, as the issues talked about are national issues. Many are the same that we deal with here on council. This year, like most years, it was about long-term funding for infrastructure. How do we— how do we as communities have better access to federal funding for major infrastructure? For projects like our lagoon that's coming in the near future and other things that— how do we access funding? Another topic was the unhoused or homelessness with— and mental health issues that many of the communities across Canada are dealing with. Plus, how do we deal with it at many different levels of government, including here in Steinbach? What do we do? How do we as a country combat chronic homelessness and addiction as we work at community well-being? Thank you. Other topics included economic development, overall housing strategies at the national level, tackling AI and local government with digital misinformation, and always continued discussions on climate change. Keynote speakers from our federal parties were Dominic LeBlanc from the Liberal caucus, Scott Atkinson from the Conservative Party, and NDP leader Avvy Lewis, plus the always entertaining Elizabeth Greene Or Elizabeth May from the Green Party. I have found the sessions and keynotes interesting, but where I gain the most information is the trade shows and the table discussions over meals and coffee when we sit with other municipal councillors. Sitting with first-time Mayor Sean Crossman of Moncton, New Brunswick, who was elected in May this year. Moncton is a diverse city that struggles with many of the same issues that we do: homelessness, infrastructure, and housing. Thank you. What I found interesting was that this year New Brunswick had redrawn all of the municipal boundaries across their province and had over 70% turnover at the municipal council level during the elections. 37 of 77 municipalities voted in new mayors. Speaking with a number of Alberta councillors, the November 2025 elections had a 64% turnover, a large change from past elections. Thank you. The most interesting discussion came though, was with Vince Teddy, the newly elected mayor of Tuktoyaktuk, Northwest Territories. He joined Councillor Bill Hiebert and myself for a very interesting comparison between Steinbach and Tuktoyaktuk. Tuktoyaktuk is found— I just like saying that name, I think. It's found at the end of the Dempster Highway, 3,400 kilometres north of Edmonton. And we found out that he really likes seagull eggs over chicken eggs. Which are about double the size, but his wife doesn't like them. How they continue mostly to live off land and sea, but also the struggles they have as a community, especially with addictions in their community of 1,400 people. We also found out he was a man of deep Christian faith, and we heard his story of how he discovered the true God. For me, FCM has always been about connecting with people from all over Canada and finding our common ground but also what separates us as communities, learning about their successes and failures as we learn from both. With municipal elections coming up this October, it will be interesting to see if Manitoba has a large turnover rate like in New Brunswick or Alberta. What I most appreciate about the conference is the ongoing comparisons I do to what I hear of other communities and find that I do live in one of the best communities in Canada. Thank you, Mr. Mayor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=21s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Siemens. At this time, uh, we have the agenda in front of us. Looking for a motion to adopt the agenda. Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=252s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=265s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got the minutes of June 2nd, 2026, regular council meeting. Looking for a motion to approve. Move. Move. Second. Second by Councillor Penner. Any comments? No comment. Call for the question. All those in favor? Opposed? That is carried. We have, uh, was there any business arising from the minutes, council? Okay, seeing none, uh, at this time I'd like to ask for a motion to excuse Councillor Susan Penner. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Any opposed? That is carried. Okay, we are just at 7:35, so we will go right into the public hearings. We've got 6A. This is public reserve closing bylaw 2278. This is Parkhill Phase 2C. Council, today we will be doing second and third reading At this time, I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=266s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Bylaw 2278 is a bylaw proposing the closure of an existing public reserve identified as Plan 69059 within the city of Steinbach. The purpose of the closure is for the public reserve to be realigned in association with pending subdivision for that same area. No portion of the public reserve will be lost as part of this closure. Notices as are required under the Planning Act have been issued. There is no written correspondence on the file. Recommendation from administration is that council give this bylaw both second and third reading, subject to any information that may be presented from the public.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=337s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant here? Does not appear so. Is there anyone here with comments, questions, or objections to this file? I'll ask again. Is there anyone here with comments, questions, or objections to this file? I will ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay. At this time, I will close the public hearing, open the council meeting. Council, how would you like to proceed? John Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=379s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=415s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=416s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. As indicated, this issue is in front of council for second and third reading. This issue has been discussed already at first reading. Here the developer is asking for the closure of the public reserve in the area of Pacific Bay and Rosebrook Trail and then to be reopened again with different dimensions. But basically what we have is we've got a public reserve that's on one lot. It's supposed to be moved over and will keep the same dimensions. This is required administrative process more than anything else, permitting the proper registration at the land titles office. This will then facilitate the next phase, 2C, of development of residential lots, including the public reserve. This area was left undeveloped during phase 2B. To date, no registered objections have been received. Again, this is more of an administration issue process, and I'm in favor of proceeding with this application.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=419s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=476s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. These plans come years, sometimes decades, decades ahead of the actual building, but the building happens in real time, and this is a real-time adjustment to the development for the next the next phase, and this is going to help the developers to maximize what they feel is going to be the best impact for our housing market in Steinbach.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=479s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=502s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=507s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Council will go directly into third reading, looking for a motion to approve. Councillor Hiebert, seconded by Councillor Hiebert, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=508s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. As has been stated, this is more or less paperwork that needs to be done. I think most everything has been said that needs to be said, and so definitely I would approve. Thank",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=522s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Bill Hiebert (Councillor) [medium]",
    "text": "You.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=535s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=535s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=535s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=536s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Nothing in closing.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=538s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Council will go to 6B. This is road. Closing Bylaw 2279. This is also Parkhill Phase C2. Again, we'll be doing second and third reading today. This time I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=539s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Bylaw 2279 does relate to a proposed road closing in The Parkhill Phase 2C development of both Pacific Bay and Rosebrook Trail. Purpose of the bylaw is also, or sorry, as I mentioned, is to close the roads. However, these roads will be immediately reopened as part of a pending subdivision for the same area. There will be no change generally overall to the roadway and no impact to the surrounding properties. Notices as are required under the Municipal Act have been issued. There is no written correspondence on file. Recommendation is for council to give this bylaw both second and third readings.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=566s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. The— I believe the applicant is not here as well for this one, so I will go directly to the gallery. Is there anyone here with comments, questions, or objections to this bylaw? I will ask again, is there anyone here with comments, questions, or objections to this file? I will ask the final time. Is there anyone here with comments, questions, or objections to this file? Seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=610s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Michael Zwaagstra) [low]",
    "text": "Move approval.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=610s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Zwaagstra.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=610s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I make the motion to approve second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=658s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconder by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=660s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is obviously connected with the other file and the previous phase that opened Pacific Bay and extended Rosebrook Trail. It wasn't developed— those lots weren't developed at the time. Revisions have been made, and because of those revisions and a portion of the previously opened road allowance has being used as part of a residential lot. So the— in order for the development to be able to proceed, it needs to be closed and then reopened with the new configuration as part of the next phase of development. This is, as has been noted, this is not unusual. This is the kind of change that happens as developers progress with building new neighbourhoods. Sometimes new designs are discovered that work a little bit better, and this would be one of those cases.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=665s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything further? Anything further, council? Anything in closing? Call for the question. All those in favor of second reading? Opposed? That is carried. Council will go directly into third reading. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=702s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=723s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=724s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All those in favor of third reading? That carried. Thank you. Okay, it's a little bit before 7:30, 7:45. We do have the assessment branch coming to do a presentation at 7:45. So we'll move into 9A, accounts payable, back of the book, looking for a motion to approve. We all had a chance to review already. Councillor Hiebert, second by? Councillor Hiebert, any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=725s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "No comments, thank",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=756s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You. Call for the question, all those in favor? Any opposed? That is carried. We've got 9B, 2025 tax transfers. It's on page 25. Mr. Warkentin, is there any highlights you want to review with us?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=757s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "The schedule is similar to what administration presents for council's consideration and ratification every year, unless there are some specific Any specific request or questions of council, I'd be happy to answer them. Otherwise, there are the related notes that indicate the different funds that funds are being transferred to during the fiscal year for 2025, and also the transfers from the specific reserve funds to any of the applicable operating funds to fund projects through the year. the year.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=772s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so Council, you have all the, uh, the, um, reserve transfers in front of you, uh, so we're looking for a motion to approve. Councillor Zwaagstra. Second.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=811s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=824s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, second by Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=824s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Uh, thank you, Mr. Mayor. Every year, uh, when the financial year is done, there are some transfers that take place, uh, in our, in our reserve funds, and so This is no different than what we've done in previous years. And so in certain cases, you know, there's additional money that comes in one area and gets transferred into the other. The specific items are listed here quite clearly. And so we do want to try to keep our reserves at as healthy a level as possible, and we do appreciate the work our staff does to make sure that, that everything is balanced and that when it makes sense for one— for one amount to be transferred into another reserve, then it makes sense for us to do so.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=827s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=865s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any further, council? Anything in closing? Nope. Yes, council, this is another one of those housekeeping things. We're just ratifying what's happened and looking like there's, you know, a good amount of reserve transfers that have happened and it's looking for a healthy financial position Okay. Call for the question. All those in favour? Opposed? That is carried. Okay. We are at 7:45. So— and I see that Roger is here. So we will call Roger up to the assessment branch to give the delegation. Good evening, Roger.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=867s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Good evening. Just a couple seconds here.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=912s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "E",
    "label": "Unidentified speaker",
    "text": "Thank you. Thank you. Thank you. Thank you. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=928s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=941s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Thanks. I see you have a copy ready, so— great. Um, thank you for the introduction. Uh, I think most of you are aware my name is Roger Storczyk. I'm an assessment officer with the Uh, Province of Manitoba. Uh, today is the day that, uh, assessment notices go out for the 2027 tax year in the City of Steinbach, so we try to schedule our tax impact meetings, uh, or presentations on those days. Um, I know you're all familiar with the reassessment process, so we'll get right into it, uh, starting on page 1. Uh, again, this report provides council with an overview of the impact of reassessment 2027 in your municipality. For 2027, property assessments will reflect an April 1st, 2025 reference date, which is to establish the estimated market value as of that date. In 2025 and 2026, those values are based on an April 1st, 2023 estimated market value. Okay. This report will provide details on how taxable assessments have changed in your municipality and across the province, as well as outline any potential shifts among property classes. How 2027 will impact municipal and school taxes on the basis that the City of Steinbach and local school division and provincial education support levy budgets Do not change. Impacts in this report reflect 2027 modeling. Some assessment changes could still occur in your municipality that affects actual assessments. So these could include any additions or deletions from your assessment roll for 2027 and does not factor in any new construction that will be assessed this summer at this time. Objectives of reassessing property. The objectives of the province-wide reassessments are equity, to ensure that properties across the province are regularly assessed to ensure assessments keep pace with changing market conditions. Fairness, property taxes are paid according to the market value of your property. Keeping assessments current and up to date is one way to ensure everyone pays their fair share, so to speak. And greater ratepayer understanding. So updating assessments makes it easier for property owners to understand and evaluate their own assessment. Thank you. The key goal of assessment is to establish an accurate estimated market value of a property at a reference point in time. We are simply analyzing the activities of ratepayers in your city through various appraisal methods and put— putting it into a model for your taxation base. Onto page 2, which is probably the most important page of the report. The reassessment reflects how property values have changed since the last reassessment in 2025. They can be attributed to the changes in supply and demand for real estate, new construction, or improvements to existing properties. The province's taxable assessment has increased $12.1 billion, approximately 11%. Your municipality's taxable assessment has increased by $131 million, or 9%. Changes in your municipal's taxable assessment. So the following property classes are all classes that do, that are in the City of Steinbach. And this is based basically on growth. So there are some changes. Single-family residential portioning saw an increase about 12.2%. Apartments or multi-residential properties. Thank you. Uh, overall assessment increased by 12.4%. Condominium, uh, residential condominiums within the city of Steinbach saw an increase, uh, of portion assessment by 8.8%. The total residential increase in assessment was 12%. Farm property, uh, increased by 11.6%. Uh, commercial industrial properties, uh, saw an increase of 5%. And that's again all the commercial properties within the City of Steinbach. Institutional property saw, and that'll include essentially anything that would have some sort of school tax exemption or exemption, saw actually a 4.6% decrease. So that assessment went from, the portion assessment went from just under $74 million to just over $70 million. We do believe, Or we don't believe, we do know that some of the elderly person housing properties would've seen some changes on their licensing from housing, from actual housing. So those are typically school tax exempt. One property in particular does not have their license for the 2027 tax year. So that property actually becomes multi-residential taxable. So between the multi-res or the apartment, Property class, those 2 are, in this case, a portion of that assessment went from that class to the other class. Pipeline property saw an increase of 5% and anything, and the designated recreational property, which is the golf course in the City of Steinbach, saw a 1.7% increase. The total growth in the City of Steinbach for the 2027 tax year at this point in time is 9%. Okay. Thank you. Impact of reassessment, uh, sorry, onto page 3. Impact of reassessment for the 2027 tax year. Assessment increases and decreases resulting from reassessment do not necessarily mean tax increases or decreases. Property assessment simply provides the basis for distributing your taxation base amongst your property owners. Assessment is the basis of taxation. However, council school divisions and the province— provincial education department establish their budgets and their mill rates. In terms of the next few pages that we will go through, does provide you— I won't get into— actually, no, I will read the 3 bulleted points at the bottom. Okay. The impact of reassessment, uh, 2027 on property taxes, general municipal levies, special levies, and education support levies in your municipality is shown on the following pages. Impacts do not take into account other taxes levied on a part of your municipality. Property tax impacts have been calculated using the following methodology, and I'll just read this word for word because it is a little bit, uh, thorough and detailed. Thank you. For the general municipal levy, uh, taxes in your municipality, a baseline for the municipal tax was determined by first applying the 2025 tax levels against the 2026 assessment to estimate the 2026 general municipal levy. For estimated 2027 general municipal taxes, the general mill rates were recalculated to raise the same amount of tax on the 2027 assessment. So essentially what we're doing is we're trying to show you how the The assessments have an impact on your taxes really on the basis of no increase in budget, which we do know doesn't always happen in municipalities. The school division levy— special levy was based on the 2025 levy amount and reflects your municipality's new share of the school division's assessment. And the education support levy levied by the province was based on the 2025 levy and reflects how the assessment of property subject to the levy in your municipality has has changed relative to the assessment of all other municipalities in Manitoba. Residential and farm properties do not pay the educate— provincial education support levy. Moving on to page 4, the table below illustrates how the property taxes of each class of property in your municipality are impacted by the reassessment 2027. Uh, essentially, the chart on this page shows If all things were to stay the same, you would see a bit of a tax shift towards your residential properties as well as a little bit of your farm properties. So again, those were the property classes that did see the most growth. And again, if your budget were to stay the same, you could expect a bit of a shift towards residential property. The graph at the bottom of the page 4 does show Potentially the number of properties that could see tax increases, which is just under 5,000 properties, which would be very similar to what you, your residential properties in the City of Steinbach. So just to clarify on page 4, that was the municipal and school taxes. Moving on to page 5, which you would have certainly a little bit more control over as a, As a city council is strictly just the municipal levy. So again, the factors are fairly similar to page 4. Again, see probably a slight tax shift towards single family and apartments or multi-residential property. That said, in its simplest form, properties with assessment increases less than 9% would typically see— Thank you. A municipal tax decrease. Properties that would see an increase of over 9% would typically see an increase in their taxes. Again, based on how things change from year to year, this is based on an older budget essentially. I'll briefly touch on page 6. However, I don't really see a need to in this case. There are some options to moderate tax impacts. This would be something that you would speak with Troy or some of your municipal service officers based on the percentage increases that your property classes are seeing. I know out west there's 40 and 50% increases in different property classes. So those municipalities may entertain the thought, but you could phase in taxes, phase in increases. Phase in tax increases and decreases. There are some Municipal Act tax tools. Establish a tax credit program or vary property class portion percentages. Again, I don't see— I don't know. I've been with the province for almost 20 years and I haven't seen a municipality in our district entertain any of those options. So provincial property tax reductions. So page 7 does outline some of the tax credits or tax rebates that the province does have in place. Everyone's probably most familiar with the homeowner's affordability tax credit. There's a renter's affordability tax credit, senior school tax rebates, as well as farmland school tax rebates as well. Moving on to page 8. In terms of how we inform the public about reassessment 2027, as I mentioned, municipal, or sorry, assessment notices have hit the mail stream as of today. So you may receive some calls in the office later this week. Our office will probably receive a phone call or 2 as well, but that's all standard. So we do have some additional information available. The municipal, sorry, the Manitoba Assessment provincial website is a wonderful tool. A lot of information on that website available to the public. Thank you. My Property Manitoba is a program that property owners can subscribe to to have their information a little bit more readily available for their own specific property. We do have a toll-free customer service line available that does get in touch with our assessors. We do have some assessment fact sheets available. I don't know if the city has any in-house, but we do have them in our office as well as online. Again, as I mentioned, assessment notices have been mailed out as of today. We do hold some open houses in different municipalities. I do not believe we have one here in the City of Steinbach. I did do one last week and I had one person at 1 o'clock and then I did not see another person for the rest of the day. So I think in Steinbach it helps that we're right in Steinbach on Main Street. So it's— we're fairly accessible here. Municipal administrators also play a vital role in answering ratepayers' Questions. I can only imagine we don't receive half the calls, that they probably stop here in the office as well. Of note, October 21st is the border revision. I do know the city does, or in the past few years, the city has appointed a border revision panel. So that may not be as important to you. And that is everything for today.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=941s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, great. I do have a question. Yeah, if the tax assessments were mailed today, I will be definitely getting some contacts. So I'm just wondering, did you bring a couple of extra business cards? And if you did, could you leave them with Amanda?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1734s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "I can bring them over tomorrow morning.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1754s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1756s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "I realize I brought my other book bag.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1756s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You could just drop a few off with Amanda at the city office. That would be great because I know I will get contacted, and that would be— that's all I want. I mean, I understand everything you've explained very clearly. Thank you. I mean, you've tried to be very, very quick, but also you were very thorough. So thank you very much.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1758s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Yeah, and I do know most of you are familiar with the reassessment process as well, and I know you have a— looks like you have a fairly lengthy schedule ahead of you today as well. So yeah, again, I think just for reference sake, the pro— the provincial average for— or provincial increase was about 10.7%. So again, a little bit behind in terms of overall, but like stable is probably one of the words that comes to mind when we see what the market is doing in Steinbach. So",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1783s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah. No, that's very good. We've— and that's what we, we We try to get a very nice development, a stable development market.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1814s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Yeah, and for reference sake as well, the province saw, in terms of residential between condos and apartments or multi-residential and single family, that increase was 9.8%. So a little bit more residential growth here in the city compared to—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1822s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And we've had that for a couple years now too. This is the second year where residential's really starting to take off. We had, I think 3 years ago, Huge commercial year, and now obviously now that the businesses are here, they need workers and houses, so that's what's happening. It's just, that happens nonstop. It just does this all the time, right? Yep. One strong, and then the residential strong after that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1836s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1862s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And that's just, that's how Steinbach is. Over time, it becomes a very balanced And it's",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1863s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Diverse too, right? There's so many different businesses and yeah.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1872s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any questions of council for Rod? Yes, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1878s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. It's a simple question. I noticed that condo co-ops is one of the only categories with residential that's actually gone down a little bit. Is there a reason for that? Is that Steinbach only or is it other areas as well?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1885s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Well, the growth was 9%. So the assessment base is larger on our condos. So the provincial, like all our residential condos in the province saw an 8.7% increase. So 8.8% was fairly standard. Are you referring—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1899s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "I'm asking what is the question of assessment? It looked like the assessment was down just a little bit. Likely, or not? Did I misunderstand that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1918s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "On page 2?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1925s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Page 5.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1927s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Okay, so page 5 will be, that's probably gonna be based a little bit more on the, so that's more of like the specific tax dollars. So I'm thinking if that, the change was in terms of, I guess, how many condo, condominium projects are in the city of Steinbach versus the growth of all the single-family residential. If that percentage was a little bit higher on page 2, I think you could expect page— that number in page 5 to be a little bit higher. So.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1929s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Okay, well, it answers my question. I did— page 2 explains it better. You're right.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1969s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Yeah, and it's interesting because we obviously, In our pro— like, in our office, I mean, we are strictly assessment. We are the basis of taxation for sure. But, um, so I do always kind of find it a little interesting that we come and do this presentation with a little bit of a heavy weight on the tax side of things for sure. So. All good.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1974s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you very much. Um, there any further questions? No? Um, yeah, no, thank you very much. It was a good presentation. And gives us a good snapshot. And yeah, if you can sometime in the next couple days drop some—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=1994s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "I will do that tomorrow morning.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2009s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "'Cause that way, what I can't answer, I can always just refer to you that way.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2011s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Yeah, absolutely.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2016s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you so much.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2018s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "H",
    "label": "Roger Storoschuk (Assessor, Manitoba Municipal Relations - Assessment Services)",
    "text": "Have a good evening.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2020s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You bet, take care. Okay, council, we've got 9C. Adeptus Advisory Group Chartered Professional Accountants Inc. This is the 2025 audited financial report. Council, we just went through a meeting with them and they kind of summarized our audit report. Mr. Warkentin, is there anything you would like to introduce or highlight?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2020s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "If you'd like, I can raise a few of the highlights that the city's auditor mentioned in the earlier meeting.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2056s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2066s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "But if council is satisfied with the information as presented, I can leave it as is as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2067s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Council, are you satisfied? Okay, I guess we're just going to go directly into a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2072s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. As our own auditor said, uh, financial statements can be rather boring. It's his words, not mine, so I won't get into too many of the details. Uh, but the, uh, 20— this is the, this is the, the, uh, close— essentially closing of the books of the 2025 operation of the City of Steinbach, uh, ended with a total revenue of $68.3 million for the year. That includes property taxes, revenue from coming from water and sewer, substantial amount from grants as well. And then with expenses of $40.8 million, that doesn't mean that the city is raking in money. There's reserves that are being funded out of that as well. That's going to be adding to future products— or projects, pardon me. I do want to note though and give, give my thanks to administration $40.9 million was the budget expenses and $40.8 was the actual. So $100,000 under budget. I'm glad that those numbers are so close. It shows that our administration really knows what, what it takes to operate the city. So big thanks to all of the department heads on that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2087s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2153s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. One thing the Charter of Accounts mentioned that our administration is doing a really good job with the They were very forthright and easy to work with, and it's good to see a balanced budget, as Councillor Damian Penner has mentioned. So yeah, I would approve of it. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2156s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2173s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2179s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Well, council, I was, I was very pleased to, to get the report and see I appreciate the opportunity to see the presentation, and one thing that stood out for me is he had told us that we're— we've got good quality controls, checks in place, and he says we've got a lot of good policy. He did comment on our 5-year borrowing and how that is key to getting lots of projects done and that we're always retiring debt in And we can renew debt. And, you know, when he talks about being completely out of debt with the event center by 2030, that's a huge project, the biggest we've ever done, and it's paid off, you know, in this decade. So it's very, very exciting to see that and that he sees us going in the right direction financially. Thank you. Call for the question. All those in favor? Opposed? That is carried. We've got 9D. This is the lending bylaw 2272. This is referring to the Southeast Events Group. We will do second and third reading today. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2181s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This bylaw 2272 was presented for This is a report that was brought to council's consideration for first reading last meeting, which was approved. The gist of the proposed loan bylaw and related agreements is no different than what was referred to last week. However, there is new information that has been presented in addition to the bylaw. As I mentioned, there is— Copies of the loan agreement, the security agreement, and also the promissory note that relate to the proposed debt instrument. The amount that the city is permitted to lend in accordance with the Municipal Act is within the limits that are prescribed, and recommendation from administration is that council give this bylaw both second and third reading. and also approve the city to enter into the loan and general security agreements related to it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2264s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2326s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make the motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2338s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any seconder? Councillor Hiebert. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2339s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Well, thank you, Mr. Mayor. As we know, the Southeast Event Centre is, uh, has been a fantastic addition to our city and to our region. One of the things we know is that when you build a new facility, especially one of this magnitude, that it often takes time to get everything established and, and moving forward. And so because of the fact that there were some challenges with the Opening timeline. It did not open as early as we, we or they would have liked, and of course that meant that there were some funds that had to be spent that, that otherwise wouldn't have had to been because it was not open that full first year. And so they've asked the city to provide a short-term loan of $400,000 to supplement operating cash flows. Important to note, the— this is a loan, it is not a grant, and so it will be repaid over a 4-year period for annual repayment amounts of $100,000. Thank you. Due September 30th of each year beginning next year. It's important to remember that this is a city facility. We are— it is being run by the Southeast Events Group, but it is a city-owned facility, and it is obviously in our best interest to ensure that, that our events center be on the firmest and strongest financial footing possible. And so we, we know that the first few years in particular are some of the most challenging years with any new facility. And, uh, but we certainly want, uh, we want this facility to succeed, and if providing a short-term loan helps to ensure that there are, there's sufficient operating funds available so that way they are able to, uh, to proceed with their operations in the most effective way possible, I think it makes sense for us to do this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2347s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2448s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. People are probably wondering, how can a city make a loan to another organization? And there's strict policy in place that we have a bylaw authorizing a loan to be set out. This agreement we have stipulates the amount of money to be loaned, the name of the organization, which has to be a nonprofit organization, the minimum rate of interest, and the source of sources of money to be loaned. And the agreement that is written out meets all these stipulations, so it's— Okay. It's appropriate to loan the money to this organization.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2450s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Nope. Council, call for the question. All those in favor? That is carried. Council will go right into third reading. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2488s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "I have no further comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2511s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further, Dad.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2512s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, the question, all in favor? Opposed? That is carried. Okay, we've got 9E. We've got the building permits. It's been a great month. Looking for a motion to approve. David. Okay, Councillor Penner. Second by Councillor Hiebert, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2514s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Thank",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2514s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "You very much, Mr. Mayor. It's another, another steady month. 15 single and 2-family dwelling units, 15 multifamily dwelling units, uh, for a total of 30 added, 30 new families this month. Uh, there's a good balance between residential of $6.5 million and commercial of $8.5 million for a total of $15 million in permits issued in May 2026. And there's a lot of development going up on the west side of the city at this point in time for the residential, but a good spread in terms of our industrial in different places of the city. So it's good to see the city continuing to grow. Anything further?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2537s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2577s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Damian Penner) [low]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2577s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, no, it's just been a great, great year so far, great month. $15 million, so brings us up to $42 million. Looking for another, another very good year. Call for the question. All those in favor? Opposed? That is carried. Okay, council, council question period.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2577s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Business licenses.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2605s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Oh, missed that. F, business licenses. Okay, looking for moves to approve. Councillor Hiebert, second by— Councillor Hiebert, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2606s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "F",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. It's good to see that people still want to do business in Steinbach, and it seems like every month there's new people applying for business licenses, and I'm glad to approve them.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2620s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Hear, hear.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2628s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2629s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "All right, anything further of council? Call for the question. All those in favor? Opposed? That is carried. Okay, council question period. I'm sort of excited to get to this one 'cause I do have a question. Oh, I've got a comment first, then I've got a question. Council, before the meeting, [name withheld] handed me a copy of a story that's going to hit the Free Press tomorrow, and the title is, Canoe vows financial aid on the way for rural Manitobans, but Winnipeggers may not be covered after that. I'll just read a couple of highlights of the— Premier Wab Kinew announced Tuesday the province is changing the rules to give disaster financial assistance to victims of last week's flash flood in rural Manitoba, while Winnipeg residents may be out of luck. Kinew encouraged applicants to ignore the standard terms on the government's website And forms that state insurable damages are not eligible for provincial aid. If you have someone who's lived in a community for 8 or 9 decades and they've never seen flooding of this kind, it's reasonable to expect folks wouldn't put up flood protection or wouldn't have purchased overland insurance, he told reporters in an event in Selkirk. Because of that reality of changing climate, bringing forward impacts we've never seen in certain parts of the province before. I guess he's talking about events that he hasn't seen in certain parts of the province. That's why we're looking to ensure the DFA program is going to be there for people so that no one in rural Manitoba gets left behind, and we're not going to let the rules as posted on the website stand in the way of doing the right thing. Now, council, as we know, we've had 2 big rain events, one in 2024 and one in 2025. Both we were denied for DFA. I would like to ask council if we would be okay with our administration to formulate a letter to ask for clarification on this, maybe possibly even reopening our claims because he does talk about rural Manitoba here and we were— these were rain events that we're not used to as well. It's not normal to get over 6 inches of rain in a matter of a couple of hours or an hour and a half even in our community. So council, how do you feel about that, or are there any comments? Yes, go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2630s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Well, thank you, Mr. Mayor. I agree with your comments. Do we want a motion, or do we—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2806s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I think we should do it by motion, yes.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2810s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make a motion, and then if there's a seconder, then I'll comment. The motion is simply that the City of Steinbach write a letter to the province urging that they reconsider their denial of our disaster relief",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2812s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. And go— you want to second that?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2827s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "I second.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2831s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Councillor Penner seconds that. The only thing is, would you mind if in the motion we would actually put words about encouraging applicants to ignore the terms?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2831s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Sure.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2846s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Of the government's website?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2847s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yep.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2848s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "You know, like, if we can just actually put that kind of wordage into that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2849s"
   },
   {
@@ -1879,7 +1879,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yep. So, well, the motion can be as read, and the motion can actually simply begin, in light of the fact that the Premier had encouraged applicants in other municipalities to ignore the standard terms on the government's website, informs that state-insurable damages are not eligible for provincial aid.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2853s"
   },
   {
@@ -1895,7 +1895,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, I would, 'cause I would like that phrase to be into the motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2871s"
   },
   {
@@ -1911,7 +1911,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'm fine with that being incorporated at the beginning of the motion, and then—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2875s"
   },
   {
@@ -1927,7 +1927,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, then do we have a seconder for that?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2879s"
   },
   {
@@ -1943,7 +1943,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2882s"
   },
   {
@@ -1959,7 +1959,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, okay, so good. Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2883s"
   },
   {
@@ -1975,7 +1975,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. We applied for disaster financial assistance in good faith, trusting that the province would take our application seriously and give it due consideration. When the province denied our application, 2 years in a row denied our application, significant rainfall, significant damage both times. On the second time, when we asked for clarification as to why we were denied, the Premier went on radio, and I listened to that interview. And during that interview, the Premier gave reasons such as, well, you know, this was insurable and residents should just get better insurance, find better insurance companies. So even though many of our residents either couldn't get insurance or were underinsured because there's a limited amount of insurance that they could get. The Premier's response was to rely on technicalities, to say that, well, the reason that, you know, that we didn't approve this is because of this technical reason over here. And now we have similar disasters in other municipalities, and they should get help. Absolutely, the province should be helping. Similar rainfall amounts, similar impact, and all of a sudden the Premier is changing the rules, saying that— You know, that it doesn't matter what it says on our website. He literally said that. The exact quote was that, don't, you know, we're not gonna let the rules as posted on the website stand in the way of doing the right thing. Well, if we're not gonna stand, if we're not gonna let the rules stand in the way of doing the right thing, well then let's do the right thing. And that should include our city as well. And where he says that we do not want anyone We will ensure that no one in rural Manitoba gets left behind. Well, we're part of that category. We're not in Winnipeg or Brandon. We're in that other part of Manitoba, rural Manitoba. And so there's no reason for the Premier, for this government, to be saying that go ahead and apply for disaster relief, doesn't matter if you had insurance. He actually said that. So they're willing to give disaster relief To people who could have gotten insurance and chose not to and saying, yeah, don't worry about it because you didn't usually get flooding of this magnitude. Well, what about our people? Some of whom maybe could have gotten insurance, some who could only get limited amounts, some who couldn't get insurance because of the fact that flooding had happened a year earlier. At a bare minimum, we're not, we're not asking for special treatment. We're just asking to be treated fairly. We're happy that other parts of the province are going to get relief. But our residents should get similar relief, and in light of these comments, it is more than appropriate that we write to the province and, and request that our application be reopened.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=2885s"
   },
   {
@@ -1991,7 +1991,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. Yeah, just to pull further from that quote, you know, if residents have lived in an area for 80 or 8 to 9 decades, 80 to 90 years, and didn't feel the need that they— to have insurance, when we have an As measured by their own metrics, a rainfall that's a 1 in 100 year event. That would fall into that same timeline category. This is an exceptional disaster that happened in our city. We need to stand on account for our taxpayers and our residents, and we need to do everything in our power and our ability to hold the provincial government to their new standard that they have publicly said. Thank you. If the premier's going to come out and say that the rules don't apply or the rules can be changed on a whim, as far as our perspective was from the city, we already fell into the eligible criteria the first time that we applied as well as the second time that we applied. So if we're falling into the eligible criteria and he's opening the criteria up further, it's only right for us to reapply again for the sake of our residents.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3052s"
   },
   {
@@ -2007,7 +2007,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "That's correct. Anything further, council? Great.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3117s"
   },
   {
@@ -2023,7 +2023,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. When I look at this personally, I'm disappointed in the direction of the Premier deciding arbitrarily to change legislation or the rules stipulations on the website. I think this is something more that should have been discussed in part in legislation, in the legislature, and the City of Steinbach should have definitely been included in that discussion. I mean, we've gone by the rules. We've— our administration put in the application for disaster relief according to the guidelines, and we fit the guidelines, and now arbitrarily he's just decided, no, you didn't, but these guys did. So I think this letter is well deserved.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3124s"
   },
   {
@@ -2039,7 +2039,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? In closing.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3170s"
   },
   {
@@ -2055,7 +2055,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Just very briefly to, uh, to add, I don't like it when other levels of government, in this case the province, just make stuff up on the fly. And that's what's happened here. And if things are going to be made up and the rules are going to be changed, then at a bare minimum, treat all municipalities fairly. We're the 3rd largest city in the province. The Premier is fond of saying that the economic horse pulls the social cart. We are the economic horse. Stop beating the economic horse and start feeding it. So we need, we need better.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3175s"
   },
   {
@@ -2071,7 +2071,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, council. You know, I am so glad that these Manitobans in rural Manitoba are getting disaster financial relief. When I, when I, when I had to face this last year when I met with residents and they were denied and the heartache that was for our, our rural people too. Like, we're in the rural, and the heartache it was and how hard it was to do. And, you know, Councillor Switzer, that radio show you actually referenced, I was on that show. I was there. I remember what Bob Canute said. And when he said what he was— when he said no to the disaster financial— No. Assistance, and I told him a story of a couple in their 70s who's now using their retirement to rebuild their basement. That's when his comment was, well, it looks like the city of Steinbach needs to get better insurance brokers, right? We need better insurance. And that was— he just doubled down, and that's what he did. And you know what? We accepted that. We rebuilt, and we moved on. Thank you. But as Councillor Penner said, these were 2 in 100-plus year rain events back to back. So the chance of getting 1 in 100-plus years, that's one thing, but the chance of getting 2, like by that time, I would think when you get hit with that second round of rain, Yeah. Of rain, that one for sure we should have qualified for disaster financial assistance. And that was— that one was hard to take. And I hurt for our residents. I hurt for those that were affected by the flood and the rainwaters. And I think it's representing them right to ask these questions again, write another letter. And open up these files again. If this is now, if disaster financial assistance has been changed, it's easier to get, the threshold is less, there's no qualifications anymore, no restrictions, you know what, it should be the same for all Manitobans. I'm so glad, and I feel devastated for the people in Manitoba that are facing this flood. Thank you. Because I saw it firsthand in our residence. And, but one thing we have to remember, we all belong to Manitoba. And if it's— if this is good for one Manitoban, it's good for all Manitobans. And we need to represent our Manitobans again. Call for the question. All those in favor? Opposed? That is carried. Thank you. Okay, council, we will move on. Or were there any other questions of council? Okay, we'll move on to 11, correspondence petitions. We've got the Jake Epp Library minutes of March 18th, 2026. Council, how would you like to take this information?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3204s"
   },
   {
@@ -2087,7 +2087,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Please.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3411s"
   },
   {
@@ -2103,7 +2103,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "We've got the 11B, St. Rat-Roso Watershed Summer 2026 newsletter. Councillor, would you like to proceed, take his information? And then we've got 11C, [name withheld]. This is the Oak Crescent Loewen Avenue letter. Mr. Warkentin, did you have an update you had a question on this letter. I know there's been some work done on this, and I was wondering if you had an update for council.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3414s"
   },
   {
@@ -2119,7 +2119,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor, I do. Upon receiving the notice from Mr. and [name withheld], I did proceed to have a conversation with community services officers that represent the city, both Officers Williams and Ryland. I was made aware that actually earlier, the week earlier, prior to the date of the email, Officers Williams and Ryland, through their regular patrols, did actually investigate the location, the shelter at the corner of Lowen Boulevard and Henry Street that is the subject of the letter, and also the pathway that That links Oak Crescent to Henry Street, also an area that was of concern to the riders. They did mention that they had interactions with several individuals, unhoused individuals that were at that time frequenting that area. They did have an opportunity to dialogue with them and they, They say they do have a good relationship with the unhoused population in Steinbach, and they encourage them to find other alternatives and to, you know, seek the assistance of the social service organizations in Steinbach that are there to support them. They did verify that the areas that were of concern to the writers The grounds they observed were clean and they weren't— they did not locate any items of possible safety hazards. So they did want to ensure administration and asked that these comments also be passed on to council so that council is aware that there is regular interaction and issues issues that are being addressed. Even though this, this particular letter does highlight it for council's attention, these kinds of interactions and, and activities within the city, they go on daily.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3446s"
   },
   {
@@ -2135,7 +2135,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Okay, council, as at this point with what's gone on with our community safety officers and their ongoing I guess, commitment to working with the unhoused and taking care of concerns that are like this. At this point, take this as information. Okay, thank you. We've got 11D, the Eastman Regional Municipal Committee Southern Subcommittee minutes of April 13th, 2026. That— this is a committee that Councillor Jac Siemens sits on and represents the city. Councillor, is there anything you'd like to highlight?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3583s"
   },
   {
@@ -2151,7 +2151,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "No, I think it's been a good committee to sit on. It represents the southeast on regional issues, and lately we met with MPI regarding all the projects in the southeast, and we also met with Minister Moyes and Minister Naylor over the Flooding and also drainage management here in southeastern. So I think a lot of good work is done at the regional level.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3628s"
   },
   {
@@ -2167,7 +2167,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Yes, I would just like to commend you for a job well done on this committee. I think this committee is definitely building, gaining traction at our legislature, and definitely I think it makes sense when you've got what, What do we have, 12 municipalities?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3656s"
   },
   {
@@ -2183,7 +2183,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor)",
    "text": "16 now.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3675s"
   },
   {
@@ -2199,7 +2199,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "16 now? 16 municipalities. I think ministers are very apt to meet with you because they're dealing, they're able to deal with 16 municipalities at one time, and I think that they like that, and this is a government that's looking for regional projects as well. So thank you for what you do on that committee. We've got the 11E. This is the Southeast Event Group, the funding request. Council, I'm not expecting decisions today. I would say we recommend we put this on summer study session and take his information at this time. Okay. There's no other business. Looking for a motion to adjourn. Councillor Penner, seconded by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. Thank you. Next council meeting is Tuesday, July 7th, 2022.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=nzVKAsMf6Cs&t=3675s"
   }
  ]

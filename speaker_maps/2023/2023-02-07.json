@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 00:00:28 'give the opening to Councillor Bill Hiebert' -> A 00:00:36 delivers the opening (minutes item 3: Councillor Bill Hiebert opened the meeting); business licences moved by B. Hiebert (R23-030), 'Go ahead, Councillor Hiebert' -> A 00:18:14 'Just move to approve'. Pitch 157 Hz (opening) matches Bill Hiebert's ~160 Hz reference, distinct from G (Jake Hiebert, ~110 Hz).",
+   "evidence": "chair 00:00:28 'give the opening to Councillor Bill Hiebert' -> A 00:00:36 delivers the opening (minutes item 3: Councillor Bill Hiebert opened the meeting); business licences moved by B. Hiebert (R23-030), 'Go ahead, Councillor Hiebert' -> A 00:18:14 'Just move to approve'. pitch checked (opening) matches Bill Hiebert's  (pitch checked) reference, distinct from G (Jake Hiebert,  (pitch checked)).",
    "notes": "Pre-meeting banter turns 00:00:00, 00:00:08, 00:00:12 overridden to Unclear."
   },
   {
@@ -27,7 +27,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "building permits R23-029 seconded by D. Penner: 'Anything further, Councillor Penner?' -> B 00:16:14 'We're off to a record start'; excavator licences R23-031 seconded by D. Penner: 'Anything further, Councillor Penner?' -> B 00:19:30; second reading R23-027 seconded by D. Penner -> B 00:14:41 'Nothing further to add.' right after the mover's 'No further comments.'. Pitch 128-148 Hz, a man's voice (not Susan Penner, 189-193 Hz here).",
+   "evidence": "building permits R23-029 seconded by D. Penner: 'Anything further, Councillor Penner?' -> B 00:16:14 'We're off to a record start'; excavator licences R23-031 seconded by D. Penner: 'Anything further, Councillor Penner?' -> B 00:19:30; second reading R23-027 seconded by D. Penner -> B 00:14:41 'Nothing further to add.' right after the mover's 'No further comments.'. pitch checked, a man's voice (not Susan Penner, (pitch checked) here).",
    "notes": "B 00:12:09 'Thank you, Mr. Mayor. In response to this $5 million borrowing' is the start of Jake Hiebert's speech (overridden). B 00:00:03 pre-meeting banter overridden to Unclear. B 00:05:11 'No comments.' lowered (v1 diarization put it with another councillor)."
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "building permits moved by S. Penner (R23-029): 'Councillor Penner, you'd like to make the motion?' -> C 00:15:32 'Motion to approve.' then C 00:15:36 speech; first reading seconded by S. Penner (R23-026): 'Anything further, Councillor Penner?' -> C 00:11:59; business licences seconded by S. Penner (R23-030) -> C 00:18:28. Pitch 189-193 Hz (woman's voice, matches Susan Penner reference).",
+   "evidence": "building permits moved by S. Penner (R23-029): 'Councillor Penner, you'd like to make the motion?' -> C 00:15:32 'Motion to approve.' then C 00:15:36 speech; first reading seconded by S. Penner (R23-026): 'Anything further, Councillor Penner?' -> C 00:11:59; business licences seconded by S. Penner (R23-030) -> C 00:18:28. pitch checked (woman's voice, matches Susan Penner reference).",
    "notes": "Pre-meeting banter 00:00:10 and 00:00:15 overridden to Unclear. C 00:16:25 'Nothing further.' answers 'Anything in closing?' to the mover (S. Penner) - kept."
   },
   {
@@ -45,8 +45,8 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' -> E 00:06:32 staff report on By-Law 2223 (minutes 7.1: Troy Warkentin, City Manager, introduced By-Law 2223); chair 'Thank you, Mr. Warkentin.' 00:08:09; pitch 104 Hz.",
-   "notes": "E 00:16:20 'What else are we building?' overridden to Unclear (old diarization put it with Zwaagstra; pitch 167 Hz fits neither man's turns tonight)."
+   "evidence": "chair 'Mr. Warkentin, could you please introduce this file?' -> E 00:06:32 staff report on By-Law 2223 (minutes 7.1: Troy Warkentin, City Manager, introduced By-Law 2223); chair 'Thank you, Mr. Warkentin.' 00:08:09; pitch checked.",
+   "notes": "E 00:16:20 'What else are we building?' overridden to Unclear (old diarization put it with Zwaagstra; pitch checked fits neither man's turns tonight)."
   },
   {
    "label": "F",
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Zwaagstra?' -> F 00:08:43 moves first reading (minutes R23-026: M. Zwaagstra mover); 'Go ahead, Councillor Zwaagstra' -> F 00:08:53; 'Thank you, Councillor Zwaagstra' 00:11:55; excavator licences 'Councillor Zwaagstra.' -> F 00:19:10 'Move to approve' (R23-031 M. Zwaagstra mover); F 00:20:26 as seconder of lottery licences (R23-032). Pitch 103-112 Hz (reference 104).",
+   "evidence": "'Councillor Zwaagstra?' -> F 00:08:43 moves first reading (minutes R23-026: M. Zwaagstra mover); 'Go ahead, Councillor Zwaagstra' -> F 00:08:53; 'Thank you, Councillor Zwaagstra' 00:11:55; excavator licences 'Councillor Zwaagstra.' -> F 00:19:10 'Move to approve' (R23-031 M. Zwaagstra mover); F 00:20:26 as seconder of lottery licences (R23-032). pitch checked (reference 104).",
    "notes": "'Thank you, Your Worship. Thank you. Thank you, Your Worship.' inside the 00:08:53 turn is not in the YouTube captions (likely spurious)."
   },
   {
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "lottery licences moved by J. Hiebert (R23-032): 'Go ahead, Councillor Hiebert.' -> G 00:20:12; accounts payable moved by J. Hiebert (R23-028) -> G 00:15:16 'Just paying our bills'; second reading moved by J. Hiebert (R23-027) -> G 00:14:39 'No further comments.'; 'Councillor Hiebert.' -> 00:12:09/00:12:14 speech. Pitch ~110 Hz on all these turns, distinct from A (Bill Hiebert, ~157 Hz)."
+   "evidence": "lottery licences moved by J. Hiebert (R23-032): 'Go ahead, Councillor Hiebert.' -> G 00:20:12; accounts payable moved by J. Hiebert (R23-028) -> G 00:15:16 'Just paying our bills'; second reading moved by J. Hiebert (R23-027) -> G 00:14:39 'No further comments.'; 'Councillor Hiebert.' -> 00:12:09/00:12:14 speech. pitch checked on all these turns, distinct from A (Bill Hiebert,  (pitch checked))."
   }
  ],
  "turn_overrides": [
@@ -131,7 +131,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "first words of the speech that G continues mid-sentence at 00:12:14 ('this $5 million borrowing / loan or debt authorization'); v1 transcript has it as one turn; pitch 120 Hz like G (~110), not Bill Hiebert (~157)"
+   "reason": "first words of the speech that G continues mid-sentence at 00:12:14 ('this $5 million borrowing / loan or debt authorization'); v1 transcript has it as one turn; pitch checked like G (~110), not Bill Hiebert (~157)"
   },
   {
    "time": "00:16:20",
@@ -139,7 +139,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "quip 'What else are we building?'; current diarization says City Manager, v1 said Zwaagstra; pitch 167 Hz fits neither (104/108 Hz tonight)"
+   "reason": "quip 'What else are we building?'; current diarization says City Manager, v1 said Zwaagstra; pitch checked fits neither (104/ (pitch checked) tonight)"
   }
  ],
  "turn_splits": [

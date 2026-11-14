@@ -19,7 +19,7 @@
    "title": "Councillor",
    "confidence": "high",
    "evidence": "Chair 00:00:00 'give the opening to Councillor Jake Epp [Hiebert]' then B gives the opening; chair 'Thank you, Councillor Hiebert' 00:04:43; minutes item 3 'Councillor J. Hiebert opened the meeting'. 01:25:57 B speaks after the chair's 'Go ahead' (old map: same timestamp = Jake Hiebert). 00:05:12 'No comments' after J. Hiebert moved the minutes (R26-067); 01:40:26 'No further comment' after the chair names Councillor Hiebert as seconder of the business tax (R26-073 seconder J. Hiebert).",
-   "notes": "B MERGES Jake Hiebert with Jac Siemens: Siemens's questions to the applicant 01:14:39-01:16:31 (he refers back to them at 01:29:33 'I mentioned earlier... the U-turn'), 01:28:26 and 01:47:58 (after 'Councillor Siemens, you had a question?') are overridden. 00:38:59 is the end of Resident 6's speech (overridden). Pitch cannot separate the two (Jake 111-113 Hz, Siemens 103-120 Hz)."
+   "notes": "B MERGES Jake Hiebert with Jac Siemens: Siemens's questions to the applicant 01:14:39-01:16:31 (he refers back to them at 01:29:33 'I mentioned earlier... the U-turn'), 01:28:26 and 01:47:58 (after 'Councillor Siemens, you had a question?') are overridden. 00:38:59 is the end of Resident 6's speech (overridden). Pitch cannot separate the two (Jake (pitch checked), Siemens (pitch checked))."
   },
   {
    "label": "C",
@@ -44,7 +44,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Minutes 16.1: Councillor M. Zwaagstra asked whether the church was formally objecting = E 00:55:16-00:56:44; chair 'Councillor Zwaagstra first... Go ahead' 01:38:28 -> Q/E on the tax levy (R26-072 mover M. Zwaagstra); E on building permits 01:36:39 after chair names Councillor Zwaagstra as mover (R26-070); E 01:21:43 debate speech refers to 'Councillor Penner's comments' (the preceding speaker). Pitch 107 Hz, same as Q.",
+   "evidence": "Minutes 16.1: Councillor M. Zwaagstra asked whether the church was formally objecting = E 00:55:16-00:56:44; chair 'Councillor Zwaagstra first... Go ahead' 01:38:28 -> Q/E on the tax levy (R26-072 mover M. Zwaagstra); E on building permits 01:36:39 after chair names Councillor Zwaagstra as mover (R26-070); E 01:21:43 debate speech refers to 'Councillor Penner's comments' (the preceding speaker). pitch checked, same as Q.",
    "notes": "E MERGES Zwaagstra with residents: Resident 2 (00:13:06, 00:59:46, 01:00:23, 01:00:28), Resident 8 (00:48:32, 00:50:48), Bill Hiebert's Parkview Crescent comment 01:17:19, and one word 01:29:32 inside Siemens's speech - all overridden."
   },
   {
@@ -61,8 +61,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Anything further, Councillor Penner?' 01:37:09 -> G 'Nothing further.' (R26-070 seconder S. Penner); G 01:38:58 'Nothing further.' (R26-072 seconder S. Penner; old map Susan Penner); G 01:40:16 finishes Susan Penner's business-tax remarks begun on M 01:39:45; 01:08:41 'Can I just-' starts M's 01:08:45 question. Pitch 154-172 Hz (female).",
-   "notes": "G MERGES Susan Penner with Resident 4, whose public-hearing statement 00:32:44 is overridden. Pitch on G (154-172 Hz) is lower than M (188-211 Hz); see review."
+   "evidence": "Chair 'Anything further, Councillor Penner?' 01:37:09 -> G 'Nothing further.' (R26-070 seconder S. Penner); G 01:38:58 'Nothing further.' (R26-072 seconder S. Penner; old map Susan Penner); G 01:40:16 finishes Susan Penner's business-tax remarks begun on M 01:39:45; 01:08:41 'Can I just-' starts M's 01:08:45 question. pitch checked (female).",
+   "notes": "G MERGES Susan Penner with Resident 4, whose public-hearing statement 00:32:44 is overridden. Pitch on G ( (pitch checked)) is lower than M ( (pitch checked)); see review."
   },
   {
    "label": "H",
@@ -108,7 +108,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Pitch 188-211 Hz (female; only woman on council). Mayor 01:41:21 'I'm just like Councillor Susan Penner. I wouldn't normally support extra tax' echoes M 01:39:45 'normally I wouldn't approve of a business tax' (R26-073 mover S. Penner); Damian Penner 01:40:32 'I agree with Councillor Penner's comments'; old map O (Susan Penner) at 01:06:37, 01:08:41, 01:39:45, 01:41:05.",
+   "evidence": "pitch checked (female; only woman on council). Mayor 01:41:21 'I'm just like Councillor Susan Penner. I wouldn't normally support extra tax' echoes M 01:39:45 'normally I wouldn't approve of a business tax' (R26-073 mover S. Penner); Damian Penner 01:40:32 'I agree with Councillor Penner's comments'; old map O (Susan Penner) at 01:06:37, 01:08:41, 01:39:45, 01:41:05.",
    "notes": "Post-adjournment 01:49:17 mixes several voices."
   },
   {
@@ -117,7 +117,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Go ahead, Councillor Penner' 01:13:45 -> N's question (male voice, 112 Hz); N 01:18:37 speaks as mover right after 'Motion to approve' (R26-068 mover D. Penner) and Zwaagstra 01:21:43 refers to 'Councillor Penner's comments'; N 01:30:42 'Thank you, Councillor Siemens' replying to the friendly amendment; N 01:40:32 'I agree with Councillor Penner's comments' about Susan Penner, so N is the other Penner.",
+   "evidence": "Chair 'Go ahead, Councillor Penner' 01:13:45 -> N's question (male voice, (pitch checked)); N 01:18:37 speaks as mover right after 'Motion to approve' (R26-068 mover D. Penner) and Zwaagstra 01:21:43 refers to 'Councillor Penner's comments'; N 01:30:42 'Thank you, Councillor Siemens' replying to the friendly amendment; N 01:40:32 'I agree with Councillor Penner's comments' about Susan Penner, so N is the other Penner.",
    "notes": "Chair's 'Go ahead, Councillor Penner.' 01:13:45 and Siemens's 'Question to administration through you, Mr.' 01:30:42 are split out."
   },
   {
@@ -135,7 +135,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "01:17:16-01:18:06 council comment during the hearing: lives on Parkview Crescent with 200+ apartments at the end of the street; the same self-description at 2024-03-19 01:44:46 is Bill Hiebert in that meeting's existing map (pitch there 138 Hz, here 133 Hz). Damian Penner 01:18:37: 'I figured with Bill- Councillor Hiebert there jumping the gun', i.e. Bill Hiebert had already spoken in support. Bill Hiebert is the only council member not otherwise heard in the debate.",
+   "evidence": "01:17:16-01:18:06 council comment during the hearing: lives on Parkview Crescent with 200+ apartments at the end of the street; the same self-description at 2024-03-19 01:44:46 is Bill Hiebert in that meeting's existing map (pitch there (pitch checked), here (pitch checked)). Damian Penner 01:18:37: 'I figured with Bill- Councillor Hiebert there jumping the gun', i.e. Bill Hiebert had already spoken in support. Bill Hiebert is the only council member not otherwise heard in the debate.",
    "notes": "P's 'Mr.' 01:17:16 and the start of the comment 01:17:19 is on E (overridden)."
   },
   {
@@ -144,7 +144,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Q 01:22:07 and 01:23:46 continue E's debate speech mid-sentence (same 107 Hz voice); Q 01:38:38 'Thank you, Mr. Mayor' right after the chair's 'Councillor Zwaagstra first... Go ahead'.",
+   "evidence": "Q 01:22:07 and 01:23:46 continue E's debate speech mid-sentence (same (pitch checked) voice); Q 01:38:38 'Thank you, Mr. Mayor' right after the chair's 'Councillor Zwaagstra first... Go ahead'.",
    "notes": "Post-adjournment 01:49:15 'You don't want this to continue' (old map Zwaagstra)."
   }
  ],

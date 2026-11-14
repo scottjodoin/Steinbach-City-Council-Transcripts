@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I'd like to give the opening to Councillor Damian Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. Today I want to take the time that I have to talk to all the parents with school-aged children. We made it! Summer has wound down to a close, and we finally get to send the grumbling mini-mes back to school. We survived the late-night bedtimes of just one more episode that inevitably caused the sleepy-eyed, extra-emotional mornings. We survived the water fights in the backyard that somehow ended up creating a bigger mess on the dining room floor and kitchen than in the backyard. And we even survived the persistent sound of the pantry door opening and closing every 10 minutes to help satisfy the hunger that only a child on summer vacation can have. Thank you. Truly, though, I say this in jest because I love my summers with the children. It has offered a time of connection and attention that we just are not able to have during the busy school year. Children learn in academics throughout the school year, and while those are important lessons to help ensure a child— usher a child into adulthood, the summer is a time when children get to interact with adults, learning by example on how to converse, act properly in different social settings, and maybe even get some one-on-one time playing catch in the backyard. Thank you. To all the parents looking back at summer and wondering, where did it go? I'm right here with you. While summer is supposed to be a time when everything slows down and we get a chance to relax, each summer that passes seems to fly by faster than the one previous and feels like just as the scent of Canada Day fireworks have dissipated from the air, it's time to start shopping for school lunches. I feel more than just a slight pang of guilt of opportunity missed with how fast this last summer has gone by. But that is an adult emotion, and if you were to ask your kids about all the things they did and enjoyed this summer, you would soon realize that you have impacted your children in ways that may never even— that you may have never even considered to or appreciated. Parenting is so much more than going out and doing things or spending money on elaborate vacations and expensive camping trips. Parenting is about the day-to-day interactions you have with your child. The morning hug they get every morning when you first see them, The kind words of encouragement you give them when they land that flip on the trampoline that they've been working on all summer, or the home-cooked meal you grilled on the barbecue while you had your family over for a backyard party. These daily intentional interactions you have with your kids is what lays down the foundation of what your children will think is a normal family life as they mature into adulthood, and God willing, they do it better than us when it becomes their turn. So Summer winds down, we transition, transition back into the school year. Know that your children are better today than they were yesterday. They've grown physically and emotionally, and the lessons, regardless of how intentional they may have been, have been taught. Parents, we've done our duty to our children, to keep our children alive for the last 2 months, and now it's time to get them to school, give them a loving hug, and say, now go bug your teacher. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=9s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Um, just want to add a little story to your, to your opening, um, because I— it's timely. So we had our grandkids this, this, uh, today. It was the last day before they start school. And, uh, so we're, we're fooling around playing with them, and then they, they come and say, can we come here the next day we don't have school? And I asked them, what day is that? Well, it's Thursday. Yeah. So we managed, I managed to actually distract them so I didn't have to give them an answer because after, I'm getting old, so one day after grandkids, I'm tired. So anyways, yes, we had a great summer with our kids and our family and it's so, it is, it's neat to see how fast it goes by, but yes, how it impacts them as well. Thank you. Council. Like to, the agenda is in front of us. Like a motion to adopt. Councillor Hiebert. Second by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. We have the minutes of August 19th, 2025, regular council meeting starting on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Susan Penner. Second by Councillor Penner. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=191s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "Comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=191s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Council, is there any business arising from the minutes? Seeing none, we'll move on. It is just a little before 7:35, but I think we'll— everyone's here, so we'll go right into the public hearings. We've got 6A. This is variance V. 2025-20. This is referring to 22 Country View Lane. I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=191s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Application for variance under file V-2025-20 for 22 Country View Lane is being applied for by [name withheld], the owners of the property being [names withheld]. Purpose of the variance application is to",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=305s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "C",
    "label": "Unidentified speaker",
    "text": "Thank you, Mr. Adam Thiessen.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=305s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "The applicant is seeking a variance to permit an overall site width of 62 feet, whereas the RR rural residential zone requires a minimum of 100 feet. The applicant is in process of subdividing a single lot off the larger holding, and the proposed residual parcel requires a variance for the overall site width. Notices as are required under the Planning Act have been issued. There is no written correspondence on file. This file is related to a previous application for variance, Council, Okay. The next item on the agenda is dealt with on August 5th, 2025 under file V-2025-14, which was a variance to vary the site width of the parcel to be created, which is related to this parcel due to an oversight by the city. The variance for the residual parcel was omitted from the original public notice, and that is the reason for this hearing. In any event, recommendation from administration is that council approve this application for variance.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=305s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. I see that the applicant is here. Do you wish to speak? No? Okay. Council, are there any questions for the applicant? Okay. At this time, I will ask if there's anyone here with comments, questions, or objections to this file. I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=385s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I move to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=427s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by? Councillor Hiebert, go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=428s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As was noted, this is related to a previous public hearing that we had back in August, and this is for specifically for the residual parcel, Lot 1 in this case, and the variance is to allow a site width of 62 feet when 100 is the minimum. As is noted in our information provided by staff, the bulk of the residual lots would meet the 100-foot width requirement, but because of the lot's configuration and orientation to the street, the frontage is technically 62 feet. And so our staff are recommending approval. No one from the public is raising any concerns. And again, the overall, you know, the overall requirements are met with the exception of the one technicality. So I think it's appropriate to approve.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=432s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Hiebert?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=474s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "E",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I did take a run by there and have a look at this property, took a couple pictures, and I see why the request is for the 62 feet because The land on the left borders on private property, and so it's not really feasible to go over any further for the division. So I have no problem with this one.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=477s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Well, council, I have no challenges or disagreements with this as well. I'll vote in favor. Call for the question. All those in favor? Opposed? That is carried. Okay, council, we— I think we shall go right into 9B. That is the other parcel that was— we had the public hearing for at the beginning of August. And so I think we'll, we'll go straight into variance 202514. This is referring to the other property. Yes. that was subdivided off of this, the 22 Country View Lane resolution. We've had the public hearing on that, so now we just need a resolution. Council, looking for a motion on this property.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=499s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor) [medium]",
    "text": "I make",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=499s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "The motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=558s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=559s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. My explanation on this one is virtually identical to the other one, and again, Our staff are not— have not identified any concerns and there's no one who's objecting, so I think it's appropriate that we approve the variance.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=562s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=575s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "A",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=575s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=575s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=581s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I will call for the question. All those in favour? Opposed? That is carried. Thank you, council. We'll move down to 6B. This is the conditional use CU- 2025-04. This is referring to 321 Elmdale Street. I will close the council meeting, open the public hearing. Council— Mr. Wartine, could you please introduce this?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=582s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you again, Mr. Mayor. Conditional use file 2025-04 for 321, 353, and 357 Elmdale Street is being applied for by Southeast Events Group with the owner of the property being the City of Steinbach. Purpose of the conditional use application is to Permits sponsorship signs to be installed on light poles located on the subject parcels, and in accordance with City Zoning Bylaw 2100, any accessory sign that advertises a business or service not available at the location of the sign is considered a conditional use and requires council approval. Notices as are required under the Planning Act have been issued. There is no written correspondence on file. There are.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=606s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "There are 2 sketches attached in council's information package showing both the locations of the proposed sponsorship banners as well as the mockup of what a typical sponsorship banner would look like, which includes parking lot number identification along with the actual corporate sponsor name and logo. This application, administration does not feel that there would be any negative impacts on the neighborhood or upon the neighboring properties and recommends council approval of the application.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=606s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant present today? Would you like to speak? You don't have to. Okay. Councillor, are there any questions for the applicant? Okay. At this time, I will ask if there is anyone here with comments, questions, or objections to this file? Okay, seeing none, but I will ask one more time. Is there anyone with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Siemens?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=686s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "I wish to approve.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=725s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=726s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a request for banners. Okay. On at the Southeast Event Centre, as people are aware, we— that is a third party, the Southeast Event Centre Group. We have contracted with them to maintain and run the place as well as sell the advertising and the operations costs. This is another area that they can gain some funding in selling off banners in the parking lots or different poles, and I think it would be appropriate to allow them to do that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=728s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=769s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "No, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=772s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Call for the question. All those in favour? Opposed? That is carried. Thank you. Council, we'll go to 9A. This is accounts payable, back of the book. We've all had a chance to review, looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments? Call for the question. All those in favor? Opposed? That is carried. And we've got 9C. This is accounts receivable, Transfer to taxes. Council, this is just basically housekeeping, something we do once in a while. These are unpaid invoices that we're putting onto the tax roll. Transfer to taxes. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=774s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "No comments, thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=774s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=774s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "A",
    "label": "Unidentified speaker",
    "text": "Nope.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=774s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Are there any questions of council? Okay, seeing none, move on to correspondence and petitions. We've got 11A, St. Rat Rosa Watershed District minutes of June 17th and July 17th, 2025. Councillor, would you like to proceed? Yes. Any comments on that? Take his information, okay. There's no other business. Looking for a motion to adjourn. Second. Second by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting, Tuesday, September 16th, 2025, 7:00 PM.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=VRwZ6tAdVtQ&t=774s"
   }
  ]

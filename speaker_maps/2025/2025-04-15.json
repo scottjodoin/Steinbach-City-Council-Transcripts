@@ -35,7 +35,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Go ahead, Councillor Penner' 00:11:16 -> D variance speech (minutes R25-079 mover D. Penner); chair 'Councilor Penner explained everything very well' 00:12:23; 00:30:05 'Nothing further to add to that.' as seconder of R25-083 (minutes seconder D. Penner); 00:33:41 seconder speech on R25-085 (minutes seconder D. Penner); 00:41:33 seconder of R25-087 (minutes D. Penner). Male voice 121-134 Hz, distinct from H (Susan Penner ~195 Hz)."
+   "evidence": "'Go ahead, Councillor Penner' 00:11:16 -> D variance speech (minutes R25-079 mover D. Penner); chair 'Councilor Penner explained everything very well' 00:12:23; 00:30:05 'Nothing further to add to that.' as seconder of R25-083 (minutes seconder D. Penner); 00:33:41 seconder speech on R25-085 (minutes seconder D. Penner); 00:41:33 seconder of R25-087 (minutes D. Penner). Male voice (pitch checked), distinct from H (Susan Penner  (pitch checked))."
   },
   {
    "label": "E",
@@ -43,7 +43,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Accounts payable: chair names 'Councillor Hiebert' as mover 00:12:23 -> E 00:12:54 comment (minutes R25-080 mover B. Hiebert); business licences: chair names 'Councillor Hiebert' as mover 00:34:21 -> E 00:35:34 'happy to approve' (minutes R25-086 mover B. Hiebert, seconder J. Hiebert). Separate cluster from B (J. Hiebert's motion). Pitch 151-155 Hz, near Bill Hiebert's 160 Hz reference; B's long turn 113 Hz.",
+   "evidence": "Accounts payable: chair names 'Councillor Hiebert' as mover 00:12:23 -> E 00:12:54 comment (minutes R25-080 mover B. Hiebert); business licences: chair names 'Councillor Hiebert' as mover 00:34:21 -> E 00:35:34 'happy to approve' (minutes R25-086 mover B. Hiebert, seconder J. Hiebert). Separate cluster from B (J. Hiebert's motion). pitch checked, near Bill Hiebert's (pitch checked) reference; B's long turn (pitch checked).",
    "notes": "Only two short turns. Old v1 split 00:12:54 into 'No comment.' (old E) and the rest (old C); here it is one turn."
   },
   {
@@ -70,7 +70,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Penner, make motion' 00:31:02 -> H 'Motion to approve' (minutes R25-084 mover S. Penner); 'Go ahead, Councillor Penner' 00:31:08 -> H 'since my time on council'; 'Councillor Susan Penner.' 00:43:23 -> H 00:44:35 Southwood School request, and the chair replies 'as Councillor Susan Penner has requested' 00:45:07. Voice pitch 184-200 Hz (woman), unlike D (Damian Penner).",
+   "evidence": "'Councillor Penner, make motion' 00:31:02 -> H 'Motion to approve' (minutes R25-084 mover S. Penner); 'Go ahead, Councillor Penner' 00:31:08 -> H 'since my time on council'; 'Councillor Susan Penner.' 00:43:23 -> H 00:44:35 Southwood School request, and the chair replies 'as Councillor Susan Penner has requested' 00:45:07. pitch checked (woman), unlike D (Damian Penner).",
    "notes": "00:35:52 'Call for the question.' left on H."
   }
  ],
@@ -81,7 +81,7 @@
    "person": "Several councillors",
    "role": "group",
    "confidence": "medium",
-   "reason": "'Agreed.' answering the chair's 'All those in favor?' on the minutes vote; pitch 158-180 Hz, unlike B's 113 Hz long turn; old v1 put it on Zwaagstra's cluster"
+   "reason": "'Agreed.' answering the chair's 'All those in favor?' on the minutes vote; pitch checked, unlike B's (pitch checked) long turn; old v1 put it on Zwaagstra's cluster"
   },
   {
    "time": "00:09:53",
@@ -107,7 +107,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "Continuation of the building-permit report begun at 00:33:06 (old v1 has 00:33:06-00:33:40 as one turn); Damian Penner then says 'as Councillor Hiebert said, in the community', echoing this turn's 'confidence they have in the City of Steinbach'; pitch 114 Hz matches 00:33:06 (113 Hz)"
+   "reason": "Continuation of the building-permit report begun at 00:33:06 (old v1 has 00:33:06-00:33:40 as one turn); Damian Penner then says 'as Councillor Hiebert said, in the community', echoing this turn's 'confidence they have in the City of Steinbach'; pitch checked matches 00:33:06 ( (pitch checked))"
   },
   {
    "time": "00:45:32",

@@ -19,7 +19,7 @@
    "title": "Councillor",
    "confidence": "high",
    "evidence": "Chair gives the opening to 'Councillor Jake Hiebert' 00:00:01 and B delivers it (minutes item 3: J. Hiebert opened; speaks of his years on the Parole Board); chair 'Councillor Hiebert, seconded by Councillor Penner' for minutes (minutes R24-103 J. Hiebert/D. Penner) -> B 'No comments.'; 00:12:49 B speaks as seconder of the sponsorship policy (minutes R24-105 J. Hiebert seconded); 00:31:44 B speaks as mover of 2nd reading of By-law 2249 (minutes R24-110 J. Hiebert moved).",
-   "notes": "00:29:33 'I have nothing further' is Bill Hiebert (seconder of By-law 2246; pitch 132 Hz, Bill's turns 129-135 Hz, Jake's 103-120 Hz) - overridden. 00:32:02 'Nothing further.' unverified."
+   "notes": "00:29:33 'I have nothing further' is Bill Hiebert (seconder of By-law 2246; pitch checked, Bill's turns (pitch checked), Jake's (pitch checked)) - overridden. 00:32:02 'Nothing further.' unverified."
   },
   {
    "label": "C",
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Hiebert, go ahead' 00:33:10 -> G asks about hedges protruding onto sidewalks (minutes item 16: B. Hiebert requested clarification regarding hedges); chair names 'Councillor Hiebert' mover of business licences 00:32:03 -> G speaks as mover (minutes R24-111 B. Hiebert moved). Pitch 129-135 Hz, distinct from Jake Hiebert (B).",
+   "evidence": "Chair 'Councillor Hiebert, go ahead' 00:33:10 -> G asks about hedges protruding onto sidewalks (minutes item 16: B. Hiebert requested clarification regarding hedges); chair names 'Councillor Hiebert' mover of business licences 00:32:03 -> G speaks as mover (minutes R24-111 B. Hiebert moved). pitch checked, distinct from Jake Hiebert (B).",
    "notes": ""
   }
  ],
@@ -84,7 +84,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "seconder's turn after the mover (minutes R24-108: B. Hiebert seconded By-law 2246); pitch 132 Hz matches Bill Hiebert's turns (129-135 Hz) not Jake's (103-120 Hz); the existing map put this turn on Bill Hiebert's letter"
+   "reason": "seconder's turn after the mover (minutes R24-108: B. Hiebert seconded By-law 2246); pitch checked matches Bill Hiebert's turns ( (pitch checked)) not Jake's ( (pitch checked)); the existing map put this turn on Bill Hiebert's letter"
   }
  ],
  "turn_splits": [
@@ -137,7 +137,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "completes 'I have' at the end of Jake Hiebert's 00:31:44 turn; pitch at 00:31:52 103 Hz matches Jake's turns, not Bill's"
+   "reason": "completes 'I have' at the end of Jake Hiebert's 00:31:44 turn; pitch at 00:31:52 (pitch checked) matches Jake's turns, not Bill's"
   }
  ],
  "summary": "Clean diarization: seven letters, one per person, all agreeing with AssemblyAI and the existing map. Main uncertainty is which Hiebert says the short 'nothing further' seconder lines (00:29:33, 00:31:52); pitch and minutes used. No public hearing or delegations; one letter writer named in correspondence is withheld.",

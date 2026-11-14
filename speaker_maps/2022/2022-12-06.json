@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'give the opening to Councillor Penner' (00:00:08) and B gives the tribute; 'Thank you, Councillor Penner' (00:05:01). Susan Penner was excused this meeting (chair's motion at 00:05:39 excuses Councillors Siemens, Jake Hiebert and Susan Penner), so the only Penner present is Damian. Voice pitch of the tribute 144-150 Hz and other B turns 127-139 Hz: a man, not Susan (~190 Hz). Chair names Councillor Penner as mover before B speaks at 00:10:33 and 00:11:40; chair at 00:17:01 'as Councillor Penner said' after B's 00:16:33 turn; 'Councillor Penner has suggested' after B's 00:25:14 turn.",
+   "evidence": "Chair: 'give the opening to Councillor Penner' (00:00:08) and B gives the tribute; 'Thank you, Councillor Penner' (00:05:01). Susan Penner was excused this meeting (chair's motion at 00:05:39 excuses Councillors Siemens, Jake Hiebert and Susan Penner), so the only Penner present is Damian. Voice pitch of the tribute (pitch checked) and other B turns (pitch checked): a man, not Susan ( (pitch checked)). Chair names Councillor Penner as mover before B speaks at 00:10:33 and 00:11:40; chair at 00:17:01 'as Councillor Penner said' after B's 00:16:33 turn; 'Councillor Penner has suggested' after B's 00:25:14 turn.",
    "notes": "Short 'No comments' turns (00:05:17, 00:06:10) could be other councillors; kept on B."
   },
   {
@@ -27,7 +27,7 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this file?' and C introduces the file each time (00:06:46, 00:11:03, 00:12:44, 00:15:06, 00:18:12, 00:20:57); Zwaagstra refers to 'the city manager explained' (00:13:58); C commits staff to follow-up (00:26:12). Pitch ~96-108 Hz across turns.",
+   "evidence": "Chair: 'Mr. Warkentin, could you please introduce this file?' and C introduces the file each time (00:06:46, 00:11:03, 00:12:44, 00:15:06, 00:18:12, 00:20:57); Zwaagstra refers to 'the city manager explained' (00:13:58); C commits staff to follow-up (00:26:12). pitch checked across turns.",
    "notes": "00:08:05 (mover's 'I'll make the motion for second reading') belongs to Zwaagstra; 00:26:04 'it?' belongs to the chair. 00:15:06 and 00:18:12 contain text not in the audio (see review)."
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'Go ahead, Councillor Zwaagstra' and D speaks (00:08:07->00:08:14, 00:13:55->00:13:58); chair names Councillor Zwaagstra as mover before D's 'I make the motion' (00:19:22, 00:21:20, 00:26:18->00:27:07); E replies 'You made a good case there, Councillor Zwaagstra' after D's turn (00:14:28). Pitch 91-103 Hz on long turns.",
+   "evidence": "Chair: 'Go ahead, Councillor Zwaagstra' and D speaks (00:08:07->00:08:14, 00:13:55->00:13:58); chair names Councillor Zwaagstra as mover before D's 'I make the motion' (00:19:22, 00:21:20, 00:26:18->00:27:07); E replies 'You made a good case there, Councillor Zwaagstra' after D's turn (00:14:28). pitch checked on long turns.",
    "notes": "00:20:08 'Yes.' answers whether council can go directly to second reading - more likely the City Manager (see review)."
   },
   {

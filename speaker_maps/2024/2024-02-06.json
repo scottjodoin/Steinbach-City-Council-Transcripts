@@ -27,8 +27,8 @@
    "role": "staff",
    "title": "City Manager",
    "confidence": "high",
-   "evidence": "'Mr. Warkentin, could you please introduce this' 00:06:04 -> C's specification manual report 00:06:08; chair 'Thank you, Mr. Warkentin' 00:07:16; 00:08:47 C defers to 'the city's corporate services manager, Mr. Adam Thiessen'; 'Mr. Warkentin, could you please introduce this file?' -> C's rezoning report 00:14:59; 00:21:41 answers the chair's 'question for administration'. Pitch ~117-128 Hz on substantive turns.",
-   "notes": "Short turns 00:22:47 'No.' (147 Hz) and 00:22:57 'Yes, please.' (160 Hz) are not his voice - overridden."
+   "evidence": "'Mr. Warkentin, could you please introduce this' 00:06:04 -> C's specification manual report 00:06:08; chair 'Thank you, Mr. Warkentin' 00:07:16; 00:08:47 C defers to 'the city's corporate services manager, Mr. Adam Thiessen'; 'Mr. Warkentin, could you please introduce this file?' -> C's rezoning report 00:14:59; 00:21:41 answers the chair's 'question for administration'. pitch checked on substantive turns.",
+   "notes": "Short turns 00:22:47 'No.' ( (pitch checked)) and 00:22:57 'Yes, please.' ( (pitch checked)) are not his voice - overridden."
   },
   {
    "label": "D",
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair names 'Councillor Penner' as mover then 'Go ahead, Councillor' 00:07:16 -> D 00:07:32, and B replies 'I agree with Councillor Penner'; minutes R24-024 mover D. Penner. 'Councillor Penner' -> D 'Motion to approve' 00:15:45 (R24-027 mover D. Penner) and D 'Resolution to create the Steinbach Sports History Committee' 00:22:10 (R24-031 mover D. Penner). Male voice 126-151 Hz, so not Susan Penner.",
+   "evidence": "Chair names 'Councillor Penner' as mover then 'Go ahead, Councillor' 00:07:16 -> D 00:07:32, and B replies 'I agree with Councillor Penner'; minutes R24-024 mover D. Penner. 'Councillor Penner' -> D 'Motion to approve' 00:15:45 (R24-027 mover D. Penner) and D 'Resolution to create the Steinbach Sports History Committee' 00:22:10 (R24-031 mover D. Penner). Male voice (pitch checked), so not Susan Penner.",
    "notes": "Letter also carries other voices: 00:17:06 (Jake Hiebert, after the chair's hand-off), 00:23:13 'Nothing further.' and 00:23:43 'really good.' (Susan Penner) - overridden. Short turns 00:18:00, 00:18:38, 00:18:55 left on D, unverified."
   },
   {
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Councillor Zwaagstra.' 00:11:33 -> F moves the CSWB motion 00:11:48 (minutes R24-025 mover M. Zwaagstra); 'Go ahead, Councillor Sui[Zwaagstra]' -> F 00:12:01; 00:16:08 F speaks as seconder of By-law 2236 (R24-027 seconder M. Zwaagstra); 00:17:55 after chair names Councillor Zwaagstra as lottery-licence mover (R24-030). Pitch 103-109 Hz."
+   "evidence": "'Councillor Zwaagstra.' 00:11:33 -> F moves the CSWB motion 00:11:48 (minutes R24-025 mover M. Zwaagstra); 'Go ahead, Councillor Sui[Zwaagstra]' -> F 00:12:01; 00:16:08 F speaks as seconder of By-law 2236 (R24-027 seconder M. Zwaagstra); 00:17:55 after chair names Councillor Zwaagstra as lottery-licence mover (R24-030). pitch checked."
   },
   {
    "label": "G",
@@ -62,7 +62,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "00:22:58 chair: 'Councillor Penner, seconded by Councillor Hiebert. Any comments?' -> G comments on the appointees 00:23:03; minutes R24-032 (ratify committee appointments) mover S. Penner, seconder J. Hiebert. Voice pitch 180 Hz at 00:23:03 and 205 Hz at 00:23:34: a woman's voice, so not Jake Hiebert or Damian Penner.",
+   "evidence": "00:22:58 chair: 'Councillor Penner, seconded by Councillor Hiebert. Any comments?' -> G comments on the appointees 00:23:03; minutes R24-032 (ratify committee appointments) mover S. Penner, seconder J. Hiebert. pitch checked at 00:23:03 and (pitch checked) at 00:23:34: a woman's voice, so not Jake Hiebert or Damian Penner.",
    "notes": "Only two turns; 00:23:34 is after adjournment."
   }
  ],
@@ -74,7 +74,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "Chair: 'Councillor Hebert, seconded by Councillor Penner. Go ahead, Councillor Hebert.' then this turn ('as you indicated, it's just moving some of the unpaid bills'); minutes R24-028 mover J. Hiebert; the older v1 transcript put this turn on Jake Hiebert's letter. Pitch 111 Hz is lower than D's other turns (126-151) - another hint it is not Damian Penner."
+   "reason": "Chair: 'Councillor Hebert, seconded by Councillor Penner. Go ahead, Councillor Hebert.' then this turn ('as you indicated, it's just moving some of the unpaid bills'); minutes R24-028 mover J. Hiebert; the older v1 transcript put this turn on Jake Hiebert's letter. pitch checked is lower than D's other turns (126-151) - another hint it is not Damian Penner."
   },
   {
    "time": "00:22:47",
@@ -82,7 +82,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'No.' in reply to 'Anything further?' from council; 147 Hz, not the City Manager's voice (117-128 Hz)."
+   "reason": "'No.' in reply to 'Anything further?' from council; (pitch checked), not the City Manager's voice ( (pitch checked))."
   },
   {
    "time": "00:22:57",
@@ -90,7 +90,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'Yes, please.' when the chair asks for a motion to ratify the members; 160 Hz, not the City Manager's voice. Possibly Susan Penner, who then moved R24-032."
+   "reason": "'Yes, please.' when the chair asks for a motion to ratify the members; (pitch checked), not the City Manager's voice. Possibly Susan Penner, who then moved R24-032."
   },
   {
    "time": "00:23:13",
@@ -99,7 +99,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'Nothing further.' in closing on R24-032, whose mover was S. Penner; pitch 165 Hz, above Damian Penner's 126-151 Hz this meeting."
+   "reason": "'Nothing further.' in closing on R24-032, whose mover was S. Penner; pitch checked, above Damian Penner's (pitch checked) this meeting."
   },
   {
    "time": "00:23:43",

@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Everyone welcome here, and at this time I would like to give the opening to Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=8s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. On Saturday, November 19th, Manitoba, Canada, and the world lost a great leader when Pastor Leon Fontaine suddenly passed away. After a very short battle with aggressive cancer, Leon passed, passed surrounded by his family and went home to be with his heavenly family. What a smile he must have had seeing his eternal home that his whole life on this earth was dedicated to bringing others to. In 1994, Leon and Sally took over as the senior pastors for Springs of Living Water Centre in an old remodeled grocery store. It was a small building with pillars in the middle of the sanctuary obstructing sight lines with walls which were demolished and rebuilt on a regular basis to accommodate the ever-changing needs of the church and a very grossly undersized parking lot. It was not long at all before Leon's teaching of love, acceptance, and forgiveness as a church spread across Winnipeg, and the congregation swelled well beyond the capabilities of the St. Mary's location. Ever ready to accept change and pivot to get his message out to anyone that would receive it, Springs rented the Transcona Country Club Sunday— on Sundays to hold 3 services. I recall Leon telling stories of how they would get in there at the crack of dawn on Sunday morning, cleaning up the hall from the social that was held the night before, wiping down walls, removing empty beer cans, and washing spilt beverages off the floor, all before setting up the stage for the 9 AM service. Springs even had to go so far as to rent parking lots in the close proximity and bus its congregants to and from the country club. But Leon knew that this was a stepping stone that needed to occur and kept dreaming big of what was next. As it turns out, what was next was the beginning of the Springs Campus at 595 Lajimodier. Leon always had visions of where to go next, and I still remember the very first unveiling of the project campus, including multiple buildings, schools, college buildings, and large— and a large auditorium. Not all of the visions Leon had always came to pass, but there was always a heart of what's next. Standing still and waiting for Jesus to come was not an option for Leon. He always was looking at what the next opportunity would be to influence and impact more people, and keeping the status quo was not something in Leon's vocabulary. Leon was more than just a pastor to many. He was a devoted reader and consumed knowledge from various different fields of study. The knowledge that he had of not only the Word of God but topics of education, health, business management, and leadership created a well-rounded persona that he used to be able to host successful podcasts as well as various different programs on the Miracle Channel. Leon had a way of reaching out to individuals of no faith and present logical ideas founded on Christian principles. Leon always challenged his congregation to walk out their life in in Christ in such a way that people would know you are a Christian without you having to proclaim it, and he embodied this characteristic without fault. This is what he eventually coined as Spirit Contemporary— sharing God's wonderful promises for your life, salvation through Jesus, and the good news, but in a way that the world can accept and understand, but most importantly, be drawn to. Leon was not afraid to be criticized publicly, and he would not allow individuals with opposing views silence or cancel him. He would just press on, come up with more facts and evidence, and through his love of everyone, carry on with the conversation. Our province, country, and nation lost one of the greatest leaders on that Saturday, both as a pastor and as an individual that was not afraid to speak up against topics that he was passionate about. Leon leaves behind his wife Sally, his 5 children [names withheld], as well as his grandchildren. He also leaves behind multiple organizations and his congregations across multiple sites. But Leon knew that he would not be around forever, and as great leaders do, he surrounded himself with other leaders that challenged him and would be ready to take up the mantle and void left by him. Although he commanded authority from the pulpit and had an aura of strength that followed him around everywhere he went, he was a humble man. One of the associate pastors, Pastor Phil, shared with us in the first message Springs had after learning of Leon's passing. The last text message he received from Leon. Phil had messaged Leon commending him on his message earlier in the morning, and Leon replied back, Thanks, Phil. Just trying to stay ahead of all you great leaders around me. LOL. His focus was never on himself, but on the generations, the generational church that he built, and the generations of leaders he influenced. Rest easy, my pastor, and know that on this earth The best is yet to come. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=17s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Penner. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Hiebert, seconded by Councillor Zwaagstra. Any, any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=301s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=317s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All those in favor? That is carried. We have the minutes of November 15th, 2022, the regular council meeting. It starts on page 1. We've all had a chance to review. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=318s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=338s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. Is there any, any business arising from the minutes? Okay. Seeing none. Council, we're looking for a motion to excuse Councillor Siemens, Councillor Jake Hiebert, and Councillor Susan Penner. Move to approve. I will make a motion to approve. Second by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=339s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "No further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=370s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. Council, move to 6A. This is It's just, yeah, it's just a little past 7:35. So we'll go to the public hearing, bylaw 2166. This is referring to road closing of Industrial Road West to Campbell Drive. Mr. Warkentin? Okay, I will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=371s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. This Bylaw 2166 is a road closing and road renaming bylaw that affects what is currently known as Industrial Road West. The intent is to close certain portions of it at the intersection of Industrial Road West and Acres Drive and rename Industrial Road West to Campbell Road. As far as this bylaw goes, it is more of a housekeeping matter. However, because of the road closing, the public hearing is a legislative requirement. It is the recommendation of administration that council approve Bylaw 2166 for both second and third readings, subject to the outcome of the public hearing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=406s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Okay, is there anyone here with comments, questions, or objections to this file? I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, we will close the public hearing, open the council meeting. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=453s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor) [medium]",
    "text": "Move approval. Thank you,",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=453s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "C",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Mr. Mayor. I'll make the motion for second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=485s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Go ahead, Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=487s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As was explained, this is a pretty straightforward change. Specifically, Bylaw 2166 would close a small portion of road at the corner of Industrial Road West and Acres Drive, and this would enable It's part of a larger plan to subdivide and sell industrial lots for development in the neighbourhood. And the reason for renaming Industrial Road West is because the roadway is nearly identical in name to a road that's already in the area. And so the— be renamed to Campbell Road, which is after— named after John Campbell, who's an original homesteader of that particular area. So it certainly seems like an appropriate name change. So I think we should move ahead with this. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=494s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=536s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "I have nothing further to add.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=537s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? There's only one more to ask.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=538s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "I'm good, Mr. Mayor. Thank you. Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=545s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "We'll call for the question. All those in favour? Opposed? That is carried. Mr. Warkentin, we can go directly into third reading?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=548s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=558s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. We're looking for a motion for third reading. Councillor Penner, seconded by— Councillor Hiebert, any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=558s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "I needed to get out on this file. Thank you, Mr.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=567s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "E",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=570s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "No further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=570s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=572s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=573s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? That is carried. Thank you. Okay, we will move down to 9, uh, administration, 9A, accounts payable, back of the book. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=575s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=595s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All those in favor? That is carried. Okay, we got 9B, accounts receivable transfer to taxes. Looking for a motion to approve. There are a few, a few accounts that didn't get received that will be transferred to taxes. Page 15. Looking for a motion to approve. Second by Councillor— okay. Motion to approve by Councillor Penner, second by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=596s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. These are simply just invoices that the city has invoiced to individuals for various reasons that went unpaid and are being transferred onto the property tax.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=633s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Anything further? Nope. Anything further, council? Call for the question. All those in favor? That is carried. We have 9C. This is City of Steinbach Emergency Plan Amendments on page 16. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=642s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. This schedule that you see on page 16 of your agenda package has been prepared by the city's emergency coordinator, Mr. The city's emergency plan is reviewed on an annual basis and updated for various changes that have happened in the community or specific other matters that are pertinent. There is a listing of what the proposed changes are. Recommendation is that council approve these changes to the city's emergency plan.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=663s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=694s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=700s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Zwaagstra. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=701s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you very much, Mr. Mayor. As Mr. Warkentin explained, these are changes that are done as they're needed. This is reviewed on an annual basis, and a lot of it is with regards to facilities in terms of their power capabilities, having that in their plan. These are larger healthcare facilities that would require Quite a more substantial evacuation if needed, and so it's good to have all the information on file for our emergency coordinator.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=705s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=732s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No, Councillor Penner made a compelling case. I will support this.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=734s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=737s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=742s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour? That is carried. 9D, subdivision 4451-2022-8679. It starts on page 17. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=743s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. This application for subdivision file number that you mentioned is related to a property located at 94 Industrial Road. The application The application is being made by [name withheld] with the registered owner being Hijack Ltd. from Steinbach. The existing property already contains an existing industrial building which has several units within it intended for industrial purposes. The intent of the subdivision application is to convert the property to a condominium plan with a total of 18 industrial units contained within it along with a common element. The properties are currently designated I Industrial Policy Area in the city's official community plan with the property zoned as M1 Light Industrial Zone. And recommendation from administration is that council approve the subdivision subject to the owner entering into a development agreement as well as a major occupancy agreement.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=764s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Wardine. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=827s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=833s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=835s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. And this is a proposed subdivision for 94 Industrial Road. And as the city manager explained, this would create 18 additional commercial industrial condominium units with a common element. This would— the project or the plan will involve having 3 additional buildings that are being proposed for the site. So it It looks like a good use of the land. It's always good to see more development taking place in an industrial park, and so this would be part of that.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=838s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=866s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. You made a good case there, Councillor Zwaagstra, so I will approve as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=868s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Appreciate your support, Councillor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=872s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=874s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "No, I just want to hear what Councillor Patrick thinks.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=879s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, call for the question. All those in favour? Opposed, that is carried. We've got 9E, subdivision 4451-2022-8732. This starts on page 47 of our package. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=881s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor, this application is being made by the City of Steinbach On behalf of the registered owner being the Steinbach Community Development Corporation Inc., there is a property that involves this particular subdivision file located along Acres Drive in Steinbach, which is along the newly constructed section that was completed this year. The application seeks to create 4 lots of Thank you. I have a report for council on the sale of 2 parcels of land totaling 1.5 acres each along Acres Drive to facilitate further sale and development of industrial land within the city. The land is currently designated I, industrial policy area, in the city's OCP with the zoning being M1 light industrial. Recommendation from administration is for council to approve subdivision 4451, 2022-8732.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=906s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Hiebert?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=965s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "I will approve.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=969s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. And seconded by Councillor Penner. Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=971s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "This is something that's obviously— there's a need for these lots. So this is between the new named Campbell Road and Keating Road along Acres Drive. And I think this is a good move to open up lots for new industry or",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=975s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=992s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. It's always exciting to see new parcels get opened up. Obviously, these are a very desirable size, the 1.5-acre. As we've seen, 1.5 and 2-acre lots in the industrial park go very quickly, and it's a case of supply and demand, and our supply is low, the demand is high, so let's try and balance that out.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=993s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1013s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'm withholding judgment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1016s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1018s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1020s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Yes, council, this is it. It's always exciting when a plan works out, and we've, we've, uh, we, we built Acres Drive this year, and now we're subdividing lots along there. Uh, as Councillor Penner said, the, the, uh, the lots there are in high demand, and that is exactly the perfect size that they're looking for, the 1.5 to 2 2-acre lot. And what's so exciting, and I agree with Councillor Penner, is that it's showing growth, industrial growth in our city. And that's always— you all, like, we see lots of residential housing come up, but when the industrial growth is happening at the same time, that's just Very healthy for our community. Call for the question. All those in favor? Opposed? That is carried. We got 9F, Bylaw 2219, Acres Drive, cancel debt authorization. So it starts on page 82, and Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1021s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Uh, Mr. Mayor and council, Thank you, Mr. Mayor. Madam Mayor, council, and members of council, Bylaw 2219 is more of a housekeeping administrative matter. Along with the proposed local improvement to complete the construction of Acres Drive as a city-initiated project this year, the original local improvement bylaw gave the authorization for the city to create debt to pay for the project. With the Steinbach Community Development Corporation having funds available based on the overall construction costs of the project, it is determined that the required frontage levies that are subject to invoicing from the city to the landowner, there will be sufficient funds on hand, and therefore the city will not require the creation of any debt for this particular project. And therefore, the recommendation is for council to give first reading to this bylaw, which seeks to cancel the $3.1 million of authorized borrowing capacity for the Acres Drive street construction project.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1092s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1162s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1169s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1170s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. It's always good when you have the opportunity to cancel a borrowing. And in this case here, the project was done for significantly less than what had been initially estimated. And so as a result, we don't need the borrowing bylaw. And so we need to make sure that we cancel it so that way our records are accurate.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1173s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1193s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1195s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further for council? Anything closing? Call for the question. All those in favor? Opposed? That is carried. Okay, we can go directly into second reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1197s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1208s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Looking for a motion for second reading. Councillor Hiebert, seconded by Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1208s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "No further comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1213s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Nothing further? Well, we'll call for the question. All those in favor of second reading? That is carried. Okay. Council, we have 9G. This is the 2022 supplemental taxes. These are added taxes. It starts on page 85. There's a list of significant adds. The— between the 2 batches, there is an additional taxes of $972,000, just a little over. Is there anything further, Mr. Warkentin, or are we just looking for a motion to approve these added taxes?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1215s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Correct, Mr. Mayor. It is required that council adopt these supplementary taxes as well as the tax cancellations that are presented in the package so that they are officially recognized as part of the city's tax roll. Oh, the recommended— Resolutions are found on page 86 of your agenda package.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1257s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so the resolutions are found on page 86. Council, looking for a motion to approve the supplemental taxes that are added. Let's start on page 85. Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1280s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1295s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1297s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Obviously, every year there's new construction that takes place Yes, there are a number of developments taking place in the city, and that means that there are properties that aren't initially, you know, that have to pay the taxes based on whenever the build happened during the year, and so that does result in supplementary taxes. It should be noted that a significant amount of this is already budgeted for, and— but we obviously should approve this, and it's always good to see more development and construction happening in Steinbach. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1299s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything further, council? Call for the question. All those in favor? That is carried. We have 9H. This is 2022 supplemental taxes. These are cancellations. They're— they start on page 103. But we're looking for a motion to approve these as well. The cancellations, they end up being, I think, just a little over $75,000 in cancellations. These cancellations can be due to a business losing its building, like through fire, through subdivision, those kinds of things. Anything that is— changed that has changed the value of the building like that. So these are cancellations that we need to approve as well. Again, the motion is on page 86 also, looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1329s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "I will approve, and this is the opposite of gained Tax money, it's rather a reduction, as Mr. Mayor has mentioned. Buildings get removed, things change in developments, so this is a necessity as far as that goes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1404s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1417s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1419s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further for council? Call for the question. All those in favour? That is carried. Councillor, are there any questions? Any questions of council tonight? Okay, seeing none, we'll go on to correspondence and petitions. We've got 11A, St. Rats-Rosoe Watershed District. We got the minutes of October 18th, 2022 and November 1st, 2022. That starts on page 107. Council, how would you like to proceed? Take it as information? Okay. Okay, we've got the Jake Epp Library minutes, uh, June 15th, 2022, on page 114. Council, how would you like to proceed? Take it as information? The Manitoba Métis Federation, this is congratulations on our 2022 election. Um, council, how would you like to proceed? Take as information as well? Yes. And we've got 11D, Manitoba Crime Stoppers fundraising drive. Council, take it as information as well? Okay, and we've got the 11E, the RCMP referring to hosting the RCMP musical ride. It starts on page 119. Council, how would you like to proceed? Move it. Yes, Councillor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1420s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I feel like it would be in the interest of the community. This is an amazing display from the RCMP, the musical ride, seeing them in their red surges and going around doing their displays. I think it would be something that maybe we should do a little bit of light investigation into the potential costs and just get administration to take a Council,",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1514s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "How would you like to proceed? Councillor Penner has suggested that we have administration look at some of the details of it, the costs, and actually, do we have the facility for it as well? Do we have the space? Just thinking, do we have consensus to give it over to administration to have a good look at",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1542s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "C",
    "label": "Earl Funk (Mayor)",
    "text": "It?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1564s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Yep. Mr. Warkentin, you have consensus from council to at least do some investigation work on it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1564s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "Okay, I will have staff work on that and come back with information at a future date.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1572s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you very much. We've got 12A. This is an other business, the honorary street naming for Mr. Jim Penner, follow-up To the council meeting November 15th. Council, the motion that was made on November 15th was missing a few details. I believe it was the— what the name of the street will be and also what— how much of that street will be changed or named at that. Okay. So I don't remember who made the motion, but you did? Okay, Councillor Zwaagstra, would you like to clarify that?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1578s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yep. Thank you, Mr. Mayor. And shall this be another motion or just state as—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1627s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "C",
    "label": "Troy Warkentin (City Manager)",
    "text": "I think it would be best if council could add a supplementary motion to the approval that was already—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1633s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Okay, thank you, Mr. Mayor. Then I will move a supplementary motion that the the name of the street, the honorary street, be Jim Penner Way, and that the particular street be Park Road from the intersection with Highway 12 and the first entrance to Clearspring Centre with that 4-way stop. That's the motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1640s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "And do we have a seconder? Councillor Penner? Go ahead, councillors.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1665s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "D",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This just adds clarity to the motion from the last meeting And the reason for the name, obviously after Jim Penner. A lot of honorary street names I've noticed in other communities have the word way after, so it seems appropriate, Jim Penner Way. And as far as this particular street, obviously Mr. Penner played a key role in obviously Penner Foods and Clearspring Mall being developed. And so this location seems very appropriate as a place to honor him and his contributions. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1670s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1703s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1704s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further for council? Anything in closing? Well, I think that gives the clarification that our administration needed. So call for the question. All those in favour? Opposed? That is carried. Looking for a motion to adjourn. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favour? That is carried. Next regular council meeting is Tuesday, December 20th, 2022 at 7:30 PM.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=lICn-iuC14w&t=1706s"
   }
  ]

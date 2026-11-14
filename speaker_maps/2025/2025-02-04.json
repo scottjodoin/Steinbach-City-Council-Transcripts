@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair: 'give the opening to Councillor Damian Penner' -> B opening 00:00:12 (minutes item 3: Councillor Damian Penner opened); 'Thank you, Councillor Penner' after; chair 'Councillor Penner, seconded by Councillor Siemens. Any comments?' -> B 00:15:21 (minutes R25-028 mover D. Penner); chair 'Councillor Penner, seconded by Councillor Hiebert. Any comments?' -> B 'No comments.' 00:24:28 (R25-029 mover D. Penner); male voice (opening ~150 Hz, 00:15:21 ~108 Hz)",
+   "evidence": "chair: 'give the opening to Councillor Damian Penner' -> B opening 00:00:12 (minutes item 3: Councillor Damian Penner opened); 'Thank you, Councillor Penner' after; chair 'Councillor Penner, seconded by Councillor Siemens. Any comments?' -> B 00:15:21 (minutes R25-028 mover D. Penner); chair 'Councillor Penner, seconded by Councillor Hiebert. Any comments?' -> B 'No comments.' 00:24:28 (R25-029 mover D. Penner); male voice (opening  (pitch checked), 00:15:21  (pitch checked))",
    "notes": "short replies 00:04:35 ('No comment.', minutes motion moved by J. Hiebert, seconded by D. Penner) and 00:14:44 ('Nothing further, Mr. Mayor.', after Zwaagstra's motion seconded by J. Hiebert) could be Jake Hiebert; kept on B, listed in review"
   },
   {
@@ -36,7 +36,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Penner.' -> D 'Motion to approve.' 00:07:55; 'Second by Councillor Siemens. Go ahead, Councillor Penner.' -> D statement 00:07:59 (minutes R25-025: S. Penner mover, J. Siemens seconder); woman's voice by pitch tool (00:07:55 198 Hz, 00:07:59-00:08:47 180 Hz, 00:09:56 188 Hz), which rules out Damian Penner; E replies 'as stated by Councillor Penner'; 'Nothing further.' 00:09:56 is the mover's closing"
+   "evidence": "chair 'Councillor Penner.' -> D 'Motion to approve.' 00:07:55; 'Second by Councillor Siemens. Go ahead, Councillor Penner.' -> D statement 00:07:59 (minutes R25-025: S. Penner mover, J. Siemens seconder); woman's voice by pitch tool (00:07:55 (pitch checked), 00:07:59-00:08:47 (pitch checked), 00:09:56 (pitch checked)), which rules out Damian Penner; E replies 'as stated by Councillor Penner'; 'Nothing further.' 00:09:56 is the mover's closing"
   },
   {
    "label": "E",
@@ -44,7 +44,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "E speaks 00:08:50 right after the first-reading mover's speech, when the seconder usually speaks (chair: 'Second by Councillor Siemens'; minutes R25-025 seconder J. Siemens); E answers 'Nothing further.' 00:11:06 immediately after the chair's 'Motion for second reading, Councillor Siemens, seconded by Councillor Hiebert. Any comments?' (minutes R25-026 mover J. Siemens); pitch 113 Hz on the 00:08:50 speech vs G (Bill Hiebert, 157 Hz) argues against Bill Hiebert; AssemblyAI also says Jac Siemens",
+   "evidence": "E speaks 00:08:50 right after the first-reading mover's speech, when the seconder usually speaks (chair: 'Second by Councillor Siemens'; minutes R25-025 seconder J. Siemens); E answers 'Nothing further.' 00:11:06 immediately after the chair's 'Motion for second reading, Councillor Siemens, seconded by Councillor Hiebert. Any comments?' (minutes R25-026 mover J. Siemens); pitch checked on the 00:08:50 speech vs G (Bill Hiebert, (pitch checked)) argues against Bill Hiebert; AssemblyAI also says Jac Siemens",
    "notes": "never addressed by name in his own turn; the old map gave the 00:08:50 speech to Bill Hiebert because its letter C merged this voice with Bill Hiebert's excavator motion"
   },
   {
@@ -53,7 +53,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Zwaagstra.' -> F 'I'll make the motion for first reading.' 00:13:59 (minutes R25-027 mover M. Zwaagstra); chair afterwards 'Well, Councillor Zwaagstra, you said it well.' 00:14:45; low male voice (103 Hz, matching his measured 104 Hz)"
+   "evidence": "chair 'Councillor Zwaagstra.' -> F 'I'll make the motion for first reading.' 00:13:59 (minutes R25-027 mover M. Zwaagstra); chair afterwards 'Well, Councillor Zwaagstra, you said it well.' 00:14:45; low male voice ( (pitch checked), matching his measured (pitch checked))"
   },
   {
    "label": "G",
@@ -61,7 +61,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Hiebert's favorite, excavator licenses. I'm thinking you want to make the motion.' -> G 'I'll make a motion to approve.' 00:25:01 (minutes R25-031 mover B. Hiebert, seconder M. Zwaagstra, matching 'Second by Councillor Zwaagstra'); pitch 157 Hz, matching Bill Hiebert's measured 160 Hz; 'No comments.' 00:25:07 is the mover's reply",
+   "evidence": "chair 'Councillor Hiebert's favorite, excavator licenses. I'm thinking you want to make the motion.' -> G 'I'll make a motion to approve.' 00:25:01 (minutes R25-031 mover B. Hiebert, seconder M. Zwaagstra, matching 'Second by Councillor Zwaagstra'); pitch checked, matching Bill Hiebert's measured (pitch checked); 'No comments.' 00:25:07 is the mover's reply",
    "notes": "AssemblyAI picked Jake Hiebert from the bare surname; the minutes name B. Hiebert as mover"
   }
  ],

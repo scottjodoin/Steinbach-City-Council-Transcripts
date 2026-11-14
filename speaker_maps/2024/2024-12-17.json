@@ -9,7 +9,7 @@
    "title": "Mayor",
    "chairs": true,
    "confidence": "high",
-   "evidence": "chairs every item and calls all votes; delegation opens 'Mayor Funk, thank you very much' 00:06:43; minutes item 2 (Mayor Earl Funk called the meeting to order) and item 8 (Mayor Funk thanked the delegation, matches 00:32:12); pitch ~133-138 Hz",
+   "evidence": "chairs every item and calls all votes; delegation opens 'Mayor Funk, thank you very much' 00:06:43; minutes item 2 (Mayor Earl Funk called the meeting to order) and item 8 (Mayor Funk thanked the delegation, matches 00:32:12); pitch checked",
    "notes": "00:00:03 turn contains 'Yes, we are.' from the delegation (split). 00:30:30 'No, I think we've covered everything that-' is probably a delegation member (review). Several 'Thank you, Your Worship.' fragments across turns are not in the YouTube captions (likely transcription artifacts)."
   },
   {
@@ -19,7 +19,7 @@
    "title": "Delegation",
    "organization": "Guardians of the Children, Steinbach",
    "confidence": "high",
-   "evidence": "self-identifies 'My name is Paul Gibson, known as Donkey with Guardians of the Children' 00:06:43; minutes items 7, 7.1 and 7.3 (Mr. Gibson returned to the podium, matches 00:30:44 business partners); Koop refers to 'Paul' 00:23:32; one consistent voice ~139 Hz",
+   "evidence": "self-identifies 'My name is Paul Gibson, known as Donkey with Guardians of the Children' 00:06:43; minutes items 7, 7.1 and 7.3 (Mr. Gibson returned to the podium, matches 00:30:44 business partners); Koop refers to 'Paul' 00:23:32; one consistent voice  (pitch checked)",
    "notes": "'No comments.' 00:52:41 (councillors' item, delegation long finished) is not Gibson - overridden."
   },
   {
@@ -29,7 +29,7 @@
    "title": "Delegation",
    "organization": "Guardians of the Children, Steinbach",
    "confidence": "high",
-   "evidence": "self-identifies 'my name is Lyle Koop' 00:23:32; minutes item 7.2 (career teacher, Hanover School Division 37 years, Adult Teen Challenge) matches content; distinct voice ~99 Hz",
+   "evidence": "self-identifies 'my name is Lyle Koop' 00:23:32; minutes item 7.2 (career teacher, Hanover School Division 37 years, Adult Teen Challenge) matches content; distinct voice  (pitch checked)",
    "notes": "'Thank you, Brian.' and 'Thank you, Your Worship.' inside the turn are not in the YouTube captions (likely transcription artifacts)."
   },
   {
@@ -47,7 +47,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "'Motion to approve' 00:36:29 and 00:47:31 match minutes movers S. Penner (R24-246, R24-250); chair hand-off 'Councillor Pinner' 00:47:14 -> E; Zwaagstra 'as Councillor Penner had referenced' 00:39:11 and mayor 'as Councillor Penner said, who wouldn't approve this' 00:49:54 echo E's speeches; Damian Penner excused (R24-245); pitch 184-193 Hz (woman), 'Nothing further' 00:42:43 measured 194 Hz",
+   "evidence": "'Motion to approve' 00:36:29 and 00:47:31 match minutes movers S. Penner (R24-246, R24-250); chair hand-off 'Councillor Pinner' 00:47:14 -> E; Zwaagstra 'as Councillor Penner had referenced' 00:39:11 and mayor 'as Councillor Penner said, who wouldn't approve this' 00:49:54 echo E's speeches; Damian Penner excused (R24-245); pitch checked (woman), 'Nothing further' 00:42:43 measured (pitch checked)",
    "notes": "Chair hand-off at 00:36:32 reads 'Councillor Susan Penner' here but 'Councillor Stevenson'/'councelor s...' in the old transcript and captions; pitch and the Zwaagstra reference settle it."
   },
   {
@@ -56,7 +56,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "hand-offs 'Councillor Zwaagstra' 00:39:06, 'Councillor Swaigstra' 00:46:40 and 00:56:49, 'Councillor Zwaagstra' 00:59:49 each followed by F; F moves admin penalty, fee schedule and debt by-law first reading = minutes R24-249, R24-254, R24-255 (M. Zwaagstra); chair 'Thank you, Councillor Zwaagstra' 00:41:25; pitch 98-113 Hz"
+   "evidence": "hand-offs 'Councillor Zwaagstra' 00:39:06, 'Councillor Swaigstra' 00:46:40 and 00:56:49, 'Councillor Zwaagstra' 00:59:49 each followed by F; F moves admin penalty, fee schedule and debt by-law first reading = minutes R24-249, R24-254, R24-255 (M. Zwaagstra); chair 'Thank you, Councillor Zwaagstra' 00:41:25; pitch checked"
   },
   {
    "label": "G",
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "hand-off 'Councillor Siemens.' 00:41:25 -> G substantive speech; chair asks 'Councillor Stevenson?' (= Siemens, as in the old map) 00:49:00 -> 'Yes, Mr. Mayor' building-permit remarks; G is seconder S. Penner yields to on building permits (minutes R24-250 seconder J. Siemens); pitch 110-120 Hz",
+   "evidence": "hand-off 'Councillor Siemens.' 00:41:25 -> G substantive speech; chair asks 'Councillor Stevenson?' (= Siemens, as in the old map) 00:49:00 -> 'Yes, Mr. Mayor' building-permit remarks; G is seconder S. Penner yields to on building permits (minutes R24-250 seconder J. Siemens); pitch checked",
    "notes": "'Councillor Stevenson?' at the start of 00:49:00 is the chair (split). 'Nothing further.' 00:58:01 uncertain (review)."
   },
   {
@@ -73,7 +73,7 @@
    "role": "staff",
    "title": "Manager of Corporate Services",
    "confidence": "high",
-   "evidence": "City Manager 'I will defer this to Mr. Thiessen, the city's corporate services manager' 00:46:02 -> H explains the administrative penalty by-law 00:46:07; minutes attendance (Manager, Corporate Services, Adam Thiessen); pitch 119 Hz",
+   "evidence": "City Manager 'I will defer this to Mr. Thiessen, the city's corporate services manager' 00:46:02 -> H explains the administrative penalty by-law 00:46:07; minutes attendance (Manager, Corporate Services, Adam Thiessen); pitch checked",
    "notes": "'No further.' 01:04:15 (councillors' comment call on second reading) is not Thiessen - overridden."
   }
  ],
@@ -85,7 +85,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "'No comments.' answering the chair's 'Any comments?' on minor variances moved by B. Hiebert (minutes R24-253); delegation had finished; pitch 168-174 Hz (between Bill Hiebert ~160 and Susan Penner ~190)"
+   "reason": "'No comments.' answering the chair's 'Any comments?' on minor variances moved by B. Hiebert (minutes R24-253); delegation had finished; pitch checked (between Bill Hiebert ~160 and Susan Penner ~190)"
   },
   {
    "time": "01:04:15",
@@ -93,7 +93,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "'No further.' answering the chair's 'any comments?' on second reading (mover S. Penner, seconder B. Hiebert, R24-256); staff would not answer a council comment call; pitch 136-151 Hz, not Susan Penner; possibly Bill Hiebert or the mayor"
+   "reason": "'No further.' answering the chair's 'any comments?' on second reading (mover S. Penner, seconder B. Hiebert, R24-256); staff would not answer a council comment call; pitch checked, not Susan Penner; possibly Bill Hiebert or the mayor"
   }
  ],
  "turn_splits": [

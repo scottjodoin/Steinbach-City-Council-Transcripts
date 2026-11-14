@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Still got",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "To go live there.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=2s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Oh, we just lost our viewer who was waiting.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=3s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Took too long. I'd like to call this meeting to order. Welcome here, everyone. And at this time, I'd like to give the opening to Councillor Michael Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=7s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. It's now been nearly 2 months since Hamas executed its horrific attack against Israel. The brutality of that day is almost unspeakable. Hamas terrorists raped women, murdered babies, kidnapped children, and burned Jews alive in their own homes. Much of this barbarity was filmed and posted on the internet by the Hamas terrorists themselves. Far from being ashamed of their actions, these terrorists were more than happy to tell the world about what they did. Some even called their parents to let them know just how many Jews they killed that day. Only those who have totally given themselves over to evil would act in such a way. Hamas knew that its assault would provoke a military response from Israel. No country on earth would stand idly by while genocidal maniacs slaughter its citizens. The fact that the Hamas government deliberately maximizes civilian casualties by using its own citizens as human shields is yet another sign of its despicable nature. Everyone knows that Hamas is antisemitic. Its founding charter explicitly calls for the destruction of Israel. No one seriously expects Hamas to have any regard for human rights. While Israel tries to minimize civilian casualties by giving advance notice of military strikes, Hamas deliberately targets civilians, as we saw happen on October 7th. Incredibly, instead of standing with Israel and denouncing this blatant act of terrorism, many Canadians are openly siding with Hamas. For example, the former executive director of the BC Civil Liberties Association praised Hamas for its attack. During a speech at a pro-Palestinian rally, she said, how beautiful is the spirit to get free that Palestinians literally learned how to fly on hang gliders? To be clear, this former BC Civil Liberties Association director was describing the Hamas terrorists who flew in hang gliders to a music festival where they massacred hundreds of young people and raped numerous women. There is nothing beautiful about a spirit that motivates people to commit such horrific atrocities. For many weeks now, we've seen massive pro-Palestinian rallies across Canada. Where protesters openly call for the destruction of Israel by chanting, from the river to the sea, Palestine will be free. Now look at a map of the region where Israel is situated between the Jordan River and the Mediterranean Sea, and you'll see why fulfilling that slogan would mean the end of Israel. In addition, we are witnessing the ongoing harassment of Jews and the deliberate targeting of Jewish-owned businesses. For example, 11 people, 3 of whom are faculty members at York University, recently vandalized a Toronto Indigo store because its founder is Jewish. When the university suspended these 3 employees after their arrest, a large group of students, staff, and faculty rallied to demand that their suspensions be reversed. Apparently, some people think that vandalism is okay if it happens to a Jewish-owned business. Naomi Klein, a best-selling author whose books are sold at Indigo, even issued a statement of support for the vandals. Interestingly, Klein did not ask Indigo to stop selling her books. So much for being consistent. Antisemitism ultimately leads to lawlessness. Last week, a group of anti-Israel protesters stormed their way into the Peel District School Board chambers where trustees were meeting. Trustees and staff members had to take shelter in another room. when security guards were unable to control the crowd. Political leaders must stop equivocating on this issue. It's time we make it clear that we stand with the Jewish people and with the right of Israel to defend itself. Jewish people have the right to be safe, and we must not tolerate antisemitism in any form. I stand with Israel. So should all Canadians. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=20s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Zwaagstra. Council, we have the, um, the agenda in front of us. Looking for motion to adopt. Councillor Penner, seconded by Councillor Siemens. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=267s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=281s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got the minutes of November 21st, 2023, the regular council meeting in front of us. Uh, starts on page 1. You've all had a chance to review. Looking for motion to approve. Councillor Siemens, seconded by Councillor Zwaagstra. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=281s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=301s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Are there any business arising from the minutes? Okay, seeing none, I will ask for a motion to excuse Councillor Bill Hiebert, Councillor Susan Penner, and Councillor Jake Hiebert. Motion made by Damian— Councillor Penner. Second by Michael Zwaagstra. Call for the question. All those in favor? Opposed? That is carried. It is just a little after 7:35, so we'll go directly into the public hearing. We are looking at 6A. This is variance 2023. Yes. This is referring to 48 Market Boulevard. At this time, we will close the council meeting, open the public hearing. Mr. Thiessen, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=302s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "D",
    "label": "Adam Thiessen (Manager, Corporate Services)",
    "text": "Yes, Mr. Mayor. The application under File V-2023-24 seeks council approval to permit a rear yard setback of 19 feet For proposed multifamily development on the site, whereas the city zoning bylaw requires a minimum rear yard setback of 25 feet for multifamily uses in the CMX zone. There are site drawings on page 12 and 13 of the package, which gives a visual representation. Thank you. It's worth noting that this parcel was subject to a previous application where council approved a front yard setback of 10 feet as opposed to the required 25 feet setback for front yard in that CMX zone. However, according to the site plan, that doesn't appear to be coming into play for this plan. All things considered, recommendation is for council to approve the variance application subject to any new evidence provided.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=360s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you,",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=360s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Mr. Thiessen. Just one question for clarification. According to the drawing, the, the rear yard setback would be where the apartments are to the back, like Market Boulevard would be the front yard. We're looking at the rear, what would be facing I guess the new Highlife building.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=433s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "D",
    "label": "Adam Thiessen (Manager, Corporate Services)",
    "text": "That's correct, yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=457s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. Thank you. Is the applicant present today? Okay. Yeah. Do you wish to speak? Well, I think— go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=458s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "E",
    "label": "Keith Unger (Applicant's representative, 10027732 Manitoba Inc.)",
    "text": "I have to say my name, right?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=479s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, name and address.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=481s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "E",
    "label": "Keith Unger (Applicant's representative, 10027732 Manitoba Inc.)",
    "text": "Keith Unger, 122 Granite Park Boulevard. Yeah, so yeah, you did mention a 10-foot front yard, which I— yeah, you're right, will not come into play here. The first building that we are proposing overlooks the green space mostly, just overlooking the pond on the south. Going to the 19 feet will enhance our parking lot quite a bit. And I think that's something we really want to focus on in this development, to be able to accommodate a lot of parking. And there are 3 sides here, like Mr. Mayor just mentioned, which side is the backyard. Yeah. There are 3 frontages. So it was deemed that The east boundary was the backyard. Therefore, in some cases, if we were fronting Millbrook to the south, the backyard would have been to the north. So having a street on 3 sides, it makes it maybe confusing for all of us. So, but we, yeah, we want to make a very attractive development here, and it'll be phased. It could take a little while to fill that all up. Okay.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=482s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, it's significant. You'll have 99 units when it's all done, so—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=563s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "E",
    "label": "Keith Unger (Applicant's representative, 10027732 Manitoba Inc.)",
    "text": "Correct.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=566s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Quite significant. The Parcel G, is, is that a separate parcel? Is that part of the whole project?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=567s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "E",
    "label": "Keith Unger (Applicant's representative, 10027732 Manitoba Inc.)",
    "text": "Parcel G will come into play potentially with underground parking and the building. We don't know what that might look like. It might not be anything. Um, but, uh, we want to give ourselves ability to, um, potentially offer something with underground parking in, in Parcel G.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=575s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, well, thank you. That was just another question. Yeah. But yeah, today we're dealing with just the, the rear yard setback, correct, from 19 to 20, from 25 feet,",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=595s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "E",
    "label": "Earl Funk (Mayor)",
    "text": "Correct?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=607s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "I believe. Okay. Is there anyone here with comments, questions, or objections to this file? I'll ask again, is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=608s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "B",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=608s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Mayor. I'll make a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=635s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Siemens. Go ahead, Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=637s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'm certainly looking forward to seeing this neighbourhood continue to develop. I think the application is a reasonable one. I don't see any concerns. Staff have not raised any concerns. And the reason for the variance here, enhancing parking and making that— making it easier to ensure that everyone has enough space to park, I think it makes sense. And so with no one raising any concerns, I think it makes sense for this to go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=641s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Siemens?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=666s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, Mr. Mayor. This is a property, but it's also a secondary plan and it's part of the overall project that we approved much earlier. And so I'm looking forward to this as well, but I think it fits and they are backing onto a commercial property and potentially the people, the staff from that commercial property will be living in this area potentially. I think that's one of the intentions originally, so.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=668s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Anything in closing? Yes, council, I think I agree too. I think this is a great project for the area. I think that the variance will— won't be noticed because it is— it's facing onto or backing onto green space and then onto a commercial property. I do appreciate the enhanced parking that is— they're looking at. And I just think this is a great mixed-use parcel, and I think it's great for our city, and I think this is definitely the way to go. Call for the question. All those in favor? Opposed? That is carried. Okay. Thank you, council. There's no delegations, no reports and recommendations of city manager, so we'll go right into administration. We got 9A, accounts payable. That's at the back of the book. We've all had a chance to review. Looking for a motion to approve. Councillor Penner. Second by— Councillor Siemens. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=694s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=761s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Council, we have 9B. This is the interim operating budget. This is for the 2024 resolution. This is merely— it's much of a housekeeping item. We do this every year. It's technically a line of credit for us to operate till we can approve, get the numbers from the Hanover School Division, and then approve our budget. One thing I do want to make notice of, on page 15, there's a schedule. And we're— when you get down to fiscal services, it says it's got an item there for $3 million. Well, due to the fact of the large projects we have going, $3 million will not be enough. So I would suggest we change that number to $10 million before we approve this. I did have a conversation with Mr. Thiessen. Are you satisfied with that number, Mr. Thiessen?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=762s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "B",
    "label": "Adam Thiessen (Manager, Corporate Services) [medium]",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=762s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, okay. So then we will change that number to $10 million and then we will look at the resolution on page 15, looking for a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=762s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Question.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=838s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=839s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Does that mean we change the resolution on page 15 to, instead of $8 million, it should go up to $15 million?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=839s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "You wanted— should we be changing that also to $15 million, that resolution?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=852s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Is that the number?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=856s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "D",
    "label": "Adam Thiessen (Manager, Corporate Services)",
    "text": "No, that's a separate matter altogether.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=856s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "This is a totally separate matter?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=859s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Jac Siemens (Councillor) [medium]",
    "text": "Okay. Oh,",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=859s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=860s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay, then we'll motion to approve the interim operating budget. Councillor Zwaagstra, seconded by Councillor Penner. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=861s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This could be one of our most important votes because if this does not pass, that means as of January 1st, we will have several months of nothing happening in the city. No one getting paid. Nothing getting fixed. So I urge my colleagues, please vote for this interim operating budget.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=877s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Penner?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=893s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "F",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I like my toilets to flush. So I think this is a wise idea to pass.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=896s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=904s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "We just need to vote on this.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=907s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah. Call for the question. All those in favour? Opposed? As carried. You made it. Business as usual on January 1st. 9C, this is the RBC borrowing resolution. That is the resolution on page 16. So there— is there any highlights that you would like to bring out in this, Mr. Thiessen, or—",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=908s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "D",
    "label": "Adam Thiessen (Manager, Corporate Services)",
    "text": "This is just our— it's another housekeeping item, giving authorization to use a line of credit for cash flow purposes if need be. We do have a couple very large projects going on in 2024, you know, namely the event center and the Highway 12 and Loewen intersections. So it's important to have this in place just in case we need it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=942s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Council, how do you like to proceed?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=966s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=970s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor Singh.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=971s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Each year we authorize borrowing money until our budget is approved at the end of March, beginning of April is when our budget gets final approval. So we need to borrow interim dollars up to that point. This year, the request from administration is for $8 million. In the past, it's been around $5 million, but we do have a lot of additional costs we need to cover this year. So we do need to put a line of credit in place until our budget gets approved in a number of— I think it's by the end of March, beginning of April, the final approval.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=975s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1010s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1012s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9D. This is the 2023 supplementary taxes. Mr. Thiessen, would you like to introduce this?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1014s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "D",
    "label": "Adam Thiessen (Manager, Corporate Services)",
    "text": "Sure, yes. There is a summary of the supplementary added taxes as well as the cancellations on page 17 of your package there. So you can see there are $1.2 million $375,974 million worth of supplementary taxes added and just over $113,000 of cancelled taxes for 2023. So what we need tonight is we need a resolution to accept the supplementary taxes. Thank you. There's a draft on page 33 for that. And then we also need a second resolution to Except the tax cancellations. That resolution is on page 38.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1026s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Thiessen. Okay, council, so yeah, you can see on page 17 the supplementary taxes and the tax cancellations. We've got a few highlights there that can be looked through, but for now, I think we'll go to 9E, which is the, The resolution on page 33. This is the resolution to accept supplementary taxes. Motion to approve, Councillor Penner, seconded by Councillor Zwaagstra. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1074s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. As the year progresses and as there's construction throughout the year, the properties aren't necessarily on the tax roll at the beginning. So these are properties that have, pardon me, increased in value or are new builds and get added to the tax roll. It's also important to note that This is money that is estimated and budgeted to be brought into our budget. So this isn't $1.375 million of new spending money that we get to try and decide what we're going to do with. This is money that was already budgeted as close as possible as administration felt to come into as supplementary taxes throughout the years.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1108s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1145s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "That was a comprehensive summary. I can't add anything.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1147s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1151s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "C",
    "label": "Damian Penner (Councillor)",
    "text": "I think I covered it all.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1154s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, and I would— I'm— I was very happy with your coverage on that as well. I think we'll go right to the question. Call for the question. All those in favor? Opposed? That is carried. We'll move on to the, uh, the, um, cancellations. That's the resolution on page 38. Looking for a motion to approve the cancellation of $113,247.53. Councillor Siemens, seconded by Councillor Zwaagstra. Go ahead, Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1155s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "F",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. Each year we have businesses that shut down or buildings that get moved or Or removed for different reasons. There's— how many there are here? About 35 or so businesses. And so we have to cancel their taxes. And so this motion will then cancel all those taxes.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1194s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1220s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "A",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Both are taking all my stuff. That was so good. I got nothing to add.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1220s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Go for the question. All in favour? Opposed? That is carried. Are there any questions of council today? Okay, seeing none, we'll move on to correspondence petitions. We've got 11A. This is the Youth for Christ referring to the year-end partnership request. Council, how would you like to proceed? Take it as information? Okay. We've got 11B, the Jake Epp Library minutes for September 27th, 2023, and November 2023. Uh, council, would you like to proceed, take this information? And we've got the Saint-Raposo Watershed District minutes of October 17th, 2023, and November 3rd, 2023. Council, would you like to proceed, take this also as information? Okay. Okay. And we have the municipal, the 11D municipal and northern relations. This is the rural strategic infrastructure funding. That's on page 49. This letter is from the Honourable Ian Bushey, the Minister of Municipal Relations and North— Municipal and Northern Relations, yes. This is the, this was first announced in August. This money, and this is paid out, this was $39.9 million paid out to every municipality in the province based on population. So our take on this was $1,365,206.52. And so now this is finally the letter releasing the money. So that is— Thank you. That's exciting. This is free money like this is always good, and I'm sure that we've got, we've got with the cost of projects going up, but we've got places to put this money. So council, how would you like to proceed? Take this information? Okay. Thank you. There's no other business. Looking for a motion to adjourn. So moved. Councillor Penner, seconded by Councillor Siemens. Call for the question. All those in favor? Opposed? That is carried. Uh, next council meeting, uh, Tuesday, December 19th, 2023, 7:30, the last one of the year.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=EaNrNgEfNGI&t=1223s"
   }
  ]

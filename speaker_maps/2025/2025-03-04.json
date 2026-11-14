@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair gives the opening to 'Councillor Susan Penner' 00:00:00 and B gives it (minutes item 3: Councillor Susan Penner opened the meeting); chair 'Yes, Councillor Penner, we did forget to excuse you last week' -> B 'Thanks for drawing attention to it.' (minutes R25-047 excuses S. Penner from Feb 18); chair 00:44:48 credits 'Councillor Susan Penner' with the Chamber of Commerce grant point B raised at 00:19:31; B moves V-2025-02 at 01:21:57 (minutes R25-049 mover S. Penner) and speaks to the farmers' market 01:40:28 (minutes R25-053 mover S. Penner); B says 'I've been on council for... 12 or 14 years'. Pitch 184-205 Hz (female), matching her known ~193 Hz.",
-   "notes": "Hand-off 00:16:09 'Go ahead, Councillor Simpson' is a garbled name before B's questions. Two short turns 01:20:34 and 01:20:39 measure 120-144 Hz (male) and are overridden to Unclear."
+   "evidence": "Chair gives the opening to 'Councillor Susan Penner' 00:00:00 and B gives it (minutes item 3: Councillor Susan Penner opened the meeting); chair 'Yes, Councillor Penner, we did forget to excuse you last week' -> B 'Thanks for drawing attention to it.' (minutes R25-047 excuses S. Penner from Feb 18); chair 00:44:48 credits 'Councillor Susan Penner' with the Chamber of Commerce grant point B raised at 00:19:31; B moves V-2025-02 at 01:21:57 (minutes R25-049 mover S. Penner) and speaks to the farmers' market 01:40:28 (minutes R25-053 mover S. Penner); B says 'I've been on council for... 12 or 14 years'. pitch checked (female), matching her known  (pitch checked).",
+   "notes": "Hand-off 00:16:09 'Go ahead, Councillor Simpson' is a garbled name before B's questions. Two short turns 01:20:34 and 01:20:39 measure (pitch checked) (male) and are overridden to Unclear."
   },
   {
    "label": "C",
@@ -27,8 +27,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Looking for a motion to approve. Councillor Penner.' -> C 'Then motion to approve.' 00:02:10 (minutes R25-046 mover D. Penner); chair 'Councillor Penner.' 00:40:21 -> C's budget speech; Warkentin 01:16:30 answers C's 01:16:13 question with 'Councillor Penner, you've raised the point about partially underground'; C moves V-2025-03 01:37:55 (minutes R25-050 mover D. Penner); Zwaagstra 01:28:02 refers to 'both Councillor Penners' agreeing on the underground-storey principle C argued at 01:26:19/01:27:10. Pitch 129-139 Hz on his long turns, matching his known ~116-145 Hz range.",
-   "notes": "Letter merges other voices: 00:21:58 (Warkentin answering 'Mr. Warkentin, question to you'), 00:51:43 (applicant's presentation) and the 01:19:21/01:20:44 height questions (108 Hz, overridden to Jake Hiebert). 'No comments.' 01:39:00 after the chair names 'Councillor Hiebert' as accounts mover is left on C (see review)."
+   "evidence": "Chair 'Looking for a motion to approve. Councillor Penner.' -> C 'Then motion to approve.' 00:02:10 (minutes R25-046 mover D. Penner); chair 'Councillor Penner.' 00:40:21 -> C's budget speech; Warkentin 01:16:30 answers C's 01:16:13 question with 'Councillor Penner, you've raised the point about partially underground'; C moves V-2025-03 01:37:55 (minutes R25-050 mover D. Penner); Zwaagstra 01:28:02 refers to 'both Councillor Penners' agreeing on the underground-storey principle C argued at 01:26:19/01:27:10. pitch checked on his long turns, matching his known  (pitch checked) range.",
+   "notes": "Letter merges other voices: 00:21:58 (Warkentin answering 'Mr. Warkentin, question to you'), 00:51:43 (applicant's presentation) and the 01:19:21/01:20:44 height questions ( (pitch checked), overridden to Jake Hiebert). 'No comments.' 01:39:00 after the chair names 'Councillor Hiebert' as accounts mover is left on C (see review)."
   },
   {
    "label": "D",
@@ -37,7 +37,7 @@
    "title": "Senior Manager, Finance",
    "confidence": "high",
    "evidence": "Chair 'Mr. Warkentin, should we call on Mr. Hrarcek?' 00:02:55 -> D presents the 2025 financial plan 00:03:33; chair 'Thank you, Brian, for your presentation' 00:14:40; answers councillors' budget questions; minutes items 7.1-7.8: Brian Hrehirchuk, Senior Manager, Finance presented the 2025 Financial Plan.",
-   "notes": "'Thank you, Mr. Mayor.' 01:38:20 (108 Hz, just before Jake Hiebert's 01:38:21 comment) overridden to Jake Hiebert. Stray 'Thank you.' fragments inside his presentation are probably not his words."
+   "notes": "'Thank you, Mr. Mayor.' 01:38:20 ( (pitch checked), just before Jake Hiebert's 01:38:21 comment) overridden to Jake Hiebert. Stray 'Thank you.' fragments inside his presentation are probably not his words."
   },
   {
    "label": "E",
@@ -45,8 +45,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Zwaagstra.' 00:28:53 end -> E 'I'll make the motion that we approve this budget in principle' 00:30:55 (minutes R25-048 mover M. Zwaagstra); chair 'Thank you, Councillor Switzer' at end of E's speech; S. Penner 'Councillor Switzer did a good job of summarizing it' 00:38:25; Jake Hiebert 'As Councillor Zwaagstra has said' after E's 01:28:02 speech; E speaks on excavator licences 01:39:18 (minutes R25-052 mover M. Zwaagstra). Pitch 83-101 Hz on long turns, matching his known ~104 Hz.",
-   "notes": "Hand-off 00:20:14 'Go ahead, Cole.' is garbled. Short 01:12:12 'I'll let the applicant respond.' and 01:15:26 'Go ahead.' are chair behaviour at ~131-137 Hz (overridden to Earl Funk). Other short 'Okay.'/'Thank you.'/'Nope.' left on E."
+   "evidence": "Chair 'Councillor Zwaagstra.' 00:28:53 end -> E 'I'll make the motion that we approve this budget in principle' 00:30:55 (minutes R25-048 mover M. Zwaagstra); chair 'Thank you, Councillor Switzer' at end of E's speech; S. Penner 'Councillor Switzer did a good job of summarizing it' 00:38:25; Jake Hiebert 'As Councillor Zwaagstra has said' after E's 01:28:02 speech; E speaks on excavator licences 01:39:18 (minutes R25-052 mover M. Zwaagstra). pitch checked on long turns, matching his known  (pitch checked).",
+   "notes": "Hand-off 00:20:14 'Go ahead, Cole.' is garbled. Short 01:12:12 'I'll let the applicant respond.' and 01:15:26 'Go ahead.' are chair behaviour at  (pitch checked) (overridden to Earl Funk). Other short 'Okay.'/'Thank you.'/'Nope.' left on E."
   },
   {
    "label": "F",
@@ -63,7 +63,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "Elimination: minutes list Councillors J. Hiebert, M. Zwaagstra, S. Penner and D. Penner present (B. Hiebert and J. Siemens excused); B, C and E are the other three. G speaks as a councillor ('Thank you, Mr. Mayor', 'when the rezoning came up last time, I was against it') and refers to 'Councillor Zwaagstra' and 'Councillor Penner' in the third person. G comments on V-2025-03 at 01:38:21 after the chair names 'Councillor Hiebert' as seconder (minutes R25-050 seconder J. Hiebert). Pitch 106-117 Hz, distinct from Zwaagstra (83-101) and D. Penner (129-139) in this meeting.",
+   "evidence": "Elimination: minutes list Councillors J. Hiebert, M. Zwaagstra, S. Penner and D. Penner present (B. Hiebert and J. Siemens excused); B, C and E are the other three. G speaks as a councillor ('Thank you, Mr. Mayor', 'when the rezoning came up last time, I was against it') and refers to 'Councillor Zwaagstra' and 'Councillor Penner' in the third person. G comments on V-2025-03 at 01:38:21 after the chair names 'Councillor Hiebert' as seconder (minutes R25-050 seconder J. Hiebert). pitch checked, distinct from Zwaagstra (83-101) and D. Penner (129-139) in this meeting.",
    "notes": "No direct named hand-off. Also speaks at 01:19:21/01:20:44 (on C), 01:30:55 (on F) and 01:38:20 (on D), all overridden."
   },
   {
@@ -125,7 +125,7 @@
    "person": "Resident 1",
    "role": "resident",
    "confidence": "high",
-   "reason": "self-identifies with name and Wilson Street address after the chair asks for name and address at the financial plan hearing; minutes item 8; pitch 152 Hz, unlike Warkentin's 117-129"
+   "reason": "self-identifies with name and Wilson Street address after the chair asks for name and address at the financial plan hearing; minutes item 8; pitch checked, unlike Warkentin's 117-129"
   },
   {
    "time": "00:51:43",
@@ -160,7 +160,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "chair behaviour (offering the applicant a reply after closing the hearing), pitch ~137 Hz unlike Zwaagstra's 83-101; followed by the chair's 'Do you want to respond to any of this?'"
+   "reason": "chair behaviour (offering the applicant a reply after closing the hearing), pitch checked unlike Zwaagstra's 83-101; followed by the chair's 'Do you want to respond to any of this?'"
   },
   {
    "time": "01:12:16",
@@ -239,7 +239,7 @@
    "role": "mayor",
    "title": "Mayor",
    "confidence": "medium",
-   "reason": "chair handing the floor ('Go ahead.') to the next questioner, who answers 'through you, Mr. Mayor'; pitch ~131 Hz unlike Zwaagstra's 83-101"
+   "reason": "chair handing the floor ('Go ahead.') to the next questioner, who answers 'through you, Mr. Mayor'; pitch checked unlike Zwaagstra's 83-101"
   },
   {
    "time": "01:19:21",
@@ -248,7 +248,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "pitch 108 Hz matches Jake Hiebert's 106-117 in this meeting, not D. Penner's 129-139; old map (v1 transcript, same timestamp) also gave this question to Jake Hiebert"
+   "reason": "pitch checked matches Jake Hiebert's 106-117 in this meeting, not D. Penner's 129-139; old map (v1 transcript, same timestamp) also gave this question to Jake Hiebert"
   },
   {
    "time": "01:20:34",
@@ -256,7 +256,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "pitch 144 Hz (male), so not Susan Penner (~190 Hz); interjection during Jake Hiebert's questioning of the applicant"
+   "reason": "pitch checked (male), so not Susan Penner ( (pitch checked)); interjection during Jake Hiebert's questioning of the applicant"
   },
   {
    "time": "01:20:39",
@@ -264,7 +264,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "pitch 120 Hz (male), so not Susan Penner; v1 transcript put 'Yeah, I would just—' on the applicant; speaker of 'Is administration comfortable with that?' unclear"
+   "reason": "pitch checked (male), so not Susan Penner; v1 transcript put 'Yeah, I would just—' on the applicant; speaker of 'Is administration comfortable with that?' unclear"
   },
   {
    "time": "01:20:44",
@@ -273,7 +273,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "'if I could just continue' - resumes the 01:19:21 question; pitch 108 Hz as at 01:19:21; old map gave it to Jake Hiebert"
+   "reason": "'if I could just continue' - resumes the 01:19:21 question; pitch checked as at 01:19:21; old map gave it to Jake Hiebert"
   },
   {
    "time": "01:30:55",
@@ -282,7 +282,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "continues G's 01:30:47 speech mid-thought ('I voted against it at that time. And as Councillor Zwaagstra has said'); pitch 107 Hz as G"
+   "reason": "continues G's 01:30:47 speech mid-thought ('I voted against it at that time. And as Councillor Zwaagstra has said'); pitch checked as G"
   },
   {
    "time": "01:38:20",
@@ -291,7 +291,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "opening 'Thank you, Mr. Mayor.' of G's 01:38:21 comment; pitch 108 Hz as G; old v1 transcript has the whole turn on one letter"
+   "reason": "opening 'Thank you, Mr. Mayor.' of G's 01:38:21 comment; pitch checked as G; old v1 transcript has the whole turn on one letter"
   }
  ],
  "turn_splits": [

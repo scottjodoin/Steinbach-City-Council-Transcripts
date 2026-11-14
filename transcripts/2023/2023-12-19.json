@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I'd like to call this meeting to order. Welcome here, everyone. And at this time, I'd like to give the opening to Councillor Bill Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=8s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. Preparing for Christmas, the Christmas season, at our house it starts at the end of October. I'm on the roof checking to make sure that the Christmas light bulbs are all still working. By the middle of November, we were busy buying the perfect presents for the kids and grandkids alike, although this year we e-transferred money to our kids so they will surprise us with the gift opening as to what we gave them. Middle of November is also a time that I haul out the Christmas tree, nativity scene, and the rest of the decorations. The decorating of the house can take days. When it's done, it's worth it. Creating a festive atmosphere. Now we start planning our Christmas gatherings— extended family, our family, close friends, and so on. This is probably the busiest time of the year, and it can become quite stressful if we allow it. This year we added something very special. We picked up our oldest grandson and participated in our community Christmas hamper delivery at the Steinbach Helping Hands. This was an eye-opener and very helpful in seeing the need that some families have in our community, plus the appreciation expressed by the recipients. There are many more things I could add to this list. What I'm trying to say is that we make ourselves so busy that we forget the true meaning of the season. It has from the beginning been based on Christ the Messiah, Jesus's birth, and which is God's gift to all humankind. Thank you. So it begins according to the Book of Luke, chapter 2, verses 1 to 20. At that time, the Roman Emperor Augustus decreed that a census should be taken throughout the Roman Empire. This was the first census taken when Quirinius was governor of Syria. All returned to their own ancestral towns to register for the census. And because Joseph was a descendant of King David, he had to go to to go to Bethlehem in Judea, David's ancient home. He traveled there from the village of Nazareth in Galilee. He took with Mary, whom he was engaged to and who was now expecting a child. And while they were there, the time came for the baby to be born. She gave birth to her firstborn son. She wrapped him in snuggly strips of cloth and laid him in a manger because there was no room available for them. That night there were shepherds staying in the fields nearby, guarding their flocks of sheep. Suddenly an angel of the Lord appeared unto them, and the radiance of the Lord's glory surrounded them. They were terrified, but the angel reassured them. Don't be afraid, he said. I bring you good news that will bring great joy to all people. The Savior— yes, the Messiah, the Lord— has been born today in Bethlehem, in the city of David. And you will recognize him by this sign: You will find a baby wrapped in snuggly strips of cloth lying in a manger. Suddenly the angel, joined by a vast host of others, the armies of heaven, praising God and saying, glory to God in the highest heaven and peace on earth to those whom God— to those in whom God is pleased. When the angels had returned to heaven, the shepherds said to each other, let's go to Bethlehem. Let's see this thing that has happened. Which the Lord has told us about. So they hurried off to the, to the village and found Mary and Joseph, and there was the baby lying in the manger. After seeing him, the shepherds told everyone what had happened and what the angel had said to them about this child. All who had heard the shepherd's story were astonished, but Mary kept all these things in her heart and thought often of them. The shepherds went back to their flocks, glorifying and praising God For all they had heard and seen, it was just as the angel had told them. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=14s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Hiebert. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Penner, seconded by Councillor Siemens. Any comments? No. Call for the question. All those in favor? Opposed? That is carried. We have the minutes of December 5th, 2023 regular council meeting starting on page 1. We've all had a chance to review. Looking for a motion to approve. Move to approve. Councillor Hiebert, seconded by Councillor Zwaagstra. Call for the question. All those in favor? Opposed? That is carried. Are there any business arising from the minutes? Seeing none, uh, we'll move on. Looking for a motion to Excuse Councillor Damian Penner at this time.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=244s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "We can do that.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=294s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, motion by Councillor Siemens, second by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. We are just a little after 7:35, so we'll go directly into the public hearing. This is for variance, or yeah, V- 2023-22, this is referring to 317 PTH 52 West. At this time, we will close the council meeting, open the public hearing. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=295s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. As you noted, file V-2023-22 is a variance application being made by [name withheld]. The owners of the property are [names withheld]. Okay. At 317 PTH 52 West in Steinbach. Purpose of the variance application is to permit an east side yard setback of 4 feet for an accessory building, whereas city zoning bylaw 2100 permits or requires a minimum of 15-foot side yard setback in the DR-1 Development Reserve 1 zone. Notices as required under the Planning Act have been issued. There is no written correspondence on file. Pursuant to review of administration, the subject property does contain a residential use and, as mentioned, fronts on PTH 52 West. Administration does have concern with future potential drainage limitations that may affect properties if a reduced side yard setback is approved. And in light of this and the fact that the subject property is 4 acres in size, recommendation from administration is council deny. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=332s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Is the applicant present today? Okay, seeing no one present, we will— I will ask then if there are any comments, questions, or objections to this file. Seeing none, Okay, seeing none, I will ask one more time. Is there any comments, questions, or objections to this file? Okay, seeing nothing, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=401s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Motion to deny.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=450s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Siemens. Go ahead, Councillor Huber.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=453s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Mr. Mayor, what we have here is an application for variance on a property that's 4 acres. It's on Highway 52, and it's a property that was— that area was annexed by the city several years ago. On that property, we also have 8 accessory buildings. Some of which may be closer than 15 feet to the property line already. The setback in this area for this type of use is 15 feet, and there's several reasons, one of which is to afford proper drainage. And the applicant here is asking council to vary that from 15 feet to 4 feet. To me, that's more than a variance. That's almost ignoring the whole The bylaw as it is. The fact that the adjoining property is undeveloped doesn't mean that now or in the future it won't be adversely affected if there isn't proper drainage. And what we have before council today is we don't have a drainage plan for that property. So even if there was a lot grading plan, I still would be hesitant to agree to this. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=455s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Councillor Stevenson?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=541s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, Mr. Mayor. I too have concerns about this for a couple of reasons. Number one, I think would be that when we completed the annexation of Steinbach about 7 or 8 years ago, part of the— we do know that Steinbach as a whole does Expand to the west and to the north, and that covers this. We don't know what future development looks like for these parcels, but we know that there's interest, especially because it's highway frontage. I think if we approve this as a council, then if we have the same request by the neighbor to the east, then we'd be almost setting precedent that, yeah, we do allow it in those rural properties. We allow a 4-foot variance for a building, so we'd have to We take each of these requests on their own, but we might have pressure there because it would be some sort of a precedent. So we don't know the development. We know it develops to the northeast, and also we don't have any indication whether they have talked to their neighbours, whether the neighbours would even agree with this or not. So they didn't object, and they had notification, so they could have had that opportunity too. But I think for all those reasons, but— Thank you. The law of unintended consequences if we approve this, and then what effect does that have down the road on future development and on that property, and drainage is also an issue as mentioned by the administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=544s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further of council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=631s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=638s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. Okay. I will call for the question. All those in favour? Opposed? That is carried. We will move down to 8A. This is the reports and recommendations from city manager. This is referring to the event center update. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=639s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. I felt maybe a little better if I addressed council at the podium today. It helps running through a bit of a PowerPoint presentation that I've also prepared for this update. As council and the community is well aware, the city is well on its way with the development of the event centre. Council originally approved the contract for the construction of the facility on November 1st, 2022. So we've been at it for just over a year. Even though there hasn't been a whole lot of activity above ground until more recently, just thought it would be appropriate to start off with a vision of what it's intended to look like. And this information, or at least this sketch that you're seeing, was provided by the city's architects, VRA Inc. And what they did is they took aerial drone footage of the actual site and then superimposed the envisioned conceptual drawing of the facility over top. So what you're seeing as far as all the surrounding areas around the proposed event centre is the actual— Thank you. neighbourhoods of the city and how this new facility could look around it. Moving on, if I can get this mouse to work. Oh, there we go. On-site excavation started immediately after Council awarded the contract in November of 2022, and I believe that image that you're seeing in front of you was the, the first backhoe that was on site and the first shovel full of dirt that, that was taken. And with that, the, the excavation proceeded through the winter and into the spring of 2023. Thank you. Then more formal activities then were scheduled with an official groundbreaking event that was on January 27th, 2023. And that was a day that reminded us what winter is all about. We haven't been seeing that, a whole lot of that recently. But I remember that day was very cold and very windy. But it was, it was an excellent event to, to have council and members of the construction team and of the community participating. Then moving on into, into earlier in spring and, and late winter, piling and grade beam work did, did start. And at the end of it, over 2 stages, a total of about 660 piles were installed. Thank you. for the project. And you can see a lot of that work that was undertaken at that point. Then after that, piling work had already started. In June of last year, the demolition of the Centennial Arena was completed with the site then prepped and future piling work was completed at that point. Thank you. Throughout the summer and into September, most of the work that was completed was— included groundworks, site works, piling and grade beams. Again, as I mentioned, most of the work that was done was either at or below grade level, and projects of this scope typically take a very long time to, to start actually seeing things coming out of the ground. This image was taken sometime in September, and at that point you'll see Yes. And you can see some of the cinder block walls were actually being— having— had been started and you could see them starting to arise from the foundation. That concrete masonry unit work is continuing and will be used predominantly for the first level of the facility and will support the hollow core and concrete flooring that's going up on the concourse and second levels. That CMU work is about 50% complete, and this work will continue for another 2 to 3 months. Another component of the work is also precast and hollow core concrete. We're using those items to put on the first level or the concourse level and also will form part of the bleachers that are going on around the arena ice surface. That does allow for the tiered seating and will then have the actual prefabricated seats installed on it. The other stage that is intended to start very soon, as early as beginning of January, is the, the main truss system for the facility. We will start seeing those trusses erected starting in January and continuing on until March. Those trusses began being delivered to Steinbach already in mid-November, and they're being stored on the construction site so that they're ready to go. And we're very much looking forward to seeing that starting in the very near future. Then just to give you an idea as to where the city is at financially, the next slide just Gives you shows you a copy of the latest progress billing submission the city received to the end of November of 2023. Total of just over $20.1 million of the project has has been completed with progress payments in process or having been made already, and the city does receive these progress payments on a monthly basis, and they're reviewed to confirm. The progress is acceptable. Further on to the work, just a little more detail as to what's going on on site. These photos were taken just last week. As you can see, that was before all of the snow— or actually, it was more than just over a week and a half ago before all this extra snow was dumped on us. What you're seeing is a component of the arena bowl. Thank you. Both the north and east sides. You'll see some of the rooms and potential bathrooms on the left side of that image that are being prepared. And then you'll see those concrete beams with steps on them. They're called raker beams. Those are the primary support structures that are going to support all of the fan seating area and bleachers. And those raker beams and their installation is at about 60% complete. Thank you. 60% completion at this point. Then moving on to the next image, just from a different vantage point, the hollow core that you see that's placed on the left side and then extending all the way along parallel to Hanover Street, that is actually the concourse level that the general public will be walking on and around during events. Thank you. That, that hollow core work is going to be continuing as the, as the arena bowl work is, is completed. Then moving to the next image, this is drone footage of, I think it was December 11th, taken immediately overhead. So that gives you a bird's-eye view as to the actual construction site. And as you can see on the bottom of that image, that's the area right next to Hanover Street. The existing T.G. Smith Centre is at the top left corner, and then right at the top of the image is the large rectangle that you're seeing that has got the one ribbon of concrete on the north side or on the top, and then the 2 thinner ribbons on the side. That is going to be the gym area with the arena bowl from this vantage point with the crane in the middle. You're able to see it taking shape. As of December 8th, the final concrete grade beam was installed, and to date, approximately 1,500 cubic metres of concrete have been poured on the site. The city and its construction team have also proceeded to order materials and equipment that takes longer lead times and delivery times. Thank you. Just to ensure that the project is going to stay on track for its target completion date. Another vantage point that you'll see from this drone footage is being taken from, from the south. At the top of the picture is the extension of Hospital Street extending north towards Loewen Boulevard, and it just gives you an appreciation for the scope of the project. And then finally, the last image that we've got is from the northwest. You'll see Elmdale Street on the right-hand side in the foreground and Reimer Avenue on the left-hand side in the foreground with the project site kind of laid out over the balance of the image. And then to the top right, if you can see And as you can see, there is also the city's outdoor rink in that image. So that is just a brief snapshot of the progress that the city has made with the development and construction of the event centre to date. And I expect that I will have a further update in in a similar vein for council towards the end of March of next year. So if there's any questions, happy to answer them.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=678s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any questions of council?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1290s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Looks beautiful.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1294s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "So that was part 1.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1297s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "A",
    "label": "Troy Warkentin (City Manager) [medium]",
    "text": "Now",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1302s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I've got part 2. So along with projects, and especially projects that are large in scope and significant to the community, unfortunately they can't always go exactly as planned. So There's my lead-in to where I'm going with this. But just to summarize, again, November of 2022, council approved the original tender award and guaranteed maximum price contract to Graham Construction to build the event centre. And based on what our anticipated list of redesign scopes that were identified, The city was confident that a building could be completed for $61 million. Some of the items that we looked at, because we had to consider redesign to try and make the project affordable based on what the original tender prices came in at, the city looked at things such as single-phase construction to— Thank you. To eliminate inefficiencies with the project construction. We looked at structural changes that could be made to save some money. A big component of the review involved a review of the mechanical systems that had originally been designed for the facility to see if there were more efficient ways of servicing it. Some other items that were looked at to Okay. Some of the things that were looked at to reduce the costs were a consideration to delete things like kitchen equipment, phasing parking lot construction so that it could be delayed and perhaps save some funding, and other things such as landscaping, gym equipment, and revising the types of seating in the arena bowl were looked at to try and reduce costs. At the time, the city and its project team extensively relied on its design consultants to work through a redesign process with Graham Construction. Originally, we had expected a timeframe of 4 months, and that would have been from the November 1st, 2022 original award date. We had expected that by the end of February the redesign process would be complete and the city would be able to proceed. As we continued through the review process and tried to identify potential cost savings with the facility, there were ongoing challenges. And generally, it wound up becoming unanticipated constraints that became apparent, and they certainly had an influence into the decisions that the project team were obligated to make going forward. For example, when we started installing the piles for the facility, we found that soil conditions in and around the site were not exactly as expected. And as a result, there was too high of a risk of slab movement. So rather than choosing a slab-on-grade solution for the facility, the entire floor structure for the event centre will be a structural floor. And again, just because of the potential for movement and for an ice surface that's being installed, that's something that was critical. to what the primary focus was. The anticipated savings that could have resulted from redesigning the steel structure also were not anticipated. The challenge with that was both the ability to source the appropriate steel package for the building was difficult because there were supply chain issues. Thank you. And anticipated savings due to the redesign was something that also were unable to be realized. Through ongoing review, there were other cost savings that were proposed, and basically, to put it simply, all components that were part of the tender package were reviewed, and there was extensive effort on behalf of the entire project team to try and find greater cost savings. However, at the end of the day, many of those potential cost-saving opportunities and the resulting changes that would have been required to the building contradicted the original intent and the city and what it had for this building. Building efficiency and the desired long-term operational functionality of the building would have been compromised, and as a result, several significant cost-saving redesign opportunities were passed on as they did deviate too far from the original intent. As a result, our redesign timelines greatly exceeded the original what we had originally anticipated as 4 months, and it was more recently completed by early November. However, the good news in all of this, construction was able to start back in November. And again, because we, we went through the redesign process and made decisions that were best able to maintain that project schedule, that was something that we were able to achieve, and fortunately the project timelines did not suffer dramatically as a result. In the end, we are now at a situation where— or at a point in the project where the redesign process is complete. However, the updated project budget as provided in the information package has The cost has increased from $61 million to $69.153 million. However, all of those design changes that have been worked through over the past 10 or 12 months have now been reflected in this, this final budget price of $69.153 million. And as a result, an additional cost amount of $8.153 million $1.3 million is required to complete construction of the building. The city's project consultant, VRA Inc., has reviewed the proposal submitted by Graham Construction and is recommending that the city approve that change order, which is part of this presentation package. However, in order for the city to be able to do that, administration has also completed an analysis of what possible sources of alternate funding would be available for the city to be able to do that. I have prepared a brief schedule for council's information, and what administration is recommending is that council approve a funding— an additional funding package of $8.5 million, of which Just over $1.5 million would be provided by the city's operating fund. A total of $3.6 million would be provided by new provincial grant funding, of which $1 million of that is dedicated capital grant that the province added to the original capital grant funding that was approved for this project. $850,000 coming from the city's land and building reserve fund. And then $2.5 million to be derived, or at least provided, by a debt issue for which council has already approved the local improvement bylaw. So that would total the $8.5 million. And with those additional funding sources, the city's share of this total project cost would come to $30.675 million. And as I mentioned, a resolution from council approving the funding sources As well as a resolution for the proposed change order is being requested and recommended by administration.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1302s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "A question for administration. Do— can we take care of this in one motion?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1846s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "I would recommend council approve the funding, the source of funding first, and then a separate resolution to approve the change order.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1854s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, so we're looking for 2 motions to approve. First, the funding.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1867s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Can I ask a question",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1876s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "A",
    "label": "Jac Siemens (Councillor)",
    "text": "First?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1876s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead, yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1876s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Through you, Mr. Mayor, I appreciate all the work that's gone into this. I know that city staff, administration, yourself, that a lot of work has gone in. Just for clarification, have, This is the final number. Like, all the trades have been secured, all the materials have been secured, supply lines, as far to the best of our knowledge or your knowledge, is secure. So this is— we're very confident in this number.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1877s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "To the best of our ability, yes.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1905s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1908s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Councillor Zwaagstra?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1911s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I'll put a motion, but waiting for questions.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1916s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Any questions? Okay.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1918s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion that we approve the new funding.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1923s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Is there a seconder? Seconded by Councillor Siemens. Go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1929s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor, and I certainly express appreciation to our city manager and our staff for all the work that they've put into us— into this this This has not been an easy process. This is by far the largest project in our city's history. It was the largest project when we first approved it, and now it definitely is the largest project, not even close. Obviously, this is, this is challenging. We know that in this time of inflation, in particular the construction inflation, we are feeling the effects of it. All municipalities are. Obviously, last year we had already been faced with an additional budget that we had to put Thank you. We did put towards it, putting the cost up to $61 million. And at the time, we had hoped that that would be the maximum price. However, as our city manager has explained, there have been a number of things that have happened since then and unforeseen circumstances dealing, for example, with the soil conditions, and that changed the design that had to go as far as the floor. And obviously, we have to make sure we do this right. We don't cut corners on something as important as this. Challenges with the redesigning of the mechanical systems and And so some of the savings that we'd been hoping for were not realized to the degree that we had expected. Now, however, we have final numbers in. We have fuller information. And so the total cost of this project now becomes $69.153 million. Fortunately, we had made contingency plans. We knew this was a possibility. That is why we had pre-approved borrowing up to an additional $5 million. Thank you. We're only using $2.5 million of that, but we had, as the City Manager had explained quite some time ago, that this was a possibility. That's why we had put that additional borrowing authorization in place if we did need it, and it turns out that we do need some of it. In terms of the funding here, obviously some of it comes from our operating funds. Thank you. More— some of it is coming from our reserves. There is additional provincial funding that came in, and as the city manager had noted, $1 million of that is from the province specifically designated towards this project. And so the funding from the provincial and federal governments has now increased to $18.5 million. As had been noted back when we— the price had increased to the $61 million, we had also gotten extra funding commitments from our private donors up to $25.5 million, and now the— we have the additional city contribution here, which would total just over $30 million. That's a significant amount of money. That is challenging. But obviously, we need this project to go ahead. We have— we're still, on the whole, getting a good deal in that we are contributing less than half of the total cost. We still have a lot coming from private donors. We still have significant contributions from other levels of government. Thank you. And so obviously we want this project to go to completion, and I believe that our staff have been as diligent as possible here. This has not been an easy process, but they've been working with our consultants to try to bring down costs as much as possible. But obviously with the project of this nature, we're not going to cut corners. We're not going to start taking out key components, which those were the other options. We could have still done it under the $61 million, But then we're doing stuff like we're taking— we're removing key components. And those key components, you know, the— whether include the arena portion, the banquet space, the court sports area, and all of that, our funding is contingent on all of those things actually going in. And so if we started taking any of those components out, we potentially put at risk the funding that we got from other levels of government, not to mention the contributions we're receiving from the private sector. Thank you. sector, which again is funding a project, this particular project, not something less. And so I believe that on the whole, the staff are doing the best job that's possible, and, and so that we should approve the additional funding.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=1935s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2170s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Yes, thank you, Mr. Mayor. I think City of Steinbach has been in growth mode for many years, all the years I've been on council certainly, and prior to that. We've always had We've had a lot of growth as a community. This— just this past year, we've had over $200 million in building permits taken out. Over 75%, around 70% of that is commercial. And on that basis, the arena was a large part of that $200 million. But with the hospital expansion that's going on and with the Penco development that's going in with their major construction, We're competing for the same trades to build our facility, and that certainly didn't give us any cost savings by hiring local, as well as potentially some of the supplier lines for steel and other areas. So I think that, that also contributed to the cost of the facility. As noted, the city's cost on this project is just over $30 million. Like, and it's a $69 million project. So we are— the city taxpayer is paying less than half of that cost for this facility. I think we knew from the beginning that with the redesign that potentially there would be a need for more funding put in place. Is that correct? It's been explained well by both administration and by Councillor Zwaagstra, so I think we do need to move forward with this. I would hate to see any other option at this point. I think we're— we were told that the trades have all signed their contracts to do the work as well. Supply chains have all been lined up with prices confirmed. So this is, to the best of everyone's ability, this is the— Thank you. the final price. That doesn't exclude change orders that we will accept down the road, but I think this is the new reality for us, that— and that we approve this $8.5 million expenditure.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2173s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further for council? Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2302s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "I too would like to echo that I appreciate the effort that's been made by Our administration and by the Graham Construction and the architect team in bringing this project forward. Yes, council could have proceeded 5 or 6 years ago and the price would have been a lot different. Had we proceeded 20 years ago, it would even have been a lot less. The size and the need of such a project in Steinbach is One that I think we will all look at in the future and say the timing was perfect for us to go ahead. Had this council not proceeded, I don't see how Steinbach would have got an event centre like this in the future. If is a big word. If things were different. I appreciate that this council is united, and at the end of the day, As Councillor Siemens has said, the taxpayers are getting a $69+ million building for $30+ million. I'm looking forward to the day when this whole building comes to fruition. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2308s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, Council? Anything in closing? Well, Council, I too want to thank our Thank you. I want to thank our staff, our administration. I know they've spent a lot of time on this and this has consumed much and much of their last year, year and a half. And they've done a great job on this as well as VR and VR Reimer and Associates and Graham too. They've all come to the table and tried to work out pricing that would work for our budget. Yes, this is— it has increased now to the $69.1 million, but we have been, as administration has pointed out, we do have a schedule of funding that's going to work. We can thank the province for coming forward with extra million dollars for the project, designated to the project, but also They've given up to $2.6 million extra funding to our community to use at our discretion. So it looks like this is the best place to put it at this time. I think I too believe also this will be a busy facility. I think that the entire community will be able to use this facility, and I think it'll bring a lot. Thank you. of people to the region, from the region into Steinbach, and there will be much benefit from it. And looking very, very much forward to the day we open it and we start skating and playing basketball and having banquets and just celebrating our community in this center. Call for the question. All those in favor? Opposed? That is carried. Okay, council, now we'll go forward to, uh, make a motion to accept the change order that's on page 25. Council, would you like to proceed? Councillor Peter— uh, Councillor Bill Hiebert.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2384s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "I would vote to approve change order.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2519s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Zwaagstra, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2523s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "This change order is in order to increase that funding from the original contract at $61 million to $69.153. And reasons being that costs have— I mean, we couldn't make the changes to bring it down to $61 million, so we had to expand in some areas to bring it up to this level at this point to get it done. And I'm looking forward to getting this building done. I think it's going to serve our community exceptionally well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2527s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2554s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "Nothing.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2560s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Okay, council, we'll go to 9A, accounts payable, back of the book. We've all had a chance to review. Looking for a motion to approve. Councillor Stevens, seconded by Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2561s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "A",
    "label": "Jac Siemens (Councillor) [medium]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2561s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Okay, Council 9B, we have the financial statements from, uh, up to November 30th, 2023. Looking for a motion to approve. Councillor Hiebert. Second by Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2561s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "No comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2596s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9C. We've got business license on page 28. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2598s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "A",
    "label": "Unidentified (possibly Bill Hiebert) [low]",
    "text": "All comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2598s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We've got 9D, building permits. As Councillor Siemens had mentioned earlier, Yes, we have officially topped $200 million. Our total right now is $202.5 million for this year, and we've got one more month to go. It's usually a slower month, but, so we'll be adding a few million to that yet. But this is very exciting. This is a record year. Thank you. I don't think we've ever been close to $200,000 or $200 million before, and it's just really exciting. Looking for a motion to approve. Councillor Penner. Second by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2598s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor)",
    "text": "No, nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2673s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Got 9E. This is bylaw 2015-01. Next up is bylaw 2237, Wyndham Estate Drive, public reserve closing. This will be first reading. It starts on page 30 on our package. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2674s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This proposed bylaw 2237 for public reserve closing is an application by the original developer in the area and proposing, uh, a closing of a portion of, uh, part of the public reserve, uh, and, uh, first step in that would be, uh, for council to consider first reading, uh, and if, uh, council does give this bylaw first reading, a public hearing would be scheduled for early 2024.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2697s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, would you like to proceed? Councillor Penner.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2727s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2734s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2736s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor)",
    "text": "This is a pretty straightforward request and that's a really nice and desirable area, so I can see why if they can add an extra lot, they would like to do that. So I don't see why we shouldn't approve it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2741s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2751s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "A",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2751s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Question for administration.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2754s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2757s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Through you, Mr. Mayor, I know that I agree that, and this is first reading to get it to a public hearing, but this is also closing part of a public reserve. The question is, we have an active transportation route from Deerfield that will travel through Wyndhurst Estates Drive here and follow the creek over to Old Tom Road. Will this in any way affect that potential active transportation route?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2757s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Not that I am aware. The city's engineering staff and planning department staff have reviewed the initial application. And it's not expected that there will be any negative impacts from this proposed change.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2784s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Good. Thank you.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2798s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further? Okay. Call for the question. All those in favour? Opposed? That is carried. 9F, this is Bylaw 2238, 600 Main Street rezoning. This is also first reading, starts on page 36 on our package. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2799s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This proposed bylaw for rezoning under Bylaw 2238 to rezone the proposed property at 600 Main Street from RLD, residential low density, to RMD, residential medium density, is being proposed by the owner and developer seeking to redevelop the property, which currently contains a single-family home. Recommendation is for council to give this bylaw first reading, and if that proceeds, public hearing would be scheduled for early 2024.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2827s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2861s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Mr. Mayor, I'll make a motion for first reading.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2868s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2870s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. As noted, this is a request to rezone this property from RLD, residential low density, to RMD, medium density, to— so that it would go to allowing a 6-unit building on site. First reading, if it's approved, then allows it to go up to a public hearing, at which point we will hear from the applicant and from the neighborhood. So I look forward to that hearing.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2872s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2892s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor)",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2895s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Call for the question. All those in favor? Opposed? That is carried. At 9G, this is the bylaw 2163, water and wastewater rates. Council will be doing second and third reading today. It starts on page 30— or 48. Mr. Warkentin, could you read the bylaw? would you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2896s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This Bylaw 2163 is a bylaw that city council gave first reading to some time ago. This was the city's proposed plan and application to the Public Utilities Board recommending change to the city's water and sewer rates within the city of Steinbach. the Planning Board has reviewed the city's application and has approved the proposed bylaw under order number 137-23. And accordingly, city council may proceed to give this bylaw second and third readings. This proposed new rate plan is anticipated to span over 4 years from 2024 through 2027. Are within reason and would affect the typical residential customer in all years anywhere between 3% and 4% annually. However, it is important to note that all of the proposed rates that the city does project in this bylaw are intended to recover costs to run the utility and to to pay for essential capital upgrades as they are needed. Recommendation from administration is council give this bylaw second and third reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=2923s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? We're looking for a motion to approve. Councillor Zwaagstra, seconded by Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3011s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. Our water and sewer rates are set on a cost recovery basis, and so obviously there are increases Because the cost of the utility does go up. This has been reviewed by the Public Utilities Board, and so this is inconsistent with the guidelines that they set out. So I would make the motion that we move ahead with the change.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3020s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3040s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3042s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further of council? Anything in closing? Call for the question. All those in favour? Opposed? That is carried. We'll go directly into third reading. Look for a motion. For 3rd reading. Councillor Siemens, seconded by Councillor Haber. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3043s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3058s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. We'll go to 9H. This is the bylaw 2239. This is debt issue referring to the lift station number 2. Council will be doing 1st and 2nd reading as well today. This starts on page 79. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3059s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. Bylaw 2239 is a debt issue that's being proposed to authorize the actual borrowing of the debt, which will fund the city's Lift Station 2 upgrade project that is currently underway. Inquiries, or at least requests for quotes, were issued to different financial institutions, with the Royal Bank of Canada providing a proposed rate of 5.5% for a 5-year term, and also the TD Bank providing a 5-year— 5.41% rate quote for the same 5-year term. Accordingly, Administration is recommending that the debenture be issued to the TD Bank as they were the best rate. The total amount to be borrowed is $2 million over a 5-year period. And after first and second reading, should council approve, the final debenture bylaw would be submitted to the municipal board for approval.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3085s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, looking for a motion to approve. Councillor Siemens, seconded by Councillor Penner. Go ahead, Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3152s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. This is a borrowing bylaw. As has indicated in the past, we've been working on and started work on the lift station, I believe on Loewen Boulevard, lift station number 2, and we're doing some major upgrades there, and we will see the effects of that on our streets next year when we start to dig up our streets and Especially Loewen Boulevard. It's a major undertaking and this has a lot to do with the expansion of housing properties that's happening on the east end of Steinbach around Old Tom area. And so we need to upgrade our lift station to accommodate the increase in housing starts that's going to be happening there so that we can do that. Thank you. It's important that we do this in correlation when the street is being rebuilt as well so it can all happen at the same time. But this is just for the lift station.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3163s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3216s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "G",
    "label": "Earl Funk (Mayor)",
    "text": "Anything",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3219s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3220s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "No, sir.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3222s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favour of first reading? Opposed? That is carried. We'll go directly into second reading. Need for a motion from Councillor Hiebert, seconded by Councillor",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3222s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "A",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "No",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3222s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Further comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3236s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor of second reading? Opposed? That is carried. We'll go to 9i. This is Bylaw 2240. This is also debt issue referring to Barkman Avenue water renewal. Council will be doing first and second reading today. Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3237s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, Mr. Mayor. Bylaw 2240 is also a debenture issue And that is related to the Barkman Avenue water renewal project that was completed in 2023. The debt to be issued would be a total of $1.12 million to be arranged with the TD Bank at the rate of 5.41% per year for the 5-year term. And recommendation from administration is council give this bylaw first and second reading.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3259s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, looking for motion to approve first reading. Councillor Hiebert, seconded by Councillor Switzer. Go ahead, Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3291s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "As indicated to you, Mr. Mayor, as indicated by our administration, the project on Barkman Avenue has been completed and the tenders came in and work is done and Now it's time to pay for it and we're borrowing the money and as you see, we have— we are in need of $1.12 million and it's going through the TD Bank. So it's something we have to do. We have to pay for the street.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3301s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3330s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Nope.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3333s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing? Call for the question. All those in favour? Opposed? That is carried. We'll go directly into second reading. Council looking for a motion to approve. Thank you, Councillor Siemens. Seconded by Councillor Hiebert. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3333s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3349s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor of second reading that oppose, that's carried. We have 9J on page 87. We've got a list of minor subdivisions. This is just housekeeping. These are subdivisions that fell in the tolerances that are Our staff can deal with. They've already done. We just have to approve them by motion. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Susan Penner. Any comments?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3350s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. This is, like you say, housekeeping, and we approve of it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3384s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Anything further of council? Nothing in closing? Call for the question. All those in favor? That is carried. We've got 9K. This is the minor variances. Again, this is just housekeeping. Looking for a motion to approve. Councillor Zwaagstra, seconded by Councillor Penner. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3389s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "F",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I think we should approve these.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3413s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I'll vote in favor.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3416s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? Call for the question. All those in favor? Opposed? That is carried. Are there any questions of council? Okay, seeing none, we'll move on to correspondence petitions. We've got 11A. This is the Municipal Northern Relations referring to the Mobility Disadvantaged Transportation Program, the 2023 interim operating grant. So moved. Council, would you like to proceed, take it as information? Yes. Okay. And then we've got 11B, Minister of Environment and Climate Change. This is referring to the Blue Bin Recycling Advisory Committee. And here too, council, just take it as information. Okay. We've got 12A, another business. We've got a library appointment to make. We'll be— I'll be appointing Mr. Harry Trosh to the library board, and I believe he'll be starting in the new year. Looking for a motion to adjourn. I don't know why I put my hand up. Councillor Hiebert, second?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3417s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor)",
    "text": "Do you want to adjourn?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3498s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "I just want to be like you guys.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3499s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "B",
    "label": "Bill Hiebert (Councillor)",
    "text": "He can adjourn it too.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3502s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "A",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. And, uh, the next council meeting will be Tuesday, January 16th, 2024 at 7:30 PM.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=5Nrx1LnqrKM&t=3503s"
   }
  ]

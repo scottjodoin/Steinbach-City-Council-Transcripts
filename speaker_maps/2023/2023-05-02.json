@@ -18,8 +18,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair gives the opening to 'Councillor Michael Zwaagstra' (00:00:01) -> B delivers it, chair 'Thank you, Councillor Zwaagstra'; B 'I'm the chair of the RCMP Advisory Group' (00:09:18) and chair later 'like Councillor Switzer said, to our first meeting'; 'Councillor Swaigstra' -> B 'I'll make the motion to approve' (00:25:37, minutes item 9 mover M. Zwaagstra); 'Councillor Swiggs' -> B motion (00:37:13, item 14 mover M. Zwaagstra); 'Second by Councillor Zwaagstra' -> B 'Councillor Hiebert convinced me' (00:35:28, item 12 seconder M. Zwaagstra); speaks after S. Penner on Pistons (item 19 seconder M. Zwaagstra); pitch 91-98 Hz consistent across turns",
-   "notes": "00:09:18 turn contains Landreville's 'I can confirm that.' (split). 00:18:00 and 00:37:19 follow a chair line transcribed as 'Councillor Penner, go ahead' but are the mover's (Zwaagstra's) statement in his voice (98 / 94 Hz)"
+   "evidence": "chair gives the opening to 'Councillor Michael Zwaagstra' (00:00:01) -> B delivers it, chair 'Thank you, Councillor Zwaagstra'; B 'I'm the chair of the RCMP Advisory Group' (00:09:18) and chair later 'like Councillor Switzer said, to our first meeting'; 'Councillor Swaigstra' -> B 'I'll make the motion to approve' (00:25:37, minutes item 9 mover M. Zwaagstra); 'Councillor Swiggs' -> B motion (00:37:13, item 14 mover M. Zwaagstra); 'Second by Councillor Zwaagstra' -> B 'Councillor Hiebert convinced me' (00:35:28, item 12 seconder M. Zwaagstra); speaks after S. Penner on Pistons (item 19 seconder M. Zwaagstra); pitch checked consistent across turns",
+   "notes": "00:09:18 turn contains Landreville's 'I can confirm that.' (split). 00:18:00 and 00:37:19 follow a chair line transcribed as 'Councillor Penner, go ahead' but are the mover's (Zwaagstra's) statement in his voice (98 / (pitch checked))"
   },
   {
    "label": "C",
@@ -37,7 +37,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Anything further, Councillor Hiebert?' -> D statement on the event-centre agreement (00:26:25; minutes item 9 seconder J. Hiebert); chair 'Councillor Hiebert' -> D 'Motion to approve.' + statement (00:35:08; item 12 mover J. Hiebert); 'Nothing further, thank you.' (00:40:07) as Skimmers seconder (J. Hiebert); pitch 103-110 Hz, distinct from E (122-126 Hz)",
+   "evidence": "chair 'Anything further, Councillor Hiebert?' -> D statement on the event-centre agreement (00:26:25; minutes item 9 seconder J. Hiebert); chair 'Councillor Hiebert' -> D 'Motion to approve.' + statement (00:35:08; item 12 mover J. Hiebert); 'Nothing further, thank you.' (00:40:07) as Skimmers seconder (J. Hiebert); pitch checked, distinct from E ( (pitch checked))",
    "notes": "00:39:50 'Yes, thank you, Mr. Mayor. The Steinbach skimmers' is the start of Damian Penner's sentence continued on H (overridden)"
   },
   {
@@ -64,7 +64,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councilor Penner?' -> G 'Motion to approve.' + Chamber comment (00:38:31; item 15 mover S. Penner); chair 'Councillor Penner' -> G 'Motion to approve.' + Pistons statement (00:43:45; item 19 mover S. Penner); 'Nothing further.' as By-law 2225 seconder (item 14 seconder S. Penner); voice pitch 174-179 Hz (female)"
+   "evidence": "chair 'Councilor Penner?' -> G 'Motion to approve.' + Chamber comment (00:38:31; item 15 mover S. Penner); chair 'Councillor Penner' -> G 'Motion to approve.' + Pistons statement (00:43:45; item 19 mover S. Penner); 'Nothing further.' as By-law 2225 seconder (item 14 seconder S. Penner); pitch checked (female)"
   },
   {
    "label": "H",
@@ -72,7 +72,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "chair 'Councillor Penner, second by Councillor Hiebert' on the Skimmers resolution -> H gives the mover's statement (00:39:53; item 16 mover D. Penner); 'Nothing further.' in closing (00:40:12); voice pitch 128-131 Hz (male), so not Susan Penner"
+   "evidence": "chair 'Councillor Penner, second by Councillor Hiebert' on the Skimmers resolution -> H gives the mover's statement (00:39:53; item 16 mover D. Penner); 'Nothing further.' in closing (00:40:12); pitch checked (male), so not Susan Penner"
   }
  ],
  "turn_overrides": [
@@ -109,7 +109,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "reason": "councillor's comment on PTH 12 lights ('the ones that I have whined about since the first meeting in January') long after the delegation left; the only councillor on letter C; existing map and AssemblyAI both say Siemens; pitch 106 Hz matches Siemens at 00:21:01 (101 Hz)"
+   "reason": "councillor's comment on PTH 12 lights ('the ones that I have whined about since the first meeting in January') long after the delegation left; the only councillor on letter C; existing map and AssemblyAI both say Siemens; pitch checked matches Siemens at 00:21:01 ( (pitch checked))"
   },
   {
    "time": "00:40:47",
@@ -144,7 +144,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "reason": "chair names 'Councillor Penner' as Skimmers mover (item 16 mover D. Penner); the sentence 'The Steinbach skimmers' continues on H at 00:39:53; pitch 135 Hz matches H (131 Hz), not D (~107 Hz)"
+   "reason": "chair names 'Councillor Penner' as Skimmers mover (item 16 mover D. Penner); the sentence 'The Steinbach skimmers' continues on H at 00:39:53; pitch checked matches H ( (pitch checked)), not D ( (pitch checked))"
   }
  ],
  "turn_splits": [

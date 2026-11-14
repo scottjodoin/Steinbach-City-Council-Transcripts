@@ -23,7 +23,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor)",
    "text": "Your computer froze. It's been on 7:29 for 3 minutes.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=0s"
   },
   {
@@ -39,7 +39,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "I've been watching. I'd like to call this meeting to order. Welcome here, everyone. And at this time, I'd like to give the opening to Councillor Jake Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2s"
   },
   {
@@ -55,7 +55,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I recently sat down with my mother-in-law to ask her questions about how, since her birth in 1927, What was it like as a child growing up in Steinbach? What was it like, how Steinbach has changed and how the world has changed since then? [name withheld] was born and raised on a farm off Loewen Boulevard, a half a mile east of Steinbach. The attending physicians who came to the farm were Dr. Schiltzer and his wife, who also was a doctor. Her father, Peter Reimer Toews, was an established figure in the community, having migrated or immigrated from Russia in 1874. With his first wife, they had 13 children. One of the children was the mother of Mr. Jake Epp, a former high school teacher, City of Steinbach councillor, and then became a member of Parliament. Except for the 3 of the children, the children were all grown up before [name withheld]' first wife passed away. [name withheld]' first wife died at 48. Mom's father married a lady born from Russia who came to Canada in her 30s. This was mother-in-law's mother. Mom, as I call her, grew up with her younger brother, [name withheld], also well known in the community. When on the farm, there was a community phone line and it was noted for people listening into other people's phone calls. The Toews' phone ring was identified as 2 audible rings. Her father took her to school by horse, sleigh, and buggy. [name withheld] was a farmer who made his living on the farm till 1938 when he moved to the village of Steinbach. He sold Mennonite Mutual Insurance, was a school trustee, and a devoted member of the Kleingemeinde Church. Mom was 11 of age when the family moved. In In grade 3, she went to a school where civic— where the Steinbach Civic Centre is located, the building we are seated in right now. She recalls that the school was referred to as the White School or Kinnelson School. Steinbach at the time had a population of 1,700 people. In 1939, she attended grade 5, which she referred to as the Steinbach Collegiate, the same building where SAC is now located. Later, it became the Steinbach Junior High. Mom recalls that in those early years there were no airplanes, rockets, computers, etc. Much of the travel was still horse-drawn wagons and sleds. At the time, Steinbach became the hub of commerce, shopping hub for the southeast. H.W. Reimer had a big store in the village, a store known as the department store of the southeast. Being the hub of the southeast, people would travel to come here where they were able to buy most items, including frozen fish from the north, shoes, clothes, sleighs, etc. Steinbach had very few cars at the time, and those were relegated to only the very rich. Horses were the main mode of transportation, and when idle, horses were hitched to the hitching post along Main Street. To visit relatives on the other side of the Red River, or known as Yancyde, was a monumental trip encompassing several days. When the immigrants came to Canada, or to Steinbach in 1874, and after having survived the first winter, the men of the community had a meeting to discuss moving Steinbach to Mountain Lake In Minnesota, move to Nebraska, or maybe Kansas, where it was thought to be better weather and the land was more suited to agriculture. In those days, women were not allowed to speak up in public. However, Mom's great-grandmother, who was known not to speak up, spoke. She addressed those present, stating, we are not moving. God has provided and given us this place, and he will provide again. She was able to persuade the men and everyone else to remain in Steinbach. It is Mom's impression that had this great-grandmother not spoken up, Steinbach would not be what it is today. You could say it decided the destiny of Steinbach. Originally in Steinbach, there was only the Kleingemeinde Church, a church that was not allowed any musical instruments, and the people were, as Mother says, unsure of their salvation. What resulted subsequently was a time Mom called an infusion of churches. When the Russlender immigrated to Steinbach, they started the Mennonite Brethren Church, the MB, and the original church was started in a home setting. They were known for their preaching of salvation and being born again. Also at this time was Mr. John Hildamon, started the Church of God in Christ, or what is referred to as the Hildamon Church. Also, a [name withheld] and a Mr. Wall came to Steinbach from Mountain Lake, Minnesota, and started the Evangelical Mennonite Church, the MB. Mom noted that this infusion of churches changed the mental outlook of Steinbach. The Kleingemeinde had no musical instruments. The EMB and the MB had 4-part harmony and a piano. That is when music came to the Steinbach churches. Mom remembers the Second World War, 1939 to '45. German was immediately dropped from the school. Instead, students were taught and learned patriotic songs that spoke about Canada belonging to Britain. Such songs included Britain Rules the Waves, with lyrics such as Britons never, never shall be slaves. Anti-German sentiment was prevalent in the school and in the community. In the '30s, England was considered a powerhouse of the world with many of the countries joining in to form the Commonwealth. In fact, with so many countries joining, it was said that the sun never sets on the British Empire. How has Steinbach changed? Of course, the population has increased from 1,700 today to nearly 20,000. We no longer use horses as our mode of transportation. School buses take children to school. Airplanes make for faster travel. Steinbach has an airport and a trucking industry that has enabled Steinbach to continue to be the hub of the Southeast. Children, for the most instance, are born on— are not born on the farm, but rather in our modern hospital. Mom is celebrating her 96th birthday this July. She is sharp and spry as ever. Her memory is outstanding, and the information and genealogy she can recall Is exceptional. She is the first to admit that this world has changed drastically during the 96 years. She has seen Christianity aspect of the community waning, for which she is sad. However, she notes that the positive, positive things in life are more to be expounded. Her favorite Bible verse is Lamentations 3:22-23. Because of the Lord's great love, we are not consumed, for his compassion never fails. The They are new every morning. Great is your faithfulness. It is noted that God has been faithful and merciful to her, to the citizens of this community, and to the City of Steinbach.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=18s"
   },
   {
@@ -71,7 +71,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor Hiebert. Council, we have the agenda in front of us, looking for a motion to adopt. Councillor Spicer, seconded by Councillor Penner. Comments? Call for the question. All those in favor? Opposed? That is carried. We have the minutes of June 6th, 2023, regular council meeting. Start on page 1. You've all had a chance to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Penner. Any comments? No comments. Call for the question. All those in favor? Opposed? That is carried. Are there any business arising from the minutes? Okay, seeing none, we will move ahead. I can see that it is past 7:35, so we'll go directly into the public hearing. We've got 6A. This is variance V-2023-04. It's referring to 218 Brandt Street. It starts on page 4 of your package. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=386s"
   },
   {
@@ -87,7 +87,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor, members of council. Variance application file V-2023-04 The next item on the agenda is being applied for by Conrad Penner. The owners of the subject property at 218 Brandt Street are Penner Auction Sales Ltd. Purpose of the variance application is to permit a front yard fence of 6 feet in height, whereas the C-3 commercial corridor zone permits a maximum fence height of 3 feet in the front yard setback. 6-foot-high fence located within the front yard that was installed many years ago. The— as I mentioned, subject property is zoned C-3 commercial corridor. The subject property is also designated commercial under the city's official community plan. The applicant operates an auction yard on the subject property, which is an existing nonconforming use on this site. The variance application for the fence is being made post-installation with city records indicating that the fence was originally installed in 2016. The existing 6-foot-high fence around the large portion of the site is shown in the attached sketch. A portion of the fence that is indicated that is applicable to the particular variance is shown in yellow with the remainder of the fence to the rear of the property and the rear of the building Thank you. I have 2 motions before council. The first is to approve the variance application shown in red. Recommendation from administration is that subject to any new evidence being provided at the public hearing, council approve the variance to permit the 6-foot-high front yard fence for the portion of the yard or for a portion of the front yard of the property where it currently exists. And secondly, that the approval be subject to the owner providing an approved lot grading plan that complies with the city's specifications.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=450s"
   },
   {
@@ -103,7 +103,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warting. Council, I'm a little rusty. This is our first public hearing of the year, and I forgot to close the council meeting and open the public hearing, so I'm doing so now. The council meeting's officially closed. The public hearing is open. So we've had our introduction. Mr. Warting has introduced the file. Is the applicant here today? Yes. Do you wish to speak? Okay. Are there any questions of council? Okay.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=566s"
   },
   {
@@ -119,7 +119,7 @@
    "voice": "E",
    "label": "Earl Funk (Mayor)",
    "text": "Mr.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=600s"
   },
   {
@@ -135,7 +135,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Penner. Would you please approach the podium, state your name and your address, and then I will— Councillor Siemens, and you can go ahead and ask your question.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=601s"
   },
   {
@@ -151,7 +151,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "Hi, I'm Conrad Penner. My address is 32036",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=611s"
   },
   {
@@ -167,7 +167,7 @@
    "voice": "F",
    "label": "Earl Funk (Mayor) [medium]",
    "text": "Welcome to council.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=611s"
   },
   {
@@ -183,7 +183,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "The request here is to approve a variance on a 6-foot fence that was put in 2016, and administration, including the city planner report, they say that makes sense. One of the things that we're going to be asking for, potentially be asking for, and was a recommendation from administration, is to approve this with regards to a lot grading plan as well, because that would— that is part of our city specifications when any development happens. You've got to manage the water on your own site. Can you speak to that? Are you planning to do a lot grading plan?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=623s"
   },
   {
@@ -199,7 +199,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "Well, we did one originally when we did the lot grading, so we haven't changed anything since then. I'm not sure if there's something else that needs to be done.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=659s"
   },
   {
@@ -215,7 +215,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Okay, so does the city have that lot grading plan? Apparently we don't have it in stock or in our records, so you'd have to supply that as well. Oh, really? Okay. So you're not aware of that, but so you're not planning— you weren't planning to do a lot grading plan?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=665s"
   },
   {
@@ -231,7 +231,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "We had no plans of it, no.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=684s"
   },
   {
@@ -247,7 +247,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Okay.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=685s"
   },
   {
@@ -263,7 +263,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Okay. Question from Councillor Zwaagstra.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=687s"
   },
   {
@@ -279,7 +279,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. And according to the information that we have here, you were sent a letter in 2016 I know that there was a letter in 2016 indicating that the current fence is not in compliance and that you were given an outstanding work order. I'm just curious, how come we're sort of— this was not addressed before council long before reaching this point? Like, as far as, like, when you received that letter, did you respond to the city, or what was the communication at the time?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=692s"
   },
   {
@@ -295,7 +295,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "Yeah, they had applied for a variance Several times, and for some reason it just never got filed, and then just kept getting prolonged.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=722s"
   },
   {
@@ -311,7 +311,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Just a clarification, it was not filed by you?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=731s"
   },
   {
@@ -327,7 +327,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "No, it wasn't, no.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=738s"
   },
   {
@@ -343,7 +343,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, so it wasn't our city staff that was prolonging it?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=739s"
   },
   {
@@ -359,7 +359,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "No, it was our guys. They never submitted it. They filled out the form and they never actually submitted it, so then it just got, you know, lost.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=742s"
   },
   {
@@ -375,7 +375,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you. Is that—",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=751s"
   },
   {
@@ -391,7 +391,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "That answers my question.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=754s"
   },
   {
@@ -407,7 +407,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "That answers your question. Anything further, council? Yes, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=755s"
   },
   {
@@ -423,7 +423,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. When we're looking at that area, if you're driving along the highway, you look at a— you're putting up a 6-foot fence, it covers the couple of feet going into your property and you can still see the rest of the property and You know, not to be, you know, direct or anything, but, you know, it doesn't look that well coming into the city, and obviously that's one of the reasons you want a fence. Have you thought of anything other than a 6-foot fence that would help beautify that area at all?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=760s"
   },
   {
@@ -439,7 +439,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "We have not thought of anything else, no.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=798s"
   },
   {
@@ -455,7 +455,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "But you're aware that a 6-foot fence will just, people will still look over top because the highway is high, right?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=803s"
   },
   {
@@ -471,7 +471,7 @@
    "voice": "F",
    "label": "Conrad Penner (Applicant, Penner Auction Sales Ltd.)",
    "text": "Yeah.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=808s"
   },
   {
@@ -487,7 +487,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Okay, thank you, Mr. Mayor.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=809s"
   },
   {
@@ -503,7 +503,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Is there, okay, seeing nothing. Is there anyone here with comments, questions, or objections to this file? I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay. Seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Zwaagstra.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=812s"
   },
   {
@@ -519,7 +519,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I'll make a motion to approve the 6-foot-high fence. With the condition that the approval be subject to the owner providing an approved lot grading plan that complies with the city specifications.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=851s"
   },
   {
@@ -535,7 +535,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Do we have a seconder? Councillor Penner? Okay, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=863s"
   },
   {
@@ -551,7 +551,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. On one hand, the application is a straightforward one. Our staff have reviewed it and say that it makes sense with this particular property to allow a 6-foot fence. And so I have no issues with that at all. In that sense, it's very straightforward. And it's disappointing that it's taken this long for this to be addressed with the city because it is— this is actually a really simple process. And so this requirement that an approved lot grading plan be supplied, it does need to actually happen. It needs to get done. And that is a condition of the variance here. But for future reference, obviously it's important to preferably, strongly preferably, apply prior to the fact, even when it seems like a fairly obvious one. And secondly, when receiving notification from the city that something's not in compliance, Thank you. compliance, it does need to be addressed much sooner than this. But on the whole, the application is a straightforward one. I have no problem with allowing the existing fence to continue.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=868s"
   },
   {
@@ -567,7 +567,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Councillor. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=924s"
   },
   {
@@ -583,7 +583,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. I know that there has been discussion with regards to it, the looks of the property and as such, but the purpose of this fence is obviously for security, not for beautification. And so that's the I'm making an assumption here about the reason the applicant has the fence there. And so it's not with regards to beautification, it's with regards to their own security. And as such, I think it is appropriate to have the fencing around their property.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=927s"
   },
   {
@@ -599,7 +599,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Any further council? Councillor Stevenson.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=953s"
   },
   {
@@ -615,7 +615,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I'll vote in favour of the motion. And I would just like to express also that it is critical that a lot grading plan be That is complied with as well. A lot grading plan is— means where they need to manage the water on their own site, basically. And there's also more development happening in that area. If there is, if they don't put a lot grading plan in place, then that might affect the— how the lots drain in that area. So I think it is critical too, and it is part of the motion. So I appreciate that. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=957s"
   },
   {
@@ -631,7 +631,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further of council? Anything in closing? No. Well, council, I'll call for the question. All those in favor? Opposed? That is carried. Variance approved. We'll move on to 6B. This is variance V-2023-07. This is referring to 188 Lund Road. Council, this starts on page 15 of your package. And Mr. Warkentin, could you please introduce this file?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=995s"
   },
   {
@@ -647,7 +647,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor and members of council, variance application file V-2023-07 is being applied for by Stefan Hodelman. The owner of the property is 1014694 Manitoba Inc. Purpose of the variance application is to permit the applicant is proposing a residential multifamily structure to have a height of 4 storeys, whereas City of Steinbach Zoning Bylaw 2100 permits a multifamily structure to have a maximum height of 3 storeys in the RMD, residential medium density zone. Notices pursuant to the Planning Act have been issued. There is no written correspondence on file. The subject property is designated as residential under the city's official community plan. The immediately surrounding properties in the area are zoned a mix of RMD residential medium density, RSF residential single family, and O open space. The application indicates that approximately half of the depth of the proposed basement floor of the structure. Will be built below grade, resulting in an overall proposed height of the structure to be approximately 41.5 feet above grade. I have provided some additional background and precedent information for council's information and consideration. At the end of the day, recommendation from administration is for council to approve the variance application subject to any new evidence being presented at the public",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1029s"
   },
   {
@@ -663,7 +663,7 @@
    "voice": "D",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, council, at this time I will, uh, close the council meeting, open the public hearing.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1029s"
   },
   {
@@ -679,7 +679,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Um, we— the, uh, file has been introduced. Is the applicant here today, and would you like to speak? Take the podium, state your name and address.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1135s"
   },
   {
@@ -695,7 +695,7 @@
    "voice": "H",
    "label": "Stefan Hodelmann (Applicant, 1014694 Manitoba Inc.)",
    "text": "Good evening, council. It's good to be back. Um, my name is Stefan Hodelman. Um, I live at 36161 Loewen Boulevard. Yes, as was explained, it's— this file is actually quite technical and— or the cause for the variance is quite technical. So National Building Code actually does not consider the basement a story. And we've built a similar building, for example, in the City of Morden. This is considered a 3-story because the basement, generally speaking, does not count as a story. For example, a 2-story with a basement is It's not a 3-story. But however, the, uh, currently the Steinbach zoning bylaws don't align with, align with National Building Code. It is my understanding and what I've gathered from his administration that with the next zoning bylaw review, that is the intent, to align the building code and the zoning code. So yeah, for right now, um, it's not as much a question about the physical height of it. Okay. The definition of whether a basement's considered a story or not. Just on a side note, if there was no units in the basement floor and it was just storage, the zoning bylaw considers it a cellar and we're good again. That is permitted. So it's a super technical question and it looks like, it appears that, you know, once that next zoning bylaw review happens, we wouldn't require this. Okay. variance at all.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1145s"
   },
   {
@@ -711,7 +711,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Okay, Councillor, any questions for the applicant? Thank you. Is there anyone here with comments, questions, or objections to this file? Okay. If you want to speak, you can— you have to go to the podium, state your name and your address, and then you can—",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1231s"
   },
   {
@@ -727,7 +727,7 @@
    "voice": "E",
    "label": "Resident 1",
    "text": "I'm [Resident 1] from Mitchell. Okay. We own the— and I can go ahead?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1255s"
   },
   {
@@ -743,7 +743,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, you can go ahead.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1262s"
   },
   {
@@ -759,7 +759,7 @@
    "voice": "E",
    "label": "Resident 1",
    "text": "We own the lot next to that, 180 Lund. And yeah, so I have one question I have is how the parking is going to work. We built a 6-plex and that was all we thought there was room for because of the parking requirements on the lot.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1263s"
   },
   {
@@ -775,7 +775,7 @@
    "voice": "H",
    "label": "Stefan Hodelmann (Applicant, 1014694 Manitoba Inc.)",
    "text": "Okay. I can speak to that. So we actually have approved structural drawings. We've done the whole 9 yards. This is the last holdup. So obviously we have a— we have this engineered site layout and parking and all that stuff approved with City of Steinbach. So for the parking, in fact, there's no variances required. It was just a different lot arrangement, I believe, than the one that you have, and we were able to, without requiring any variances, for the parking to do this project.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1286s"
   },
   {
@@ -791,7 +791,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, it does state in our package and all our information that the parking requirements have been met by Mr. Holdeman. So I'll ask again, is there anyone here with comments, questions, or objections to this file? Okay, go ahead.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1315s"
   },
   {
@@ -807,7 +807,7 @@
    "voice": "E",
    "label": "Resident 1",
    "text": "Thank you, Mr. Mayor. Yeah, we just own the next one and we're feeling kind of closed in now with the ones behind us getting so big and now there's a big one there beside us. So it's just that we don't have a good reason.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1342s"
   },
   {
@@ -823,7 +823,7 @@
    "voice": "B",
    "label": "Resident 1 [medium]",
    "text": "It's just that we don't like it.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1355s"
   },
   {
@@ -839,7 +839,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay. That's fair, fair. But you're not formally objecting?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1355s"
   },
   {
@@ -855,7 +855,7 @@
    "voice": "B",
    "label": "Resident 1 [medium]",
    "text": "No.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1355s"
   },
   {
@@ -871,7 +871,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, you're just, you're just saying it, it's a little tight and you don't like it where it is. Okay. Okay. So I'll ask again, is there anyone here with any more comments, questions, or objections to this file? No. Okay, I'll ask one more time. Is there anyone here with comments, questions, or objections to this file? Okay, seeing none, I will close the public hearing, open the council meeting. Council, how would you like to proceed? Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1355s"
   },
   {
@@ -887,7 +887,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "I'll make a motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1401s"
   },
   {
@@ -903,7 +903,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, do we have a seconder? Seconded by Councillor Zwaagstra. Go ahead, Councillor.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1402s"
   },
   {
@@ -919,7 +919,7 @@
    "voice": "E",
    "label": "Bill Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I think Mr. Alderman has done a good job of doing his research. I think it fits into the region very nicely. There's a lot of buildings similar to this. Thank you. We may not have basements or basement suites, but I think it's a good fit and I think it's good for the city as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1408s"
   },
   {
@@ -935,7 +935,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1426s"
   },
   {
@@ -951,7 +951,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. The reason is pretty straightforward. Even though the height is not that much different than a regular 3-storey building, because there is a basement unit, then that counts as a 4th storey. There is precedent for this at 71 Chrysler Gate. We had approved a 4-storey Okay. Where, again, the main— the one at the bottom was in the basement. And so we've done this kind of thing before. It should also be noted in our information here that at the 3-storey multifamily structure at 216 Woodhaven Avenue west of the subject property, that height is 36.5 feet above grade. This one would be 41.5. And so we're really talking about a 5-foot difference between this one and one that's right by it there. So I don't see any problem with this. I think it makes sense to allow it to go ahead.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1429s"
   },
   {
@@ -967,7 +967,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Anything in closing? Nothing. Yeah, council, I will also approve this motion based on the comments that have been said. So we'll call for the question. All those in favor? Opposed? That is carried. Thank you. Thank you. Have a good evening. Okay, council, we have no delegations. We've got— we'll go down to 8A, reports and recommendations from city manager. This is Wyndham 3-way stop sign request. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1476s"
   },
   {
@@ -983,7 +983,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor. This particular matter was first heard by This report was submitted to council back in August of 2022, so it has taken a bit more time to provide a response as was originally anticipated. However, this particular item is a report related to an original 3-way stop sign request filed by a resident of the Hampton Village neighborhood, specifically to request council To consider the intersection at Wyndham Estate Drive and Ashford Lane, which is currently a single stop sign located on Ashford Lane with a— with through traffic permitted on Wyndham Estate Drive. The request from the homeowner was that council consider installing a 3-way stop at that location. City administration asked staff to complete a review. Thank you. Okay. The city did a traffic review pursuant to the city's standard that it reviews its traffic control device installation throughout Steinbach, and based on that review, it was found that the— that the vehicular traffic volumes were observed to be low. Traffic speeds were well within the posted 50 km/h speed limits. The intersection visibility is excellent in all directions, and the vehicle wait times at the Based on the overall report and the detailed report that is provided within the information package from the city's engineer, administration recommends that no additional stop signs be installed at this intersection.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1517s"
   },
   {
@@ -999,7 +999,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1623s"
   },
   {
@@ -1015,7 +1015,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Could I ask through you, ask a question to administration?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1628s"
   },
   {
@@ -1031,7 +1031,7 @@
    "voice": "H",
    "label": "Susan Penner (Councillor)",
    "text": "Is that place to be Is that structure or that park— I guess, is that installed already?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1632s"
   },
   {
@@ -1047,7 +1047,7 @@
    "voice": "I",
    "label": "Susan Penner (Councillor)",
    "text": "Is that park being used?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1639s"
   },
   {
@@ -1063,7 +1063,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "The park is being used. The picnic shelter structure was installed late last summer. My understanding is that the play structure that is also intended for the site, that installation for that began this spring. I do not know what the state of its completion is.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1640s"
   },
   {
@@ -1079,7 +1079,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "And then the other question I have, like, just what, what time of day in the report were these studies conducted? Would it have covered like school hours and stuff? 'Cause that is right close to a school, a park. So I guess my question is part of that would depend on— Depend on. The usage would depend on.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1662s"
   },
   {
@@ -1095,7 +1095,7 @@
    "voice": "H",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "On the time of day?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1689s"
   },
   {
@@ -1111,7 +1111,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Yes, in the second paragraph of the attached report on page 36, it doesn't indicate what particular time. However, the standards for traffic monitoring follow the typical details that the city uses for its regular traffic count reports, but the city's engineer indicates the intersection was monitored for 1 hour during the morning and 1 hour during the afternoon during peak traffic periods during weekdays while school was in session.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1690s"
   },
   {
@@ -1127,7 +1127,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Councillor Penner, on page 36, I think it's the 7th paragraph down, it says during these periods of observed traffic was at or below the speed limit.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1720s"
   },
   {
@@ -1143,7 +1143,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Susan Penner) [low]",
    "text": "No, I've read it.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1736s"
   },
   {
@@ -1159,7 +1159,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "It's the only negative observation, so it must have been done during school time, like during, during going home, because it says the observation was parents were parking facing the wrong way. So I would assume it was done during the end of school. Okay. Anything further? Council, how would you like to proceed? Councillor Siemens?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1739s"
   },
   {
@@ -1175,7 +1175,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I'll make the motion to deny and follow the recommendations of our— of the city guidelines.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1767s"
   },
   {
@@ -1191,7 +1191,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Hiebert. Go ahead, Councillor Siemens.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1776s"
   },
   {
@@ -1207,7 +1207,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "Thank you, Mr. Mayor. You know, when people request a stop sign, I'm obviously— I always think that they're the ones who are going to be stopping. Then we should move forward with it. But on the other hand, we also have adopted a guideline, and it's been reviewed every 5 years. We review those guidelines for traffic control devices, and we have done our due diligence over time. We've removed stop signs when that has been the indication. We've also added stop signs different places. So I understand the concern here. I think The safety of pedestrians is critical. We have some— a few sidewalks in that area. And this is also— one of the concerns I have with this is it is also an access. If we at some point put an access to the play structure park through that area, then we can look at a stop sign at that point. But I think at this time, since there's no traffic necessarily going across the street there, right there— Right. I think that we should follow the city guidelines and deny.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1780s"
   },
   {
@@ -1223,7 +1223,7 @@
    "voice": "C",
    "label": "Jake Hiebert (Councillor)",
    "text": "Thank you, Mr. Mayor. I'd like to start off by acknowledging the hard work that [name withheld] has done in this regard. This has been an issue that's been before council for a couple of years now. She has also done her due diligence and she's done work on getting the park in that area, so My hat goes off to her for the work that she's done. On the other hand, yes, we have a park here, we have a green space, we have the middle school in that area, but as indicated by Councillor Siemens, our administration has done their due diligence in doing a count on the traffic, on the pedestrians, and the review does not support further signage. Thank you. Yes, the safety of our children is foremost and utmost, but in view of the recommendations by administration that a sign in the— a stop sign in this area is not warranted, I agree with Councillor Siemens that we deny the motion.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1849s"
   },
   {
@@ -1239,7 +1239,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you. Anything further, council? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1917s"
   },
   {
@@ -1255,7 +1255,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I will not support the motion tonight. That area is close to school, many families with young kids. Also, there's going to be a park, and there, there's no crosswalk at that intersection either. I know where would the crosswalk go because there's no sidewalk on the other side, but kids still do need to cross who live on the other side. I think this is a little bit of a unique circumstance. I see this, it's a bit of a similar situation with SCS, Steinbach Christian School, asking for a crosswalk on the number 12. Every time the study's done, Well, the numbers don't warrant it, but at the same time, it would make sense to have one 'cause it's by a school.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1922s"
   },
   {
@@ -1271,7 +1271,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor)",
    "text": "So I just think we should take extra care in this situation and it makes sense to put a crosswalk, to put a crosswalk there based on location to the school, based on the number of families, and based that there's, there's gonna be a park that's gonna be used by kids.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1962s"
   },
   {
@@ -1287,7 +1287,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "So I will not support the motion.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1977s"
   },
   {
@@ -1303,7 +1303,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1978s"
   },
   {
@@ -1319,7 +1319,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I think just to address, the request is for a stop sign, not a crosswalk. So would the friendly motion be, or a friendly amendment potentially would be, to put a crosswalk there as well? Although they are asking for a stop sign.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=1986s"
   },
   {
@@ -1335,7 +1335,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "I wouldn't want to accept that amendment without getting feedback from administration on that, so.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2007s"
   },
   {
@@ -1351,7 +1351,7 @@
    "voice": "E",
    "label": "Jac Siemens (Councillor)",
    "text": "I appreciate the comments from Councillor Penner. And I think once we— that area gets developed a bit more and there will be a crossing that continues on the other side of that intersection, then I believe then we'll have to do something that would warrant it. More so, but at this point, I think we need to deny.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2013s"
   },
   {
@@ -1367,7 +1367,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Well, council, this is a— this is a— it's a tough question because there it is, public safety. There are the safety of kids involved here. I do travel that area a lot, and I would have to say at this point What I see, it probably doesn't warrant any action at this time, but I think this has to be on our radar. And as we have a connection through there and there is a playground that's going to be used, I would like to see something happen there, whether it is a stop sign or a crosswalk, but something has to be made safer for the children. Once that is fully developed and where that is, maybe we should bring it back and look at it in next spring after things are— then we would have some, we'd know how many kids are exactly going across to play at the park and that. At this point, I would say it could stay unsignalized. Okay. But I think down the road, I think we should be looking at this because I think it's— it could cause some safety concerns. Call for the question. All those in favour? Opposed? That's carried. 9, administration. Accounts payable in the back of the book. All those in favour? We've all had an opportunity to review. Looking for a motion to approve. Councillor Hiebert, seconded by Councillor Stevens. Any comments? No comments. Call for the question. All those in favor? Opposed? That is carried. We have 9B. This is bylaw 2228. This is plan of drain. This is referring to 35105 Road, 36 North. Council, today we'll be doing— it just says first reading in our agenda. We'll be doing first and second reading. Mr. Warkentin, could you please introduce this file?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2037s"
   },
   {
@@ -1383,7 +1383,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Thank you, Mr. Mayor and members of council. Bylaw 2228 is a bylaw to authorize the opening of a drain plan, which is located just north of the intersection of Loewen Boulevard and Old Tom Road in Steinbach, and it does form part of a redevelopment proposal of a residential neighborhood by a potential developer within the city of Steinbach. Recommendation from administration is for council to give this bylaw first and second reading, which would designate the existing portion of the Manning Canal drain, which forms part of this phase of the development, and proceed with that bylaw through the approval process.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2170s"
   },
   {
@@ -1399,7 +1399,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2221s"
   },
   {
@@ -1415,7 +1415,7 @@
    "voice": "B",
    "label": "Damian Penner (Councillor) [medium]",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2221s"
   },
   {
@@ -1431,7 +1431,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Switzer. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2221s"
   },
   {
@@ -1447,7 +1447,7 @@
    "voice": "A",
    "label": "Damian Penner (Councillor)",
    "text": "Thank you, Mr. Mayor. It's very important that when we're building— when developers are building infrastructure, that they're building good infrastructure that will be around for hundreds of years and not underwater. So they need to move that water somewhere.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2232s"
   },
   {
@@ -1463,7 +1463,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2245s"
   },
   {
@@ -1479,7 +1479,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "I can't argue with that. I'm convinced.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2248s"
   },
   {
@@ -1495,7 +1495,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yes, council, this drain for this area will improve the drainage so significantly. I think it will take care of the drainage problems we've been having at that corner and looking forward to the development, looking forward to The whole water problem being rectified. So yes, I will support the motion. Call for the question. All those in favor? Opposed? That is carried. We'll go directly into second reading. Looking for a motion to approve. Councillor Penner, seconded by Councillor Hiebert. Any comments?",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2253s"
   },
   {
@@ -1511,7 +1511,7 @@
    "voice": "E",
    "label": "Unidentified (possibly Susan Penner) [low]",
    "text": "No comments.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2290s"
   },
   {
@@ -1527,7 +1527,7 @@
    "voice": "F",
    "label": "Unidentified (possibly Jake Hiebert) [low]",
    "text": "No further comments needed. Thank you.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2291s"
   },
   {
@@ -1543,7 +1543,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Call for the question. All those in favor? Opposed? That is carried. Thank you, Cari. We've got 9C, the 2023 PSAP adjustments. Mr. Warkentin, could you please introduce this?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2294s"
   },
   {
@@ -1559,7 +1559,7 @@
    "voice": "D",
    "label": "Troy Warkentin (City Manager)",
    "text": "Mr. Mayor, the city's 2023 financial plan was approved by city council on March 21st, 2023. The city's financial auditors for— or the city's financial auditors have recommended that an additional version of Yes. That the city's 2022 annual budget adjusted for PSAB requirements, or Public Sector Accounting Board requirements, be adopted each year. The PSAB-based budget is attached. It's provided on page 43. It's fairly short, but it does incorporate the key adjustments for financial reporting that ultimately will become part of the city's 2023 financial statement and reporting. that council approve this 2023 PSAB-adjusted budget.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2307s"
   },
   {
@@ -1575,7 +1575,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you, Mr. Warkentin. Council, how would you like to proceed? Councillor Zwaagstra, motion to approve?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2354s"
   },
   {
@@ -1591,7 +1591,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Yeah, I'll make the motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2363s"
   },
   {
@@ -1607,7 +1607,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Second by Councillor Penner. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2364s"
   },
   {
@@ -1623,7 +1623,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. This is, uh, as noted here, is just, uh, approving, uh, this budget based on the PSAB requirements. And so Makes sense to go ahead with it.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2367s"
   },
   {
@@ -1639,7 +1639,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further? No. Anything further, council? Anything closing? Nope. Over the question, all those in favor? Opposed? That is carried. Okay, council, 9D on page 44, we've got the business licenses, looking for a motion to approve. Councillor Hiebert, second by Councillor Hiebert.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2376s"
   },
   {
@@ -1655,7 +1655,7 @@
    "voice": "F",
    "label": "Jake Hiebert (Councillor) [medium]",
    "text": "No further comment.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2397s"
   },
   {
@@ -1671,7 +1671,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Okay, we'll call for the question. All those in favor? Opposed? That is carried. 9E, building permits. Councillor Susan Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2401s"
   },
   {
@@ -1687,7 +1687,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "Motion to approve.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2412s"
   },
   {
@@ -1703,7 +1703,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Seconded by Councillor Zwaagstra. Go ahead, Councillor Penner.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2413s"
   },
   {
@@ -1719,7 +1719,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor)",
    "text": "I always enjoy looking at, uh, the building permits.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2418s"
   },
   {
@@ -1735,7 +1735,7 @@
    "voice": "I",
    "label": "Susan Penner (Councillor)",
    "text": "What's really great about, uh, this month is that there are 24 single and 2-family units coming up. Prior to that, the total was 12 for the year so far. So this really triples single and 2-family units. So that's really encouraging to get that going. And based on our strong commercial year, I'm assuming, you know, single-family, that's going to start catching up as well because as people come to our community to work and live, they'll need places to live. So that's really encouraging.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2421s"
   },
   {
@@ -1751,7 +1751,7 @@
    "voice": "G",
    "label": "Susan Penner (Councillor)",
    "text": "And another thing to take note of is the hospital parking lot expansion is on its way. So that's going to be really appreciated, I know, by that neighbourhood as well.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2453s"
   },
   {
@@ -1767,7 +1767,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Thank you very much. Anything?",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2462s"
   },
   {
@@ -1783,7 +1783,7 @@
    "voice": "G",
    "label": "Michael Zwaagstra (Councillor)",
    "text": "Thank you, Mr. Mayor. I agree with Councillor Penner. It's good to see such strong residential permit— strong number of residential permits being awarded here and combination of single-family and duplex here. And that adds up and we obviously Obviously people need homes in Steinbach. And I also agree that the hospital parking lot expansion will be very welcome when it's done.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2465s"
   },
   {
@@ -1799,7 +1799,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Anything further, council? Anything in closing?",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2487s"
   },
   {
@@ -1815,7 +1815,7 @@
    "voice": "E",
    "label": "Susan Penner (Councillor) [medium]",
    "text": "Nothing further.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2491s"
   },
   {
@@ -1831,7 +1831,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Well, I do agree. Great comments, Councillor Penner. Yeah, the only thing I could add is that we're at a total for year to date at just over $86 million, which is— we're heading for a record year. This is, it's really, really exciting to see the development being so strong, and I agree with you, the residential's going to catch up with our commercial now because people do, I agree, they need to live somewhere if they're going to work in our community. Call for the question. All those in favor? Opposed? That is carried. Are there any questions of council? Okay, seeing none, we've got correspondence petitions. We've got the 11A, the Minister of Municipal Relations referring to the 2023 municipal operating grant. This is our second payment. Council, would you like to proceed, take it as information? Okay.",
-   "substance": "substantive",
+   "line_type": "statement",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2492s"
   },
   {
@@ -1847,7 +1847,7 @@
    "voice": "E",
    "label": "Unidentified speaker",
    "text": "Take the check.",
-   "substance": "minor",
+   "line_type": "short",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2551s"
   },
   {
@@ -1863,7 +1863,7 @@
    "voice": "B",
    "label": "Earl Funk (Mayor)",
    "text": "Yeah, you don't stare at a check, just grab it. There's no other business. Looking for a motion to adjourn. Councillor Penner, seconded by Councillor Hiebert. Call for the question. All those in favor? Opposed? That is carried. Next regular council meeting is Tuesday, July 4th, 2023, 7:30.",
-   "substance": "procedural",
+   "line_type": "procedure",
    "video_url": "https://www.youtube.com/watch?v=-28s-8fI2tE&t=2551s"
   }
  ]

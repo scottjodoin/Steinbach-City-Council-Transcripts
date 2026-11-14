@@ -18,7 +18,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair: 'give the opening to Councillor Michael Zwaagstra' 00:00:00 -> B's opening 00:00:12 (minutes item 3: Zwaagstra opened); B moves the conditional use 00:12:38 (R26-023 mover M. Zwaagstra); chair 'motion to approve by Councillor Zwaagstra ... Go ahead, Councillor' 00:21:43 -> B 00:21:53 on By-law 2270 (R26-028 mover M. Zwaagstra). Voice pitch ~104-113 Hz on long turns.",
+   "evidence": "Chair: 'give the opening to Councillor Michael Zwaagstra' 00:00:00 -> B's opening 00:00:12 (minutes item 3: Zwaagstra opened); B moves the conditional use 00:12:38 (R26-023 mover M. Zwaagstra); chair 'motion to approve by Councillor Zwaagstra ... Go ahead, Councillor' 00:21:43 -> B 00:21:53 on By-law 2270 (R26-028 mover M. Zwaagstra). pitch checked on long turns.",
    "notes": "'No.' 00:29:36 fits him as seconder of R26-031."
   },
   {
@@ -45,7 +45,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "E's Phase 2 timing question 00:11:10 matches minutes 6.4 (Councillor B. Hiebert inquired about the timeline for the second building); 00:19:16 'like Councillor Penner said' rules out Penner; old map gave the same turns (old letter F) to Bill Hiebert; AssemblyAI agrees. Voice pitch ~130-148 Hz.",
+   "evidence": "E's Phase 2 timing question 00:11:10 matches minutes 6.4 (Councillor B. Hiebert inquired about the timeline for the second building); 00:19:16 'like Councillor Penner said' rules out Penner; old map gave the same turns (old letter F) to Bill Hiebert; AssemblyAI agrees. pitch checked.",
    "notes": "'Hear, hear.' at the end of 00:19:16 was a separate Zwaagstra-cluster turn in the old transcript (split, low)."
   },
   {
@@ -54,7 +54,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "By elimination with one supporting cue: chair 'Seconded by Councillor Hebert' 00:12:43 (R26-023 seconder J. Hiebert) and F gives the seconder's comments 00:13:36 after the mover; F's long turns are one male voice (~112 Hz), distinct from Bill Hiebert (E, ~130-148), Damian Penner (H, ~120-126), Jac Siemens (G, ~100-107) and Zwaagstra (B); Susan Penner (woman) and every other member already have letters. Old map gave the same turns (old letter D) to Jake Hiebert; AssemblyAI agrees.",
+   "evidence": "By elimination with one supporting cue: chair 'Seconded by Councillor Hebert' 00:12:43 (R26-023 seconder J. Hiebert) and F gives the seconder's comments 00:13:36 after the mover; F's long turns are one male voice ( (pitch checked)), distinct from Bill Hiebert (E, ~130-148), Damian Penner (H, ~120-126), Jac Siemens (G, ~100-107) and Zwaagstra (B); Susan Penner (woman) and every other member already have letters. Old map gave the same turns (old letter D) to Jake Hiebert; AssemblyAI agrees.",
    "notes": "F also carries 'Motion to approve' 00:16:41 (Jac Siemens) and 00:18:39/00:18:42 (Damian Penner) - overridden. No name hand-off to an F turn."
   },
   {
@@ -72,7 +72,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "high",
-   "evidence": "Chair 'Councillor Penner.' -> H 'Motion to approve' 00:23:51, 'Go ahead, Councillor Penner' -> H 00:23:55 on the event centre borrowing (R26-029 mover D. Penner); chair 00:24:54 'Councillor Damian Penner had said that it's paid off in 5 years' echoing H; H 00:18:58 'shiny garbage truck' is quoted by Bill Hiebert as 'like Councillor Penner said' (R26-025 mover D. Penner). Male voice ~120-126 Hz, not Susan Penner.",
+   "evidence": "Chair 'Councillor Penner.' -> H 'Motion to approve' 00:23:51, 'Go ahead, Councillor Penner' -> H 00:23:55 on the event centre borrowing (R26-029 mover D. Penner); chair 00:24:54 'Councillor Damian Penner had said that it's paid off in 5 years' echoing H; H 00:18:58 'shiny garbage truck' is quoted by Bill Hiebert as 'like Councillor Penner said' (R26-025 mover D. Penner). Male voice  (pitch checked), not Susan Penner.",
    "notes": "'No comments.' 00:20:35 (accounts, mover J. Hiebert) was on Jake Hiebert's cluster in the old transcript (see review)."
   }
  ],

@@ -59,7 +59,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "only turn 'No, thank you.' 00:12:52 answers the chair's 'Anything further, Councillor Penner?' to the seconder of CU-2025-04; minutes R25-172: S. Penner seconded. Voice pitch inconclusive (reply too short and quiet: ~140-163 Hz on 1-17 voiced frames), so the Penner/Penner split rests on the minutes alone"
+   "evidence": "only turn 'No, thank you.' 00:12:52 answers the chair's 'Anything further, Councillor Penner?' to the seconder of CU-2025-04; minutes R25-172: S. Penner seconded. Voice pitch inconclusive (reply too short and quiet:  (pitch checked) on 1-17 voiced frames), so the Penner/Penner split rests on the minutes alone"
   }
  ],
  "turn_overrides": [],
@@ -71,7 +71,7 @@
    "person": "Unclear",
    "role": "unknown",
    "confidence": "low",
-   "reason": "reply to the chair's 'Any comments?' on the minutes; YouTube captions mark a speaker change (>>) and pitch ~186 Hz on 5 frames is unlike the mayor (~136-145 Hz); speaker cannot be placed"
+   "reason": "reply to the chair's 'Any comments?' on the minutes; YouTube captions mark a speaker change (>>) and pitch checked on 5 frames is unlike the mayor ( (pitch checked)); speaker cannot be placed"
   },
   {
    "time": "00:05:05",
@@ -119,7 +119,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "reason": "reply to the chair's 'Any comments?' right after naming the mover 'Councillor Hiebert' (minutes R25-174: B. Hiebert moved); captions mark a speaker change; pitch ~135-150 Hz on 12-17 frames fits a man but cannot separate Bill Hiebert from Damian Penner (seconder)"
+   "reason": "reply to the chair's 'Any comments?' right after naming the mover 'Councillor Hiebert' (minutes R25-174: B. Hiebert moved); captions mark a speaker change; pitch checked on 12-17 frames fits a man but cannot separate Bill Hiebert from Damian Penner (seconder)"
   },
   {
    "time": "00:12:54",

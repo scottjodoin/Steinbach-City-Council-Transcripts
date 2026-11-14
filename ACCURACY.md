@@ -16,20 +16,25 @@ quote against the video (every line links to it).
 | medium | One clear clue, or the only person it could be. Shown as `[medium]` | 584 (6%) |
 | low | A best guess. Shown as `Unidentified (possibly …) [low]`, never as a confident name | 310 (3%) |
 
-### Which lines matter
+### Line types
 
-A wrong name on "Thank you." changes nothing; a wrong name on a councillor's argument puts words in someone's
-mouth. Every line has a `substance` score, set by fixed rules from the words in the line (not by a person, and not
-always right on long mixed lines), so you can weigh the uncertain lines by how much they matter:
+Getting the name right matters most where someone makes a statement or asks a question. Every line has a
+`line_type`, set by fixed rules from the words in the line (not by a person, and not always right on long mixed
+lines), so you can see where the uncertainty sits:
 
-| Substance | What it means | Lines | high | medium | low |
+| Line type | What it means | Lines | high | medium | low |
 |---|---|---|---|---|---|
-| substantive | Says something: a question, a position, an explanation, a presentation, a reply | 4,804 (46%) | 95.2% | 3.8% | 1.0% |
-| procedural | Runs the meeting: moving, seconding, calling the vote, handing over the floor | 2,993 (29%) | 96.8% | 2.6% | 0.6% |
-| minor | Courtesy and acknowledgement: "Thank you.", "Yes.", "Okay." | 2,540 (25%) | 77.7% | 12.8% | 9.6% |
+| statement | A statement, question, explanation, presentation or reply | 4,804 (46%) | 95.2% | 3.8% | 1.0% |
+| procedure | Running the meeting: moving, seconding, calling the vote, handing over the floor | 2,993 (29%) | 96.8% | 2.6% | 0.6% |
+| short | A short reply or courtesy: "Thank you.", "Yes.", "Okay." | 2,540 (25%) | 77.7% | 12.8% | 9.6% |
 
-Most uncertainty sits on short interjections, where it matters least. For anything you quote, filter to
-`substance == "substantive"` and `confidence == "high"`, and still check the video.
+Most of the uncertainty is on short replies, which are hard to place. Votes, motions and seconders come from the
+city's minutes, never from who said "Yes." For anything you quote, use `confidence == "high"` and still check the
+video.
+
+**The line type describes the form of a line, not the value of what anyone said.** It is not a measure of any
+council member and must not be used to compare people: a "Yes." can be a decisive moment, and the person chairing
+speaks mostly in procedure because of the role.
 
 46 lines were checked by a person listening to the video (`human_checked`).
 Random listening check of ordinary lines so far: under way.

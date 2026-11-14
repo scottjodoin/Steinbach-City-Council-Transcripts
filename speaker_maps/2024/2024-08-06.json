@@ -8,7 +8,7 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "low",
-   "evidence": "Only substantive turn 00:13:14 answers the chair's 'Councillor Penner, seconded by Councillor Pinner. Any comments?' on By-law 2198 third reading (minutes R24-161: S. Penner, D. Penner). No name hand-off. Voice pitch 168-172 Hz: above Damian Penner's usual 116-145 Hz and below Susan Penner's ~190 Hz; the chair measures 140-158 Hz in this meeting, so it could even be the mayor explaining the file (he explains 9B himself). YouTube captions after the turn read 'nothing further D anything further of council', which may be the chair asking 'Damian?'.",
+   "evidence": "Only substantive turn 00:13:14 answers the chair's 'Councillor Penner, seconded by Councillor Pinner. Any comments?' on By-law 2198 third reading (minutes R24-161: S. Penner, D. Penner). No name hand-off. pitch checked: above Damian Penner's usual (pitch checked) and below Susan Penner's  (pitch checked); the chair measures (pitch checked) in this meeting, so it could even be the mayor explaining the file (he explains 9B himself). YouTube captions after the turn read 'nothing further D anything further of council', which may be the chair asking 'Damian?'.",
    "notes": "A 00:00:00 'I'd like' is the start of the chair's call to order (override)."
   },
   {
@@ -45,8 +45,8 @@
    "role": "councillor",
    "title": "Councillor",
    "confidence": "medium",
-   "evidence": "E 00:09:16 speaks in support of the variance right after the mover (Zwaagstra) and before closing; the chair had named the seconder 'Councillor Hiebert' (00:08:41) and minutes R24-156 give the seconder as J. Hiebert. E 00:12:08 'No comments.' answers 'Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?' (minutes R24-159 mover J. Hiebert). Voice pitch 101 Hz matches Jake Hiebert (~105-111 Hz in other meetings), not Bill Hiebert (~160 Hz). In the original transcript the same voice cluster also carried the adjournment 'So moved.' (minutes mover J. Hiebert).",
-   "notes": "No direct name hand-off before the 00:09:16 turn; Jac Siemens has a similar low voice (~104 Hz)."
+   "evidence": "E 00:09:16 speaks in support of the variance right after the mover (Zwaagstra) and before closing; the chair had named the seconder 'Councillor Hiebert' (00:08:41) and minutes R24-156 give the seconder as J. Hiebert. E 00:12:08 'No comments.' answers 'Councillor Hiebert, seconded by Councillor Zwaagstra. Any comments?' (minutes R24-159 mover J. Hiebert). pitch checked matches Jake Hiebert ( (pitch checked) in other meetings), not Bill Hiebert ( (pitch checked)). In the original transcript the same voice cluster also carried the adjournment 'So moved.' (minutes mover J. Hiebert).",
+   "notes": "No direct name hand-off before the 00:09:16 turn; Jac Siemens has a similar low voice ( (pitch checked))."
   }
  ],
  "turn_overrides": [
