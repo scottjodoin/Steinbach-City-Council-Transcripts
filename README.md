@@ -15,10 +15,12 @@ city's video and its published minutes. These transcripts are a way to search an
 
 | Path | What it is |
 |---|---|
-| `meetings.csv` | One row per meeting: date, type, video link, links to the city's minutes/agenda/package where known, whether a transcript is published, its speaker-confidence mix, and the share of statement lines with high confidence |
+| `meetings.csv` | One row per meeting: date, type, video link, links to the city's minutes/agenda/package where known, the paths of the agenda and minutes text (`agenda_text`, `minutes_text`), the status (`published`, `pending` = transcript not yet speaker-checked, `upcoming`, `no transcript`), the speaker-confidence mix, and the share of statement lines with high confidence |
 | `transcripts/<year>/<id>.txt` | The transcript to read: `[hh:mm:ss] Speaker (Role): what they said` |
 | `transcripts/<year>/<id>.json` | The same transcript as data: one record per line (see below) |
 | `speaker_maps/<year>/<id>.json` | Who each voice in the recording is, with the evidence and a confidence level |
+| `agendas/<year>/<id>.txt` | The text of the city's agenda for the meeting, including upcoming meetings (see [below](#the-citys-agendas-and-minutes)) |
+| `minutes/<year>/<id>.txt` | The text of the city's minutes: motions, votes, who moved and seconded, what was presented |
 | `roster.csv` | Mayors, councillors and senior staff, with the dates they held each role |
 
 A meeting `id` is its date (`2026-10-06`), with a suffix when there was more than one video that day
@@ -69,6 +71,26 @@ A meeting `id` is its date (`2026-10-06`), with a suffix when there was more tha
 | `voice` | The voice-cluster letter from the transcription service; useful only within one meeting |
 | `video_url` | Opens the video at this line |
 
+### The city's agendas and minutes
+
+`agendas/` and `minutes/` hold the text of the City of Steinbach's own agenda and minutes PDFs (from
+<https://events.steinbach.ca/council>, and the city's old website through the Internet Archive), so that people and
+AI tools can search and read them next to the transcripts. They are checked for new and revised documents every
+day: an agenda appears here once the city posts it, usually the week before the meeting, and the minutes once
+council has approved them.
+
+- **The PDF is the official record.** Each file starts with a link to it. The text is copied as the PDF lays it out
+  (line breaks and page numbers kept); tables can come out jumbled.
+- **Names of members of the public are withheld**, as in the transcripts: `[Resident N]` is the same person as
+  Resident N in that meeting's transcript; `[name withheld]` is anyone else (property owners, applicants, letter
+  writers, people on permit and licence lists). Street addresses are kept. Pages that list property tax roll
+  entries are left out. Council, staff, people speaking for an organization or an applicant, board and committee
+  appointees and officials of other governments are named.
+- The names are withheld by an automatic filter that errs toward withholding, so it sometimes hides a name that is
+  public (and the filter can miss one: please report it, see [CORRECTIONS.md](CORRECTIONS.md)).
+- Agendas before mid-2025 were published inside the meeting package; where only the package was available, the
+  agenda text is the agenda pages of the package. Some 2022–2024 agendas were never archived and are missing.
+
 ## How it was made
 
 1. **Transcription.** Each meeting video on the city's YouTube channel was transcribed by
@@ -97,6 +119,8 @@ A meeting `id` is its date (`2026-10-06`), with a suffix when there was more tha
 
 ## Licence
 
-The transcripts, speaker maps and other files in this repository are dedicated to the public domain under
-[CC0 1.0](LICENSE.md): use them for anything, no permission needed. The meeting videos and minutes belong to the
-City of Steinbach and are linked, not copied.
+The transcripts, speaker maps and other files made for this repository are dedicated to the public domain under
+[CC0 1.0](LICENSE.md): use them for anything, no permission needed. The meeting videos belong to the City of
+Steinbach and are linked, not copied. The text in `agendas/` and `minutes/` is the City of Steinbach's public
+record, copied (with members of the public's names withheld) so it can be searched; it is the city's material and
+is not covered by the CC0 dedication.

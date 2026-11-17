@@ -2,6 +2,15 @@
 
 Corrections and releases, newest first. Each release is a dated version you can cite.
 
+## 2026-11-16
+
+- Added the text of the city's agendas (`agendas/`, 77) and minutes (`minutes/`, 96) from November 2022 on, with
+  members of the public's names withheld as in the transcripts. New agendas and minutes are now added
+  automatically every day, including the agenda for the next meeting once the city posts it.
+- `meetings.csv`: new columns `agenda_text` and `minutes_text`, and rows for upcoming meetings (`upcoming`) and for
+  meetings with minutes but no transcript (`no transcript`). Meetings already transcribed but not yet
+  speaker-checked show as `pending`.
+
 ## 2026-11-14 (update)
 
 - Renamed the `substance` field to `line_type`, with values `statement`, `procedure` and `short` (were

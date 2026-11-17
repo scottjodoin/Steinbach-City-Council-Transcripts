@@ -13,7 +13,7 @@ This guide explains how to do that and how to keep the answers fair and checkabl
 
 Any AI agent that can read files and run small scripts on your computer will work, for example Claude Code,
 OpenAI Codex, Gemini CLI, Cursor or GitHub Copilot in agent mode. Open the unzipped folder in it, so the agent
-can read `transcripts/`, `speaker_maps/` and `meetings.csv`.
+can read `transcripts/`, `speaker_maps/`, `minutes/`, `agendas/` and `meetings.csv`.
 
 ## 3. Start with these ground rules
 
@@ -66,6 +66,12 @@ for path in sorted(glob.glob("transcripts/*/*.json")):
 
 `speaker_maps/` explains who each voice is and why (the evidence behind each name), which helps when an answer
 depends on a single attribution.
+
+`minutes/<year>/<id>.txt` and `agendas/<year>/<id>.txt` are the text of the city's minutes and agendas
+(`minutes_text` and `agenda_text` in `meetings.csv`). Use the minutes for motions, votes, movers and seconders, and
+the agenda to see what is coming up: upcoming meetings are in `meetings.csv` with the status `upcoming`. The city's
+PDF (`minutes_url`, `agenda_url`) is the official version. As in the transcripts, members of the public appear as
+`[Resident N]` (the same person as Resident N in that meeting's transcript) or `[name withheld]`.
 
 ## 6. Before you share an answer
 
