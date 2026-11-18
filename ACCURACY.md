@@ -8,13 +8,13 @@ quote against the video (every line links to it).
 
 ## Speakers
 
-88 meetings, 10,337 lines:
+89 meetings, 10,458 lines:
 
 | Confidence | What it means | Lines |
 |---|---|---|
-| high | Two or more independent clues agree (e.g. the chair names the person, and the minutes record their motion) | 9,443 (91%) |
-| medium | One clear clue, or the only person it could be. Shown as `[medium]` | 584 (6%) |
-| low | A best guess. Shown as `Unidentified (possibly …) [low]`, never as a confident name | 310 (3%) |
+| high | Two or more independent clues agree (e.g. the chair names the person, and the minutes record their motion) | 9,541 (91%) |
+| medium | One clear clue, or the only person it could be. Shown as `[medium]` | 603 (6%) |
+| low | A best guess. Shown as `Unidentified (possibly …) [low]`, never as a confident name | 314 (3%) |
 
 ### Line types
 
@@ -24,9 +24,9 @@ lines), so you can see where the uncertainty sits:
 
 | Line type | What it means | Lines | high | medium | low |
 |---|---|---|---|---|---|
-| statement | A statement, question, explanation, presentation or reply | 4,804 (46%) | 95.2% | 3.8% | 1.0% |
-| procedure | Running the meeting: moving, seconding, calling the vote, handing over the floor | 2,993 (29%) | 96.8% | 2.6% | 0.6% |
-| short | A short reply or courtesy: "Thank you.", "Yes.", "Okay." | 2,540 (25%) | 77.7% | 12.8% | 9.6% |
+| statement | A statement, question, explanation, presentation or reply | 4,850 (46%) | 95.1% | 3.9% | 1.0% |
+| procedure | Running the meeting: moving, seconding, calling the vote, handing over the floor | 3,041 (29%) | 96.7% | 2.7% | 0.7% |
+| short | A short reply or courtesy: "Thank you.", "Yes.", "Okay." | 2,567 (25%) | 77.5% | 13.0% | 9.5% |
 
 Most of the uncertainty is on short replies, which are hard to place. Votes, motions and seconders come from the
 city's minutes, never from who said "Yes." For anything you quote, use `confidence == "high"` and still check the

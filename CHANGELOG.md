@@ -2,6 +2,15 @@
 
 Corrections and releases, newest first. Each release is a dated version you can cite.
 
+## 2026-11-18
+
+- Added the November 17, 2026 regular meeting (121 lines: 81.0% high, 15.7% medium, 3.3% low confidence).
+  Councillor Falk has no voice cluster of his own in this recording; four short replies are marked
+  "Unidentified (possibly Ron Falk)". The two Councillors Hiebert are told apart by voice pitch only, so their lines
+  are medium confidence.
+- `meetings.csv`: package links filled in for 19 meetings, and the November 1, 2022 minutes link now points to that
+  day's regular meeting minutes (it pointed to the inaugural meeting's).
+
 ## 2026-11-16
 
 - Added the text of the city's agendas (`agendas/`, 77) and minutes (`minutes/`, 96) from November 2022 on, with

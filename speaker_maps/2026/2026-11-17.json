@@ -1,0 +1,117 @@
+{
+ "meeting": "2026-11-17",
+ "chair": "Earl Funk",
+ "speakers": [
+  {
+   "label": "A",
+   "person": "Earl Funk",
+   "role": "mayor",
+   "title": "Mayor",
+   "chairs": true,
+   "confidence": "high",
+   "evidence": "Calls the meeting to order (00:00:00), hands the floor to councillors by name, opens and closes every public hearing and calls every vote; Councillors address him as 'Mr. Mayor'. AssemblyAI agrees."
+  },
+  {
+   "label": "B",
+   "person": "Damian Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Agenda item 2 'Opening - Councillor D. Penner'; the chair hands the opening to 'Councillor Damian Penner' (00:00:00) and B gives it (00:00:10). Chair's 'Councillor Penner' precedes B's motions at 00:28:52, 00:31:01 and 00:40:56; 'Anything further? Councillor Penner?' -> B 'Nothing further, sorry' (00:33:43) when F (Susan Penner) had moved and 'Councillor Penner' seconded. Male voice ( (pitch checked)), Susan Penner is F. AssemblyAI agrees.",
+   "notes": "Three short seconder replies on B (00:20:24, 00:29:25, 00:30:35) are probably Ron Falk; overridden low."
+  },
+  {
+   "label": "C",
+   "person": "Troy Warkentin",
+   "role": "staff",
+   "title": "City Manager",
+   "confidence": "high",
+   "evidence": "The chair asks 'Mr. Warkentin, could you please introduce this file?' at the end of the chair's turns 00:04:18, 00:12:27, 00:17:15 and 00:20:25, and the next C turn introduces the file each time; the chair asks 'Mr. Warkentin, can we do these under one resolution' (00:39:32) and C answers (00:40:28). AssemblyAI agrees.",
+   "notes": "00:20:10 (seconder's comment on the Chapel Drive sign) is probably Ron Falk; overridden low."
+  },
+  {
+   "label": "D",
+   "person": "Marcel Jodoin",
+   "role": "delegation",
+   "title": "Developer (applicant)",
+   "organization": "Williams Creek Development Inc.",
+   "confidence": "high",
+   "evidence": "Asked by the chair to state name and address at the By-law 2283 hearing; self-identifies (00:07:42) as president of the developer and landowner; the City Manager names Marcel Jodoin as applicant for Williams Creek Development Inc. (00:26:08). Speaking for the company, so named. AssemblyAI left D unnamed."
+  },
+  {
+   "label": "E",
+   "person": "Jake Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "A Councillor Hiebert: the chair's 'Councillor Hiebert' precedes E's motion at 00:10:12, and E answers as seconder 'Hiebert' at 00:23:59 and 00:35:01. Which Hiebert rests on pitch ( (pitch checked), H is (pitch checked); at the 2026-11-03 oaths Bill read higher than Jake, and 2026-09-15 measured Bill higher) and AssemblyAI. The chair never says a first name before an E turn."
+  },
+  {
+   "label": "F",
+   "person": "Susan Penner",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "high",
+   "evidence": "Chair's 'Councillor Penner' precedes F's motions (00:16:22, 00:22:33, 00:34:23; 'Councillor Pinner' 00:32:55); the chair agrees 'with Councillor Penner' right after F's 00:12:15 comment. Woman's voice, (pitch checked); Damian Penner is B. AssemblyAI agrees."
+  },
+  {
+   "label": "G",
+   "person": "Abe Bergen",
+   "role": "delegation",
+   "title": "Applicant",
+   "organization": "Steinbach Campus Foundation",
+   "confidence": "high",
+   "evidence": "Self-identifies 'Abe Bergen, Steinbach Campus Foundation' (00:14:25) at the V2026-22 hearing; the City Manager names Abe Bergen as applicant for Steinbach Campus Foundation, Inc. (00:13:15). AssemblyAI left G unnamed."
+  },
+  {
+   "label": "H",
+   "person": "Bill Hiebert",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "medium",
+   "evidence": "A Councillor Hiebert: 'Councillor Hebert?' -> H 'Approve' (00:19:40); H answers as mover/seconder 'Hiebert' at 00:25:20, 00:31:28, 00:34:07, 00:41:10. Which Hiebert rests on pitch ( (pitch checked) vs E (pitch checked); Bill reads higher than Jake at the 2026-11-03 oaths) and AssemblyAI.",
+   "notes": "00:41:34 'Pretty quick.' after adjournment (YouTube: 'That went pretty quick') has no measurable voice; left on H."
+  }
+ ],
+ "turn_overrides": [
+  {
+   "time": "00:20:10",
+   "label": "C",
+   "person": "Ron Falk",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "The chair's 'Anything further?' goes to the seconder, who was Councillor Falk (00:19:41); in every other motion tonight the seconder answers it. The turn gives an opinion ('I think it's a good move') and the chair replies 'I also think it's a good move'. pitch checked cannot separate Falk ( (pitch checked) oath) from Warkentin ( (pitch checked)). Could be the City Manager adding a note."
+  },
+  {
+   "time": "00:20:24",
+   "label": "B",
+   "person": "Ron Falk",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "'move.' ends the 00:20:10 sentence ('I think it's a good move'), so it is the same speaker."
+  },
+  {
+   "time": "00:29:25",
+   "label": "B",
+   "person": "Ron Falk",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Answer to 'Anything further?' after Damian Penner (B) moved and Councillor Falk seconded (00:28:53); B had just finished speaking. Too short to measure."
+  },
+  {
+   "time": "00:30:35",
+   "label": "B",
+   "person": "Ron Falk",
+   "role": "councillor",
+   "title": "Councillor",
+   "confidence": "low",
+   "reason": "Answer to 'Anything further?' after Councillor Hiebert moved and Councillor Falk seconded (00:30:14); pitch checked is lower than B's other turns ( (pitch checked))."
+  }
+ ],
+ "turn_splits": [],
+ "summary": "Short regular meeting (42 min), Councillor Carlos excused. Mayor, City Manager, both Penners and both delegations are solid. The two Hieberts (E, H) are separated only by pitch and AssemblyAI, so medium. Councillor Falk has no letter of his own: four seconder replies on C/B are overridden to him at low confidence. Minutes not yet available to check movers.",
+ "transcript": "transcripts/2026/2026-11-17.txt"
+}
