@@ -10,6 +10,11 @@ Corrections and releases, newest first. Each release is a dated version you can 
   are medium confidence.
 - `meetings.csv`: package links filled in for 19 meetings, and the November 1, 2022 minutes link now points to that
   day's regular meeting minutes (it pointed to the inaugural meeting's).
+- Document links now follow the meeting, not just the date: on days with two meetings each row links its own
+  meeting's documents, and a meeting's main package wins over "additional information" or "supplemental" add-ons
+  (April 1, 2025 now links the main package). Links to the city's old document addresses, which no longer work,
+  were replaced with the Internet Archive's copy (January 16, 2024 minutes); the November 4, 2025 organizational
+  minutes have no working copy online and now say so.
 
 ## 2026-11-16
 
